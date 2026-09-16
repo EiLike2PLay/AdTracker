@@ -26,9 +26,13 @@ jobs:
       # One snapshot file per page id is committed sequentially.
       max-parallel: 1
       matrix:
-        page:
-          - "111111111" # ← replace with a real competitor page id
-          - "222222222" # ← add as many as you like
+        include:
+          - page: "121135054419977" # Korean Skincare Reviews
+            country: "ALL"
+          - page: "1014965211696273" # Nuria
+            country: "FR"
+          - page: "683748144815985" # Saeskyn
+            country: "ALL"
 
     steps:
       - name: Checkout
@@ -59,13 +63,14 @@ jobs:
           node dist/index.js \
             --page-id "${{ matrix.page }}" \
             --data "data/${{ matrix.page }}.json" \
-            --country US
+            --country ${{ matrix.country }} \
+            --winner-days 7
 
       - name: Commit updated snapshot
         run: |
           git config user.name  "adradar-bot"
           git config user.email "adradar@users.noreply.github.com"
-          git add "data/${{ matrix.page }}.json"
+          git add -f "data/${{ matrix.page }}.json"
           if git diff --cached --quiet; then
             echo "No snapshot changes for ${{ matrix.page }} — nothing to commit."
           else

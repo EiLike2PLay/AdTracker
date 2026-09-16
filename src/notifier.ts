@@ -191,7 +191,7 @@ function buildSlackBlocks(
         text: [
           `${badge}${advertiser}`,
           `> ${escapeSlack(copy).replace(/\n/g, "\n> ")}`,
-          `🗓️ ${started}  ·  ⏱️ running *${daysRunning}d*  ·  \`${ad.adId}\``,
+          `🗓️ ${started}  ·  ⏱️ running *${daysRunning}d*  ·  ${describeMediaType(ad)}  ·  \`${ad.adId}\``,
         ].join("\n"),
       },
     };
@@ -310,6 +310,11 @@ function buildDiscordEmbed(
         value: `\`${ad.adId}\``,
         inline: true,
       },
+      {
+        name: "Media type",
+        value: describeMediaType(ad),
+        inline: true,
+      },
     ],
   };
 
@@ -330,6 +335,19 @@ function buildDiscordEmbed(
  * Choose the best preview image for an ad: a real image first, then a video's
  * poster frame, then any media URL as a last resort.
  */
+/**
+ * Summarize how many video vs. image assets an ad uses (an ad can carry
+ * several creative variants), e.g. "🎬 Video" or "🖼️ Image + 🎬 Video".
+ */
+function describeMediaType(ad: StoredAd): string {
+  const hasVideo = ad.media.some((m) => m.type === "video");
+  const hasImage = ad.media.some((m) => m.type === "image");
+  if (hasVideo && hasImage) return "🖼️ Image + 🎬 Video";
+  if (hasVideo) return "🎬 Video";
+  if (hasImage) return "🖼️ Static image";
+  return "❓ Unknown";
+}
+
 function pickThumbnail(ad: StoredAd): string | null {
   const image = ad.media.find((m) => m.type === "image");
   if (image) return image.url;
