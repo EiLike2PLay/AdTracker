@@ -64,7 +64,9 @@ jobs:
             --page-id "${{ matrix.page }}" \
             --data "data/${{ matrix.page }}.json" \
             --country ${{ matrix.country }} \
-            --winner-days 7
+            --winner-days 7 \
+            --min-reach-per-day 1500 \
+            --new-ad-max-age 7
 
       - name: Commit updated snapshot
         run: |

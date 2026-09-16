@@ -41,15 +41,20 @@ export interface NotifyOutcome {
 export function buildNotificationItems(
   newAds: StoredAd[],
   winners: StoredAd[],
+  minReachPerDay: number = Infinity,
   nowIso: string = new Date().toISOString(),
 ): NotificationItem[] {
   const items: NotificationItem[] = [];
 
   for (const ad of newAds) {
+    const daysRunning = computeDaysRunning(ad, nowIso);
+    const reachPerDay =
+      typeof ad.euReach === "number" ? ad.euReach / Math.max(1, daysRunning) : null;
+    const isRising = reachPerDay !== null && reachPerDay >= minReachPerDay;
     items.push({
-      reason: "new",
+      reason: isRising ? "rising" : "new",
       ad,
-      daysRunning: computeDaysRunning(ad, nowIso),
+      daysRunning,
     });
   }
   for (const ad of winners) {
@@ -151,13 +156,14 @@ function buildSlackBlocks(
   const blocks: SlackBlock[] = [];
 
   const newCount = items.filter((i) => i.reason === "new").length;
+  const risingCount = items.filter((i) => i.reason === "rising").length;
   const winnerCount = items.filter((i) => i.reason === "winner").length;
 
   blocks.push({
     type: "header",
     text: {
       type: "plain_text",
-      text: `📡 AdRadar — ${newCount} new · ${winnerCount} winner${winnerCount === 1 ? "" : "s"}`,
+      text: `📡 AdRadar — ${newCount} new · ${risingCount} rising · ${winnerCount} winner${winnerCount === 1 ? "" : "s"}`,
       emoji: true,
     },
   });
@@ -176,13 +182,19 @@ function buildSlackBlocks(
 
   for (const item of items) {
     const { ad, reason, daysRunning } = item;
-    const badge = reason === "winner" ? "🏆 *LONG-RUNNING WINNER*" : "🆕 *NEW AD*";
+    const badge =
+      reason === "winner"
+        ? "🏆 *LONG-RUNNING WINNER*"
+        : reason === "rising"
+          ? "🚀 *RISING WINNER*"
+          : "🆕 *NEW AD*";
     const advertiser = ad.pageName ? ` · *${escapeSlack(ad.pageName)}*` : "";
     const started = ad.startedRunningRaw
       ? escapeSlack(ad.startedRunningRaw)
       : "start date unknown";
 
     const copy = truncate(ad.text || "_(no body copy detected)_", 600);
+    const euLine = buildEuLine(ad, daysRunning);
 
     const section: SlackBlock = {
       type: "section",
@@ -192,6 +204,7 @@ function buildSlackBlocks(
           `${badge}${advertiser}`,
           `> ${escapeSlack(copy).replace(/\n/g, "\n> ")}`,
           `🗓️ ${started}  ·  ⏱️ running *${daysRunning}d*  ·  ${describeMediaType(ad)}  ·  \`${ad.adId}\``,
+          ...(euLine ? [euLine] : []),
         ].join("\n"),
       },
     };
@@ -273,8 +286,9 @@ function discordSummaryLine(
   config: RuntimeConfig,
 ): string {
   const newCount = items.filter((i) => i.reason === "new").length;
+  const risingCount = items.filter((i) => i.reason === "rising").length;
   const winnerCount = items.filter((i) => i.reason === "winner").length;
-  return `📡 **AdRadar** — ${newCount} new · ${winnerCount} winner(s) for page \`${config.pageId}\``;
+  return `📡 **AdRadar** — ${newCount} new · ${risingCount} rising · ${winnerCount} winner(s) for page \`${config.pageId}\``;
 }
 
 function buildDiscordEmbed(
@@ -282,17 +296,23 @@ function buildDiscordEmbed(
   config: RuntimeConfig,
 ): DiscordEmbed {
   const { ad, reason, daysRunning } = item;
-  const isWinner = reason === "winner";
+
+  const title =
+    reason === "winner"
+      ? "🏆 Long-running winner"
+      : reason === "rising"
+        ? "🚀 Rising winner"
+        : "🆕 New ad detected";
+  const color =
+    reason === "winner" ? 0xf5a623 /* gold */ : reason === "rising" ? 0xe74c3c /* red */ : 0x2eb67d /* green */;
 
   const embed: DiscordEmbed = {
-    title: isWinner
-      ? "🏆 Long-running winner"
-      : "🆕 New ad detected",
-    color: isWinner ? 0xf5a623 /* gold */ : 0x2eb67d /* green */,
+    title,
+    color,
     description: truncate(ad.text || "*(no body copy detected)*", 2000),
     timestamp: new Date().toISOString(),
     footer: {
-      text: `AdRadar · page ${config.pageId} · winner ≥ ${config.winnerThresholdDays}d`,
+      text: `AdRadar · page ${config.pageId} · winner ≥ ${config.winnerThresholdDays}d · rising ≥ ${config.minReachPerDay}/d`,
     },
     fields: [
       {
@@ -315,6 +335,7 @@ function buildDiscordEmbed(
         value: describeMediaType(ad),
         inline: true,
       },
+      ...buildEuFields(ad, daysRunning),
     ],
   };
 
@@ -346,6 +367,38 @@ function describeMediaType(ad: StoredAd): string {
   if (hasVideo) return "🎬 Video";
   if (hasImage) return "🖼️ Static image";
   return "❓ Unknown";
+}
+
+/**
+ * Discord embed fields for EU reach data, when we have it. Absent entirely
+ * for ads we never checked (existing winners) or that were never shown in
+ * the EU — no point rendering "n/a" everywhere.
+ */
+function buildEuFields(
+  ad: StoredAd,
+  daysRunning: number,
+): Array<{ name: string; value: string; inline?: boolean }> {
+  if (typeof ad.euReach !== "number") return [];
+  const reachPerDay = Math.round(ad.euReach / Math.max(1, daysRunning));
+  const fields: Array<{ name: string; value: string; inline?: boolean }> = [
+    { name: "EU Reach (est.)", value: ad.euReach.toLocaleString(), inline: true },
+    { name: "Reach / dag", value: reachPerDay.toLocaleString(), inline: true },
+  ];
+  if (ad.euCountries && ad.euCountries.length > 0) {
+    fields.push({ name: "Land(en)", value: ad.euCountries.join(", "), inline: true });
+  }
+  if (ad.euTopSegment) {
+    fields.push({ name: "Top doelgroep", value: ad.euTopSegment, inline: false });
+  }
+  return fields;
+}
+
+/** One-line Slack equivalent of {@link buildEuFields}. */
+function buildEuLine(ad: StoredAd, daysRunning: number): string | null {
+  if (typeof ad.euReach !== "number") return null;
+  const reachPerDay = Math.round(ad.euReach / Math.max(1, daysRunning));
+  const countries = ad.euCountries && ad.euCountries.length > 0 ? ad.euCountries.join(", ") : "onbekend";
+  return `🇪🇺 reach *${ad.euReach.toLocaleString()}* (${reachPerDay.toLocaleString()}/dag) · ${countries}`;
 }
 
 function pickThumbnail(ad: StoredAd): string | null {

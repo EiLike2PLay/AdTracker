@@ -87,6 +87,16 @@ export interface StoredAd extends Ad {
    * not spam the same evergreen ad on every single run.
    */
   notifiedAsWinner: boolean;
+  /**
+   * EU DSA transparency reach (estimated accounts reached in the EU), fetched
+   * for new ads only — see {@link RuntimeConfig.minReachPerDay}. `null` when
+   * the ad has never been checked or was never shown in the EU.
+   */
+  euReach?: number | null;
+  /** Countries this ad's EU audience was targeted at, when reach is known. */
+  euCountries?: string[] | null;
+  /** Human-readable description of the single largest demographic segment. */
+  euTopSegment?: string | null;
 }
 
 /**
@@ -122,8 +132,12 @@ export interface DiffResult {
 
 /**
  * Why a given ad is being announced. Drives the headline/emoji in notifiers.
+ *
+ * "rising" is a "new" ad whose EU reach-per-day already clears
+ * {@link RuntimeConfig.minReachPerDay} — a signal it is worth reacting to
+ * immediately rather than waiting for it to become a long-running "winner".
  */
-export type NotificationReason = "new" | "winner";
+export type NotificationReason = "new" | "winner" | "rising";
 
 /**
  * A single notification payload item — one ad worth telling the user about.
@@ -154,6 +168,14 @@ export interface RuntimeConfig {
   dataFile: string;
   /** Days an ad must run before it counts as a "winner". */
   winnerThresholdDays: number;
+  /**
+   * Above this EU reach-per-day, a brand-new ad (see
+   * {@link newAdMaxAgeDays}) is flagged as a "rising" winner instead of a
+   * plain "new" ad — worth reacting to right away.
+   */
+  minReachPerDay: number;
+  /** Max age (days) for a "new" ad to still be eligible for EU reach checks / "rising" classification. */
+  newAdMaxAgeDays: number;
   /** Max number of infinite-scroll passes before we give up. */
   maxScrolls: number;
   /** Run the browser headless? */

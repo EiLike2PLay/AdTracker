@@ -28,7 +28,7 @@ import {
   red,
   yellow,
 } from "colorette";
-import { resolveTargetUrl, scrapeAdLibrary } from "./scraper.js";
+import { checkEuTransparency, resolveTargetUrl, scrapeAdLibrary } from "./scraper.js";
 import { loadSnapshot, reconcile, saveSnapshot, computeDaysRunning } from "./storage.js";
 import { buildNotificationItems, notify } from "./notifier.js";
 import type { RuntimeConfig, StoredAd } from "./types.js";
@@ -43,6 +43,8 @@ interface CliOptions {
   country: string;
   data: string;
   winnerDays: string;
+  minReachPerDay: string;
+  newAdMaxAge: string;
   maxScrolls: string;
   headless: boolean;
   slackWebhook?: string;
@@ -67,6 +69,16 @@ function buildProgram(): Command {
     .option("-c, --country <code>", "Ad Library country filter (e.g. US, ALL)", "ALL")
     .option("-d, --data <file>", "path to the snapshot JSON", "data/snapshot.json")
     .option("-w, --winner-days <n>", "days running to qualify as a winner", "7")
+    .option(
+      "--min-reach-per-day <n>",
+      "EU reach/day above which a new ad is flagged as a 'rising' winner",
+      "1500",
+    )
+    .option(
+      "--new-ad-max-age <n>",
+      "max age (days) for a new ad to be checked for EU reach / rising status",
+      "7",
+    )
     .option("-s, --max-scrolls <n>", "max infinite-scroll passes", "40")
     .option("--no-headless", "run with a visible browser window")
     .option("--slack-webhook <url>", "Slack incoming webhook (or SLACK_WEBHOOK_URL)")
@@ -93,6 +105,8 @@ function resolveConfig(opts: CliOptions): RuntimeConfig {
   }
 
   const winnerThresholdDays = toPositiveInt(opts.winnerDays, "winner-days");
+  const minReachPerDay = toPositiveInt(opts.minReachPerDay, "min-reach-per-day");
+  const newAdMaxAgeDays = toPositiveInt(opts.newAdMaxAge, "new-ad-max-age");
   const maxScrolls = toPositiveInt(opts.maxScrolls, "max-scrolls");
   const navigationTimeoutMs = toPositiveInt(opts.timeout, "timeout");
 
@@ -105,6 +119,8 @@ function resolveConfig(opts: CliOptions): RuntimeConfig {
     country: opts.country,
     dataFile: resolve(process.cwd(), opts.data),
     winnerThresholdDays,
+    minReachPerDay,
+    newAdMaxAgeDays,
     maxScrolls,
     headless: opts.headless,
     slackWebhookUrl:
@@ -142,7 +158,7 @@ async function run(config: RuntimeConfig, quiet: boolean): Promise<number> {
   log(`  url      : ${dim(config.targetUrl)}`);
   log(`  snapshot : ${dim(config.dataFile)}`);
   log(
-    `  winner≥  : ${config.winnerThresholdDays}d   maxScrolls: ${config.maxScrolls}   headless: ${config.headless}`,
+    `  winner≥  : ${config.winnerThresholdDays}d   rising≥: ${config.minReachPerDay}/d (≤${config.newAdMaxAgeDays}d old)   maxScrolls: ${config.maxScrolls}   headless: ${config.headless}`,
   );
 
   /* --- 1) Scrape ----------------------------------------------------- */
@@ -181,16 +197,48 @@ async function run(config: RuntimeConfig, quiet: boolean): Promise<number> {
   printFindings(log, diff.newAds, "NEW", nowIso);
   printFindings(log, diff.longRunningWinners, "WINNER", nowIso);
 
-  /* --- 3) Persist the merged snapshot -------------------------------- */
+  /* --- 3) EU reach check on brand-new, still-active ads --------------- *
+   * Bounded to new ads only — checking the whole tracked history every run
+   * would mean one navigation per ad, which does not scale. A "rising"
+   * winner is a new ad whose EU reach/day already clears the threshold. */
+  const reachCandidates = diff.newAds.filter(
+    (ad) => ad.active && computeDaysRunning(ad, nowIso) <= config.newAdMaxAgeDays,
+  );
+
+  if (reachCandidates.length > 0) {
+    log(
+      bold(cyan(`\n▸ Checking EU reach for ${reachCandidates.length} new ad(s)`)),
+    );
+    const euResults = await checkEuTransparency(
+      config,
+      reachCandidates.map((ad) => ad.adId),
+      progress,
+    );
+    for (const ad of reachCandidates) {
+      const eu = euResults.get(ad.adId);
+      if (!eu) continue;
+      ad.euReach = eu.reach;
+      ad.euCountries = eu.countries;
+      ad.euTopSegment = eu.topSegment;
+    }
+  }
+
+  /* --- 4) Persist the merged snapshot -------------------------------- */
   await saveSnapshot(config.dataFile, diff.snapshot);
   log(dim(`\n  💾 Snapshot written (${Object.keys(diff.snapshot.ads).length} ad(s) tracked)`));
 
-  /* --- 4) Notify ----------------------------------------------------- */
+  /* --- 5) Notify ------------------------------------------------------ */
   const items = buildNotificationItems(
     diff.newAds,
     diff.longRunningWinners,
+    config.minReachPerDay,
     nowIso,
   );
+
+  const risingCount = items.filter((i) => i.reason === "rising").length;
+  if (risingCount > 0) {
+    log(yellow(`  🚀 ${risingCount} rising winner(s) (EU reach/day ≥ ${config.minReachPerDay})`));
+  }
 
   if (items.length === 0) {
     log(dim("\n▸ Nothing new to announce. Radar is quiet. 😴"));

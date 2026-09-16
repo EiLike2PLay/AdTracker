@@ -177,16 +177,14 @@ function synthesizeId(text: string, mediaUrl: string | undefined): string {
 export type ProgressFn = (message: string) => void;
 
 /**
- * Launch Chromium with anti-detection hardening, navigate to the target Ad
- * Library page, exhaust the infinite scroll, and return normalized ads.
+ * Launch a hardened, stealth-configured Chromium context + page. Shared by
+ * the listing scraper and the per-ad EU transparency lookup so both present
+ * the same fingerprint and cookie-wall handling.
  */
-export async function scrapeAdLibrary(
+async function launchStealthPage(
   config: RuntimeConfig,
-  onProgress: ProgressFn = () => {},
-): Promise<Ad[]> {
+): Promise<{ browser: Browser; context: BrowserContext; page: Page }> {
   const userAgent = pickUserAgent(config.pageId);
-
-  onProgress(dim(`Launching Chromium (headless=${config.headless})`));
 
   const browser: Browser = await chromium.launch({
     headless: config.headless,
@@ -200,72 +198,85 @@ export async function scrapeAdLibrary(
     ],
   });
 
-  let context: BrowserContext | null = null;
+  const context = await browser.newContext({
+    userAgent,
+    locale: "en-US",
+    timezoneId: "America/New_York",
+    viewport: { width: 1440, height: 2400 },
+    deviceScaleFactor: 1,
+    isMobile: false,
+    hasTouch: false,
+    javaScriptEnabled: true,
+    bypassCSP: true,
+    // Only set Accept-Language. We deliberately DO NOT hand-spoof the
+    // Sec-Ch-Ua* client hints or Upgrade-Insecure-Requests: Chromium already
+    // emits accurate values for those, and overriding them with static
+    // strings creates an inconsistent fingerprint that Meta blocks on
+    // (verified: the manual client-hint headers cause the Ad Library to
+    // return a blank, result-less page).
+    extraHTTPHeaders: {
+      "Accept-Language": "en-US,en;q=0.9",
+    },
+  });
+
+  // Strip the most obvious automation tells before any page script runs.
+  await context.addInitScript(() => {
+    // navigator.webdriver -> undefined
+    Object.defineProperty(navigator, "webdriver", { get: () => undefined });
+
+    // A believable plugins array.
+    Object.defineProperty(navigator, "plugins", {
+      get: () => [1, 2, 3, 4, 5],
+    });
+
+    // Languages.
+    Object.defineProperty(navigator, "languages", {
+      get: () => ["en-US", "en"],
+    });
+
+    // Pretend we have a normal amount of hardware.
+    Object.defineProperty(navigator, "hardwareConcurrency", { get: () => 8 });
+    Object.defineProperty(navigator, "deviceMemory", { get: () => 8 });
+
+    // Spoof the WebGL vendor/renderer fingerprint.
+    try {
+      const getParameter = WebGLRenderingContext.prototype.getParameter;
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      WebGLRenderingContext.prototype.getParameter = function (this: any, parameter: number) {
+        if (parameter === 37445) return "Intel Inc.";
+        if (parameter === 37446) return "Intel Iris OpenGL Engine";
+        // eslint-disable-next-line prefer-rest-params
+        return getParameter.apply(this, arguments as unknown as [number]);
+      };
+    } catch {
+      /* WebGL not available in this context — ignore. */
+    }
+
+    // window.chrome shim so headless looks like real Chrome.
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    (window as any).chrome = { runtime: {} };
+  });
+
+  const page: Page = await context.newPage();
+  page.setDefaultTimeout(config.navigationTimeoutMs);
+  page.setDefaultNavigationTimeout(config.navigationTimeoutMs);
+
+  return { browser, context, page };
+}
+
+/**
+ * Launch Chromium with anti-detection hardening, navigate to the target Ad
+ * Library page, exhaust the infinite scroll, and return normalized ads.
+ */
+export async function scrapeAdLibrary(
+  config: RuntimeConfig,
+  onProgress: ProgressFn = () => {},
+): Promise<Ad[]> {
+  onProgress(dim(`Launching Chromium (headless=${config.headless})`));
+
+  const { browser, context, page } = await launchStealthPage(config);
 
   try {
-    context = await browser.newContext({
-      userAgent,
-      locale: "en-US",
-      timezoneId: "America/New_York",
-      viewport: { width: 1440, height: 2400 },
-      deviceScaleFactor: 1,
-      isMobile: false,
-      hasTouch: false,
-      javaScriptEnabled: true,
-      bypassCSP: true,
-      // Only set Accept-Language. We deliberately DO NOT hand-spoof the
-      // Sec-Ch-Ua* client hints or Upgrade-Insecure-Requests: Chromium already
-      // emits accurate values for those, and overriding them with static
-      // strings creates an inconsistent fingerprint that Meta blocks on
-      // (verified: the manual client-hint headers cause the Ad Library to
-      // return a blank, result-less page).
-      extraHTTPHeaders: {
-        "Accept-Language": "en-US,en;q=0.9",
-      },
-    });
-
-    // Strip the most obvious automation tells before any page script runs.
-    await context.addInitScript(() => {
-      // navigator.webdriver -> undefined
-      Object.defineProperty(navigator, "webdriver", { get: () => undefined });
-
-      // A believable plugins array.
-      Object.defineProperty(navigator, "plugins", {
-        get: () => [1, 2, 3, 4, 5],
-      });
-
-      // Languages.
-      Object.defineProperty(navigator, "languages", {
-        get: () => ["en-US", "en"],
-      });
-
-      // Pretend we have a normal amount of hardware.
-      Object.defineProperty(navigator, "hardwareConcurrency", { get: () => 8 });
-      Object.defineProperty(navigator, "deviceMemory", { get: () => 8 });
-
-      // Spoof the WebGL vendor/renderer fingerprint.
-      try {
-        const getParameter = WebGLRenderingContext.prototype.getParameter;
-        // eslint-disable-next-line @typescript-eslint/no-explicit-any
-        WebGLRenderingContext.prototype.getParameter = function (this: any, parameter: number) {
-          if (parameter === 37445) return "Intel Inc.";
-          if (parameter === 37446) return "Intel Iris OpenGL Engine";
-          // eslint-disable-next-line prefer-rest-params
-          return getParameter.apply(this, arguments as unknown as [number]);
-        };
-      } catch {
-        /* WebGL not available in this context — ignore. */
-      }
-
-      // window.chrome shim so headless looks like real Chrome.
-      // eslint-disable-next-line @typescript-eslint/no-explicit-any
-      (window as any).chrome = { runtime: {} };
-    });
-
-    const page: Page = await context.newPage();
-    page.setDefaultTimeout(config.navigationTimeoutMs);
-    page.setDefaultNavigationTimeout(config.navigationTimeoutMs);
-
     onProgress(cyan(`Navigating to ${config.targetUrl}`));
     await page.goto(config.targetUrl, {
       waitUntil: "domcontentloaded",
@@ -312,9 +323,175 @@ export async function scrapeAdLibrary(
     onProgress(cyan(`Extracted ${deduped.size} unique ad(s)`));
     return [...deduped.values()];
   } finally {
-    if (context) await context.close().catch(() => {});
+    await context.close().catch(() => {});
     await browser.close().catch(() => {});
   }
+}
+
+/**
+ * A single demographic row from the "Reach by location, age and gender"
+ * table in an ad's EU transparency panel.
+ */
+export interface EuAudienceRow {
+  location: string;
+  ageRange: string;
+  gender: string;
+  reach: number;
+}
+
+/**
+ * EU DSA transparency data for one ad: how many EU accounts saw it, which
+ * countries it was targeted at, and the demographic breakdown. Only ads that
+ * were shown to someone in the EU carry this data — everything else resolves
+ * to `null`.
+ */
+export interface EuTransparency {
+  reach: number;
+  countries: string[];
+  audience: EuAudienceRow[];
+  topSegment: string | null;
+}
+
+/**
+ * Click the last on-page element whose exact text content matches `text`.
+ * Mirrors how a human would click the deep-linked "See ad details" button
+ * (the last match in DOM order) or an accordion header. Self-contained: no
+ * closures over Node-side variables, since it runs inside `page.evaluate`.
+ */
+async function clickExactText(page: Page, text: string): Promise<boolean> {
+  return page.evaluate((target) => {
+    const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+    const matches: Element[] = [];
+    let node: Node | null = walker.nextNode();
+    while (node) {
+      if (node.textContent?.trim() === target && node.parentElement) {
+        matches.push(node.parentElement);
+      }
+      node = walker.nextNode();
+    }
+    if (matches.length === 0) return false;
+    const anchor = matches[matches.length - 1]!;
+    let el: Element | null = anchor;
+    for (let i = 0; i < 6 && el; i++) {
+      const isClickable =
+        (el as HTMLElement).onclick != null ||
+        el.getAttribute("role") === "button" ||
+        el.tagName === "BUTTON" ||
+        el.tagName === "A";
+      if (isClickable) {
+        (el as HTMLElement).click();
+        return true;
+      }
+      el = el.parentElement;
+    }
+    (anchor as HTMLElement).click();
+    return true;
+  }, text);
+}
+
+/**
+ * Open a single ad's detail panel in the Ad Library and extract its EU DSA
+ * transparency data (reach, targeted countries, demographic breakdown), when
+ * present. Returns `null` for ads that were never shown in the EU, or if the
+ * panel could not be parsed (Meta changed the DOM, network hiccup, etc.) —
+ * this is best-effort enrichment, never a hard failure for the run.
+ */
+export async function fetchEuTransparency(
+  page: Page,
+  adId: string,
+): Promise<EuTransparency | null> {
+  try {
+    await page.goto(`https://www.facebook.com/ads/library/?id=${adId}`, {
+      waitUntil: "domcontentloaded",
+    });
+    await page.waitForTimeout(2000);
+    await clickExactText(page, "See ad details");
+    await page.waitForTimeout(1200);
+    await clickExactText(page, "See ad details");
+    await page.waitForTimeout(1200);
+    await clickExactText(page, "Transparency by location");
+    await page.waitForTimeout(1200);
+
+    const text = await page.evaluate(() => {
+      const dialogs = document.querySelectorAll('[role="dialog"]');
+      const last = dialogs[dialogs.length - 1] as HTMLElement | undefined;
+      return last?.innerText ?? "";
+    });
+
+    if (!text.includes("EU ad delivery")) return null;
+
+    const reachMatch = text.match(/Reach\n([\d,]+)\n/);
+    if (!reachMatch) return null;
+    const reach = parseInt(reachMatch[1]!.replace(/,/g, ""), 10);
+
+    const countries = [
+      ...new Set(
+        [...text.matchAll(/([A-Za-z][A-Za-z .]+)\nCountry\nIncluded/g)].map((m) =>
+          m[1]!.trim(),
+        ),
+      ),
+    ];
+
+    const tableIdx = text.indexOf("Reach by location, age and gender");
+    const audience: EuAudienceRow[] = [];
+    if (tableIdx >= 0) {
+      const tableText = text.slice(tableIdx);
+      const rowPattern = /([A-Za-z][A-Za-z .]+)\n(\d{2}-\d{2}|\d{2}\+)\n(Male|Female|Unknown)\n(\d+)/g;
+      for (const m of tableText.matchAll(rowPattern)) {
+        audience.push({
+          location: m[1]!.trim(),
+          ageRange: m[2]!,
+          gender: m[3]!,
+          reach: parseInt(m[4]!, 10),
+        });
+      }
+    }
+    audience.sort((a, b) => b.reach - a.reach);
+    const top = audience[0];
+    const topSegment = top
+      ? `${top.gender} ${top.ageRange} in ${top.location} (${top.reach.toLocaleString()})`
+      : null;
+
+    return { reach, countries, audience, topSegment };
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * Check EU transparency data for a bounded set of candidate ads (typically
+ * this run's brand-new ads). Runs sequentially in a single browser session —
+ * this is inherently slower than the listing scrape (one navigation per ad),
+ * so callers should only pass ads worth the cost (e.g. new + still active).
+ */
+export async function checkEuTransparency(
+  config: RuntimeConfig,
+  adIds: string[],
+  onProgress: ProgressFn = () => {},
+): Promise<Map<string, EuTransparency>> {
+  const results = new Map<string, EuTransparency>();
+  if (adIds.length === 0) return results;
+
+  const { browser, context, page } = await launchStealthPage(config);
+
+  try {
+    for (const adId of adIds) {
+      try {
+        const data = await fetchEuTransparency(page, adId);
+        if (data) {
+          results.set(adId, data);
+          onProgress(dim(`  EU reach for ${adId}: ${data.reach.toLocaleString()}`));
+        }
+      } catch {
+        // Best-effort — one bad ad detail page never aborts the batch.
+      }
+    }
+  } finally {
+    await context.close().catch(() => {});
+    await browser.close().catch(() => {});
+  }
+
+  return results;
 }
 
 /**
