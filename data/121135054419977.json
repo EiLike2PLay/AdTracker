@@ -1,7 +1,7 @@
 {
   "version": 1,
   "pageId": "121135054419977",
-  "updatedAt": "2026-09-17T11:44:59.740Z",
+  "updatedAt": "2026-09-17T14:06:50.364Z",
   "ads": {
     "2984558515080943": {
       "adId": "2984558515080943",
@@ -45,7 +45,51 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [],
-      "hook": "A needle-free lift in a bottle ✅"
+      "hook": "A needle-free lift in a bottle ✅",
+      "euReach": 236437,
+      "euCountries": [
+        "Aland Islands",
+        "Austria",
+        "Belgium",
+        "Croatia",
+        "Cyprus",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "French Guiana",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 35-44 in Ireland (14,521)",
+      "euTopCountries": [
+        {
+          "country": "Ireland",
+          "reach": 46552
+        },
+        {
+          "country": "Germany",
+          "reach": 24381
+        },
+        {
+          "country": "Belgium",
+          "reach": 17299
+        }
+      ]
     },
     "25274654112194513": {
       "adId": "25274654112194513",
@@ -89,7 +133,51 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [],
-      "hook": "A needle-free lift in a bottle ✅"
+      "hook": "A needle-free lift in a bottle ✅",
+      "euReach": 92581,
+      "euCountries": [
+        "Aland Islands",
+        "Austria",
+        "Belgium",
+        "Croatia",
+        "Cyprus",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "French Guiana",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 35-44 in Spain (4,221)",
+      "euTopCountries": [
+        {
+          "country": "Spain",
+          "reach": 13516
+        },
+        {
+          "country": "Germany",
+          "reach": 10563
+        },
+        {
+          "country": "France",
+          "reach": 10346
+        }
+      ]
     },
     "1197300338697323": {
       "adId": "1197300338697323",
@@ -111,7 +199,51 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [],
-      "hook": "A needle-free lift in a bottle ✅"
+      "hook": "A needle-free lift in a bottle ✅",
+      "euReach": 287574,
+      "euCountries": [
+        "Aland Islands",
+        "Austria",
+        "Belgium",
+        "Croatia",
+        "Cyprus",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "French Guiana",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 45-54 in Portugal (8,124)",
+      "euTopCountries": [
+        {
+          "country": "Germany",
+          "reach": 23169
+        },
+        {
+          "country": "Italy",
+          "reach": 23110
+        },
+        {
+          "country": "Portugal",
+          "reach": 22885
+        }
+      ]
     },
     "2165973297546023": {
       "adId": "2165973297546023",
@@ -133,7 +265,51 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [],
-      "hook": "A needle-free lift in a bottle ✅"
+      "hook": "A needle-free lift in a bottle ✅",
+      "euReach": 77733,
+      "euCountries": [
+        "Aland Islands",
+        "Austria",
+        "Belgium",
+        "Croatia",
+        "Cyprus",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "French Guiana",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 45-54 in Ireland (3,261)",
+      "euTopCountries": [
+        {
+          "country": "Ireland",
+          "reach": 13037
+        },
+        {
+          "country": "Germany",
+          "reach": 5985
+        },
+        {
+          "country": "Malta",
+          "reach": 5387
+        }
+      ]
     },
     "4257384234581099": {
       "adId": "4257384234581099",
@@ -199,7 +375,28 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [],
-      "hook": "Thousands of women are getting that feeling back with dissolvable silk peptide threads."
+      "hook": "Thousands of women are getting that feeling back with dissolvable silk peptide threads.",
+      "euReach": 26679,
+      "euCountries": [
+        "Germany",
+        "Ireland",
+        "Netherlands"
+      ],
+      "euTopSegment": "Female 55-64 in Ireland (7,705)",
+      "euTopCountries": [
+        {
+          "country": "Ireland",
+          "reach": 20829
+        },
+        {
+          "country": "Germany",
+          "reach": 4062
+        },
+        {
+          "country": "Netherlands",
+          "reach": 2245
+        }
+      ]
     },
     "2880599882301971": {
       "adId": "2880599882301971",
@@ -221,7 +418,51 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [],
-      "hook": "A needle-free lift in a bottle ✅"
+      "hook": "A needle-free lift in a bottle ✅",
+      "euReach": 38789,
+      "euCountries": [
+        "Aland Islands",
+        "Austria",
+        "Belgium",
+        "Croatia",
+        "Cyprus",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "French Guiana",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 45-54 in Ireland (967)",
+      "euTopCountries": [
+        {
+          "country": "Ireland",
+          "reach": 3927
+        },
+        {
+          "country": "Portugal",
+          "reach": 3212
+        },
+        {
+          "country": "Spain",
+          "reach": 3063
+        }
+      ]
     },
     "1006702111901537": {
       "adId": "1006702111901537",
@@ -243,7 +484,51 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [],
-      "hook": "A needle-free lift in a bottle ✅"
+      "hook": "A needle-free lift in a bottle ✅",
+      "euReach": 21652,
+      "euCountries": [
+        "Aland Islands",
+        "Austria",
+        "Belgium",
+        "Croatia",
+        "Cyprus",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "French Guiana",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 35-44 in Spain (864)",
+      "euTopCountries": [
+        {
+          "country": "Spain",
+          "reach": 3074
+        },
+        {
+          "country": "Germany",
+          "reach": 2610
+        },
+        {
+          "country": "Italy",
+          "reach": 2538
+        }
+      ]
     },
     "2819607908415595": {
       "adId": "2819607908415595",
@@ -265,7 +550,51 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [],
-      "hook": "A needle-free lift in a bottle ✅"
+      "hook": "A needle-free lift in a bottle ✅",
+      "euReach": 94635,
+      "euCountries": [
+        "Aland Islands",
+        "Austria",
+        "Belgium",
+        "Croatia",
+        "Cyprus",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "French Guiana",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 45-54 in Greece (4,813)",
+      "euTopCountries": [
+        {
+          "country": "Greece",
+          "reach": 13995
+        },
+        {
+          "country": "Malta",
+          "reach": 12467
+        },
+        {
+          "country": "Portugal",
+          "reach": 10275
+        }
+      ]
     },
     "1512636233608141": {
       "adId": "1512636233608141",
@@ -287,7 +616,51 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [],
-      "hook": "A needle-free lift in a bottle ✅"
+      "hook": "A needle-free lift in a bottle ✅",
+      "euReach": 12759,
+      "euCountries": [
+        "Aland Islands",
+        "Austria",
+        "Belgium",
+        "Croatia",
+        "Cyprus",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "French Guiana",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 45-54 in Ireland (901)",
+      "euTopCountries": [
+        {
+          "country": "Ireland",
+          "reach": 2737
+        },
+        {
+          "country": "Germany",
+          "reach": 1310
+        },
+        {
+          "country": "Netherlands",
+          "reach": 1079
+        }
+      ]
     },
     "1901907970400834": {
       "adId": "1901907970400834",
@@ -331,7 +704,51 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [],
-      "hook": "A needle-free lift in a bottle ✅"
+      "hook": "A needle-free lift in a bottle ✅",
+      "euReach": 14571,
+      "euCountries": [
+        "Aland Islands",
+        "Austria",
+        "Belgium",
+        "Croatia",
+        "Cyprus",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "French Guiana",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 45-54 in Ireland (1,311)",
+      "euTopCountries": [
+        {
+          "country": "Ireland",
+          "reach": 3444
+        },
+        {
+          "country": "Malta",
+          "reach": 1540
+        },
+        {
+          "country": "Spain",
+          "reach": 1117
+        }
+      ]
     },
     "1018241030998458": {
       "adId": "1018241030998458",
