@@ -194,10 +194,13 @@ test("notify: an ad's own embed carries its detected angle and hook", async () =
 
   await notify(items, config);
 
-  const body = posted[0]!.body as { embeds: Array<{ fields: Array<{ name: string; value: string }> }> };
+  const body = posted[0]!.body as {
+    embeds: Array<{ description: string; fields: Array<{ name: string; value: string }> }>;
+  };
   const fields = body.embeds[0]!.fields;
   assert.ok(fields.some((f) => f.name === "Angle" && f.value.includes("Botox-vergelijking")));
-  assert.ok(fields.some((f) => f.name === "Hook" && f.value.includes("berekening")));
+  // The hook is the embed's short description, not a separate field.
+  assert.equal(body.embeds[0]!.description, "Laten we de berekening maken.");
 });
 
 test("notify: reach fields prefer the scoped daily average over the lifetime average, and include a link to the ad", async () => {
@@ -225,6 +228,6 @@ test("notify: reach fields prefer the scoped daily average over the lifetime ave
   // Average of the 3 daily readings (2500, 3000, 3500) = 3000, not 9000 / daysRunning.
   assert.ok(fields.some((f) => f.name === "Reach gemiddeld/dag" && f.value === "3,000"));
   assert.ok(
-    fields.some((f) => f.name === "Ad Library" && f.value.includes("ads/library/?id=ampoule-1")),
+    fields.some((f) => f.name === "🔗 Ad" && f.value.includes("ads/library/?id=ampoule-1")),
   );
 });

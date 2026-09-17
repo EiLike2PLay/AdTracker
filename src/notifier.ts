@@ -200,10 +200,9 @@ function buildSlackBlocks(
       ? escapeSlack(ad.startedRunningRaw)
       : "start date unknown";
 
-    const copy = truncate(ad.text || "_(no body copy detected)_", 600);
+    const copy = escapeSlack(ad.hook ?? truncate(ad.text || "(geen tekst gevonden)", 150));
     const euLine = buildEuLine(ad, daysRunning);
     const angleLine = ad.angles && ad.angles.length > 0 ? `🎯 ${escapeSlack(ad.angles.join(", "))}` : null;
-    const hookLine = ad.hook ? `🪝 "${escapeSlack(ad.hook)}"` : null;
 
     const section: SlackBlock = {
       type: "section",
@@ -211,10 +210,9 @@ function buildSlackBlocks(
         type: "mrkdwn",
         text: [
           `${badge}${advertiser}`,
-          `> ${escapeSlack(copy).replace(/\n/g, "\n> ")}`,
+          `> ${copy}`,
           `🗓️ ${started}  ·  ⏱️ running *${daysRunning}d*  ·  ${describeMediaType(ad)}  ·  \`${ad.adId}\``,
           ...(angleLine ? [angleLine] : []),
-          ...(hookLine ? [hookLine] : []),
           ...(euLine ? [euLine] : []),
         ].join("\n"),
       },
@@ -317,43 +315,42 @@ function buildDiscordEmbed(
   const color =
     reason === "winner" ? 0xf5a623 /* gold */ : reason === "rising" ? 0xe74c3c /* red */ : 0x2eb67d /* green */;
 
+  // Keep the description to a short, scannable teaser — the hook (already
+  // just the opening sentence) instead of the full ad copy, which runs in
+  // whatever language the ad targets (often French) and can be 1000+ chars.
+  const description = ad.hook ?? truncate(ad.text || "(geen tekst gevonden)", 150);
+
   const embed: DiscordEmbed = {
     title,
     color,
-    description: truncate(ad.text || "*(no body copy detected)*", 2000),
+    description,
     timestamp: new Date().toISOString(),
     footer: {
-      text: `AdRadar · page ${config.pageId} · winner ≥ ${config.winnerThresholdDays}d · rising ≥ ${config.minReachPerDay}/d`,
+      text: `winner ≥ ${config.winnerThresholdDays}d · rising ≥ ${config.minReachPerDay}/d`,
     },
     fields: [
+      ...(ad.adLibraryUrl
+        ? [{ name: "🔗 Ad", value: `[Bekijk in Ad Library](${ad.adLibraryUrl})`, inline: false }]
+        : []),
       {
-        name: "Started running",
-        value: ad.startedRunningRaw ?? "unknown",
+        name: "Looptijd",
+        value: `${daysRunning}d (sinds ${ad.startedRunningRaw?.replace("Started running on ", "") ?? "onbekend"})`,
         inline: true,
       },
       {
-        name: "Days running",
-        value: `${daysRunning}d`,
-        inline: true,
-      },
-      {
-        name: "Ad ID",
-        value: `\`${ad.adId}\``,
-        inline: true,
-      },
-      {
-        name: "Media type",
+        name: "Media",
         value: describeMediaType(ad),
         inline: true,
       },
       ...(ad.angles && ad.angles.length > 0
         ? [{ name: "Angle", value: ad.angles.join(", "), inline: false }]
         : []),
-      ...(ad.hook ? [{ name: "Hook", value: `"${ad.hook}"`, inline: false }] : []),
       ...buildEuFields(ad, daysRunning),
-      ...(ad.adLibraryUrl
-        ? [{ name: "Ad Library", value: `[Bekijk de ad](${ad.adLibraryUrl})`, inline: false }]
-        : []),
+      {
+        name: "Ad ID",
+        value: `\`${ad.adId}\``,
+        inline: true,
+      },
     ],
   };
 
