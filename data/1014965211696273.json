@@ -1,7 +1,7 @@
 {
   "version": 1,
   "pageId": "1014965211696273",
-  "updatedAt": "2026-09-16T11:33:42.755Z",
+  "updatedAt": "2026-09-17T08:10:59.990Z",
   "ads": {
     "891455730191031": {
       "adId": "891455730191031",
@@ -11,17 +11,21 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOhOHtsxHuStYfd1aXEbS6YYf8a9UDB8EOFRlimc9gTjmO6gizzlI5MbrASaEmxwxSPeprI5GgIOdsxk8PK-oKtWoKszWPUalo9mwS_ng.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=GURC8bmc9IkQ7kNvwFhDN0V&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjcyODgxMjg0NzA4NjkxNDQsImFzc2V0X2FnZV9kYXlzIjo1NiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM2NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQIvYogoPFXOppYeqI6IdXJEy-awj-p7yYfK0bJ_Hbvg2Q&oe=6AB049B6",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/751819167_1808398510129487_1713495077092029922_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=teyKS8K-BCUQ7kNvwGkZxPx&_nc_oc=AdpiDHRqr4VU0Inz0Dl0xrNeKjkvv9OzpD0IAwJeE28qqhUSQBu5KGlfQMQNrugk-4Q&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQKVfscDQfF3B9HuUhsBqhcEDKHB6m_hy9Qlz6YhrDGDug&oe=6AB05C9D"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOhOHtsxHuStYfd1aXEbS6YYf8a9UDB8EOFRlimc9gTjmO6gizzlI5MbrASaEmxwxSPeprI5GgIOdsxk8PK-oKtWoKszWPUalo9mwS_ng.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=GURC8bmc9IkQ7kNvwFWZI1Z&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjcyODgxMjg0NzA4NjkxNDQsImFzc2V0X2FnZV9kYXlzIjo1NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM2NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&_nc_zt=28&oh=00_AQIjvrdGus7B-2d2kPW7e_WREDA2aciRfjthzVZ5oD1a6Q&oe=6AB162F6",
+          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/751819167_1808398510129487_1713495077092029922_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=teyKS8K-BCUQ7kNvwEzqzjc&_nc_oc=Ado_qnEJBsQNp7WKlxbYe2Icxm9p6cIvFmItpgO4bAJKCFMdeYeLnKMXxg1l1bDekLk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQJ-QPbDHkd7Wkp23VEUnr0B4KRLzjlbM01csnHfB8_J7g&oe=6AB175DD"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "À 63 ans, j'ai croisé mon ex-mari à Leclerc."
     },
     "1430887545550640": {
       "adId": "1430887545550640",
@@ -31,17 +35,21 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPCeJouvEQuq55jRbd1dsj6emI9frs8mgXWb6j750Xg3_uAO-tJi2ryBE4AUp4XsRlU92x39Lhn058saTiGoGovbygUgwRnUYhPvsDKfA.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=Arbe2K-k29gQ7kNvwEHdzY1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTAzMTYyNTczOTg1MDYwOSwiYXNzZXRfYWdlX2RheXMiOjQ3LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzUzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQJB5E-lOPUyS5XrmFf3xkGlY9REXNDUJ8YeCXIWG8k1og&oe=6AB0637D",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/760371340_2547145669135386_6423717622449268722_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5YPQCxeAwgUQ7kNvwHKCUCw&_nc_oc=AdrtZm3_SUQs8h5lp1dTHiTWirS1FBVEmysW6_CSowGc5MtDgDE81nNIe1MQ34jG6Pg&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQLSMk9TWYXYrhNu1ptrsvrCiuHGMCa8uo-luLDL9oYbfQ&oe=6AB06871"
+          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPCeJouvEQuq55jRbd1dsj6emI9frs8mgXWb6j750Xg3_uAO-tJi2ryBE4AUp4XsRlU92x39Lhn058saTiGoGovbygUgwRnUYhPvsDKfA.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Arbe2K-k29gQ7kNvwFRSkQB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTAzMTYyNTczOTg1MDYwOSwiYXNzZXRfYWdlX2RheXMiOjQ4LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzUzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&_nc_zt=28&oh=00_AQLtlCGX8eLpQfZE2S2tfgR4TOSiRIecFMsEB4YNYbrnEA&oe=6AB17CBD",
+          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/760371340_2547145669135386_6423717622449268722_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5YPQCxeAwgUQ7kNvwGF2wY9&_nc_oc=AdqtyYLwf_k0RAITr1_vaJD9-SITid_g0csE5ceq5ZExfQEP0koK3RfsWwr_nssLos0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQJ_5UjBwRQlIegqFgQfBTNjoe_TRppozTcNBlLA5CZ80w&oe=6AB181B1"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "J'ai fouillé dans le téléphone de mon mari pendant qu'il dormait."
     },
     "1383718060301366": {
       "adId": "1383718060301366",
@@ -51,17 +59,21 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQORSdaPWuC4Z3OqG-vkcb8gtALR_psFg4EpeffFBY4U1jrkUQ9iPhvgF62dWuS4-hWpaYtFpBQ-o3RQHTYbQ_DAL9bRoUeuFHdnZipccg.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=Vs0xJSUYkWgQ7kNvwEDP3Ls&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzcxOTU0NDA1NDY3Njk3MDcsImFzc2V0X2FnZV9kYXlzIjo1MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQLjDcdwkxtzQ0naRXWxr65vP_eFk9tM4jTUga4uHFNzJA&oe=6AB04FBB",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/754462949_2079883559303616_997841190176441762_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RsB_4J7SzLMQ7kNvwGGF_pj&_nc_oc=AdoGyZG60aBgTd6lTwtJpbKP-sfNL9R6XfeglmM3fwvjWdDWvPOhZsnyhdB--XYlelg&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQLG1uDWyA_jbVTI4MoblZTYzsJys7ePXXrbRFRtk6p60w&oe=6AB03FCE"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQORSdaPWuC4Z3OqG-vkcb8gtALR_psFg4EpeffFBY4U1jrkUQ9iPhvgF62dWuS4-hWpaYtFpBQ-o3RQHTYbQ_DAL9bRoUeuFHdnZipccg.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Vs0xJSUYkWgQ7kNvwGk_8zv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzcxOTU0NDA1NDY3Njk3MDcsImFzc2V0X2FnZV9kYXlzIjo1MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&_nc_zt=28&oh=00_AQKXakFptou-Nf07ne1IIOHF9utKXtj1sBPB0oXNK8GSSQ&oe=6AB168FB",
+          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/754462949_2079883559303616_997841190176441762_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RsB_4J7SzLMQ7kNvwG6d4XF&_nc_oc=AdqfEpv_UIaBIzxXDrk7Nm9pCr5wckdzpigv6xjgqBZGzLgwx9JNlWUvZKynLadURiM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQK09qNnz4AU_VKDRrOszFzrutYCRfTBdfXrmc6jMQ69gw&oe=6AB1590E"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "Mon mari m'a trompée pendant deux ans et s'est remarié huit mois après le divorce."
     },
     "2568631160241865": {
       "adId": "2568631160241865",
@@ -71,17 +83,22 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMF1eShGVCABZTn7ZkZB7BaTRkg8T_lZgULfniaSvHT8y4zSIpOPcd2hILtH2PvrTrNBBLK5QrUO_hMmLSoGS1Zzmim0yIKnHM1TIEf6w.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=1cPU667Cr2kQ7kNvwFQA9bl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc0NDA4NjI3MDA1MzMzOCwiYXNzZXRfYWdlX2RheXMiOjUwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6Mjk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQIkyJqsf9T30ug7_ZhENgMYNoJnpOIgcbM8rNJPZl0HDw&oe=6AB064BD",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/758588535_1042432284847473_5904792268327198672_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ghWFLaqGbMIQ7kNvwF2wrtP&_nc_oc=Adqf2mEPyxEVQy44oP7pZ7rSe6V-Rz5VwiFO24McVLFQqkDggv9kL4Ew514tCn9FXAY&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQLIeNe-XO-sasngi5lYHlgdy2QR5wlCZf_QbtD1IGoRjQ&oe=6AB05F7F"
+          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMF1eShGVCABZTn7ZkZB7BaTRkg8T_lZgULfniaSvHT8y4zSIpOPcd2hILtH2PvrTrNBBLK5QrUO_hMmLSoGS1Zzmim0yIKnHM1TIEf6w.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=1cPU667Cr2kQ7kNvwE9ok6Y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc0NDA4NjI3MDA1MzMzOCwiYXNzZXRfYWdlX2RheXMiOjUxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6Mjk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&_nc_zt=28&oh=00_AQISlQWZAMZbShodgd7m_GT1R9od3GPOywg-jwNph1hdVw&oe=6AB17DFD",
+          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/758588535_1042432284847473_5904792268327198672_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ghWFLaqGbMIQ7kNvwFjWyLu&_nc_oc=AdppYEPGQZoXxdDGu5Qn3vOWMj6zgfA3SI30_QBZW87tlDTtELgOcEUuahnljhkLpsE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQKWUSoqvslDmkj8bzUD_Wla6LM4RTsCHCI4lbSL7oWUxg&oe=6AB178BF"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Angle C — Insider/celebrity-secret",
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "La semaine dernière, mon ex-mari faisait la queue à la caisse derrière moi."
     },
     "1417080947276238": {
       "adId": "1417080947276238",
@@ -91,37 +108,19 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMBwvWuRcLoXmHealbtx_edI9DDmUGvAyyAfbAIVIP9WonIHJfT-c2RzIORbESd0yznHg8t4wfJcVmABQ0dUl5u5zvz-h9wNOFbEPTdIg.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=osQVXtyG2NUQ7kNvwFQikdM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjEyNzY5NjAzNDgzNjg3MiwiYXNzZXRfYWdlX2RheXMiOjQ4LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTQxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQKEJgIb3f4egDoslcdKPnekoympnDJApP2jLlHsvZlV8A&oe=6AB03A3C",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/761596419_4280534135424466_4754324035816328647_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ELjtibeIVcsQ7kNvwE-BTru&_nc_oc=AdqUkmqj7atzcOM0Lfp2n4GaeolCp5iIMQyVa5MjF73vwhBFX604p245OaNsyOqU_AA&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQI13K7-6i1vEyUquMheIOXXcDGdHH0Ama7ACfQXiLGh7g&oe=6AB06C34"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMBwvWuRcLoXmHealbtx_edI9DDmUGvAyyAfbAIVIP9WonIHJfT-c2RzIORbESd0yznHg8t4wfJcVmABQ0dUl5u5zvz-h9wNOFbEPTdIg.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=osQVXtyG2NUQ7kNvwGtBz8J&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjEyNzY5NjAzNDgzNjg3MiwiYXNzZXRfYWdlX2RheXMiOjQ5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTQxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&_nc_zt=28&oh=00_AQJTuTOKvhCLGKI0qeRRE_seVznmbjWAOVjL8-QSbrr9sA&oe=6AB18BBC",
+          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/761596419_4280534135424466_4754324035816328647_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ELjtibeIVcsQ7kNvwFVnq1U&_nc_oc=AdqBtTxf4iuBoIzP3Pgd7lJeeCTo9noJ3QjwE4vXqEE39LxnU7q_La0YwqNe7x6uKEQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQJiUejCfUrp-lNixwxLxDJbSk9Cp7RQYIlvWhQEfMSPkw&oe=6AB18574"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
-    },
-    "934649116353055": {
-      "adId": "934649116353055",
-      "startedRunningRaw": "Started running on Sep 3, 2026",
-      "startedRunningOn": "2026-09-03",
-      "text": "À six heures du matin, j'avais trois appels manqués de l'homme qui avait divorcé de moi.\n\nLe message disait : « Tu es superbe sur cette photo. Avec qui étais-tu ? »\n\nQuatre mois plus tôt, ce même homme m'avait dit qu'à 52 ans, personne ne voudrait de moi, peu avant de me quitter pour une femme de 26 ans.\n\nVoici comment je lui ai fait regretter cette décision en trois jours...\n0:00 / 6:07",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOnl-ePC7hDEbXrPlgp46nXPLX9eYqPZLasfZayaR8m-klr49l8ddO8-pg5pULneu-NfBmYQxamhAfObWiCu7GrMaN5DyySXyYIKJok-g.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=ZzjdHNlf_9EQ7kNvwG_HdsI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA1OTk0NzQ3MDI1NTIwNCwiYXNzZXRfYWdlX2RheXMiOjEyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzY2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQK9pzGnWSxTaGDdfU7XYYfaj4__sIgGr4QaBUqVun8pXA&oe=6AB05A74",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/793367474_28392045813758375_8370009996363849243_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MnOZ_hdtHbUQ7kNvwFT1FF4&_nc_oc=AdrXh6hoqtBEHOkkqTsBgPQOglVZIDCsfllF9krkOGsBW2yNoRsvwR0qk1UF9K9JnrY&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQLW6w5IdRWvtSdyvVH8NROwvOQI0RSmZzHooXgTmdThkA&oe=6AB05606"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "2 ads use this creative and text"
     },
     "1601470858241408": {
       "adId": "1601470858241408",
@@ -131,17 +130,44 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPGzIHKCvAwujD1_pwHeHH6USxh6veuLrF_2bC8-k8bTg9lwlAa55-5scFfAck8_ks--4-SUrmRpUVQQfPuFXyYOroG00sl8sFAQjmJXw.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=D5gnlsGQ1UsQ7kNvwEhnis0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU0MzExMjYwNjkwNTg0NiwiYXNzZXRfYWdlX2RheXMiOjI4LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDM2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQK4pfCwBHLconWHWMBwiqs8nYhFEtQZW6rGY1WcB5_Qbg&oe=6AB05DE6",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/778139654_1544292800763301_5757025343339980114_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Lo-eBOMqc8QQ7kNvwFCJQgH&_nc_oc=Adqy8YILNf3IUwDOYe0SeG0z_mNWVVGL2htCj60EyjnJ9AoMULOLO6quWezlV6McKYI&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQLi02fPOLfKQZ7_gbtde5yZAsXyHieiE3vUc4ou5CBr7Q&oe=6AB065F4"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPGzIHKCvAwujD1_pwHeHH6USxh6veuLrF_2bC8-k8bTg9lwlAa55-5scFfAck8_ks--4-SUrmRpUVQQfPuFXyYOroG00sl8sFAQjmJXw.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=D5gnlsGQ1UsQ7kNvwFUGIkU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU0MzExMjYwNjkwNTg0NiwiYXNzZXRfYWdlX2RheXMiOjI5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDM2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&_nc_zt=28&oh=00_AQKYHhOa3PF-GR0WNrT0n8s41N562QVXn8X2OKLHOqIJZA&oe=6AB17726",
+          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778139654_1544292800763301_5757025343339980114_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Lo-eBOMqc8QQ7kNvwE2W8ZO&_nc_oc=AdqUEEGZ-2NiMZ6PSJP0HBRtmVr3OzoJh-EZ376tg6QAboVhdx_MvcGDOugZtvp_9Y8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQI0TDpwS1Iv7vGUbRcRDgP59BXgTxbd5Y1aSCGSCYy5Qg&oe=6AB17F34"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Testimonial/persoonlijk verhaal",
+        "Angle C — Insider/celebrity-secret"
+      ],
+      "hook": "Il y a trois soirs, j'étais sur le point d'annuler ma fête d'anniversaire."
+    },
+    "934649116353055": {
+      "adId": "934649116353055",
+      "startedRunningRaw": "Started running on Sep 3, 2026",
+      "startedRunningOn": "2026-09-03",
+      "text": "À six heures du matin, j'avais trois appels manqués de l'homme qui avait divorcé de moi.\n\nLe message disait : « Tu es superbe sur cette photo. Avec qui étais-tu ? »\n\nQuatre mois plus tôt, ce même homme m'avait dit qu'à 52 ans, personne ne voudrait de moi, peu avant de me quitter pour une femme de 26 ans.\n\nVoici comment je lui ai fait regretter cette décision en trois jours...\n0:00 / 6:07",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOnl-ePC7hDEbXrPlgp46nXPLX9eYqPZLasfZayaR8m-klr49l8ddO8-pg5pULneu-NfBmYQxamhAfObWiCu7GrMaN5DyySXyYIKJok-g.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ZzjdHNlf_9EQ7kNvwEqniy3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA1OTk0NzQ3MDI1NTIwNCwiYXNzZXRfYWdlX2RheXMiOjEzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzY2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&_nc_zt=28&oh=00_AQJdHptg63_y87O8I-z0MsxouCw9GvXyXz0cyRq_KE62Nw&oe=6AB173B4",
+          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/793367474_28392045813758375_8370009996363849243_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MnOZ_hdtHbUQ7kNvwFCK1AQ&_nc_oc=Adr0tr0bfW1Tar_Hv2HGWdcugcCS3QfkR6VOa_9CKlqXzUopIGrN3hqSl5g1iAE4TVY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQLnK_H3qAiljZvvUWrP-bNZq8SgBYt3gpVBTR8MSzwQyw&oe=6AB16F46"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "À six heures du matin, j'avais trois appels manqués de l'homme qui avait divorcé de moi."
     },
     "1679892116445794": {
       "adId": "1679892116445794",
@@ -151,17 +177,22 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNpy_PnWNhb3CBHinfCnG0glUo7GsqQXknyjbbEdTx7koWv1-lpUYz_ZOMIxi8Vpl-aaF1gKRUA_bf_1p6KdN8yP9-cMaW6ZK1PKOvcIw.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=k2VPC9qAS-sQ7kNvwHx7zve&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjE1ODg4NTg3ODM2NTc0NiwiYXNzZXRfYWdlX2RheXMiOjQ1LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6Njc1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&_nc_zt=28&_nc_enc=QesSVpxtxYmtqwkTae9qw6CdDGcvIQlSf-m3xMJfSINBBRatOBAixjzcA_QkQXUP-sEVHoq8SItJbGdiuqz-7PyCZ8ENhsaQyzwP2jehQyE6kJtFY8y9uaSmuuE&oh=00_AQIQURwneth5vCCEeWRHv4UGymJJ2trGZPT45Zbc-AgPFA&oe=6AB03C3E",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/763018766_2061591028051531_8530799558293781987_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=swYfSyIliJAQ7kNvwG_xfD8&_nc_oc=AdonEndnHkr2ndFQQz5IdCR4R8hfh9YyxIVVoePIVAl6tF4k5ovfRCK3HSrx6KxXdNQ&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQIBQXCKCnG08wusw9z2TtstSt74_gOC2F0cwaZ5JcbvXg&oe=6AB0355E"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNpy_PnWNhb3CBHinfCnG0glUo7GsqQXknyjbbEdTx7koWv1-lpUYz_ZOMIxi8Vpl-aaF1gKRUA_bf_1p6KdN8yP9-cMaW6ZK1PKOvcIw.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=k2VPC9qAS-sQ7kNvwFV_Nmb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjE1ODg4NTg3ODM2NTc0NiwiYXNzZXRfYWdlX2RheXMiOjQ2LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6Njc1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&_nc_zt=28&_nc_enc=QeE8jdy5Il1Ciyh3qEkFcpjVs7OGgf_Dcz7HFxWki_8s5-d5Y1D-IFB4gWPEwxSeZqryyZtRQH7N4qgFIt4bh0dBlG_rNEHRvYA79zVfy2kMOzBsUisYhzxPj1w&oh=00_AQKOgWgqp_gDf5fHONC9HscU225k1JKb1cJiHNTd9bvE8Q&oe=6AB18DBE",
+          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/763018766_2061591028051531_8530799558293781987_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=swYfSyIliJAQ7kNvwH5dtUW&_nc_oc=AdqH1l3HQpvYUkSrxVLhjmZC_JoqgclTJEPYqhgVQN14ojBKh3UmesC_z3YmOjbwa4c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQJQS0B8VOxsK5mxS3C1q3kzZId8bMw1aDJAB1AC0tHrMg&oe=6AB186DE"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Angle C — Insider/celebrity-secret",
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "J'ai une liaison avec l'homme qui m'a trompée avec la femme qui était demoiselle d'honneur à mon mariage."
     },
     "1593286115516519": {
       "adId": "1593286115516519",
@@ -171,17 +202,21 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOKbfcz0XDTMcFx3Q2Imgvy1Y2vfL2lBpFUX6S1kkp3XN3Dp-M3VnAJXTrXRYc_cYU5A7VBBF8dobKkKPjAwEbI6hdE4lVHFkB3SicwNQ.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=pi0pz29-Zj4Q7kNvwEW7u2G&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM0MzgxNDM0MTIyMDQ1NSwiYXNzZXRfYWdlX2RheXMiOjQ0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjY1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQJ2trQ5jj0Lz4SGUbkopH9iAVJ3nk3bqMzk71FZFbzPBQ&oe=6AB03833",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/761042182_3965066196958144_1137528117516553803_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U8V7Ej9LOZ4Q7kNvwG8zHLh&_nc_oc=Ado45ksVuNwE_baB9j6Ha7wAeWEKHUDxzr4NQQfZbSdNsjlRRH2dpTFh-BdRmo4FlcM&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQK-Dm2INQOzs2bdWtSJGszXjNUYB7n28xo3Pupa9rvU5A&oe=6AB0560E"
+          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOKbfcz0XDTMcFx3Q2Imgvy1Y2vfL2lBpFUX6S1kkp3XN3Dp-M3VnAJXTrXRYc_cYU5A7VBBF8dobKkKPjAwEbI6hdE4lVHFkB3SicwNQ.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=pi0pz29-Zj4Q7kNvwEAUHQI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM0MzgxNDM0MTIyMDQ1NSwiYXNzZXRfYWdlX2RheXMiOjQ1LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjY1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&_nc_zt=28&oh=00_AQKQP5Nxl9GhAhQuKea38BKulYtpgemLRk9RZDl8OUzxJQ&oe=6AB189B3",
+          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/761042182_3965066196958144_1137528117516553803_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U8V7Ej9LOZ4Q7kNvwHhczks&_nc_oc=AdoCliNpFivw0sHPuOFsE0paGkI2WWU8VoDPxt3p2Y-_WYbBjK6o8CDAEU0NiSyWJFQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQKdS3aGsQ21f1LNiACimc71z5uT_RzngpLf5gNgLvFqsw&oe=6AB16F4E"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Angle C — Insider/celebrity-secret"
+      ],
+      "hook": "Samedi, le mariage de ma fille."
     },
     "1540055270649826": {
       "adId": "1540055270649826",
@@ -191,16 +226,18 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/784622312_2129622187953825_2402446741182136177_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Oy6_tV3CPHkQ7kNvwFBXxHl&_nc_oc=AdrzFOLSuWC-pMGrPYwB_Cln4EhyRV_Il21vJrP6o7GLL9ukG6Z9cCv6ZP7xr6SXe1k&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQK0dPwy5hQbaMYMhEhmT6zmds63iv5sTelUmg-MCDMiyg&oe=6AB03739"
+          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784622312_2129622187953825_2402446741182136177_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Oy6_tV3CPHkQ7kNvwF2qi4B&_nc_oc=AdqqO6L5VWkaKwifGqU74Q7lx-9VwRObFEmKjj_UqHFV3pU9uBS8iMOgjisuIf84vGU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQJf2da3H_l8lGtMG7mbwvyMVWogs3Cjqz_wjJlLwsnKSg&oe=6AB188B9"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1051137844301732": {
       "adId": "1051137844301732",
@@ -210,16 +247,18 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/778296794_3671689142987153_4493865764813969716_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sZQcNcNVKCEQ7kNvwHMggfD&_nc_oc=Adoa4FMN5JTiYgsHQpQCe6a8fml9pRPW4bFJHBHWiUeK5O0oOeEgEnveiv8PeVR2jD8&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQKqp75zX2pQr3DBPA1Sbrp4UEysl9kQUa4QQu2FOBN_Ww&oe=6AB03B52"
+          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/778296794_3671689142987153_4493865764813969716_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sZQcNcNVKCEQ7kNvwFtCHJr&_nc_oc=AdooDdxCyXSU23yQRwYukQV01e-eP_R3Y2Lb_N1iwmRiE08zkEvavtGCpDfIg0FR4Pg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQLJBzJjbm1jIdFqrJmPVmMZtXkyQgkwKl4GZPwsV39Tfw&oe=6AB18CD2"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "2150442415853148": {
       "adId": "2150442415853148",
@@ -229,17 +268,22 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQP8mbMW9mM9ZWq_mCwEwSArS8ao5KlUndyo_DsT1pgFXui4NcCAjnPJ6ZbsjsDrZIXD0iikCaeKYJpJkz3TYWhNHNxDLjOnGk3o48Hmeg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=5JGgE9o-aIMQ7kNvwHZfLDZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjgwMjY2NzczNjY5NDM1NzMsImFzc2V0X2FnZV9kYXlzIjoyMywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ2NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQKfDH4A7JOYuaxhEkfXv1AGvBuGVE6va1vpxljb-3vKfw&oe=6AB03B1F",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/784019712_1533666928001256_8959635876613652914_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DoxEtnl4FFsQ7kNvwFGFgvf&_nc_oc=AdruJtmt0up0CERylYh5yU5xnyxqvkxdFo3WhYI5N4azyPR6O5hCKExT5G01O4YzV4s&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQK3_Hhe_BP7fyAlSkSlvTfAZf6XNq1vKX0tNSbnpVfvUg&oe=6AB03779"
+          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQP8mbMW9mM9ZWq_mCwEwSArS8ao5KlUndyo_DsT1pgFXui4NcCAjnPJ6ZbsjsDrZIXD0iikCaeKYJpJkz3TYWhNHNxDLjOnGk3o48Hmeg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=rJRTsV06418Q7kNvwFvq-C_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjgwMjY2NzczNjY5NDM1NzMsImFzc2V0X2FnZV9kYXlzIjoyNCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ2NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&_nc_zt=28&oh=00_AQIv4SxIq_afSGR3Qe40AEImjqTWJwqN7m_Itti8TKtiNg&oe=6AB18C9F",
+          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784019712_1533666928001256_8959635876613652914_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DoxEtnl4FFsQ7kNvwEtHx9u&_nc_oc=AdpdTTZOwnvdJWcJscMBb2CEqMJSHDeGh4FDOMBn2RazMMWkU4798dLUMkDD4wpeB-8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQLtyeiR-JW3RHNuqP3Fk6EtREEYk54Vhdpc1kAHkGiDwg&oe=6AB188F9"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Angle C — Insider/celebrity-secret",
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "À 53 ans j'ai découvert que mon mari me trompait pendant qu'il était dans le coma."
     },
     "1051598841062265": {
       "adId": "1051598841062265",
@@ -249,17 +293,19 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOLChdSmJ9HF7Und7Ec9JkaAHwU6UEU0OZU136XM4LnY6PtSwNf9qkkQ6o9jY_JbkIbKlYR6JVt8renvcdJC0lTI8UsmEoPh3dVdy6ayA.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=5_h4w_kzAYUQ7kNvwGIF2si&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU5MzIzMjIyNTc3MTMzNSwiYXNzZXRfYWdlX2RheXMiOjIzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTQzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQJ7sznmLj58WlveuT3m_fn7IOGpfcX6lzGqw2cLLVb0ng&oe=6AB039AD",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/784430465_3936055073355495_7257637095700496657_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Redj_A09Qs4Q7kNvwH9cuuQ&_nc_oc=AdpF-iy5tKCTYPNFg2hPID_eEFOyW409hxYhOYtMm1EjhDPGtqP46mZPowdCYRsA40I&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQKLWbP617zkmDJcqhzuzMZYFcxDQtpxlyukV63yGVF8Fg&oe=6AB03EC2"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOLChdSmJ9HF7Und7Ec9JkaAHwU6UEU0OZU136XM4LnY6PtSwNf9qkkQ6o9jY_JbkIbKlYR6JVt8renvcdJC0lTI8UsmEoPh3dVdy6ayA.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=5_h4w_kzAYUQ7kNvwHtC1Wk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU5MzIzMjIyNTc3MTMzNSwiYXNzZXRfYWdlX2RheXMiOjI0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTQzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&_nc_zt=28&oh=00_AQIABFEzt8qr7FeAJ-tOesxU8ltX5vF7gvh1cJ1SOEwmFg&oe=6AB18B2D",
+          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784430465_3936055073355495_7257637095700496657_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Redj_A09Qs4Q7kNvwGINn-f&_nc_oc=AdrcOfO4xiaz5DWq8Fl6siHHb2_4u4ZIWQJdw6HBpGxrFeeuvWSnsCzO5ncMGFutpOA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQL2rlRsZxNvI5IG3lrQ32YOQBXCDbOmIpIaRcmSZrcDtA&oe=6AB15802"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "2 ads use this creative and text"
     },
     "1065548919255042": {
       "adId": "1065548919255042",
@@ -269,17 +315,22 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNd6D2ytL1lgD39JeTgR87LQQ7rM9h9mzT2RW8RFiKIKSwPOymwYbz8Gdr_gEZCITpjmyLmJZM7wECHc-8ecbPTloj1peEYjb_v9TEXHA.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=95iCdVju_ncQ7kNvwHEkAdk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjQ5MTM3MTQxMTM3Njk4MSwiYXNzZXRfYWdlX2RheXMiOjQxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQIdFPjangs-Y1abLdgXmW3VPgNbXb2gvHqn7y8LKSECtA&oe=6AB04556",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/764593195_1067377099107756_5597395405827832578_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KJuVyDVyKM4Q7kNvwG2fkGf&_nc_oc=AdoQEJ35np1xKQVl76fUdKuF3Jl6qHRLiTRfwuUEu7q-TmddkOHxgqt-sf_P8GC7cxA&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQIzVcEhpIh7UenEDbEoljHcEQZ-Ff4y5Mg131lVBHkotA&oe=6AB03E0D"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNd6D2ytL1lgD39JeTgR87LQQ7rM9h9mzT2RW8RFiKIKSwPOymwYbz8Gdr_gEZCITpjmyLmJZM7wECHc-8ecbPTloj1peEYjb_v9TEXHA.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=95iCdVju_ncQ7kNvwGJhYPH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjQ5MTM3MTQxMTM3Njk4MSwiYXNzZXRfYWdlX2RheXMiOjQyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&_nc_zt=28&oh=00_AQJ-oidmLSEnvmGJbDxBYcW_aerlnpcv2BThCD-xl1DkKA&oe=6AB15E96",
+          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/764593195_1067377099107756_5597395405827832578_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KJuVyDVyKM4Q7kNvwH0hU0X&_nc_oc=Adp9Hx-Hm9YlnTlDAcijepgQP-vBNlYlShru8txHOvtUJibOgzARU_cITcmzobyOS_o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQI94R3OcywocTvpDRxjDvM-2EpU2QF7MigqI1LEKzXQcQ&oe=6AB1574D"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Angle C — Insider/celebrity-secret",
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "J'ai découvert que mon mari me trompait avec une jeune fille assez jeune pour être notre fille."
     },
     "27829968516661411": {
       "adId": "27829968516661411",
@@ -289,17 +340,21 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPJvzRwdetwpL42FAnuAMcPB-_3ZG_tqGqmxPVepYICJkk7WUQ9EldeV0g-EqWW726VRIX3yCzWjDePwGCUVql1vppEN8Gzw1q0kJ0yBw.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=x6F69lpuIisQ7kNvwEnbNZn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTAzNTE1Nzc0OTI1Nzg5MiwiYXNzZXRfYWdlX2RheXMiOjQwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTQxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQJ-6t08kDlDfzSQ3T9kdKTd_5vmQ0pd-_BfCibcAmeG9A&oe=6AB037D3",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/764863139_900480259797773_4972224624901033279_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qnAQZ4TXk4AQ7kNvwFwjGDh&_nc_oc=Adr5AKtunyohYl-WPM8LlqrQvSSOcz5-ZB7itpwHqtDQz9tDxHUvB97ACTDc5kqhGjo&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQL6zRoLRkpBdhkSdNEmPd9TPpmNPYIVcwPQszUr1hd2TA&oe=6AB03794"
+          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPJvzRwdetwpL42FAnuAMcPB-_3ZG_tqGqmxPVepYICJkk7WUQ9EldeV0g-EqWW726VRIX3yCzWjDePwGCUVql1vppEN8Gzw1q0kJ0yBw.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=x6F69lpuIisQ7kNvwE3E5RA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTAzNTE1Nzc0OTI1Nzg5MiwiYXNzZXRfYWdlX2RheXMiOjQxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTQxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&_nc_zt=28&oh=00_AQLoW0XasimR8yxCVvFyv2baQGOVWl4wSP0EtnreibadWQ&oe=6AB18953",
+          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/764863139_900480259797773_4972224624901033279_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qnAQZ4TXk4AQ7kNvwFoSR99&_nc_oc=AdoyJ-yIKZGOLlvk55eqOlf_5PdXt1QNFYdB0Ke08mwHJwce_TZ5wSgXlh-feEUlF_k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQIO-_O4D3cx9c7UIpYL71Dit08j0ZW_7Pzf7G6ch-KBOg&oe=6AB18914"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Angle C — Insider/celebrity-secret"
+      ],
+      "hook": "J'ai couché avec l'homme qui m'a trompée"
     },
     "1042182832044652": {
       "adId": "1042182832044652",
@@ -309,17 +364,21 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQN-vWDx2lmHd0Qu-jYxjQnZXRKrPL5k4VNKCvDAJ5rEpByrr7SXWn0xhh7S0yOTIeGPRjd2t8OdoV0W_4En9MV3Kg_RYs6OMTC34J3fVQ.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=R9B2ZHy69bMQ7kNvwG0B2-h&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjIwMTM2MTQ1MDQ3NjkyNywiYXNzZXRfYWdlX2RheXMiOjMzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzMyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQLkMTwqjtVXcKSS5Et0S58SKz3rCs8MLJgWTLn_WHzvBA&oe=6AB05810",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/772560433_1416315053689752_8433042956046919171_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yMV7qLPYSaMQ7kNvwG-3qMS&_nc_oc=Adqd6_dIBMzEXN6AfyKcMPROoiQwMneEAT4eNQNH7VAQFxbkBOj0i9CWZki9-WR2Qdg&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQJw2WDhPOWeIU_otOzVbm6OfTw22ey3EskNK96rXbkidw&oe=6AB04EAA"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQN-vWDx2lmHd0Qu-jYxjQnZXRKrPL5k4VNKCvDAJ5rEpByrr7SXWn0xhh7S0yOTIeGPRjd2t8OdoV0W_4En9MV3Kg_RYs6OMTC34J3fVQ.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=R9B2ZHy69bMQ7kNvwGoC6Qc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjIwMTM2MTQ1MDQ3NjkyNywiYXNzZXRfYWdlX2RheXMiOjM0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzMyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&_nc_zt=28&oh=00_AQLSMlPW9vgqJo23ZrYa10mzQLplwW0wK875ZYjTgJ7L1Q&oe=6AB17150",
+          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/772560433_1416315053689752_8433042956046919171_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9Nq-O8ZWXNsQ7kNvwGB2-xe&_nc_oc=Adr9eTSsY_dOoefG4TBs4_kKxVxlO_hFrvWRwa3dHCOnN_O9IVaaOsHwEXhOwznDEIA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQLGz42kz_QPNpxuYKmfOlxR7ci1i5HglTjQJrdEnUiswA&oe=6AB167EA"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Angle C — Insider/celebrity-secret"
+      ],
+      "hook": "Au mariage de ma fille, son père m'a regardé 10 minutes sans comprendre une seconde que cette femme, c'était moi."
     },
     "1660107438421331": {
       "adId": "1660107438421331",
@@ -329,17 +388,21 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNIGu9CEP7mRr6SCbUGwojtnFUcjdzMpvYHqAj0w8I0FkUuyaoX6un-D8p0f2fMWpmbUC3HO4URBz7ZWoqGTJi2Xe3oLoI_lyQWp9VOMA.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=eUbq7CK9dhEQ7kNvwEFZ3Df&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU0NTA2NzM3MDk2NjEzMCwiYXNzZXRfYWdlX2RheXMiOjQzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQKOr1setQ-IUTDytYGuTe4UTcvo_yOtwC2uBqo-wFJi0A&oe=6AB034F2",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/761858768_1026686253404369_224686579196456313_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P5INZ-LImCIQ7kNvwEwnm3i&_nc_oc=AdpVZa1pBRKN9vd_lsx_zo0RdQfB-IbLZPVlxqEHnhKZxLCoOfSmrSUchZAC_3uCprc&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQJ-0hrpk66htNCAdd3y7n5cwF7ELw-2spsEhU9TN4ib-w&oe=6AB06005"
+          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNIGu9CEP7mRr6SCbUGwojtnFUcjdzMpvYHqAj0w8I0FkUuyaoX6un-D8p0f2fMWpmbUC3HO4URBz7ZWoqGTJi2Xe3oLoI_lyQWp9VOMA.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=eUbq7CK9dhEQ7kNvwFT2Zwb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU0NTA2NzM3MDk2NjEzMCwiYXNzZXRfYWdlX2RheXMiOjQ0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&_nc_zt=28&oh=00_AQJR_lA2oi-3ARhMRA2pscn6LM-3Z41e58zCx9J2jIcIfA&oe=6AB18672",
+          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/761858768_1026686253404369_224686579196456313_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P5INZ-LImCIQ7kNvwFJRPCi&_nc_oc=AdrzP2yU_cGfbTstySRbVA5drKs3kmcZ1FqcZacVUE46uFGYlrHHddeuBZKMdNuTeJE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQI-QbxhZhVODRpxsytTOOsdg-5n9RloFQczp_dZrWsdIQ&oe=6AB17945"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Angle C — Insider/celebrity-secret"
+      ],
+      "hook": "Mon père est venu chez nous avec la femme pour laquelle il nous avait quittées."
     },
     "889581880630325": {
       "adId": "889581880630325",
@@ -349,16 +412,18 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/784928622_27558109807204049_2231415489709130839_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vJUC_bIIDs0Q7kNvwHoQPOb&_nc_oc=AdrWzHsqqV_Soi0Stj0N7nP5OFTqZ2mERdtzf8bd0LHuZpe3oLVAIxTFkMUuH1PRsrs&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQITAHR362PKOtOpzXcD-umTw0FBhgmKkb8BY1LUdafPmA&oe=6AB06AC3"
+          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784928622_27558109807204049_2231415489709130839_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vJUC_bIIDs0Q7kNvwEC7Cc0&_nc_oc=AdpQRTAhxdXf-g6rYMrcR-WTuvg9GwA2AQuq4ipg6gmj6jVaZUgrE0pPlO07P3TLrks&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQLADgDKLMxcDmX_qIQbwJwOKAfKYpYOuaJL18-jXDfc5Q&oe=6AB18403"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1086126580741252": {
       "adId": "1086126580741252",
@@ -368,36 +433,18 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/774105664_3914658612162842_4409642865162244678_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BbTLl6PblAsQ7kNvwEY_HE8&_nc_oc=AdqX5_a7x4FU-XFD4hlr_0u3-NT3ARgFKSfZJDyhfSTz547BQhlpNTXBPlAGFgCUzAs&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQIu3OyFJHmYO2iKGK0T4s7oMXDu2ALTO5k8HeLsFep2ZA&oe=6AB05A7F"
+          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/774105664_3914658612162842_4409642865162244678_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BbTLl6PblAsQ7kNvwHUmzyp&_nc_oc=Adqc8nKwSkeZRmoB7NaKdtwd-KvAnwCA3hEkFruAylteA9uSGtlsdk0-HPLfOk9ivgU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQKUQ1LyremcAzTXkDhbWgEoTC-Yx-sf3X5r3omG564Oug&oe=6AB173BF"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
-    },
-    "1574917077636373": {
-      "adId": "1574917077636373",
-      "startedRunningRaw": "Started running on Aug 14, 2026",
-      "startedRunningOn": "2026-08-14",
-      "text": "J'ai quitté ma femme il y a 4 ans. Je ne suis pas fier de ce que je vais vous raconter.\n\nMais si vous êtes une femme de plus de 50 ans, vous devez entendre cette histoire...\n0:00 / 4:58\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMQP0QcdUvmcmk8OD6pRjT-2_6bdd7rLq5Beykcn6P2TYtPeZXwiwovjBVd7vBNQF0JbAtTl7FmhZ64YNgGGPXk7SfIE7KmlWcnNABlAw.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=-SGV8ueI3kgQ7kNvwGmOQFg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTgwMzY3MDEzNzYwNjQxMiwiYXNzZXRfYWdlX2RheXMiOjMyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6Mjk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQJJK-wN0vqN37DXbfP4ero6wl_3tQvbpIwqQRMKiMGL9g&oe=6AB037EA",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/769377264_1748499996483887_7263488687719786045_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Rk28QrhiiVoQ7kNvwHZ8HVT&_nc_oc=Adr2hOM10aRmv5qocJSonEjI-rA7ztaPBslZk3CnJGIiV5zeiEhuKFIziUT8L5_Wci8&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQLxoENAgN46kusEnTSqerytfE6TF-TmALuxUtxWDPT-4A&oe=6AB04FDB"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1530695838253310": {
       "adId": "1530695838253310",
@@ -407,16 +454,43 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/778972150_1604706204596821_4770103666628116832_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9AyP2J2Tc8oQ7kNvwH4w4NP&_nc_oc=AdrsVR40emaQP9xpx85g81gZBnf6197dceCi5j5_L1mY47FZb_XyocFSIKl8K4AtAZY&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQKN58tapCZMzDOzpzFeXqO-zOoSit1bxKRK0245r1-k_w&oe=6AB04BAD"
+          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/778972150_1604706204596821_4770103666628116832_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9AyP2J2Tc8oQ7kNvwEJoD0M&_nc_oc=Ado1Umgk5h3ZQ-lZzGyBxNbkhOeMgguIQosu7Qk1hE1vF98VfeP_NerPrjUmkhljKCU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQKUz5xJ4Y4xf4JanXzds0G7UWH7Lqr05MuQKmggMRXgaA&oe=6AB164ED"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
+    },
+    "1574917077636373": {
+      "adId": "1574917077636373",
+      "startedRunningRaw": "Started running on Aug 14, 2026",
+      "startedRunningOn": "2026-08-14",
+      "text": "J'ai quitté ma femme il y a 4 ans. Je ne suis pas fier de ce que je vais vous raconter.\n\nMais si vous êtes une femme de plus de 50 ans, vous devez entendre cette histoire...\n0:00 / 4:58\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMQP0QcdUvmcmk8OD6pRjT-2_6bdd7rLq5Beykcn6P2TYtPeZXwiwovjBVd7vBNQF0JbAtTl7FmhZ64YNgGGPXk7SfIE7KmlWcnNABlAw.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=-SGV8ueI3kgQ7kNvwH0uQj2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTgwMzY3MDEzNzYwNjQxMiwiYXNzZXRfYWdlX2RheXMiOjMzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6Mjk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&_nc_zt=28&oh=00_AQIHgOgMjCP2o3XKxSlDzA49pIyqMp3jBCKuQs_Rlx8VVw&oe=6AB1896A",
+          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/769377264_1748499996483887_7263488687719786045_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Rk28QrhiiVoQ7kNvwGKJb2C&_nc_oc=AdqE27XXoEt0AwX4pmxGe6Z19Ab0UFMcogHMRZUGEPRDeeuHxTn-7PzCpGme9OsF7Rc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQJcs1ulLSFPuz_bbhEcrHCSR_XcILIIyl1XUgGkewt4QA&oe=6AB1691B"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Angle C — Insider/celebrity-secret",
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "J'ai quitté ma femme il y a 4 ans."
     },
     "1590473072616514": {
       "adId": "1590473072616514",
@@ -426,16 +500,18 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/793212555_1552731479869412_231548344216815202_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DBf4Z9oQ08sQ7kNvwHJRevd&_nc_oc=AdrB44DxSXN0oYIkHh-gZuLqW8d444R2UvKseWE8dLQkQq4VRxdz4ceP7ixGpdcUviQ&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQJLHybnA9AdVdtCsJKg4LHfoMr3l0P2gQzTAwjmvYew3g&oe=6AB042DF"
+          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/793212555_1552731479869412_231548344216815202_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DBf4Z9oQ08sQ7kNvwGtgakH&_nc_oc=AdrkI1Y10BASxwAyqY57ExZ0jOAWPOAhCRyZhrchvXii5NsgWiFDG6SWfMAXbVZBHIA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQL6fQ7bsAs6eItjFLi6udLYP8C8aCPv6gH2MbF2D2Owqg&oe=6AB15C1F"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1355074166253695": {
       "adId": "1355074166253695",
@@ -445,15 +521,41 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/769309567_2040903060127057_2365259864260373900_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2TGC3g95v4UQ7kNvwHdlcRy&_nc_oc=AdoWJMEIfL0LCIRcm1PNGmPygrTgz69KN_Ic_y6XTm5tEF88qfDw-3H77HV7NYz1i5s&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQL7HAgZe1JkVgaGAOQj8J0jHIEqYOh4gFEwt8beTjsEWw&oe=6AB0634C"
+          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/769309567_2040903060127057_2365259864260373900_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2TGC3g95v4UQ7kNvwHeqqSE&_nc_oc=Adr5pW5KVZ_JS3TsBpS_-fjUloWO0K4moWsv6z1NXcDllGBPWMPiOuZvqOacEFR78JE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQKacwLQvswVmiAINcvc06e58BhLoEw-ZsgkmsIboja1rQ&oe=6AB17C8C"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Angle A — Botox-vergelijking",
+        "Angle B — Mechanisme/penetratie",
+        "Angle C — Insider/celebrity-secret"
+      ],
+      "hook": "Faisons le calcul, simplement."
+    },
+    "1734449747836408": {
+      "adId": "1734449747836408",
+      "startedRunningRaw": "Started running on Sep 12, 2026",
+      "startedRunningOn": "2026-09-12",
+      "text": "WWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQME9c-bLuE-uJMEO9UWQgtWHFOBZoHvOiIlnkX25N2Tk9GcLxiz2YRJL66WqHcfAisZIdXtGhLfULbYAT7rVHWh7xWKnGwv3hXa5SZQ3g.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Wod_g_MSjKAQ7kNvwGGaRD0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjg5ODUxNDQ4NzE3MjE3OCwiYXNzZXRfYWdlX2RheXMiOjQsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxMDcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&_nc_zt=28&oh=00_AQKMAfkY7lksPn025MtK9rLRm1hiGq4tCPcJhtNMWw5oig&oe=6AB17A5A",
+          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/803267326_1074786494927304_5245987081918492721_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cX9XnL0ZKE8Q7kNvwHOZSUo&_nc_oc=AdpDKZU7Z-p9E4roxT5C9_fwKmGJczr-8LK-r8257tcn_ZRxlH-hBCufH9GdrWxon3A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQKjpF0hl0aIMy3RVXc_NrCk7DeYoNpYeVczL8-AsTKBeQ&oe=6AB187DE"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
       "notifiedAsWinner": false
     },
     "1352325813655038": {
@@ -464,17 +566,22 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNg4to1E6NC3c6rfYQST-x1lP3CkH9AY-lwqOC_uQIkM1UtlDFM9VBEETBCOEhbo46GJGK0_x3s7H8eq8s-kxKC0fCBFX4LL1UWpyeTsw.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=WIaAyomRerMQ7kNvwEPlaEh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTUzNjgwNTE3NDAzNjcxMSwiYXNzZXRfYWdlX2RheXMiOjUyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQK083Xu5Cnip_6yOm4C66GLs2Y_vl1p8Knqyr8MDsA72g&oe=6AB03E78",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/756341980_892116683976955_1389573531422611413_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fdOxbwcTky8Q7kNvwFAUbWM&_nc_oc=AdrvBGP526nQFcZaQ3qTZm0IwvSO7deZwuzein9zTgV3QaGKepB_II_lVmdjRkNF220&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQLyRO9ZjUl0PAflB2_XcI-4tzRfehdtu6hYSmFcqTdZAQ&oe=6AB0650F"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNg4to1E6NC3c6rfYQST-x1lP3CkH9AY-lwqOC_uQIkM1UtlDFM9VBEETBCOEhbo46GJGK0_x3s7H8eq8s-kxKC0fCBFX4LL1UWpyeTsw.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=UuzBTdlGUT0Q7kNvwEpr2H1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTUzNjgwNTE3NDAzNjcxMSwiYXNzZXRfYWdlX2RheXMiOjUzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&_nc_zt=28&oh=00_AQJRT5TZhgyUtuPMeWf0yY6vZsG-EEXUZ10EhGDKZ5tcYQ&oe=6AB157B8",
+          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/756341980_892116683976955_1389573531422611413_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fdOxbwcTky8Q7kNvwE5nLIz&_nc_oc=AdqjvD1tDkOROHo1fgI0GZ3zgDyLZ_JhlPblerlQK5JlOvgL9OwL5ZpoFcCuF1lZQBE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQL7Co6OaKMlKeo4s1QHT0KCBoEOAlxU4MnsqRJnhUxPiA&oe=6AB17E4F"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Testimonial/persoonlijk verhaal",
+        "Angle C — Insider/celebrity-secret"
+      ],
+      "hook": "J'ai fait semblant avec mon mari il y a trois semaines."
     },
     "1457185083093731": {
       "adId": "1457185083093731",
@@ -484,16 +591,18 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/756441315_1022964943709576_5999171343606319614_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ukeFgmagvUUQ7kNvwHTy3Bq&_nc_oc=AdoZtDw30TXuSf-pngNZeMbqxdCGswLf9ZogHUI-RjIAnFAZ9-2xjYRLB4cng8S7REw&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQKPPNxGU2lGB2_oRsRbiANfDVhh-OHzXzIoccKmmynz9Q&oe=6AB0443C"
+          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/756441315_1022964943709576_5999171343606319614_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ukeFgmagvUUQ7kNvwH019pu&_nc_oc=AdoWn5Ss4aqWwjCpyxQHNTcWf7IFOeUPgTpm8seiuEJGSgXjZATj22GeVh2DtNVlfP0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQKc_Hg4aMM9qYbXcAp8eeGz0XCb40oWMqrjTLyrSksssg&oe=6AB15D7C"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1408886934783053": {
       "adId": "1408886934783053",
@@ -503,16 +612,21 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/763756770_1759228241955090_6106519320662273904_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fO33pVwctGEQ7kNvwH1VDW3&_nc_oc=AdoRvEnHEPJHU4GUCktXgOoJTd10tRNvkfdVBrh17anHtbHwWhszAODoME_XfBinWRg&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ghXkklBlX9j7y27DTcIJuQ&_nc_ss=7f289&oh=00_AQIAUsCxg6LC20eJvi5y7zJt84PEJKTLSltxbQqBzwx3xg&oe=6AB04E68"
+          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763756770_1759228241955090_6106519320662273904_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fO33pVwctGEQ7kNvwHEsjIC&_nc_oc=Adq86wsn0B8IVB2pRDvO0t4lSHbkYPh4ymKh_9y76ZIw9M89RpkafLYlTTR57bhwncM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=yuhNIqXn81KIwAUnok9rUA&_nc_ss=7f289&oh=00_AQIQpjGJmEgQ3ry63FrSzyKmNkaNu8v48Hy_pXO84cyp3Q&oe=6AB167A8"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
+      "lastSeenAt": "2026-09-17T08:10:59.990Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Angle B — Mechanisme/penetratie",
+        "Angle A — Botox-vergelijking"
+      ],
+      "hook": "La Corée a 3 000 ans d'avance sur l'anti-âge."
     },
     "2587662695008684": {
       "adId": "2587662695008684",
@@ -527,7 +641,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -546,7 +660,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -566,7 +680,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -586,7 +700,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -605,7 +719,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -624,27 +738,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-16T11:33:42.755Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false
-    },
-    "1734449747836408": {
-      "adId": "1734449747836408",
-      "startedRunningRaw": "Started running on Sep 12, 2026",
-      "startedRunningOn": "2026-09-12",
-      "text": "WWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQME9c-bLuE-uJMEO9UWQgtWHFOBZoHvOiIlnkX25N2Tk9GcLxiz2YRJL66WqHcfAisZIdXtGhLfULbYAT7rVHWh7xWKnGwv3hXa5SZQ3g.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=Wod_g_MSjKAQ7kNvwGbIYYb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjg5ODUxNDQ4NzE3MjE3OCwiYXNzZXRfYWdlX2RheXMiOjMsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxMDcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=UfmiacElw6J2zgQ0R_A5Sg&_nc_ss=7c289&_nc_zt=28&oh=00_AQK8x1RtjoRxSGTdQHYB9hLt2ApI9Ly7N79dkA0SqEqqVg&oe=6AB0611A",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/803267326_1074786494927304_5245987081918492721_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cX9XnL0ZKE8Q7kNvwH-m1pj&_nc_oc=AdqENgSoBNs0R3LiqrbKaFAXa-8vu4AP06PWAgeXm2N2109_l3DUmd-hzScjT038q8A&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=UfmiacElw6J2zgQ0R_A5Sg&_nc_ss=7c289&oh=00_AQJ9jQDRK11FEE6dmM0kP3K8Cr4Q8vtgUcVM4PyNXpPY-A&oe=6AB0365E"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -664,7 +758,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -683,7 +777,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -703,7 +797,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -722,7 +816,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -741,7 +835,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -760,7 +854,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -780,7 +874,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -800,7 +894,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -819,7 +913,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -839,7 +933,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -858,7 +952,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -877,7 +971,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -897,7 +991,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -917,7 +1011,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -937,7 +1031,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -957,7 +1051,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -976,7 +1070,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -995,7 +1089,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1014,7 +1108,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1034,7 +1128,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1053,7 +1147,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1072,7 +1166,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1091,7 +1185,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1110,7 +1204,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1129,7 +1223,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1149,7 +1243,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1168,7 +1262,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1188,7 +1282,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1207,7 +1301,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1226,7 +1320,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1246,7 +1340,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1265,7 +1359,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1284,7 +1378,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1304,7 +1398,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1323,7 +1417,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1342,7 +1436,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1361,7 +1455,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1380,7 +1474,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1399,7 +1493,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1419,7 +1513,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1438,7 +1532,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1457,7 +1551,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1477,7 +1571,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1496,7 +1590,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1515,7 +1609,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1535,7 +1629,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1554,7 +1648,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1573,7 +1667,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1592,7 +1686,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1612,7 +1706,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1631,7 +1725,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1650,7 +1744,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1670,7 +1764,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1689,7 +1783,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1708,7 +1802,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1727,7 +1821,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1747,7 +1841,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1766,7 +1860,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1785,7 +1879,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1804,7 +1898,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1823,7 +1917,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1842,7 +1936,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1861,7 +1955,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1880,7 +1974,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1899,7 +1993,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1918,7 +2012,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1937,7 +2031,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1956,7 +2050,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1975,7 +2069,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -1994,7 +2088,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2013,7 +2107,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2032,7 +2126,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2051,7 +2145,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2070,7 +2164,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2089,7 +2183,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2108,7 +2202,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2127,7 +2221,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2146,7 +2240,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2165,7 +2259,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2184,7 +2278,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2203,7 +2297,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2222,7 +2316,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2241,7 +2335,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2260,7 +2354,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2279,7 +2373,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2298,7 +2392,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2318,7 +2412,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2337,7 +2431,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2356,7 +2450,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2375,7 +2469,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2395,7 +2489,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2415,7 +2509,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2434,7 +2528,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2453,7 +2547,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2472,7 +2566,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2491,7 +2585,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2510,7 +2604,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2529,7 +2623,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2549,7 +2643,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2568,7 +2662,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2588,7 +2682,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2607,7 +2701,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2626,7 +2720,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2645,7 +2739,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2664,7 +2758,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2683,7 +2777,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2703,7 +2797,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2722,7 +2816,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2741,7 +2835,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2760,7 +2854,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2779,7 +2873,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2798,7 +2892,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2817,7 +2911,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2837,7 +2931,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2856,7 +2950,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
@@ -2875,7 +2969,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
