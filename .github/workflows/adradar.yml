@@ -1,12 +1,15 @@
 name: AdRadar daily sweep
 
-# Sweeps each competitor's Meta Ad Library once a day, diffs against the
-# committed snapshot, and pushes new/winner ads to Slack/Discord. The updated
-# snapshot is committed back so the next run can compute a real diff.
+# Sweeps each competitor's Meta Ad Library twice a day (08:00 + 20:00 UTC),
+# diffs against the committed snapshot, and pushes validated (winner/rising)
+# ads to Slack/Discord. The updated snapshot is committed back so the next
+# run can compute a real diff. Reach history is deduped per calendar date
+# (see index.ts), so running twice a day does not distort the "N consecutive
+# days" rising confirmation into "N runs".
 
 on:
   schedule:
-    - cron: "0 8 * * *" # 08:00 UTC every day
+    - cron: "0 8,20 * * *" # 08:00 and 20:00 UTC every day
   workflow_dispatch: {} #  …or trigger it by hand from the Actions tab
 
 permissions:

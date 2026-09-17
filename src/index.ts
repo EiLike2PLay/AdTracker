@@ -295,11 +295,20 @@ async function run(config: RuntimeConfig, quiet: boolean): Promise<number> {
 
       const daysRunning = computeDaysRunning(ad, nowIso);
       const scopedReachPerDay = computeScopedReachPerDay(eu, config.targetCountries, daysRunning);
+      const today = nowIso.slice(0, 10);
 
-      ad.reachHistory = [
-        ...(ad.reachHistory ?? []),
-        { date: nowIso.slice(0, 10), reachPerDay: scopedReachPerDay },
-      ].slice(-config.risingConfirmDays);
+      // Keep at most one entry per calendar date — running this workflow
+      // more than once a day must not let "N consecutive days" collapse
+      // into "N runs within a day or two". A same-day rerun just refreshes
+      // today's reading instead of appending a duplicate.
+      const history = ad.reachHistory ?? [];
+      const todayIndex = history.findIndex((h) => h.date === today);
+      if (todayIndex >= 0) {
+        history[todayIndex] = { date: today, reachPerDay: scopedReachPerDay };
+      } else {
+        history.push({ date: today, reachPerDay: scopedReachPerDay });
+      }
+      ad.reachHistory = history.slice(-config.risingConfirmDays);
 
       const confirmed =
         !ad.notifiedAsRising &&
