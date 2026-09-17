@@ -82,6 +82,28 @@ export function resolveTargetUrl(pageIdOrUrl: string, country: string): string {
 }
 
 /**
+ * Build an Ad Library URL that searches by free-text KEYWORD instead of a
+ * known page id. This is the automatable equivalent of the manual "search
+ * for a keyword across the Ad Library" technique used to discover unknown
+ * competitors (e.g. finding "Saeskyn") — it needs no Meta Ad Library API
+ * access / advertiser identity verification, unlike a broader programmatic
+ * market scan would.
+ */
+export function resolveDiscoveryUrl(keyword: string, country: string): string {
+  const params = new URLSearchParams({
+    active_status: "active",
+    ad_type: "all",
+    country,
+    is_targeted_country: "false",
+    media_type: "all",
+    q: keyword.trim(),
+    search_type: "keyword_unordered",
+  });
+
+  return `https://www.facebook.com/ads/library/?${params.toString()}`;
+}
+
+/**
  * Best-effort parser for Meta's "Started running on Jan 5, 2024" strings into
  * an ISO YYYY-MM-DD date. Handles the common English formats the Ad Library
  * emits. Returns null when it genuinely cannot tell.

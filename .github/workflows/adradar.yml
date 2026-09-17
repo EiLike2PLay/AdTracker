@@ -6,10 +6,16 @@ name: AdRadar daily sweep
 # run can compute a real diff. Reach history is deduped per calendar date
 # (see index.ts), so running twice a day does not distort the "N consecutive
 # days" rising confirmation into "N runs".
+#
+# The `discover` job additionally searches the Ad Library by KEYWORD (not by
+# a known page) to catch competitors we haven't manually added yet — the
+# automated version of the manual search that originally found "Saeskyn".
+# It runs once a day (not twice) to keep GitHub Actions minutes bounded.
 
 on:
   schedule:
-    - cron: "0 8,20 * * *" # 08:00 and 20:00 UTC every day
+    - cron: "0 8,20 * * *" # 08:00 and 20:00 UTC every day (known-page sweep)
+    - cron: "0 6 * * *" # 06:00 UTC once a day (keyword discovery)
   workflow_dispatch: {} #  …or trigger it by hand from the Actions tab
 
 permissions:
@@ -22,6 +28,9 @@ concurrency:
 
 jobs:
   radar:
+    # Scheduled dispatch: only run for the twice-daily known-page cron, not
+    # the discovery cron. A manual "Run workflow" click always runs it.
+    if: github.event_name != 'schedule' || github.event.schedule == '0 8,20 * * *'
     runs-on: ubuntu-latest
     strategy:
       # Don't let one competitor's failure abort the others.
@@ -84,6 +93,79 @@ jobs:
           else
             git commit -m "chore(adradar): update snapshot for ${{ matrix.page }}"
             # Rebase-pull guards against the previous matrix leg's push.
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+  discover:
+    # Scheduled dispatch: only run for the once-daily discovery cron. A
+    # manual "Run workflow" click always runs it too, after `radar` (see
+    # `needs:` below) so the two jobs never race pushing to the same branch.
+    if: always() && (github.event_name != 'schedule' || github.event.schedule == '0 6 * * *')
+    needs: radar
+    runs-on: ubuntu-latest
+    strategy:
+      # Don't let one keyword's failure abort the others.
+      fail-fast: false
+      # One snapshot file per keyword is committed sequentially.
+      max-parallel: 1
+      matrix:
+        include:
+          # Two phrasings of the core product, checked across the same EU
+          # markets the "rising" threshold is scoped to. Add more keywords
+          # here as new angles/phrasings turn up in what we find.
+          - keyword: "collagen ampoule"
+            slug: "collagen-ampoule"
+            country: "FR"
+          - keyword: "silk ampoule"
+            slug: "silk-ampoule"
+            country: "FR"
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Set up Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --ignore-scripts
+
+      - name: Install Chromium (with system deps)
+        run: npx playwright install --with-deps chromium
+
+      - name: Build
+        run: npm run build
+
+      - name: Discover ads for "${{ matrix.keyword }}"
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL_NEW_PRODUCTS: ${{ secrets.DISCORD_WEBHOOK_URL_NEW_PRODUCTS }}
+        run: |
+          node dist/index.js \
+            --keyword "${{ matrix.keyword }}" \
+            --data "data/discover-${{ matrix.slug }}.json" \
+            --country ${{ matrix.country }} \
+            --exclude-pages "Korean Skincare Reviews,Nuria,Saeskyn" \
+            --winner-days 7 \
+            --min-reach-per-day 2000 \
+            --new-ad-max-age 7 \
+            --rising-confirm-days 3 \
+            --target-countries "France,Germany,Netherlands,Belgium,Italy,Spain"
+
+      - name: Commit updated snapshot
+        run: |
+          git config user.name  "adradar-bot"
+          git config user.email "adradar@users.noreply.github.com"
+          git add -f "data/discover-${{ matrix.slug }}.json"
+          if git diff --cached --quiet; then
+            echo "No snapshot changes for ${{ matrix.slug }} — nothing to commit."
+          else
+            git commit -m "chore(adradar): update discovery snapshot for ${{ matrix.slug }}"
             git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi

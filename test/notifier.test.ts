@@ -27,6 +27,8 @@ function makeConfig(overrides: Partial<RuntimeConfig> = {}): RuntimeConfig {
     newAdMaxAgeDays: 7,
     targetCountries: ["France", "Germany"],
     risingConfirmDays: 3,
+    discoveryKeyword: null,
+    excludePageNames: [],
     discordWebhookUrlNewProducts: null,
     maxScrolls: 40,
     headless: true,

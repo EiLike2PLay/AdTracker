@@ -205,6 +205,19 @@ export interface RuntimeConfig {
   risingConfirmDays: number;
   /** Discord webhook for the second ("new products", non-Ampoule) channel, if configured. */
   discordWebhookUrlNewProducts: string | null;
+  /**
+   * When set, this run searches the Ad Library by free-text keyword (see
+   * {@link resolveDiscoveryUrl}) instead of tracking one known page — used to
+   * discover unknown/new competitors rather than re-check known ones.
+   */
+  discoveryKeyword: string | null;
+  /**
+   * Advertiser names to drop from the results entirely, matched
+   * case-insensitively against {@link Ad.pageName}. Used in keyword-discovery
+   * mode so already-tracked competitors (who have their own dedicated page
+   * job) don't get double-reported here too.
+   */
+  excludePageNames: string[];
   /** Max number of infinite-scroll passes before we give up. */
   maxScrolls: number;
   /** Run the browser headless? */

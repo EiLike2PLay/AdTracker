@@ -13,7 +13,7 @@
 
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { parseStartedRunning, resolveTargetUrl } from "../src/scraper.js";
+import { parseStartedRunning, resolveDiscoveryUrl, resolveTargetUrl } from "../src/scraper.js";
 
 /* ---------------------------------------------------------------------- *
  *  parseStartedRunning                                                    *
@@ -88,4 +88,24 @@ test("resolveTargetUrl: respects the requested country filter", () => {
 test("resolveTargetUrl: trims surrounding whitespace from the page id", () => {
   const result = resolveTargetUrl("  42  ", "US");
   assert.equal(new URL(result).searchParams.get("view_all_page_id"), "42");
+});
+
+/* ---------------------------------------------------------------------- *
+ *  resolveDiscoveryUrl                                                    *
+ * ---------------------------------------------------------------------- */
+
+test("resolveDiscoveryUrl: builds a keyword search URL, not a page-id URL", () => {
+  const result = resolveDiscoveryUrl("collagen ampoule", "FR");
+  const parsed = new URL(result);
+
+  assert.equal(parsed.origin + parsed.pathname, "https://www.facebook.com/ads/library/");
+  assert.equal(parsed.searchParams.get("q"), "collagen ampoule");
+  assert.equal(parsed.searchParams.get("search_type"), "keyword_unordered");
+  assert.equal(parsed.searchParams.get("country"), "FR");
+  assert.equal(parsed.searchParams.get("view_all_page_id"), null);
+});
+
+test("resolveDiscoveryUrl: trims surrounding whitespace from the keyword", () => {
+  const result = resolveDiscoveryUrl("  silk ampoule  ", "ALL");
+  assert.equal(new URL(result).searchParams.get("q"), "silk ampoule");
 });

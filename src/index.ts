@@ -32,6 +32,7 @@ import {
   checkEuTransparency,
   computeScopedReachPerDay,
   computeTopCountries,
+  resolveDiscoveryUrl,
   resolveTargetUrl,
   scrapeAdLibrary,
 } from "./scraper.js";
@@ -47,6 +48,8 @@ const VERSION = "1.0.0";
 interface CliOptions {
   pageId?: string;
   url?: string;
+  keyword?: string;
+  excludePages: string;
   country: string;
   data: string;
   winnerDays: string;
@@ -76,6 +79,16 @@ function buildProgram(): Command {
     .version(VERSION, "-v, --version", "print the AdRadar version")
     .option("-p, --page-id <id>", "Facebook page id to monitor")
     .option("-u, --url <url>", "full Ad Library URL (overrides --page-id)")
+    .option(
+      "-k, --keyword <text>",
+      "search the Ad Library by free-text keyword instead of a known page id " +
+        "(overrides --page-id/--url) — for discovering unknown/new competitors",
+    )
+    .option(
+      "--exclude-pages <list>",
+      "comma-separated advertiser names to drop from the results (e.g. pages already tracked via their own job)",
+      "",
+    )
     .option("-c, --country <code>", "Ad Library country filter (e.g. US, ALL)", "ALL")
     .option("-d, --data <file>", "path to the snapshot JSON", "data/snapshot.json")
     .option("-w, --winner-days <n>", "days running to qualify as a winner", "7")
@@ -119,14 +132,33 @@ function buildProgram(): Command {
  * validating required inputs along the way.
  */
 function resolveConfig(opts: CliOptions): RuntimeConfig {
-  const rawPage = opts.url ?? opts.pageId ?? process.env["ADRADAR_PAGE_ID"];
+  const keyword = opts.keyword?.trim() || null;
 
-  if (!rawPage || rawPage.trim().length === 0) {
-    throw new UsageError(
-      "Missing target. Provide --page-id <id> or --url <adLibraryUrl> " +
-        "(or set ADRADAR_PAGE_ID).",
-    );
+  let pageId: string;
+  let targetUrl: string;
+
+  if (keyword) {
+    // Discovery mode: search by keyword instead of tracking one known page.
+    pageId = `discover:${keyword}`;
+    targetUrl = resolveDiscoveryUrl(keyword, opts.country);
+  } else {
+    const rawPage = opts.url ?? opts.pageId ?? process.env["ADRADAR_PAGE_ID"];
+
+    if (!rawPage || rawPage.trim().length === 0) {
+      throw new UsageError(
+        "Missing target. Provide --page-id <id>, --url <adLibraryUrl>, or --keyword <text> " +
+          "(or set ADRADAR_PAGE_ID).",
+      );
+    }
+
+    pageId = opts.url ? opts.url.trim() : rawPage.trim();
+    targetUrl = resolveTargetUrl(rawPage, opts.country);
   }
+
+  const excludePageNames = opts.excludePages
+    .split(",")
+    .map((n) => n.trim())
+    .filter((n) => n.length > 0);
 
   const winnerThresholdDays = toPositiveInt(opts.winnerDays, "winner-days");
   const minReachPerDay = toPositiveInt(opts.minReachPerDay, "min-reach-per-day");
@@ -139,9 +171,6 @@ function resolveConfig(opts: CliOptions): RuntimeConfig {
   const maxScrolls = toPositiveInt(opts.maxScrolls, "max-scrolls");
   const navigationTimeoutMs = toPositiveInt(opts.timeout, "timeout");
 
-  const pageId = opts.url ? opts.url.trim() : rawPage.trim();
-  const targetUrl = resolveTargetUrl(rawPage, opts.country);
-
   return {
     pageId,
     targetUrl,
@@ -152,6 +181,8 @@ function resolveConfig(opts: CliOptions): RuntimeConfig {
     newAdMaxAgeDays,
     targetCountries,
     risingConfirmDays,
+    discoveryKeyword: keyword,
+    excludePageNames,
     maxScrolls,
     headless: opts.headless,
     slackWebhookUrl:
@@ -188,7 +219,11 @@ async function run(config: RuntimeConfig, quiet: boolean): Promise<number> {
   banner(log);
 
   log(bold(cyan("\n▸ Target")));
-  log(`  page/url : ${magenta(config.pageId)}`);
+  log(
+    config.discoveryKeyword
+      ? `  mode     : ${magenta("keyword discovery")} — "${config.discoveryKeyword}"`
+      : `  page/url : ${magenta(config.pageId)}`,
+  );
   log(`  country  : ${config.country}`);
   log(`  url      : ${dim(config.targetUrl)}`);
   log(`  snapshot : ${dim(config.dataFile)}`);
@@ -199,8 +234,19 @@ async function run(config: RuntimeConfig, quiet: boolean): Promise<number> {
   /* --- 1) Scrape ----------------------------------------------------- */
   log(bold(cyan("\n▸ Scraping Meta Ad Library")));
   const startedAt = Date.now();
-  const ads = await scrapeAdLibrary(config, progress);
+  let ads = await scrapeAdLibrary(config, progress);
   const elapsed = ((Date.now() - startedAt) / 1000).toFixed(1);
+
+  // In keyword-discovery mode, drop ads from advertisers we already track via
+  // their own dedicated page job — they'd otherwise get reported twice.
+  if (config.excludePageNames.length > 0) {
+    const excludeSet = new Set(config.excludePageNames.map((n) => n.toLowerCase()));
+    const before = ads.length;
+    ads = ads.filter((ad) => !ad.pageName || !excludeSet.has(ad.pageName.toLowerCase()));
+    if (before !== ads.length) {
+      log(dim(`  ⓘ filtered out ${before - ads.length} ad(s) from already-tracked page(s)`));
+    }
+  }
 
   if (ads.length === 0) {
     log(yellow(`  ⚠ No active ads found (took ${elapsed}s).`));
