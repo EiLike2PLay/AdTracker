@@ -10,7 +10,7 @@
 import { test, mock, beforeEach, afterEach } from "node:test";
 import assert from "node:assert/strict";
 import axios from "axios";
-import { notify } from "../src/notifier.js";
+import { notify, buildNotificationItems } from "../src/notifier.js";
 import type { NotificationItem, RuntimeConfig, StoredAd } from "../src/types.js";
 
 const AMPOULE_WEBHOOK = "https://discord.com/api/webhooks/AAA/ampoule";
@@ -165,6 +165,22 @@ test("notify: dry-run sends nothing to either webhook", async () => {
   assert.ok(outcome.errors.some((e) => e.startsWith("dry-run")));
 });
 
+test("buildNotificationItems: only winners and confirmed-rising ads are included, never plain 'new' sightings", () => {
+  const winner = makeAd({ adId: "winner-1" });
+  const rising = makeAd({ adId: "rising-1" });
+
+  const items = buildNotificationItems([winner], [rising], "2026-06-28T12:00:00.000Z");
+
+  assert.equal(items.length, 2);
+  assert.ok(items.some((i) => i.reason === "winner" && i.ad.adId === "winner-1"));
+  assert.ok(items.some((i) => i.reason === "rising" && i.ad.adId === "rising-1"));
+  assert.ok(!items.some((i) => i.reason === "new"));
+});
+
+test("buildNotificationItems: returns nothing when there are no validated ads", () => {
+  assert.deepEqual(buildNotificationItems([], []), []);
+});
+
 test("notify: an ad's own embed carries its detected angle and hook", async () => {
   const config = makeConfig({ discordWebhookUrl: AMPOULE_WEBHOOK });
   const items = [
@@ -182,4 +198,33 @@ test("notify: an ad's own embed carries its detected angle and hook", async () =
   const fields = body.embeds[0]!.fields;
   assert.ok(fields.some((f) => f.name === "Angle" && f.value.includes("Botox-vergelijking")));
   assert.ok(fields.some((f) => f.name === "Hook" && f.value.includes("berekening")));
+});
+
+test("notify: reach fields prefer the scoped daily average over the lifetime average, and include a link to the ad", async () => {
+  const config = makeConfig({ discordWebhookUrl: AMPOULE_WEBHOOK });
+  const items = [
+    makeItem("rising", {
+      adId: "ampoule-1",
+      text: "Ampoule copy",
+      euReach: 9000,
+      euCountries: ["France"],
+      reachHistory: [
+        { date: "2026-06-26", reachPerDay: 2500 },
+        { date: "2026-06-27", reachPerDay: 3000 },
+        { date: "2026-06-28", reachPerDay: 3500 },
+      ],
+      adLibraryUrl: "https://www.facebook.com/ads/library/?id=ampoule-1",
+    }),
+  ];
+
+  await notify(items, config);
+
+  const body = posted[0]!.body as { embeds: Array<{ fields: Array<{ name: string; value: string }> }> };
+  const fields = body.embeds[0]!.fields;
+  assert.ok(fields.some((f) => f.name === "Reach totaal (EU)" && f.value === "9,000"));
+  // Average of the 3 daily readings (2500, 3000, 3500) = 3000, not 9000 / daysRunning.
+  assert.ok(fields.some((f) => f.name === "Reach gemiddeld/dag" && f.value === "3,000"));
+  assert.ok(
+    fields.some((f) => f.name === "Ad Library" && f.value.includes("ads/library/?id=ampoule-1")),
+  );
 });

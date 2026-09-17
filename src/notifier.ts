@@ -36,26 +36,20 @@ export interface NotifyOutcome {
 }
 
 /**
- * Build the notification items (new + winners) from a diff, computing the
- * `daysRunning` for each at send time.
+ * Build the notification items to actually push out. Deliberately narrow:
+ * a plain "new" sighting is not validated by any vuistregel yet, so it is
+ * never included here — only a confirmed "winner" (≥ winnerThresholdDays,
+ * see {@link reconcile}) or a confirmed "rising" ad (risingConfirmDays
+ * consecutive days ≥ minReachPerDay, see the orchestration in index.ts)
+ * has cleared a rule and is worth a notification.
  */
 export function buildNotificationItems(
-  newAds: StoredAd[],
   winners: StoredAd[],
   rising: StoredAd[] = [],
   nowIso: string = new Date().toISOString(),
 ): NotificationItem[] {
   const items: NotificationItem[] = [];
 
-  // A confirmed-rising ad is announced as "rising", never also as "new" —
-  // it takes a few days of history to confirm, so in practice it has
-  // already aged out of the newAds list by the time it qualifies anyway.
-  const risingIds = new Set(rising.map((ad) => ad.adId));
-
-  for (const ad of newAds) {
-    if (risingIds.has(ad.adId)) continue;
-    items.push({ reason: "new", ad, daysRunning: computeDaysRunning(ad, nowIso) });
-  }
   for (const ad of rising) {
     items.push({ reason: "rising", ad, daysRunning: computeDaysRunning(ad, nowIso) });
   }
@@ -357,6 +351,9 @@ function buildDiscordEmbed(
         : []),
       ...(ad.hook ? [{ name: "Hook", value: `"${ad.hook}"`, inline: false }] : []),
       ...buildEuFields(ad, daysRunning),
+      ...(ad.adLibraryUrl
+        ? [{ name: "Ad Library", value: `[Bekijk de ad](${ad.adLibraryUrl})`, inline: false }]
+        : []),
     ],
   };
 
@@ -395,15 +392,28 @@ function describeMediaType(ad: StoredAd): string {
  * for ads we never checked (existing winners) or that were never shown in
  * the EU — no point rendering "n/a" everywhere.
  */
+/**
+ * Average reach/day: prefers the mean of the daily, target-country-scoped
+ * {@link StoredAd.reachHistory} readings (what actually drove a "rising"
+ * confirmation) over the cruder lifetime average (total reach / days
+ * running), which is unscoped and can include countries we don't sell into.
+ */
+function averageReachPerDay(ad: StoredAd, daysRunning: number): number {
+  if (ad.reachHistory && ad.reachHistory.length > 0) {
+    const sum = ad.reachHistory.reduce((acc, h) => acc + h.reachPerDay, 0);
+    return Math.round(sum / ad.reachHistory.length);
+  }
+  return Math.round((ad.euReach ?? 0) / Math.max(1, daysRunning));
+}
+
 function buildEuFields(
   ad: StoredAd,
   daysRunning: number,
 ): Array<{ name: string; value: string; inline?: boolean }> {
   if (typeof ad.euReach !== "number") return [];
-  const reachPerDay = Math.round(ad.euReach / Math.max(1, daysRunning));
   const fields: Array<{ name: string; value: string; inline?: boolean }> = [
-    { name: "EU Reach (est.)", value: ad.euReach.toLocaleString(), inline: true },
-    { name: "Reach / dag", value: reachPerDay.toLocaleString(), inline: true },
+    { name: "Reach totaal (EU)", value: ad.euReach.toLocaleString(), inline: true },
+    { name: "Reach gemiddeld/dag", value: averageReachPerDay(ad, daysRunning).toLocaleString(), inline: true },
   ];
   if (ad.euCountries && ad.euCountries.length > 0) {
     fields.push({ name: "Land(en)", value: ad.euCountries.join(", "), inline: true });
@@ -417,9 +427,9 @@ function buildEuFields(
 /** One-line Slack equivalent of {@link buildEuFields}. */
 function buildEuLine(ad: StoredAd, daysRunning: number): string | null {
   if (typeof ad.euReach !== "number") return null;
-  const reachPerDay = Math.round(ad.euReach / Math.max(1, daysRunning));
+  const avg = averageReachPerDay(ad, daysRunning);
   const countries = ad.euCountries && ad.euCountries.length > 0 ? ad.euCountries.join(", ") : "onbekend";
-  return `🇪🇺 reach *${ad.euReach.toLocaleString()}* (${reachPerDay.toLocaleString()}/dag) · ${countries}`;
+  return `🇪🇺 totaal *${ad.euReach.toLocaleString()}* · gemiddeld *${avg.toLocaleString()}*/dag · ${countries}`;
 }
 
 function pickThumbnail(ad: StoredAd): string | null {

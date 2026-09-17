@@ -260,7 +260,14 @@ async function run(config: RuntimeConfig, quiet: boolean): Promise<number> {
       (ad.reachHistory?.length ?? 0) < config.risingConfirmDays &&
       !freshCandidates.some((c) => c.adId === ad.adId),
   );
-  const reachCandidates = [...freshCandidates, ...pendingCandidates];
+  // Winners get a one-off reach lookup too (no multi-day confirmation —
+  // they're already validated by the time-based rule) purely so the winner
+  // notification can show "Reach totaal" / "Reach gemiddeld" alongside the
+  // rest. Skip it once we already know the number.
+  const winnerCandidates = diff.longRunningWinners.filter(
+    (ad) => typeof ad.euReach !== "number",
+  );
+  const reachCandidates = [...freshCandidates, ...pendingCandidates, ...winnerCandidates];
 
   const confirmedRising: StoredAd[] = [];
 
@@ -273,6 +280,9 @@ async function run(config: RuntimeConfig, quiet: boolean): Promise<number> {
       reachCandidates.map((ad) => ad.adId),
       progress,
     );
+    const risingEligibleIds = new Set(
+      [...freshCandidates, ...pendingCandidates].map((ad) => ad.adId),
+    );
     for (const ad of reachCandidates) {
       const eu = euResults.get(ad.adId);
       if (!eu) continue; // not shown in the EU (or lookup failed) — skip, don't break the streak with a false zero
@@ -280,6 +290,8 @@ async function run(config: RuntimeConfig, quiet: boolean): Promise<number> {
       ad.euReach = eu.reach;
       ad.euCountries = eu.countries;
       ad.euTopSegment = eu.topSegment;
+
+      if (!risingEligibleIds.has(ad.adId)) continue; // winner-only lookup — no confirmation bookkeeping needed
 
       const daysRunning = computeDaysRunning(ad, nowIso);
       const scopedReachPerDay = computeScopedReachPerDay(eu, config.targetCountries, daysRunning);
@@ -305,13 +317,12 @@ async function run(config: RuntimeConfig, quiet: boolean): Promise<number> {
   await saveSnapshot(config.dataFile, diff.snapshot);
   log(dim(`\n  💾 Snapshot written (${Object.keys(diff.snapshot.ads).length} ad(s) tracked)`));
 
-  /* --- 6) Notify ------------------------------------------------------ */
-  const items = buildNotificationItems(
-    diff.newAds,
-    diff.longRunningWinners,
-    confirmedRising,
-    nowIso,
-  );
+  /* --- 6) Notify — only vuistregel-gevalideerde items ------------------ *
+   * Plain "new" sightings are never pushed: they show up in the run log
+   * (printFindings above) for visibility, but only a confirmed "winner"
+   * (≥ winnerThresholdDays) or a confirmed "rising" ad (risingConfirmDays
+   * consecutive days ≥ minReachPerDay) is validated enough to notify on. */
+  const items = buildNotificationItems(diff.longRunningWinners, confirmedRising, nowIso);
 
   if (confirmedRising.length > 0) {
     log(
