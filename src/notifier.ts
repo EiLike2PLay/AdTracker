@@ -16,6 +16,7 @@
 import axios, { AxiosError } from "axios";
 import { computeDaysRunning } from "./storage.js";
 import { looksLikeAmpouleProduct } from "./classify.js";
+import { buildAdLibraryUrl } from "./scraper.js";
 import type {
   NotificationItem,
   RuntimeConfig,
@@ -229,18 +230,16 @@ function buildSlackBlocks(
 
     blocks.push(section);
 
-    if (ad.adLibraryUrl) {
-      blocks.push({
-        type: "actions",
-        elements: [
-          {
-            type: "button",
-            text: { type: "plain_text", text: "🔗 Open in Ad Library", emoji: true },
-            url: ad.adLibraryUrl,
-          },
-        ],
-      });
-    }
+    blocks.push({
+      type: "actions",
+      elements: [
+        {
+          type: "button",
+          text: { type: "plain_text", text: "🔗 Open in Ad Library", emoji: true },
+          url: resolveAdLink(ad),
+        },
+      ],
+    });
 
     blocks.push({ type: "divider" });
   }
@@ -320,8 +319,14 @@ function buildDiscordEmbed(
   // whatever language the ad targets (often French) and can be 1000+ chars.
   const description = ad.hook ?? truncate(ad.text || "(geen tekst gevonden)", 150);
 
+  const adLink = resolveAdLink(ad);
+
+  // Fixed field order regardless of which optional data is present, so a
+  // message never visually reshuffles from one ad to the next: link, reach
+  // numbers, looptijd/media, angle, reach context, ad id.
   const embed: DiscordEmbed = {
     title,
+    url: adLink,
     color,
     description,
     timestamp: new Date().toISOString(),
@@ -329,9 +334,8 @@ function buildDiscordEmbed(
       text: `winner ≥ ${config.winnerThresholdDays}d · rising ≥ ${config.minReachPerDay}/d`,
     },
     fields: [
-      ...(ad.adLibraryUrl
-        ? [{ name: "🔗 Ad", value: `[Bekijk in Ad Library](${ad.adLibraryUrl})`, inline: false }]
-        : []),
+      { name: "🔗 Ad", value: `[Bekijk in Ad Library](${adLink})`, inline: false },
+      ...buildEuReachFields(ad, daysRunning),
       {
         name: "Looptijd",
         value: `${daysRunning}d (sinds ${ad.startedRunningRaw?.replace("Started running on ", "") ?? "onbekend"})`,
@@ -345,7 +349,7 @@ function buildDiscordEmbed(
       ...(ad.angles && ad.angles.length > 0
         ? [{ name: "Angle", value: ad.angles.join(", "), inline: false }]
         : []),
-      ...buildEuFields(ad, daysRunning),
+      ...buildEuContextFields(ad),
       {
         name: "Ad ID",
         value: `\`${ad.adId}\``,
@@ -355,7 +359,6 @@ function buildDiscordEmbed(
   };
 
   if (ad.pageName) embed.author = { name: ad.pageName };
-  if (ad.adLibraryUrl) embed.url = ad.adLibraryUrl;
 
   const thumb = pickThumbnail(ad);
   if (thumb) embed.image = { url: thumb };
@@ -416,16 +419,25 @@ function formatTopCountries(top: Array<{ country: string; reach: number }>): str
     .join(" · ") || top.map((t) => t.country).join(", ");
 }
 
-function buildEuFields(
+/** Reach numbers only — always the first two fields when reach is known. */
+function buildEuReachFields(
   ad: StoredAd,
   daysRunning: number,
 ): Array<{ name: string; value: string; inline?: boolean }> {
   if (typeof ad.euReach !== "number") return [];
   const avg = averageReachPerDay(ad, daysRunning);
-  const fields: Array<{ name: string; value: string; inline?: boolean }> = [
+  return [
     { name: "Reach totaal (EU)", value: ad.euReach.toLocaleString(), inline: true },
     { name: "Reach gemiddeld/dag", value: formatReachRatio(avg, daysRunning), inline: true },
   ];
+}
+
+/** Country/demographic context — always placed after Looptijd/Media/Angle. */
+function buildEuContextFields(
+  ad: StoredAd,
+): Array<{ name: string; value: string; inline?: boolean }> {
+  if (typeof ad.euReach !== "number") return [];
+  const fields: Array<{ name: string; value: string; inline?: boolean }> = [];
   if (ad.euTopCountries && ad.euTopCountries.length > 0) {
     fields.push({ name: "Land(en) — best presterend", value: formatTopCountries(ad.euTopCountries), inline: false });
   } else if (ad.euCountries && ad.euCountries.length > 0) {
@@ -435,6 +447,16 @@ function buildEuFields(
     fields.push({ name: "Top doelgroep", value: ad.euTopSegment, inline: false });
   }
   return fields;
+}
+
+/**
+ * Every ad has an `adId`, so this always resolves to a working permalink —
+ * even for ads scraped before `adLibraryUrl` extraction succeeded (common
+ * for older, already-tracked ads), which otherwise rendered with no link at
+ * all.
+ */
+function resolveAdLink(ad: StoredAd): string {
+  return ad.adLibraryUrl ?? buildAdLibraryUrl(ad.adId);
 }
 
 /** One-line Slack equivalent of {@link buildEuFields}. */

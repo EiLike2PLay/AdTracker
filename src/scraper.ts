@@ -412,6 +412,16 @@ async function clickExactText(page: Page, text: string): Promise<boolean> {
 }
 
 /**
+ * The canonical, always-resolvable permalink for a single ad, keyed by its
+ * Library ID alone. Used as a fallback when the listing scrape didn't manage
+ * to pull a direct `adLibraryUrl` off the card (common for older/already-
+ * tracked ads) — an ad's `adId` is always known, so this link always works.
+ */
+export function buildAdLibraryUrl(adId: string): string {
+  return `https://www.facebook.com/ads/library/?id=${adId}`;
+}
+
+/**
  * Open a single ad's detail panel in the Ad Library and extract its EU DSA
  * transparency data (reach, targeted countries, demographic breakdown), when
  * present. Returns `null` for ads that were never shown in the EU, or if the
@@ -423,7 +433,7 @@ export async function fetchEuTransparency(
   adId: string,
 ): Promise<EuTransparency | null> {
   try {
-    await page.goto(`https://www.facebook.com/ads/library/?id=${adId}`, {
+    await page.goto(buildAdLibraryUrl(adId), {
       waitUntil: "domcontentloaded",
     });
     await page.waitForTimeout(2000);

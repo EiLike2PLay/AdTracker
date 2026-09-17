@@ -183,6 +183,28 @@ test("buildNotificationItems: returns nothing when there are no validated ads", 
   assert.deepEqual(buildNotificationItems([], []), []);
 });
 
+test("notify: falls back to a Library-ID-based link when adLibraryUrl was never captured", async () => {
+  const config = makeConfig({ discordWebhookUrl: AMPOULE_WEBHOOK });
+  const items = [
+    makeItem("winner", {
+      adId: "12345678901234",
+      text: "Ampoule copy",
+      adLibraryUrl: null,
+    }),
+  ];
+
+  await notify(items, config);
+
+  const body = posted[0]!.body as {
+    embeds: Array<{ url?: string; fields: Array<{ name: string; value: string }> }>;
+  };
+  const embed = body.embeds[0]!;
+  const linkField = embed.fields.find((f) => f.name === "🔗 Ad");
+  assert.ok(linkField, "expected a link field even without a captured adLibraryUrl");
+  assert.ok(linkField!.value.includes("ads/library/?id=12345678901234"));
+  assert.ok(embed.url?.includes("ads/library/?id=12345678901234"));
+});
+
 test("notify: an ad's own embed carries its detected angle and hook", async () => {
   const config = makeConfig({ discordWebhookUrl: AMPOULE_WEBHOOK });
   const items = [
