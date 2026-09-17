@@ -97,6 +97,8 @@ export interface StoredAd extends Ad {
   euCountries?: string[] | null;
   /** Human-readable description of the single largest demographic segment. */
   euTopSegment?: string | null;
+  /** The (up to) 3 countries where this ad's EU reach is currently highest, sorted descending. */
+  euTopCountries?: Array<{ country: string; reach: number }> | null;
   /**
    * Daily reach snapshots scoped to {@link RuntimeConfig.targetCountries},
    * one entry per day this ad was checked. Used to confirm a "rising"

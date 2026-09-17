@@ -403,16 +403,32 @@ function averageReachPerDay(ad: StoredAd, daysRunning: number): number {
   return Math.round((ad.euReach ?? 0) / Math.max(1, daysRunning));
 }
 
+/** "9,000 ÷ 5d ≈ 1,800/dag" — makes the reach : looptijd ratio explicit instead of showing a bare average. */
+function formatReachRatio(avg: number, daysRunning: number): string {
+  return `${avg.toLocaleString()}/dag  (reach ÷ looptijd: ${daysRunning}d)`;
+}
+
+/** "France (5,200) · Germany (3,100) · Belgium (900)" — top-performing countries by reach, best first. */
+function formatTopCountries(top: Array<{ country: string; reach: number }>): string {
+  return top
+    .filter((t) => t.reach > 0)
+    .map((t) => `${t.country} (${t.reach.toLocaleString()})`)
+    .join(" · ") || top.map((t) => t.country).join(", ");
+}
+
 function buildEuFields(
   ad: StoredAd,
   daysRunning: number,
 ): Array<{ name: string; value: string; inline?: boolean }> {
   if (typeof ad.euReach !== "number") return [];
+  const avg = averageReachPerDay(ad, daysRunning);
   const fields: Array<{ name: string; value: string; inline?: boolean }> = [
     { name: "Reach totaal (EU)", value: ad.euReach.toLocaleString(), inline: true },
-    { name: "Reach gemiddeld/dag", value: averageReachPerDay(ad, daysRunning).toLocaleString(), inline: true },
+    { name: "Reach gemiddeld/dag", value: formatReachRatio(avg, daysRunning), inline: true },
   ];
-  if (ad.euCountries && ad.euCountries.length > 0) {
+  if (ad.euTopCountries && ad.euTopCountries.length > 0) {
+    fields.push({ name: "Land(en) — best presterend", value: formatTopCountries(ad.euTopCountries), inline: false });
+  } else if (ad.euCountries && ad.euCountries.length > 0) {
     fields.push({ name: "Land(en)", value: ad.euCountries.join(", "), inline: true });
   }
   if (ad.euTopSegment) {
@@ -425,8 +441,13 @@ function buildEuFields(
 function buildEuLine(ad: StoredAd, daysRunning: number): string | null {
   if (typeof ad.euReach !== "number") return null;
   const avg = averageReachPerDay(ad, daysRunning);
-  const countries = ad.euCountries && ad.euCountries.length > 0 ? ad.euCountries.join(", ") : "onbekend";
-  return `🇪🇺 totaal *${ad.euReach.toLocaleString()}* · gemiddeld *${avg.toLocaleString()}*/dag · ${countries}`;
+  const countries =
+    ad.euTopCountries && ad.euTopCountries.length > 0
+      ? formatTopCountries(ad.euTopCountries)
+      : ad.euCountries && ad.euCountries.length > 0
+        ? ad.euCountries.join(", ")
+        : "onbekend";
+  return `🇪🇺 totaal *${ad.euReach.toLocaleString()}* · gemiddeld *${avg.toLocaleString()}*/dag (${daysRunning}d) · ${countries}`;
 }
 
 function pickThumbnail(ad: StoredAd): string | null {

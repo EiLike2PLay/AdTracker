@@ -226,8 +226,36 @@ test("notify: reach fields prefer the scoped daily average over the lifetime ave
   const fields = body.embeds[0]!.fields;
   assert.ok(fields.some((f) => f.name === "Reach totaal (EU)" && f.value === "9,000"));
   // Average of the 3 daily readings (2500, 3000, 3500) = 3000, not 9000 / daysRunning.
-  assert.ok(fields.some((f) => f.name === "Reach gemiddeld/dag" && f.value === "3,000"));
+  // The value also spells out the reach : looptijd ratio, not just the bare number.
+  assert.ok(
+    fields.some(
+      (f) => f.name === "Reach gemiddeld/dag" && f.value.startsWith("3,000/dag") && f.value.includes("3d"),
+    ),
+  );
   assert.ok(
     fields.some((f) => f.name === "🔗 Ad" && f.value.includes("ads/library/?id=ampoule-1")),
   );
+});
+
+test("notify: embed shows the top-3 best-performing countries by reach, best first", async () => {
+  const config = makeConfig({ discordWebhookUrl: AMPOULE_WEBHOOK });
+  const items = [
+    makeItem("rising", {
+      adId: "ampoule-1",
+      text: "Ampoule copy",
+      euReach: 9000,
+      euTopCountries: [
+        { country: "France", reach: 5200 },
+        { country: "Germany", reach: 3100 },
+        { country: "Belgium", reach: 700 },
+      ],
+    }),
+  ];
+
+  await notify(items, config);
+
+  const body = posted[0]!.body as { embeds: Array<{ fields: Array<{ name: string; value: string }> }> };
+  const field = body.embeds[0]!.fields.find((f) => f.name === "Land(en) — best presterend");
+  assert.ok(field, "expected a top-countries field");
+  assert.equal(field!.value, "France (5,200) · Germany (3,100) · Belgium (700)");
 });

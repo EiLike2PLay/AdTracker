@@ -31,6 +31,7 @@ import {
 import {
   checkEuTransparency,
   computeScopedReachPerDay,
+  computeTopCountries,
   resolveTargetUrl,
   scrapeAdLibrary,
 } from "./scraper.js";
@@ -290,6 +291,7 @@ async function run(config: RuntimeConfig, quiet: boolean): Promise<number> {
       ad.euReach = eu.reach;
       ad.euCountries = eu.countries;
       ad.euTopSegment = eu.topSegment;
+      ad.euTopCountries = computeTopCountries(eu, 3);
 
       if (!risingEligibleIds.has(ad.adId)) continue; // winner-only lookup — no confirmation bookkeeping needed
 

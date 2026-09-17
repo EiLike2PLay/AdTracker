@@ -486,6 +486,33 @@ export function computeScopedReachPerDay(
 }
 
 /**
+ * Rank the countries in an ad's EU audience breakdown by total reach and
+ * return the top `limit` (default 3) as `{ country, reach }`, descending.
+ * Sums every demographic row (age/gender split) that shares a location, so a
+ * country's reach reflects its whole audience, not just one row. Falls back
+ * to `eu.countries` (each credited its `eu.reach` share unknown, so reach is
+ * omitted as `0`) only when the per-row breakdown is missing entirely.
+ */
+export function computeTopCountries(
+  eu: EuTransparency,
+  limit = 3,
+): Array<{ country: string; reach: number }> {
+  if (eu.audience.length === 0) {
+    return eu.countries.slice(0, limit).map((country) => ({ country, reach: 0 }));
+  }
+
+  const totals = new Map<string, number>();
+  for (const row of eu.audience) {
+    totals.set(row.location, (totals.get(row.location) ?? 0) + row.reach);
+  }
+
+  return [...totals.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, limit)
+    .map(([country, reach]) => ({ country, reach }));
+}
+
+/**
  * Check EU transparency data for a bounded set of candidate ads (typically
  * this run's brand-new ads). Runs sequentially in a single browser session —
  * this is inherently slower than the listing scrape (one navigation per ad),
