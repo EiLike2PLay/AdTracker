@@ -111,7 +111,7 @@ export interface StoredAd extends Ad {
    * confirmed rising ad is not re-announced on every subsequent run.
    */
   notifiedAsRising?: boolean;
-  /** Detected marketing angle(s), e.g. "Angle A — Botox-vergelijking". Empty when nothing matched. */
+  /** Detected marketing angle(s), e.g. "Botox-vergelijking". Empty when nothing matched. */
   angles?: string[];
   /** Best-effort opening line/hook extracted from the ad copy. */
   hook?: string | null;

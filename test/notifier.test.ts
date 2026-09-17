@@ -211,7 +211,7 @@ test("notify: an ad's own embed carries its detected angle and hook", async () =
     makeItem("rising", {
       adId: "ampoule-1",
       text: "Laten we de berekening maken.\nBotox kost €300 per sessie.",
-      angles: ["Angle A — Botox-vergelijking"],
+      angles: ["Botox-vergelijking"],
       hook: "Laten we de berekening maken.",
     }),
   ];

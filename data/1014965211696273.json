@@ -117,7 +117,7 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [
-        "Angle C — Insider/celebrity-secret",
+        "Insider/celebrity-secret",
         "Testimonial/persoonlijk verhaal"
       ],
       "hook": "La semaine dernière, mon ex-mari faisait la queue à la caisse derrière moi.",
@@ -176,7 +176,7 @@
       "notifiedAsWinner": true,
       "angles": [
         "Testimonial/persoonlijk verhaal",
-        "Angle C — Insider/celebrity-secret"
+        "Insider/celebrity-secret"
       ],
       "hook": "Il y a trois soirs, j'étais sur le point d'annuler ma fête d'anniversaire.",
       "euReach": 129243,
@@ -233,7 +233,7 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [
-        "Angle C — Insider/celebrity-secret",
+        "Insider/celebrity-secret",
         "Testimonial/persoonlijk verhaal"
       ],
       "hook": "J'ai une liaison avec l'homme qui m'a trompée avec la femme qui était demoiselle d'honneur à mon mariage.",
@@ -269,7 +269,7 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [
-        "Angle C — Insider/celebrity-secret"
+        "Insider/celebrity-secret"
       ],
       "hook": "Samedi, le mariage de ma fille.",
       "euReach": 122542,
@@ -346,7 +346,7 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [
-        "Angle C — Insider/celebrity-secret",
+        "Insider/celebrity-secret",
         "Testimonial/persoonlijk verhaal"
       ],
       "hook": "À 53 ans j'ai découvert que mon mari me trompait pendant qu'il était dans le coma.",
@@ -404,7 +404,7 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [
-        "Angle C — Insider/celebrity-secret",
+        "Insider/celebrity-secret",
         "Testimonial/persoonlijk verhaal"
       ],
       "hook": "J'ai découvert que mon mari me trompait avec une jeune fille assez jeune pour être notre fille.",
@@ -440,7 +440,7 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [
-        "Angle C — Insider/celebrity-secret"
+        "Insider/celebrity-secret"
       ],
       "hook": "J'ai couché avec l'homme qui m'a trompée",
       "euReach": 87528,
@@ -475,7 +475,7 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [
-        "Angle C — Insider/celebrity-secret"
+        "Insider/celebrity-secret"
       ],
       "hook": "Au mariage de ma fille, son père m'a regardé 10 minutes sans comprendre une seconde que cette femme, c'était moi.",
       "euReach": 66461,
@@ -510,7 +510,7 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [
-        "Angle C — Insider/celebrity-secret"
+        "Insider/celebrity-secret"
       ],
       "hook": "Mon père est venu chez nous avec la femme pour laquelle il nous avait quittées.",
       "euReach": 72945,
@@ -608,7 +608,7 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [
-        "Angle C — Insider/celebrity-secret",
+        "Insider/celebrity-secret",
         "Testimonial/persoonlijk verhaal"
       ],
       "hook": "J'ai quitté ma femme il y a 4 ans.",
@@ -664,9 +664,9 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [
-        "Angle A — Botox-vergelijking",
-        "Angle B — Mechanisme/penetratie",
-        "Angle C — Insider/celebrity-secret"
+        "Botox-vergelijking",
+        "Mechanisme/penetratie",
+        "Insider/celebrity-secret"
       ],
       "hook": "Faisons le calcul, simplement.",
       "euReach": 28178,
@@ -710,7 +710,11 @@
           "country": "France",
           "reach": 45286
         }
-      ]
+      ],
+      "angles": [
+        "Insider/celebrity-secret"
+      ],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1352325813655038": {
       "adId": "1352325813655038",
@@ -733,7 +737,7 @@
       "notifiedAsWinner": true,
       "angles": [
         "Testimonial/persoonlijk verhaal",
-        "Angle C — Insider/celebrity-secret"
+        "Insider/celebrity-secret"
       ],
       "hook": "J'ai fait semblant avec mon mari il y a trois semaines.",
       "euReach": 36004,
@@ -788,8 +792,8 @@
       "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [
-        "Angle B — Mechanisme/penetratie",
-        "Angle A — Botox-vergelijking"
+        "Mechanisme/penetratie",
+        "Botox-vergelijking"
       ],
       "hook": "La Corée a 3 000 ans d'avance sur l'anti-âge.",
       "euReach": 21639,
@@ -821,7 +825,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "2 ads use this creative and text"
     },
     "2438435003311110": {
       "adId": "2438435003311110",
@@ -840,7 +846,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "3152385454961507": {
       "adId": "3152385454961507",
@@ -860,7 +868,12 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Insider/celebrity-secret",
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "Ma belle-mère m'a dit que j'avais l'air épuisée devant toute la famille de mon mari lors du dernier dîner que nous avons pris ensemble."
     },
     "28973670055554767": {
       "adId": "28973670055554767",
@@ -880,7 +893,12 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Botox-vergelijking",
+        "Insider/celebrity-secret"
+      ],
+      "hook": "Quand on fait du Botox, on vous injecte une toxine"
     },
     "1086250974352978": {
       "adId": "1086250974352978",
@@ -899,7 +917,11 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "Mardi dernier, je suis entrée dans le Sephora des Champs-Élysées sans dire qui j'étais."
     },
     "1585563946571506": {
       "adId": "1585563946571506",
@@ -918,7 +940,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1782035226472158": {
       "adId": "1782035226472158",
@@ -938,7 +962,11 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Insider/celebrity-secret"
+      ],
+      "hook": "À six heures du matin, j'avais trois appels manqués de l'homme qui avait divorcé de moi."
     },
     "2177772042783420": {
       "adId": "2177772042783420",
@@ -957,7 +985,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "843912168675427": {
       "adId": "843912168675427",
@@ -977,7 +1007,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1317164570339062": {
       "adId": "1317164570339062",
@@ -996,7 +1028,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1048809484810683": {
       "adId": "1048809484810683",
@@ -1015,7 +1049,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "2 ads use this creative and text"
     },
     "1253307830214280": {
       "adId": "1253307830214280",
@@ -1034,7 +1070,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1052860264270349": {
       "adId": "1052860264270349",
@@ -1054,7 +1092,11 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Insider/celebrity-secret"
+      ],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1582770869633993": {
       "adId": "1582770869633993",
@@ -1074,7 +1116,11 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Insider/celebrity-secret"
+      ],
+      "hook": "Le soir où j'ai commandé ce sérum."
     },
     "1076942408222426": {
       "adId": "1076942408222426",
@@ -1093,7 +1139,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1407640681471007": {
       "adId": "1407640681471007",
@@ -1113,7 +1161,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "3613738445448211": {
       "adId": "3613738445448211",
@@ -1132,7 +1182,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1609188154323268": {
       "adId": "1609188154323268",
@@ -1151,7 +1203,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1576705380506813": {
       "adId": "1576705380506813",
@@ -1171,7 +1225,12 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Insider/celebrity-secret",
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "Quarante-sept ans, deux ans après mon divorce."
     },
     "1936654803565420": {
       "adId": "1936654803565420",
@@ -1191,7 +1250,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1045669881418973": {
       "adId": "1045669881418973",
@@ -1211,7 +1272,11 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Insider/celebrity-secret"
+      ],
+      "hook": "C'était le mariage de ma fille, la plus belle journée."
     },
     "1735580794592424": {
       "adId": "1735580794592424",
@@ -1231,7 +1296,12 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Testimonial/persoonlijk verhaal",
+        "Insider/celebrity-secret"
+      ],
+      "hook": "Hier soir mon mari a posé sa main sur mon épaule."
     },
     "1869890314392298": {
       "adId": "1869890314392298",
@@ -1250,7 +1320,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "2249727839111203": {
       "adId": "2249727839111203",
@@ -1269,7 +1341,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "929850846835721": {
       "adId": "929850846835721",
@@ -1288,7 +1362,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1291994303011740": {
       "adId": "1291994303011740",
@@ -1308,7 +1384,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1602933357998448": {
       "adId": "1602933357998448",
@@ -1327,7 +1405,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1374835700766070": {
       "adId": "1374835700766070",
@@ -1346,7 +1426,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "929022366323883": {
       "adId": "929022366323883",
@@ -1365,7 +1447,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "3818791231597073": {
       "adId": "3818791231597073",
@@ -1384,7 +1468,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "930563106782592": {
       "adId": "930563106782592",
@@ -1403,7 +1489,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1371150274479418": {
       "adId": "1371150274479418",
@@ -1423,7 +1511,11 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Insider/celebrity-secret"
+      ],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1524738992219696": {
       "adId": "1524738992219696",
@@ -1442,7 +1534,11 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "Marc est parti un mardi."
     },
     "2400228627166791": {
       "adId": "2400228627166791",
@@ -1462,7 +1558,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "2008109346560144": {
       "adId": "2008109346560144",
@@ -1481,7 +1579,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "955461394250312": {
       "adId": "955461394250312",
@@ -1500,7 +1600,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1943531619648509": {
       "adId": "1943531619648509",
@@ -1520,7 +1622,12 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Botox-vergelijking",
+        "Insider/celebrity-secret"
+      ],
+      "hook": "Vous dépensez des centaines d'euros tous les quelques mois en retouches ?"
     },
     "2801369010336819": {
       "adId": "2801369010336819",
@@ -1539,7 +1646,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1040819435499997": {
       "adId": "1040819435499997",
@@ -1558,7 +1667,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1742768090388557": {
       "adId": "1742768090388557",
@@ -1578,7 +1689,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1085958090756464": {
       "adId": "1085958090756464",
@@ -1597,7 +1710,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1071590825521122": {
       "adId": "1071590825521122",
@@ -1616,7 +1731,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "4047480748891845": {
       "adId": "4047480748891845",
@@ -1635,7 +1752,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1280418570832478": {
       "adId": "1280418570832478",
@@ -1654,7 +1773,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1783797199420940": {
       "adId": "1783797199420940",
@@ -1673,7 +1794,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "2184884609131117": {
       "adId": "2184884609131117",
@@ -1693,7 +1816,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1022482094172520": {
       "adId": "1022482094172520",
@@ -1712,7 +1837,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "4367330803506921": {
       "adId": "4367330803506921",
@@ -1731,7 +1858,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "J'ai 61 ans."
     },
     "1608416517964431": {
       "adId": "1608416517964431",
@@ -1751,7 +1880,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "919162014074306": {
       "adId": "919162014074306",
@@ -1770,7 +1901,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "901804032763763": {
       "adId": "901804032763763",
@@ -1789,7 +1922,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1092190853777024": {
       "adId": "1092190853777024",
@@ -1809,7 +1944,11 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Insider/celebrity-secret"
+      ],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1522908663214676": {
       "adId": "1522908663214676",
@@ -1828,7 +1967,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1579343230494699": {
       "adId": "1579343230494699",
@@ -1847,7 +1988,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1373214107660900": {
       "adId": "1373214107660900",
@@ -1866,7 +2009,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1805431267120032": {
       "adId": "1805431267120032",
@@ -1886,7 +2031,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "3352770348261671": {
       "adId": "3352770348261671",
@@ -1905,7 +2052,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1751061816110287": {
       "adId": "1751061816110287",
@@ -1924,7 +2073,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1081050491524883": {
       "adId": "1081050491524883",
@@ -1944,7 +2095,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1534706434578240": {
       "adId": "1534706434578240",
@@ -1963,7 +2116,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1069101588841772": {
       "adId": "1069101588841772",
@@ -1982,7 +2137,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1702006978119157": {
       "adId": "1702006978119157",
@@ -2001,7 +2158,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "2233089714114764": {
       "adId": "2233089714114764",
@@ -2021,7 +2180,11 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Insider/celebrity-secret"
+      ],
+      "hook": "Trois mois avant le mariage de ma fille, j'ai failli ne pas osé."
     },
     "922724314213837": {
       "adId": "922724314213837",
@@ -2040,7 +2203,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "2326006488210488": {
       "adId": "2326006488210488",
@@ -2059,7 +2224,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "28676926101925740": {
       "adId": "28676926101925740",
@@ -2078,7 +2245,11 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "À 63 ans, j'ai croisé mon ex-mari au supermarché."
     },
     "1749225052944874": {
       "adId": "1749225052944874",
@@ -2097,7 +2268,13 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Botox-vergelijking",
+        "Mechanisme/penetratie",
+        "Insider/celebrity-secret"
+      ],
+      "hook": "Faisons le calcul, simplement."
     },
     "1092855056513940": {
       "adId": "1092855056513940",
@@ -2116,7 +2293,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1762393981467129": {
       "adId": "1762393981467129",
@@ -2135,7 +2314,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "2065586224041339": {
       "adId": "2065586224041339",
@@ -2154,7 +2335,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "952364497224927": {
       "adId": "952364497224927",
@@ -2173,7 +2356,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "28040996258885503": {
       "adId": "28040996258885503",
@@ -2192,7 +2377,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "954188270314422": {
       "adId": "954188270314422",
@@ -2211,7 +2398,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1380847833435033": {
       "adId": "1380847833435033",
@@ -2230,7 +2419,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1357389859313899": {
       "adId": "1357389859313899",
@@ -2249,7 +2440,11 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "Marc est parti un mardi."
     },
     "28089578040664746": {
       "adId": "28089578040664746",
@@ -2268,7 +2463,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1654244639235177": {
       "adId": "1654244639235177",
@@ -2287,7 +2484,12 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Testimonial/persoonlijk verhaal",
+        "Botox-vergelijking"
+      ],
+      "hook": "J'ai 63 ans."
     },
     "1641791850952520": {
       "adId": "1641791850952520",
@@ -2306,7 +2508,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1507051731188165": {
       "adId": "1507051731188165",
@@ -2325,7 +2529,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1058144650543235": {
       "adId": "1058144650543235",
@@ -2344,7 +2550,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1767180191104627": {
       "adId": "1767180191104627",
@@ -2363,7 +2571,12 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Mechanisme/penetratie",
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "Il y a trois semaines, j'ai fait quelque chose que je repoussais depuis des années."
     },
     "1836189444207020": {
       "adId": "1836189444207020",
@@ -2382,7 +2595,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "4004580066511196": {
       "adId": "4004580066511196",
@@ -2401,7 +2616,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1433030922073570": {
       "adId": "1433030922073570",
@@ -2420,7 +2637,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1787381412261443": {
       "adId": "1787381412261443",
@@ -2439,7 +2658,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1220739310242189": {
       "adId": "1220739310242189",
@@ -2458,7 +2679,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1403636031402160": {
       "adId": "1403636031402160",
@@ -2477,7 +2700,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1354424809731901": {
       "adId": "1354424809731901",
@@ -2496,7 +2721,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1475519617669273": {
       "adId": "1475519617669273",
@@ -2515,7 +2742,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "2432446333947555": {
       "adId": "2432446333947555",
@@ -2534,7 +2763,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1801778427669299": {
       "adId": "1801778427669299",
@@ -2553,7 +2784,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "4608952906097407": {
       "adId": "4608952906097407",
@@ -2572,7 +2805,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "2011630712889185": {
       "adId": "2011630712889185",
@@ -2592,7 +2827,11 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "J'ai fouillé dans le téléphone de mon mari pendant qu'il dormait."
     },
     "1065413002908417": {
       "adId": "1065413002908417",
@@ -2611,7 +2850,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "2041907523357292": {
       "adId": "2041907523357292",
@@ -2630,7 +2871,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "Das koreanische Serum mit Seidenpeptiden, das Tausende von Frauen immer wieder verwenden, wird zum niedrigsten Preis aller Zeiten angeboten."
     },
     "1391987649124797": {
       "adId": "1391987649124797",
@@ -2649,7 +2892,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "3028088457394336": {
       "adId": "3028088457394336",
@@ -2669,7 +2914,12 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Botox-vergelijking",
+        "Insider/celebrity-secret"
+      ],
+      "hook": "Vous dépensez des centaines d'euros tous les quelques mois en retouches ?"
     },
     "1404738434581776": {
       "adId": "1404738434581776",
@@ -2689,7 +2939,12 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Insider/celebrity-secret",
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "J'ai dû m'asseoir à côté de la nouvelle petite amie de mon ex-mari,"
     },
     "1037220149128245": {
       "adId": "1037220149128245",
@@ -2708,7 +2963,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1575140741022403": {
       "adId": "1575140741022403",
@@ -2727,7 +2984,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1056261687235956": {
       "adId": "1056261687235956",
@@ -2746,7 +3005,11 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Botox-vergelijking"
+      ],
+      "hook": "À six heures du matin, j'avais trois appels manqués de l'homme qui avait divorcé de moi."
     },
     "1573322447806847": {
       "adId": "1573322447806847",
@@ -2765,7 +3028,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "28530469076589930": {
       "adId": "28530469076589930",
@@ -2784,7 +3049,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "Das koreanische Serum mit Seidenpeptiden, das Tausende von Frauen immer wieder verwenden, wird zum niedrigsten Preis aller Zeiten angeboten."
     },
     "1722257266139766": {
       "adId": "1722257266139766",
@@ -2803,7 +3070,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1382207777331158": {
       "adId": "1382207777331158",
@@ -2823,7 +3092,11 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "À 63 ans, j'ai croisé mon ex-mari à Leclerc."
     },
     "1844452433234394": {
       "adId": "1844452433234394",
@@ -2842,7 +3115,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "2177607666186941": {
       "adId": "2177607666186941",
@@ -2862,7 +3137,11 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "Mon mari m'a trompée pendant deux ans et s'est remarié huit mois après le divorce."
     },
     "28387613967563440": {
       "adId": "28387613967563440",
@@ -2881,7 +3160,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "2520106221809142": {
       "adId": "2520106221809142",
@@ -2900,7 +3181,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1768467064347791": {
       "adId": "1768467064347791",
@@ -2919,7 +3202,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1022408727495365": {
       "adId": "1022408727495365",
@@ -2938,7 +3223,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "2547086319088143": {
       "adId": "2547086319088143",
@@ -2957,7 +3244,12 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [
+        "Mechanisme/penetratie",
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "Je lis tous les messages que reçoit Nuria."
     },
     "4451106641820827": {
       "adId": "4451106641820827",
@@ -2977,7 +3269,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "2 ads use this creative and text"
     },
     "909425215295813": {
       "adId": "909425215295813",
@@ -2996,7 +3290,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1949568842387328": {
       "adId": "1949568842387328",
@@ -3015,7 +3311,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "2865005257206814": {
       "adId": "2865005257206814",
@@ -3034,7 +3332,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "4481381565482665": {
       "adId": "4481381565482665",
@@ -3053,7 +3353,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1059736676854354": {
       "adId": "1059736676854354",
@@ -3072,7 +3374,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "2209396789923039": {
       "adId": "2209396789923039",
@@ -3091,7 +3395,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "4006330869497806": {
       "adId": "4006330869497806",
@@ -3111,7 +3417,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1383158263924423": {
       "adId": "1383158263924423",
@@ -3130,7 +3438,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     },
     "1797311441279697": {
       "adId": "1797311441279697",
@@ -3149,7 +3459,9 @@
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
       "lastSeenAt": "2026-09-16T11:33:42.755Z",
       "seenCount": 1,
-      "notifiedAsWinner": false
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
     }
   }
 }

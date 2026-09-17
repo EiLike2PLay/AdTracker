@@ -26,7 +26,7 @@ export interface AngleDefinition {
 export const ANGLE_DEFINITIONS: AngleDefinition[] = [
   {
     id: "botox-comparison",
-    label: "Angle A — Botox-vergelijking",
+    label: "Botox-vergelijking",
     keywords: [
       "botox",
       "€300",
@@ -43,7 +43,7 @@ export const ANGLE_DEFINITIONS: AngleDefinition[] = [
   },
   {
     id: "mechanism-penetration",
-    label: "Angle B — Mechanisme/penetratie",
+    label: "Mechanisme/penetratie",
     keywords: [
       "dermis",
       "pénètre",
@@ -62,7 +62,7 @@ export const ANGLE_DEFINITIONS: AngleDefinition[] = [
   },
   {
     id: "insider-secret",
-    label: "Angle C — Insider/celebrity-secret",
+    label: "Insider/celebrity-secret",
     keywords: [
       "secret",
       "geheim",
