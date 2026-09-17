@@ -15,6 +15,7 @@
 
 import axios, { AxiosError } from "axios";
 import { computeDaysRunning } from "./storage.js";
+import { looksLikeAmpouleProduct } from "./classify.js";
 import type {
   NotificationItem,
   RuntimeConfig,
@@ -41,28 +42,25 @@ export interface NotifyOutcome {
 export function buildNotificationItems(
   newAds: StoredAd[],
   winners: StoredAd[],
-  minReachPerDay: number = Infinity,
+  rising: StoredAd[] = [],
   nowIso: string = new Date().toISOString(),
 ): NotificationItem[] {
   const items: NotificationItem[] = [];
 
+  // A confirmed-rising ad is announced as "rising", never also as "new" —
+  // it takes a few days of history to confirm, so in practice it has
+  // already aged out of the newAds list by the time it qualifies anyway.
+  const risingIds = new Set(rising.map((ad) => ad.adId));
+
   for (const ad of newAds) {
-    const daysRunning = computeDaysRunning(ad, nowIso);
-    const reachPerDay =
-      typeof ad.euReach === "number" ? ad.euReach / Math.max(1, daysRunning) : null;
-    const isRising = reachPerDay !== null && reachPerDay >= minReachPerDay;
-    items.push({
-      reason: isRising ? "rising" : "new",
-      ad,
-      daysRunning,
-    });
+    if (risingIds.has(ad.adId)) continue;
+    items.push({ reason: "new", ad, daysRunning: computeDaysRunning(ad, nowIso) });
+  }
+  for (const ad of rising) {
+    items.push({ reason: "rising", ad, daysRunning: computeDaysRunning(ad, nowIso) });
   }
   for (const ad of winners) {
-    items.push({
-      reason: "winner",
-      ad,
-      daysRunning: computeDaysRunning(ad, nowIso),
-    });
+    items.push({ reason: "winner", ad, daysRunning: computeDaysRunning(ad, nowIso) });
   }
 
   return items;
@@ -97,19 +95,34 @@ export async function notify(
     }
   }
 
-  if (config.discordWebhookUrl) {
+  // Route to two Discord channels: the Ampoule-specific one (any ad whose
+  // copy matches a known angle / product keyword) and a "new products"
+  // catch-all for everything else. When only one webhook is configured,
+  // everything goes there rather than silently dropping the other half.
+  if (config.discordWebhookUrl || config.discordWebhookUrlNewProducts) {
+    const ampoule = items.filter((i) => looksLikeAmpouleProduct(i.ad.text));
+    const other = items.filter((i) => !looksLikeAmpouleProduct(i.ad.text));
+
+    const ampouleWebhook = config.discordWebhookUrl;
+    const otherWebhook = config.discordWebhookUrlNewProducts ?? config.discordWebhookUrl;
+
     try {
-      outcome.discordSent = await sendDiscord(
-        items,
-        config.discordWebhookUrl,
-        config,
-      );
+      if (ampouleWebhook && ampoule.length > 0) {
+        outcome.discordSent += await sendDiscord(ampoule, ampouleWebhook, config);
+      }
+      // Avoid double-sending "other" items to the same webhook as "ampoule"
+      // when there's only one configured — they were already included above
+      // only if ampouleWebhook === otherWebhook and ampoule.length > 0 would
+      // miss `other`, so send them explicitly whenever a webhook exists.
+      if (otherWebhook && other.length > 0) {
+        outcome.discordSent += await sendDiscord(other, otherWebhook, config);
+      }
     } catch (err) {
       outcome.errors.push(`discord: ${describeError(err)}`);
     }
   }
 
-  if (!config.slackWebhookUrl && !config.discordWebhookUrl) {
+  if (!config.slackWebhookUrl && !config.discordWebhookUrl && !config.discordWebhookUrlNewProducts) {
     outcome.errors.push(
       "no webhook configured (set SLACK_WEBHOOK_URL or DISCORD_WEBHOOK_URL)",
     );
@@ -195,6 +208,8 @@ function buildSlackBlocks(
 
     const copy = truncate(ad.text || "_(no body copy detected)_", 600);
     const euLine = buildEuLine(ad, daysRunning);
+    const angleLine = ad.angles && ad.angles.length > 0 ? `🎯 ${escapeSlack(ad.angles.join(", "))}` : null;
+    const hookLine = ad.hook ? `🪝 "${escapeSlack(ad.hook)}"` : null;
 
     const section: SlackBlock = {
       type: "section",
@@ -204,6 +219,8 @@ function buildSlackBlocks(
           `${badge}${advertiser}`,
           `> ${escapeSlack(copy).replace(/\n/g, "\n> ")}`,
           `🗓️ ${started}  ·  ⏱️ running *${daysRunning}d*  ·  ${describeMediaType(ad)}  ·  \`${ad.adId}\``,
+          ...(angleLine ? [angleLine] : []),
+          ...(hookLine ? [hookLine] : []),
           ...(euLine ? [euLine] : []),
         ].join("\n"),
       },
@@ -335,6 +352,10 @@ function buildDiscordEmbed(
         value: describeMediaType(ad),
         inline: true,
       },
+      ...(ad.angles && ad.angles.length > 0
+        ? [{ name: "Angle", value: ad.angles.join(", "), inline: false }]
+        : []),
+      ...(ad.hook ? [{ name: "Hook", value: `"${ad.hook}"`, inline: false }] : []),
       ...buildEuFields(ad, daysRunning),
     ],
   };

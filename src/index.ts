@@ -28,9 +28,15 @@ import {
   red,
   yellow,
 } from "colorette";
-import { checkEuTransparency, resolveTargetUrl, scrapeAdLibrary } from "./scraper.js";
+import {
+  checkEuTransparency,
+  computeScopedReachPerDay,
+  resolveTargetUrl,
+  scrapeAdLibrary,
+} from "./scraper.js";
 import { loadSnapshot, reconcile, saveSnapshot, computeDaysRunning } from "./storage.js";
 import { buildNotificationItems, notify } from "./notifier.js";
+import { classifyAngles, extractHook } from "./classify.js";
 import type { RuntimeConfig, StoredAd } from "./types.js";
 
 loadEnv();
@@ -45,10 +51,13 @@ interface CliOptions {
   winnerDays: string;
   minReachPerDay: string;
   newAdMaxAge: string;
+  targetCountries: string;
+  risingConfirmDays: string;
   maxScrolls: string;
   headless: boolean;
   slackWebhook?: string;
   discordWebhook?: string;
+  discordWebhookNewProducts?: string;
   dryRun: boolean;
   timeout: string;
   quiet: boolean;
@@ -79,10 +88,24 @@ function buildProgram(): Command {
       "max age (days) for a new ad to be checked for EU reach / rising status",
       "7",
     )
+    .option(
+      "--target-countries <list>",
+      "comma-separated EU countries that count toward the 'rising' reach/day (as named in the Ad Library, e.g. France,Germany)",
+      "France,Germany,Netherlands,Belgium,Italy,Spain",
+    )
+    .option(
+      "--rising-confirm-days <n>",
+      "consecutive daily checks above --min-reach-per-day required before 'rising' is confirmed",
+      "3",
+    )
     .option("-s, --max-scrolls <n>", "max infinite-scroll passes", "40")
     .option("--no-headless", "run with a visible browser window")
     .option("--slack-webhook <url>", "Slack incoming webhook (or SLACK_WEBHOOK_URL)")
-    .option("--discord-webhook <url>", "Discord webhook (or DISCORD_WEBHOOK_URL)")
+    .option("--discord-webhook <url>", "Discord webhook for the product-specific channel (or DISCORD_WEBHOOK_URL)")
+    .option(
+      "--discord-webhook-new-products <url>",
+      "Discord webhook for the 'new products' catch-all channel (or DISCORD_WEBHOOK_URL_NEW_PRODUCTS)",
+    )
     .option("--dry-run", "scrape & diff but send no notifications", false)
     .option("--timeout <ms>", "per-navigation timeout in ms", "60000")
     .option("-q, --quiet", "suppress progress chatter", false);
@@ -107,6 +130,11 @@ function resolveConfig(opts: CliOptions): RuntimeConfig {
   const winnerThresholdDays = toPositiveInt(opts.winnerDays, "winner-days");
   const minReachPerDay = toPositiveInt(opts.minReachPerDay, "min-reach-per-day");
   const newAdMaxAgeDays = toPositiveInt(opts.newAdMaxAge, "new-ad-max-age");
+  const risingConfirmDays = toPositiveInt(opts.risingConfirmDays, "rising-confirm-days");
+  const targetCountries = opts.targetCountries
+    .split(",")
+    .map((c) => c.trim())
+    .filter((c) => c.length > 0);
   const maxScrolls = toPositiveInt(opts.maxScrolls, "max-scrolls");
   const navigationTimeoutMs = toPositiveInt(opts.timeout, "timeout");
 
@@ -121,12 +149,18 @@ function resolveConfig(opts: CliOptions): RuntimeConfig {
     winnerThresholdDays,
     minReachPerDay,
     newAdMaxAgeDays,
+    targetCountries,
+    risingConfirmDays,
     maxScrolls,
     headless: opts.headless,
     slackWebhookUrl:
       opts.slackWebhook ?? process.env["SLACK_WEBHOOK_URL"] ?? null,
     discordWebhookUrl:
       opts.discordWebhook ?? process.env["DISCORD_WEBHOOK_URL"] ?? null,
+    discordWebhookUrlNewProducts:
+      opts.discordWebhookNewProducts ??
+      process.env["DISCORD_WEBHOOK_URL_NEW_PRODUCTS"] ??
+      null,
     dryRun: opts.dryRun,
     navigationTimeoutMs,
   };
@@ -158,7 +192,7 @@ async function run(config: RuntimeConfig, quiet: boolean): Promise<number> {
   log(`  url      : ${dim(config.targetUrl)}`);
   log(`  snapshot : ${dim(config.dataFile)}`);
   log(
-    `  winner≥  : ${config.winnerThresholdDays}d   rising≥: ${config.minReachPerDay}/d (≤${config.newAdMaxAgeDays}d old)   maxScrolls: ${config.maxScrolls}   headless: ${config.headless}`,
+    `  winner≥  : ${config.winnerThresholdDays}d   rising≥: ${config.minReachPerDay}/d × ${config.risingConfirmDays}d (≤${config.newAdMaxAgeDays}d old, ${config.targetCountries.join("/")})   maxScrolls: ${config.maxScrolls}   headless: ${config.headless}`,
   );
 
   /* --- 1) Scrape ----------------------------------------------------- */
@@ -197,17 +231,42 @@ async function run(config: RuntimeConfig, quiet: boolean): Promise<number> {
   printFindings(log, diff.newAds, "NEW", nowIso);
   printFindings(log, diff.longRunningWinners, "WINNER", nowIso);
 
-  /* --- 3) EU reach check on brand-new, still-active ads --------------- *
-   * Bounded to new ads only — checking the whole tracked history every run
-   * would mean one navigation per ad, which does not scale. A "rising"
-   * winner is a new ad whose EU reach/day already clears the threshold. */
-  const reachCandidates = diff.newAds.filter(
+  /* --- 3) Angle + hook tagging on everything we might announce --------- *
+   * Cheap, text-only classification — applied regardless of EU-check
+   * eligibility so even old "winner" ads get tagged. */
+  for (const ad of [...diff.newAds, ...diff.longRunningWinners]) {
+    ad.angles = classifyAngles(ad.text);
+    ad.hook = extractHook(ad.text);
+  }
+
+  /* --- 4) EU reach check + multi-day "rising" confirmation ------------- *
+   * Two groups of candidates:
+   *   - brand-new, still-active ads (≤ newAdMaxAgeDays old)
+   *   - ads already mid-confirmation from a previous run (< risingConfirmDays
+   *     history entries so far, not yet confirmed)
+   * Bounded on purpose — checking the whole tracked history every run would
+   * mean one navigation per ad, which does not scale. A "rising" winner only
+   * fires once its last `risingConfirmDays` daily checks all clear
+   * `minReachPerDay` in the configured target countries — a single lucky
+   * spike is not enough. */
+  const freshCandidates = diff.newAds.filter(
     (ad) => ad.active && computeDaysRunning(ad, nowIso) <= config.newAdMaxAgeDays,
   );
+  const pendingCandidates = Object.values(diff.snapshot.ads).filter(
+    (ad) =>
+      ad.active &&
+      !ad.notifiedAsRising &&
+      (ad.reachHistory?.length ?? 0) > 0 &&
+      (ad.reachHistory?.length ?? 0) < config.risingConfirmDays &&
+      !freshCandidates.some((c) => c.adId === ad.adId),
+  );
+  const reachCandidates = [...freshCandidates, ...pendingCandidates];
+
+  const confirmedRising: StoredAd[] = [];
 
   if (reachCandidates.length > 0) {
     log(
-      bold(cyan(`\n▸ Checking EU reach for ${reachCandidates.length} new ad(s)`)),
+      bold(cyan(`\n▸ Checking EU reach for ${reachCandidates.length} ad(s)`)),
     );
     const euResults = await checkEuTransparency(
       config,
@@ -216,28 +275,50 @@ async function run(config: RuntimeConfig, quiet: boolean): Promise<number> {
     );
     for (const ad of reachCandidates) {
       const eu = euResults.get(ad.adId);
-      if (!eu) continue;
+      if (!eu) continue; // not shown in the EU (or lookup failed) — skip, don't break the streak with a false zero
+
       ad.euReach = eu.reach;
       ad.euCountries = eu.countries;
       ad.euTopSegment = eu.topSegment;
+
+      const daysRunning = computeDaysRunning(ad, nowIso);
+      const scopedReachPerDay = computeScopedReachPerDay(eu, config.targetCountries, daysRunning);
+
+      ad.reachHistory = [
+        ...(ad.reachHistory ?? []),
+        { date: nowIso.slice(0, 10), reachPerDay: scopedReachPerDay },
+      ].slice(-config.risingConfirmDays);
+
+      const confirmed =
+        !ad.notifiedAsRising &&
+        ad.reachHistory.length >= config.risingConfirmDays &&
+        ad.reachHistory.every((h) => h.reachPerDay >= config.minReachPerDay);
+
+      if (confirmed) {
+        ad.notifiedAsRising = true;
+        confirmedRising.push(ad);
+      }
     }
   }
 
-  /* --- 4) Persist the merged snapshot -------------------------------- */
+  /* --- 5) Persist the merged snapshot -------------------------------- */
   await saveSnapshot(config.dataFile, diff.snapshot);
   log(dim(`\n  💾 Snapshot written (${Object.keys(diff.snapshot.ads).length} ad(s) tracked)`));
 
-  /* --- 5) Notify ------------------------------------------------------ */
+  /* --- 6) Notify ------------------------------------------------------ */
   const items = buildNotificationItems(
     diff.newAds,
     diff.longRunningWinners,
-    config.minReachPerDay,
+    confirmedRising,
     nowIso,
   );
 
-  const risingCount = items.filter((i) => i.reason === "rising").length;
-  if (risingCount > 0) {
-    log(yellow(`  🚀 ${risingCount} rising winner(s) (EU reach/day ≥ ${config.minReachPerDay})`));
+  if (confirmedRising.length > 0) {
+    log(
+      yellow(
+        `  🚀 ${confirmedRising.length} rising winner(s) confirmed (${config.risingConfirmDays}d ≥ ${config.minReachPerDay}/d in ${config.targetCountries.join(", ")})`,
+      ),
+    );
   }
 
   if (items.length === 0) {

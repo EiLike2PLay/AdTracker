@@ -459,6 +459,33 @@ export async function fetchEuTransparency(
 }
 
 /**
+ * Sum an ad's EU reach across only the countries in `targetCountries`
+ * (case-insensitive match against the audience table's `location` field),
+ * divided by days running. Falls back to the ad's overall EU reach when we
+ * have country tags but no per-row breakdown, and to 0 when the ad's
+ * targeted countries don't overlap `targetCountries` at all — this is what
+ * keeps the "rising" channel scoped to markets we actually sell into.
+ */
+export function computeScopedReachPerDay(
+  eu: EuTransparency,
+  targetCountries: string[],
+  daysRunning: number,
+): number {
+  const targetSet = new Set(targetCountries.map((c) => c.toLowerCase()));
+  let scoped = 0;
+
+  if (eu.audience.length > 0) {
+    for (const row of eu.audience) {
+      if (targetSet.has(row.location.toLowerCase())) scoped += row.reach;
+    }
+  } else if (eu.countries.some((c) => targetSet.has(c.toLowerCase()))) {
+    scoped = eu.reach;
+  }
+
+  return scoped / Math.max(1, daysRunning);
+}
+
+/**
  * Check EU transparency data for a bounded set of candidate ads (typically
  * this run's brand-new ads). Runs sequentially in a single browser session —
  * this is inherently slower than the listing scrape (one navigation per ad),

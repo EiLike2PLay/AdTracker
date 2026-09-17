@@ -59,14 +59,17 @@ jobs:
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL_NEW_PRODUCTS: ${{ secrets.DISCORD_WEBHOOK_URL_NEW_PRODUCTS }}
         run: |
           node dist/index.js \
             --page-id "${{ matrix.page }}" \
             --data "data/${{ matrix.page }}.json" \
             --country ${{ matrix.country }} \
             --winner-days 7 \
-            --min-reach-per-day 1500 \
-            --new-ad-max-age 7
+            --min-reach-per-day 2000 \
+            --new-ad-max-age 7 \
+            --rising-confirm-days 3 \
+            --target-countries "France,Germany,Netherlands,Belgium,Italy,Spain"
 
       - name: Commit updated snapshot
         run: |

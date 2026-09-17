@@ -97,6 +97,22 @@ export interface StoredAd extends Ad {
   euCountries?: string[] | null;
   /** Human-readable description of the single largest demographic segment. */
   euTopSegment?: string | null;
+  /**
+   * Daily reach snapshots scoped to {@link RuntimeConfig.targetCountries},
+   * one entry per day this ad was checked. Used to confirm a "rising"
+   * classification only once several consecutive days clear the threshold,
+   * instead of firing on a single lucky reading.
+   */
+  reachHistory?: Array<{ date: string; reachPerDay: number }>;
+  /**
+   * True once we've fired the "rising winner" notification for this ad, so a
+   * confirmed rising ad is not re-announced on every subsequent run.
+   */
+  notifiedAsRising?: boolean;
+  /** Detected marketing angle(s), e.g. "Angle A — Botox-vergelijking". Empty when nothing matched. */
+  angles?: string[];
+  /** Best-effort opening line/hook extracted from the ad copy. */
+  hook?: string | null;
 }
 
 /**
@@ -176,6 +192,17 @@ export interface RuntimeConfig {
   minReachPerDay: number;
   /** Max age (days) for a "new" ad to still be eligible for EU reach checks / "rising" classification. */
   newAdMaxAgeDays: number;
+  /**
+   * Countries (as they appear in the EU transparency panel, e.g. "France")
+   * that count toward the "rising" reach/day computation. An ad's reach in
+   * countries outside this list is still recorded but not counted — keeps
+   * the urgent channel scoped to markets we actually sell into.
+   */
+  targetCountries: string[];
+  /** Consecutive daily checks a candidate must clear {@link minReachPerDay} in before it's confirmed "rising". */
+  risingConfirmDays: number;
+  /** Discord webhook for the second ("new products", non-Ampoule) channel, if configured. */
+  discordWebhookUrlNewProducts: string | null;
   /** Max number of infinite-scroll passes before we give up. */
   maxScrolls: number;
   /** Run the browser headless? */
