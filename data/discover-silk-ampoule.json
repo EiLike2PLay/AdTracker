@@ -1,7 +1,7 @@
 {
   "version": 1,
   "pageId": "discover:silk ampoule",
-  "updatedAt": "2026-09-17T11:10:59.437Z",
+  "updatedAt": "2026-09-17T11:44:59.740Z",
   "ads": {
     "989291353829029": {
       "adId": "989291353829029",
@@ -122,15 +122,15 @@
         "Angle B — Mechanisme/penetratie"
       ],
       "hook": "✨ Botox en bouteille ?",
-      "euReach": 9149,
+      "euReach": 9189,
       "euCountries": [
         "France"
       ],
-      "euTopSegment": "Female 65+ in France (2,839)",
+      "euTopSegment": "Female 65+ in France (2,853)",
       "euTopCountries": [
         {
           "country": "France",
-          "reach": 9079
+          "reach": 9115
         }
       ],
       "reachHistory": [
@@ -167,15 +167,15 @@
         "Angle B — Mechanisme/penetratie"
       ],
       "hook": "J’ai testé la Silk Peptide Intensive Lifting Ampoule de Sungboon Editor",
-      "euReach": 7971,
+      "euReach": 8012,
       "euCountries": [
         "France"
       ],
-      "euTopSegment": "Male 18-24 in France (1,446)",
+      "euTopSegment": "Male 18-24 in France (1,454)",
       "euTopCountries": [
         {
           "country": "France",
-          "reach": 7630
+          "reach": 7658
         }
       ],
       "reachHistory": [
@@ -206,7 +206,18 @@
       "angles": [
         "Angle C — Insider/celebrity-secret"
       ],
-      "hook": "MAISOLYA.COM"
+      "hook": "MAISOLYA.COM",
+      "euReach": 3761,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (870)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 3776
+        }
+      ]
     },
     "2260365794711387": {
       "adId": "2260365794711387",
@@ -229,7 +240,18 @@
       "angles": [
         "Angle C — Insider/celebrity-secret"
       ],
-      "hook": "🔥 **1 ACHETÉE = 1 OFFERTE**"
+      "hook": "🔥 **1 ACHETÉE = 1 OFFERTE**",
+      "euReach": 3045,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (649)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 3184
+        }
+      ]
     },
     "28654577314146666": {
       "adId": "28654577314146666",
@@ -252,13 +274,13 @@
       "notifiedAsWinner": false,
       "angles": [],
       "hook": "Glass skincare routine.",
-      "euReach": 1567,
+      "euReach": 1578,
       "euCountries": [],
-      "euTopSegment": "Female 25-34 in France (932)",
+      "euTopSegment": "Female 25-34 in France (939)",
       "euTopCountries": [
         {
           "country": "France",
-          "reach": 1551
+          "reach": 1564
         }
       ],
       "reachHistory": [
@@ -288,7 +310,42 @@
       "seenCount": 1,
       "notifiedAsWinner": false,
       "angles": [],
-      "hook": "Serum with SH-polypeptide-62 activates cell regeneration while achieving a lifting A high-purity formula that boosts radiance and reduces t…"
+      "hook": "Serum with SH-polypeptide-62 activates cell regeneration while achieving a lifting A high-purity formula that boosts radiance and reduces t…",
+      "euReach": 59,
+      "euCountries": [
+        "Austria",
+        "Belgium",
+        "Croatia",
+        "Czech Republic",
+        "Denmark",
+        "Finland",
+        "France",
+        "Germany",
+        "Ireland",
+        "Italy",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "union",
+        "Slovenia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 65+ in Spain (8)",
+      "euTopCountries": [
+        {
+          "country": "Spain",
+          "reach": 14
+        },
+        {
+          "country": "Portugal",
+          "reach": 9
+        },
+        {
+          "country": "Italy",
+          "reach": 8
+        }
+      ]
     },
     "1705362631595137": {
       "adId": "1705362631595137",
@@ -332,7 +389,42 @@
       "seenCount": 1,
       "notifiedAsWinner": false,
       "angles": [],
-      "hook": "serum activates cell regeneration while achieving an immediate lifting effect."
+      "hook": "serum activates cell regeneration while achieving an immediate lifting effect.",
+      "euReach": 14,
+      "euCountries": [
+        "Austria",
+        "Belgium",
+        "Croatia",
+        "Czech Republic",
+        "Denmark",
+        "Finland",
+        "France",
+        "Germany",
+        "Ireland",
+        "Italy",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "union",
+        "Slovenia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 55-64 in Belgium (1)",
+      "euTopCountries": [
+        {
+          "country": "Belgium",
+          "reach": 3
+        },
+        {
+          "country": "France",
+          "reach": 2
+        },
+        {
+          "country": "Germany",
+          "reach": 2
+        }
+      ]
     },
     "1793820531815627": {
       "adId": "1793820531815627",
@@ -579,15 +671,15 @@
       "notifiedAsWinner": false,
       "angles": [],
       "hook": "The herDOSE Peptide Deep Lifting Ampoule — powered by melting silk peptide threads and 9+ skin-loving peptides — to help skin look visibly …",
-      "euReach": 6,
+      "euReach": 11,
       "euCountries": [
         "France"
       ],
-      "euTopSegment": "Female 35-44 in France (2)",
+      "euTopSegment": "Female 65+ in France (4)",
       "euTopCountries": [
         {
           "country": "France",
-          "reach": 6
+          "reach": 10
         }
       ],
       "reachHistory": [

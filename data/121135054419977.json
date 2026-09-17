@@ -1,7 +1,7 @@
 {
   "version": 1,
   "pageId": "121135054419977",
-  "updatedAt": "2026-09-17T11:06:46.314Z",
+  "updatedAt": "2026-09-17T11:44:59.740Z",
   "ads": {
     "2984558515080943": {
       "adId": "2984558515080943",
@@ -399,7 +399,28 @@
       "angles": [
         "Angle B — Mechanisme/penetratie"
       ],
-      "hook": "Her name is Regina Clarke."
+      "hook": "Her name is Regina Clarke.",
+      "euReach": 1021,
+      "euCountries": [
+        "Germany",
+        "Ireland",
+        "Netherlands"
+      ],
+      "euTopSegment": "Female 55-64 in Ireland (177)",
+      "euTopCountries": [
+        {
+          "country": "Ireland",
+          "reach": 568
+        },
+        {
+          "country": "Germany",
+          "reach": 296
+        },
+        {
+          "country": "Netherlands",
+          "reach": 144
+        }
+      ]
     },
     "1112984521006141": {
       "adId": "1112984521006141",

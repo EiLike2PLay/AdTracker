@@ -1,7 +1,7 @@
 {
   "version": 1,
   "pageId": "683748144815985",
-  "updatedAt": "2026-09-17T11:08:48.657Z",
+  "updatedAt": "2026-09-17T11:44:59.740Z",
   "ads": {
     "25907197515627905": {
       "adId": "25907197515627905",
@@ -314,7 +314,42 @@
       "angles": [
         "Angle A — Botox-vergelijking"
       ],
-      "hook": "🧬 Your skin stops producing NAD+ at 25."
+      "hook": "🧬 Your skin stops producing NAD+ at 25.",
+      "euReach": 118089,
+      "euCountries": [
+        "Austria",
+        "Belgium",
+        "Denmark",
+        "Finland",
+        "France",
+        "Germany",
+        "Greece",
+        "Ireland",
+        "Italy",
+        "Malta",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 45-54 in Ireland (6,444)",
+      "euTopCountries": [
+        {
+          "country": "Ireland",
+          "reach": 17625
+        },
+        {
+          "country": "Germany",
+          "reach": 15863
+        },
+        {
+          "country": "Sweden",
+          "reach": 14506
+        }
+      ]
     },
     "763507303210192": {
       "adId": "763507303210192",
@@ -338,7 +373,41 @@
       "angles": [
         "Angle A — Botox-vergelijking"
       ],
-      "hook": "¿Gastando $500 cada 3 meses en Botox?"
+      "hook": "¿Gastando $500 cada 3 meses en Botox?",
+      "euReach": 52574,
+      "euCountries": [
+        "Austria",
+        "Belgium",
+        "Denmark",
+        "Finland",
+        "France",
+        "Germany",
+        "Greece",
+        "Ireland",
+        "Italy",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 35-44 in Spain (7,107)",
+      "euTopCountries": [
+        {
+          "country": "Spain",
+          "reach": 23038
+        },
+        {
+          "country": "Italy",
+          "reach": 8078
+        },
+        {
+          "country": "Germany",
+          "reach": 4751
+        }
+      ]
     },
     "2759610201068935": {
       "adId": "2759610201068935",
@@ -426,7 +495,42 @@
       "angles": [
         "Angle A — Botox-vergelijking"
       ],
-      "hook": "🧬 Your skin stops producing NAD+ at 25."
+      "hook": "🧬 Your skin stops producing NAD+ at 25.",
+      "euReach": 85132,
+      "euCountries": [
+        "Austria",
+        "Belgium",
+        "Denmark",
+        "Finland",
+        "France",
+        "Germany",
+        "Greece",
+        "Ireland",
+        "Italy",
+        "Malta",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 45-54 in Ireland (4,512)",
+      "euTopCountries": [
+        {
+          "country": "Ireland",
+          "reach": 11796
+        },
+        {
+          "country": "Germany",
+          "reach": 9308
+        },
+        {
+          "country": "Italy",
+          "reach": 8516
+        }
+      ]
     },
     "1873437310029638": {
       "adId": "1873437310029638",
@@ -516,7 +620,41 @@
       "angles": [
         "Angle A — Botox-vergelijking"
       ],
-      "hook": "Spending $500 every 3 months on Botox?"
+      "hook": "Spending $500 every 3 months on Botox?",
+      "euReach": 71566,
+      "euCountries": [
+        "Austria",
+        "Belgium",
+        "Denmark",
+        "Finland",
+        "France",
+        "Germany",
+        "Greece",
+        "Ireland",
+        "Italy",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 45-54 in Ireland (5,473)",
+      "euTopCountries": [
+        {
+          "country": "Ireland",
+          "reach": 17218
+        },
+        {
+          "country": "Spain",
+          "reach": 6488
+        },
+        {
+          "country": "Germany",
+          "reach": 6417
+        }
+      ]
     },
     "1712070056912209": {
       "adId": "1712070056912209",
@@ -562,7 +700,41 @@
       "angles": [
         "Angle A — Botox-vergelijking"
       ],
-      "hook": "¿Gastando $500 cada 3 meses en Botox?"
+      "hook": "¿Gastando $500 cada 3 meses en Botox?",
+      "euReach": 15484,
+      "euCountries": [
+        "Austria",
+        "Belgium",
+        "Denmark",
+        "Finland",
+        "France",
+        "Germany",
+        "Greece",
+        "Ireland",
+        "Italy",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 45-54 in Spain (1,091)",
+      "euTopCountries": [
+        {
+          "country": "Spain",
+          "reach": 3748
+        },
+        {
+          "country": "Italy",
+          "reach": 2145
+        },
+        {
+          "country": "Germany",
+          "reach": 1858
+        }
+      ]
     },
     "1623312322441714": {
       "adId": "1623312322441714",
@@ -608,7 +780,41 @@
       "angles": [
         "Angle A — Botox-vergelijking"
       ],
-      "hook": "¿Gastando $500 cada 3 meses en Botox?"
+      "hook": "¿Gastando $500 cada 3 meses en Botox?",
+      "euReach": 50781,
+      "euCountries": [
+        "Austria",
+        "Belgium",
+        "Denmark",
+        "Finland",
+        "France",
+        "Germany",
+        "Greece",
+        "Ireland",
+        "Italy",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 45-54 in Spain (4,660)",
+      "euTopCountries": [
+        {
+          "country": "Spain",
+          "reach": 15581
+        },
+        {
+          "country": "Italy",
+          "reach": 7203
+        },
+        {
+          "country": "Germany",
+          "reach": 5580
+        }
+      ]
     },
     "1413652247238700": {
       "adId": "1413652247238700",

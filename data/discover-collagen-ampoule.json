@@ -1,7 +1,7 @@
 {
   "version": 1,
   "pageId": "discover:collagen ampoule",
-  "updatedAt": "2026-09-17T11:09:49.855Z",
+  "updatedAt": "2026-09-17T11:44:59.740Z",
   "ads": {
     "989291353829029": {
       "adId": "989291353829029",
@@ -79,7 +79,24 @@
       "seenCount": 1,
       "notifiedAsWinner": false,
       "angles": [],
-      "hook": "Source Beauty on Alibaba."
+      "hook": "Source Beauty on Alibaba.",
+      "euReach": 892,
+      "euCountries": [],
+      "euTopSegment": "Female 35-44 in France (37)",
+      "euTopCountries": [
+        {
+          "country": "Italy",
+          "reach": 198
+        },
+        {
+          "country": "France",
+          "reach": 154
+        },
+        {
+          "country": "Spain",
+          "reach": 68
+        }
+      ]
     },
     "3912972548837302": {
       "adId": "3912972548837302",
@@ -101,7 +118,56 @@
       "seenCount": 1,
       "notifiedAsWinner": false,
       "angles": [],
-      "hook": "🎉 This is your Last Chance!"
+      "hook": "🎉 This is your Last Chance!",
+      "euReach": 11089,
+      "euCountries": [
+        "Aland Islands",
+        "Austria",
+        "Belgium",
+        "Bulgaria",
+        "Croatia",
+        "Cyprus",
+        "Czech Republic",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "Germany",
+        "Greece",
+        "Guadeloupe",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Martinique",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Saint Martin",
+        "Slovakia",
+        "Slovenia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 25-34 in Germany (577)",
+      "euTopCountries": [
+        {
+          "country": "Germany",
+          "reach": 1431
+        },
+        {
+          "country": "Cyprus",
+          "reach": 938
+        },
+        {
+          "country": "Spain",
+          "reach": 915
+        }
+      ]
     },
     "3125694917600942": {
       "adId": "3125694917600942",
@@ -124,7 +190,18 @@
       "angles": [
         "Angle C — Insider/celebrity-secret"
       ],
-      "hook": "Torriden, l'expertise skincare coréenne : des formules innovantes et effiaces, adaptées à tous les types de peau."
+      "hook": "Torriden, l'expertise skincare coréenne : des formules innovantes et effiaces, adaptées à tous les types de peau.",
+      "euReach": 20196,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 25-34 in France (4,800)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 19885
+        }
+      ]
     },
     "3006563363040993": {
       "adId": "3006563363040993",
@@ -146,7 +223,50 @@
       "seenCount": 1,
       "notifiedAsWinner": false,
       "angles": [],
-      "hook": "I used to book microneedling in a clinic."
+      "hook": "I used to book microneedling in a clinic.",
+      "euReach": 21911,
+      "euCountries": [
+        "Austria",
+        "Belgium",
+        "Bulgaria",
+        "Croatia",
+        "Cyprus",
+        "Czech Republic",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "Greece",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Slovenia",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 35-44 in Ireland (646)",
+      "euTopCountries": [
+        {
+          "country": "Italy",
+          "reach": 2314
+        },
+        {
+          "country": "Ireland",
+          "reach": 2022
+        },
+        {
+          "country": "Romania",
+          "reach": 1621
+        }
+      ]
     },
     "977261151424848": {
       "adId": "977261151424848",
@@ -168,7 +288,56 @@
       "seenCount": 1,
       "notifiedAsWinner": false,
       "angles": [],
-      "hook": "🎉 Happy New Years Promotion EXTENDED!"
+      "hook": "🎉 Happy New Years Promotion EXTENDED!",
+      "euReach": 4392,
+      "euCountries": [
+        "Aland Islands",
+        "Austria",
+        "Belgium",
+        "Bulgaria",
+        "Croatia",
+        "Cyprus",
+        "Czech Republic",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "Germany",
+        "Greece",
+        "Guadeloupe",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Martinique",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Saint Martin",
+        "Slovakia",
+        "Slovenia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 25-34 in Germany (224)",
+      "euTopCountries": [
+        {
+          "country": "Germany",
+          "reach": 559
+        },
+        {
+          "country": "Spain",
+          "reach": 463
+        },
+        {
+          "country": "Cyprus",
+          "reach": 393
+        }
+      ]
     },
     "1866382184746009": {
       "adId": "1866382184746009",
@@ -250,7 +419,56 @@
       "seenCount": 1,
       "notifiedAsWinner": false,
       "angles": [],
-      "hook": "🎉 This is your Last Chance!"
+      "hook": "🎉 This is your Last Chance!",
+      "euReach": 417,
+      "euCountries": [
+        "Aland Islands",
+        "Austria",
+        "Belgium",
+        "Bulgaria",
+        "Croatia",
+        "Cyprus",
+        "Czech Republic",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "Germany",
+        "Greece",
+        "Guadeloupe",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Martinique",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Saint Martin",
+        "Slovakia",
+        "Slovenia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 35-44 in Malta (18)",
+      "euTopCountries": [
+        {
+          "country": "Cyprus",
+          "reach": 54
+        },
+        {
+          "country": "Malta",
+          "reach": 41
+        },
+        {
+          "country": "Greece",
+          "reach": 27
+        }
+      ]
     },
     "1778146849891180": {
       "adId": "1778146849891180",
@@ -315,7 +533,54 @@
       "seenCount": 1,
       "notifiedAsWinner": false,
       "angles": [],
-      "hook": "🎉 Happy New Years Promotion EXTENDED!"
+      "hook": "🎉 Happy New Years Promotion EXTENDED!",
+      "euReach": 1476,
+      "euCountries": [
+        "Aland Islands",
+        "Austria",
+        "Belgium",
+        "Bulgaria",
+        "Croatia",
+        "Czech Republic",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Martinique",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Saint Martin",
+        "Slovakia",
+        "Slovenia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 25-34 in Greece (88)",
+      "euTopCountries": [
+        {
+          "country": "Greece",
+          "reach": 244
+        },
+        {
+          "country": "Italy",
+          "reach": 140
+        },
+        {
+          "country": "Malta",
+          "reach": 105
+        }
+      ]
     },
     "2545631529252298": {
       "adId": "2545631529252298",
@@ -380,7 +645,20 @@
       "seenCount": 1,
       "notifiedAsWinner": false,
       "angles": [],
-      "hook": "Fan du Biodance Collagen Real Deep Mask ?"
+      "hook": "Fan du Biodance Collagen Real Deep Mask ?",
+      "euReach": 6616,
+      "euCountries": [],
+      "euTopSegment": "Male 35-44 in France (1,242)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 6740
+        },
+        {
+          "country": "Belgium",
+          "reach": 96
+        }
+      ]
     },
     "2400367880366953": {
       "adId": "2400367880366953",
@@ -403,7 +681,18 @@
       "angles": [
         "Angle C — Insider/celebrity-secret"
       ],
-      "hook": "MAISOLYA.COM"
+      "hook": "MAISOLYA.COM",
+      "euReach": 3761,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (870)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 3776
+        }
+      ]
     },
     "2260365794711387": {
       "adId": "2260365794711387",
@@ -426,7 +715,18 @@
       "angles": [
         "Angle C — Insider/celebrity-secret"
       ],
-      "hook": "🔥 **1 ACHETÉE = 1 OFFERTE**"
+      "hook": "🔥 **1 ACHETÉE = 1 OFFERTE**",
+      "euReach": 3045,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (649)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 3184
+        }
+      ]
     },
     "1312744884299978": {
       "adId": "1312744884299978",
@@ -471,7 +771,7 @@
       "notifiedAsWinner": false,
       "angles": [],
       "hook": "🎉 Happy New Years Promotion EXTENDED!",
-      "euReach": 936,
+      "euReach": 969,
       "euCountries": [
         "Aland Islands",
         "Austria",
@@ -503,19 +803,19 @@
         "Spain",
         "Sweden"
       ],
-      "euTopSegment": "Female 25-34 in Italy (35)",
+      "euTopSegment": "Female 25-34 in Italy (38)",
       "euTopCountries": [
         {
           "country": "Italy",
-          "reach": 99
+          "reach": 104
         },
         {
           "country": "Greece",
-          "reach": 87
+          "reach": 89
         },
         {
           "country": "Germany",
-          "reach": 76
+          "reach": 79
         }
       ],
       "reachHistory": [
@@ -569,7 +869,18 @@
         "Angle B — Mechanisme/penetratie",
         "Cadeau/bundel-framing"
       ],
-      "hook": "Voir la vie en rose 💗"
+      "hook": "Voir la vie en rose 💗",
+      "euReach": 1491,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 35-44 in France (344)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 1488
+        }
+      ]
     }
   }
 }
