@@ -1,7 +1,7 @@
 {
   "version": 1,
   "pageId": "1014965211696273",
-  "updatedAt": "2026-10-01T23:42:18.115Z",
+  "updatedAt": "2026-10-02T14:27:49.996Z",
   "ads": {
     "891455730191031": {
       "adId": "891455730191031",
@@ -11,16 +11,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOhOHtsxHuStYfd1aXEbS6YYf8a9UDB8EOFRlimc9gTjmO6gizzlI5MbrASaEmxwxSPeprI5GgIOdsxk8PK-oKtWoKszWPUalo9mwS_ng.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=oqtWTCofzgIQ7kNvwFKkrNl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjcyODgxMjg0NzA4NjkxNDQsImFzc2V0X2FnZV9kYXlzIjo3MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM2NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&_nc_zt=28&oh=00_AQNAda0LH6N1xCH24CZMbV5TKLnA59c_WryH6opKS_jJWA&oe=6AC44876",
-          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/751819167_1808398510129487_1713495077092029922_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sdb50RolAFQQ7kNvwGCdB6F&_nc_oc=AdpbSCzDvJl-OE-OPE0vgG4nK1f8xHOGqfIOLLxFeRONAAH1kzrTqFlUyz_oKpVJmpQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQM22XDCR2VHsBasNCbaEkrWijgMhP7BZQSkICZm7oS1kg&oe=6AC45B5D"
+          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOhOHtsxHuStYfd1aXEbS6YYf8a9UDB8EOFRlimc9gTjmO6gizzlI5MbrASaEmxwxSPeprI5GgIOdsxk8PK-oKtWoKszWPUalo9mwS_ng.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=oqtWTCofzgIQ7kNvwHM7V8v&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjcyODgxMjg0NzA4NjkxNDQsImFzc2V0X2FnZV9kYXlzIjo3MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM2NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQPXPe8dKKt5zBT8-URu9Hk1cyCMPtX6wFpUDL-D7tWZMg&oe=6AC599F6",
+          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/751819167_1808398510129487_1713495077092029922_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sdb50RolAFQQ7kNvwE6NW7z&_nc_oc=AdqBy8FOIcjoS-oU5XWvVT7WjwRKjG-_mtW8crmTTUV_3ZElZAfHWeKs_KNm6_qLfiU&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQMpd3IpcXIX8dorvGNECIca00T8kGaueClDGpK0zFIMEA&oe=6AC5ACDD"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": false,
+      "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
       "notifiedAsWinner": true,
       "angles": [
         "Testimonial/persoonlijk verhaal"
@@ -35,16 +35,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPCeJouvEQuq55jRbd1dsj6emI9frs8mgXWb6j750Xg3_uAO-tJi2ryBE4AUp4XsRlU92x39Lhn058saTiGoGovbygUgwRnUYhPvsDKfA.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=8QfuO7dnqKcQ7kNvwGpbd0N&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTAzMTYyNTczOTg1MDYwOSwiYXNzZXRfYWdlX2RheXMiOjYyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzUzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&_nc_zt=28&oh=00_AQNR-pQXWcrOaanMmVMHWKaPaqLYjn_oLhEFmfIXYq_UoQ&oe=6AC4623D",
-          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/760371340_2547145669135386_6423717622449268722_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xZ0nRaI46sgQ7kNvwFsuYaj&_nc_oc=AdrVSmFwNtStQRCo8SjiCPNuaAZ7dBIkNniAvb2EJnqJIqDP1UuDGejD1r3I04evf_c&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQNRjBJlI4NgtkTi8_j71dX3IBkWqlPaPPY0VMlF0Labew&oe=6AC42EF1"
+          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPCeJouvEQuq55jRbd1dsj6emI9frs8mgXWb6j750Xg3_uAO-tJi2ryBE4AUp4XsRlU92x39Lhn058saTiGoGovbygUgwRnUYhPvsDKfA.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=ia_yVSzp01YQ7kNvwFNyRrV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTAzMTYyNTczOTg1MDYwOSwiYXNzZXRfYWdlX2RheXMiOjYzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzUzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQMey4x8BTFubkXvn0-j1me2wibZH6STGXvVQQnNVLGAZA&oe=6AC57B7D",
+          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/760371340_2547145669135386_6423717622449268722_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xZ0nRaI46sgQ7kNvwFCNW_4&_nc_oc=AdqnaA4LGvBueB5_e40w7hLOH75pEZOnSihTXjBv7zwUIURlqwNF9k3Rel_nxHSkgTA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQPoNswdCxWaCB1lgWuXj8mqxiZqMnSy2M4hCN_rFdmL6w&oe=6AC58071"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": false,
+      "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
       "notifiedAsWinner": true,
       "angles": [
         "Testimonial/persoonlijk verhaal"
@@ -70,16 +70,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQORSdaPWuC4Z3OqG-vkcb8gtALR_psFg4EpeffFBY4U1jrkUQ9iPhvgF62dWuS4-hWpaYtFpBQ-o3RQHTYbQ_DAL9bRoUeuFHdnZipccg.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=B9Bd92gkStEQ7kNvwFl2oUS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzcxOTU0NDA1NDY3Njk3MDcsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&_nc_zt=28&oh=00_AQNERJcmGGNcLYG3H_oTgkMUjpVnl5uTXbmYKun3WyPrNw&oe=6AC44E7B",
-          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/754462949_2079883559303616_997841190176441762_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HGSQy0Es8pcQ7kNvwHZhQHs&_nc_oc=AdooMIHzQBwrBw4O51XsH4wLTkcRDU3AQfR6TclVOJWbZwdqOt62E9TJCFX2zVJAei8&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQO48NiAkDQebg2v2qffO5ih2PQfAd7h8zhQIew8D0tnlQ&oe=6AC43E8E"
+          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQORSdaPWuC4Z3OqG-vkcb8gtALR_psFg4EpeffFBY4U1jrkUQ9iPhvgF62dWuS4-hWpaYtFpBQ-o3RQHTYbQ_DAL9bRoUeuFHdnZipccg.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=B9Bd92gkStEQ7kNvwHNih12&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzcxOTU0NDA1NDY3Njk3MDcsImFzc2V0X2FnZV9kYXlzIjo2OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQMX4OVW1EXtRQfFsmsnMZxQUXvmV_1IyMZDQSBBEA5Hng&oe=6AC59FFB",
+          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/754462949_2079883559303616_997841190176441762_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HGSQy0Es8pcQ7kNvwFLt3NC&_nc_oc=Ado6IqgBUqIq5zeerU13MUbiPFsw8YttrNUV7GhlxeoaIBulJmOXqNwAJIn9JYBo9iM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQMbqMP5rxBmuPVU9TZdIxScJGxXcL5zsVqCWBoO1j4h7g&oe=6AC5900E"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": false,
+      "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
       "notifiedAsWinner": true,
       "angles": [
         "Testimonial/persoonlijk verhaal"
@@ -105,55 +105,19 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMBwvWuRcLoXmHealbtx_edI9DDmUGvAyyAfbAIVIP9WonIHJfT-c2RzIORbESd0yznHg8t4wfJcVmABQ0dUl5u5zvz-h9wNOFbEPTdIg.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=vOyFCO9989wQ7kNvwGQoPgg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjEyNzY5NjAzNDgzNjg3MiwiYXNzZXRfYWdlX2RheXMiOjYzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTQxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&_nc_zt=28&oh=00_AQNXSEcZ8I9WEMfxf-XERTGndrnnHzVMStw6FdybkI7U6g&oe=6AC438FC",
-          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/761596419_4280534135424466_4754324035816328647_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BYic5ll1lTsQ7kNvwEaYJSh&_nc_oc=AdpFSG14ZbGFpL4pi4D1u88cvjyqDurBBr0yEtB9O1GYZpHDCUfhf7AcEafG3bU60bc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQNzeQSmyekcyT3rUQIWcOoGoxLGu00ax2BMvIb2hAt2Og&oe=6AC432B4"
+          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMBwvWuRcLoXmHealbtx_edI9DDmUGvAyyAfbAIVIP9WonIHJfT-c2RzIORbESd0yznHg8t4wfJcVmABQ0dUl5u5zvz-h9wNOFbEPTdIg.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=vOyFCO9989wQ7kNvwFqCQeb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjEyNzY5NjAzNDgzNjg3MiwiYXNzZXRfYWdlX2RheXMiOjY0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTQxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQNQtSWR-1GaeWIkolD5g4CvuvfwIvqYPrsaEJAu2Ak89A&oe=6AC58A7C",
+          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/761596419_4280534135424466_4754324035816328647_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G3YRDypMnnAQ7kNvwGiQs8w&_nc_oc=AdoTvCWIkr3Q_5iK1eZvEhGHh243yks8DptAAm2UBDglNpyKxr1JcfXlTEcGnmhpbZU&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQOk_eO8xWj2k_1JWr0do0caDqwAsbBRgyWQCZUUekRV6A&oe=6AC58434"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": false,
+      "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "2 ads use this creative and text"
-    },
-    "2568631160241865": {
-      "adId": "2568631160241865",
-      "startedRunningRaw": "Started running on Jul 27, 2026",
-      "startedRunningOn": "2026-07-27",
-      "text": "La semaine dernière, mon ex-mari faisait la queue à la caisse derrière moi.\n\nSa petite amie, à son bras, était assez jeune pour être notre fille.\n\nPendant dix minutes, il ne s'est jamais rendu compte que c'était moi.\n\nIl m'a regardée droit dans les yeux comme si j'étais une inconnue.\n\nJe suis rentrée chez moi. Je me suis regardée dans le miroir et j'ai enfin compris pourquoi…\n0:00 / 4:58\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMF1eShGVCABZTn7ZkZB7BaTRkg8T_lZgULfniaSvHT8y4zSIpOPcd2hILtH2PvrTrNBBLK5QrUO_hMmLSoGS1Zzmim0yIKnHM1TIEf6w.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=T9lCfl-3ui0Q7kNvwH_dFvq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc0NDA4NjI3MDA1MzMzOCwiYXNzZXRfYWdlX2RheXMiOjY1LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6Mjk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&_nc_zt=28&oh=00_AQPq-EeHYUZvzC5777oBANLra6bPXNqgIgykNX0rO4omwQ&oe=6AC4637D",
-          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/758588535_1042432284847473_5904792268327198672_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L6USjTeZzBQQ7kNvwG_5jwB&_nc_oc=AdrwN0kZj5dTpuRC4PhbthTIl7h9fIsVsfxOwlAc9Oisjk0CxufTqJylfY1Lx7Nd4LA&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQPtNQ-qRozZ7j35DLcXEDirqEXEAs_Gk5t1jMs6dcXfeg&oe=6AC45E3F"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
-      "notifiedAsWinner": true,
-      "angles": [
-        "Insider/celebrity-secret",
-        "Testimonial/persoonlijk verhaal"
-      ],
-      "hook": "La semaine dernière, mon ex-mari faisait la queue à la caisse derrière moi.",
-      "euReach": 342210,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 45-54 in France (120,708)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 345132
-        }
-      ]
     },
     "1051137844301732": {
       "adId": "1051137844301732",
@@ -163,15 +127,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/778296794_3671689142987153_4493865764813969716_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5M5zJkbwiS8Q7kNvwEbsZE3&_nc_oc=AdoICSCUmlSUtzphJ1_dYo9BCTh2acfX1IYp2_Eu2bwmQ3E2tPfdXNplTLrHlUiBNpw&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQOt0iawsYzmKBiq5a2g0chzi5CCrSbBPmmymrfhhy3uSg&oe=6AC43A12"
+          "url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/778296794_3671689142987153_4493865764813969716_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5M5zJkbwiS8Q7kNvwHbmf-_&_nc_oc=AdqxLTWMwpgfUptSzkKv6d9dktirlxGD8r7lGwMfSioSVo925PfnNVnUGDhGnvRStwA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQPA8G5TOYxycRyYHt-quoN5072SyWCHmAcwUSfsipKmeA&oe=6AC58B92"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": false,
+      "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "WWW.NURIA-SHOP."
@@ -184,16 +148,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOmpAts9p2G4aafZ8QZQi4He18fp-CljMUmTjj_VR3jhh25zJe_rKG_Sgvv0q7FNsSLv8if_e_ohgnpYte0sfpLOgBNEkRjYTrbw91W8A.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=PUTp45nxh_kQ7kNvwEDV-xY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExOTU3NTEzNDA3NDEyNiwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo3NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&_nc_zt=28&oh=00_AQPnoy5Xc1WwuEvb0QP8nqDf3Jx-Yfbx2teg6M2tt_Tg8w&oe=6AC45BFD",
-          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/821721314_2190961008481941_3314704453575538777_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mYstCxj6uOwQ7kNvwEr-kyl&_nc_oc=AdqrGggYZtB3O7c4GIcWhLzJqMN0_rfi03wxqB75DzTXQJWPt_hqwuPXebAjoL8o4NY&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQPtrZ9aaZ-YvzqDZYbgXljxJkxkmNQK0K0xC5YuWE2VLg&oe=6AC43643"
+          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOmpAts9p2G4aafZ8QZQi4He18fp-CljMUmTjj_VR3jhh25zJe_rKG_Sgvv0q7FNsSLv8if_e_ohgnpYte0sfpLOgBNEkRjYTrbw91W8A.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=PUTp45nxh_kQ7kNvwGF36Ug&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExOTU3NTEzNDA3NDEyNiwiYXNzZXRfYWdlX2RheXMiOjcsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo3NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQPzIYaXw6fPu1JY_9tab1M4qwPg6bKngfpXL3DmyjNU3Q&oe=6AC5AD7D",
+          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/821721314_2190961008481941_3314704453575538777_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mYstCxj6uOwQ7kNvwHdqWtn&_nc_oc=AdrcAXfhF77w-nLgNEiyCWURWp5mrhg5_W13P_RRrbJ7bwbGR-TLL_CWq44xsmAnsig&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQMha5LQ99gPAgHfAV4yv1erkvY9J9BiDpWVTmLwX8nLog&oe=6AC587C3"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": false,
+      "active": true,
       "firstSeenAt": "2026-09-27T13:32:04.325Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 8,
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 9,
       "notifiedAsWinner": true,
       "angles": [
         "Testimonial/persoonlijk verhaal"
@@ -234,16 +198,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOnl-ePC7hDEbXrPlgp46nXPLX9eYqPZLasfZayaR8m-klr49l8ddO8-pg5pULneu-NfBmYQxamhAfObWiCu7GrMaN5DyySXyYIKJok-g.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=aI8kJPDJbLcQ7kNvwGP0VVM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA1OTk0NzQ3MDI1NTIwNCwiYXNzZXRfYWdlX2RheXMiOjI3LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzY2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&_nc_zt=28&oh=00_AQNNPXseEPcZNqBwBfsCqTPsZ9koqz0-nZVI5iQ8qnIS-A&oe=6AC45934",
-          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/793367474_28392045813758375_8370009996363849243_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UcrFMvzxRtgQ7kNvwGxhyDE&_nc_oc=AdowGUmiznfz6UQfF1kBe0Lgr8dFokyu8msPb_lMirbwPkgunTqFlNcFMjd5tNHqswg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQOHXDGOY9IrM6KK7KaggSfrUxKkwZfOAQbiEwRIhKcaEg&oe=6AC454C6"
+          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOnl-ePC7hDEbXrPlgp46nXPLX9eYqPZLasfZayaR8m-klr49l8ddO8-pg5pULneu-NfBmYQxamhAfObWiCu7GrMaN5DyySXyYIKJok-g.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=aI8kJPDJbLcQ7kNvwHUWAnu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA1OTk0NzQ3MDI1NTIwNCwiYXNzZXRfYWdlX2RheXMiOjI4LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzY2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQOt4F3ycxfeqDvMlx84UpogUsoBP45QsY66ic83Km9m1w&oe=6AC5AAB4",
+          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/793367474_28392045813758375_8370009996363849243_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UcrFMvzxRtgQ7kNvwFrhtHt&_nc_oc=AdqKJKKpVw33vCQCK4nQWyMvJwRwn6cg40DvWBDnozxrbgH-QcyfRKq7Ky_Kd7F13eI&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQN3YAlDoPeu5zkiP6Zedi65DrZijw-4QMWjww7hIMG0JQ&oe=6AC5A646"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": false,
+      "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "À six heures du matin, j'avais trois appels manqués de l'homme qui avait divorcé de moi."
@@ -256,16 +220,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPGzIHKCvAwujD1_pwHeHH6USxh6veuLrF_2bC8-k8bTg9lwlAa55-5scFfAck8_ks--4-SUrmRpUVQQfPuFXyYOroG00sl8sFAQjmJXw.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=11-cWc-LLy0Q7kNvwGgMb7V&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU0MzExMjYwNjkwNTg0NiwiYXNzZXRfYWdlX2RheXMiOjQzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDM2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&_nc_zt=28&oh=00_AQO1VTiGk7tRZbYxYignWWzjv0bNKPrtBUNvaaEqS1ZIgQ&oe=6AC45CA6",
-          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/778139654_1544292800763301_5757025343339980114_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mqzN7hQMUIwQ7kNvwHuS491&_nc_oc=AdpfI3rJTwk1XS_LZZxUve2F6TiIjJ5MhMTpMrHREkwMfItMLDfzMET-UtIvH5r4XW4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQOV6Bk38Vfvsd1PlbLgcu-dxUtWAQtisDOpgMLqAbROJw&oe=6AC464B4"
+          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPGzIHKCvAwujD1_pwHeHH6USxh6veuLrF_2bC8-k8bTg9lwlAa55-5scFfAck8_ks--4-SUrmRpUVQQfPuFXyYOroG00sl8sFAQjmJXw.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=11-cWc-LLy0Q7kNvwHCP1mb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU0MzExMjYwNjkwNTg0NiwiYXNzZXRfYWdlX2RheXMiOjQ0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDM2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQMU47pe5FKXUQKcC-OmLhHadO9qsaxNx24fBiOGy1Rfdg&oe=6AC575E6",
+          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/778139654_1544292800763301_5757025343339980114_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mqzN7hQMUIwQ7kNvwEAyoIz&_nc_oc=Adq5NyQJiEGfrg2p4iz1SIUvwL0hxJShYbfY8ftohq4ncWQjGdQ4-YlQnH54-BOpF98&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQNf24osu76kZo2cCOtjHx81bBiu4fA-wd4rHFeadSYu-g&oe=6AC57DF4"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": false,
+      "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
       "notifiedAsWinner": true,
       "angles": [
         "Testimonial/persoonlijk verhaal",
@@ -292,16 +256,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOLChdSmJ9HF7Und7Ec9JkaAHwU6UEU0OZU136XM4LnY6PtSwNf9qkkQ6o9jY_JbkIbKlYR6JVt8renvcdJC0lTI8UsmEoPh3dVdy6ayA.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=DjCQeLeQjqQQ7kNvwHjql8p&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU5MzIzMjIyNTc3MTMzNSwiYXNzZXRfYWdlX2RheXMiOjM4LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTQzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&_nc_zt=28&oh=00_AQPvuAFmVi8RpYRp63zrjImBRNL22AI2XSEl9XEBJYflFg&oe=6AC4386D",
-          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/784430465_3936055073355495_7257637095700496657_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZapgW2jXXtAQ7kNvwHe7nXt&_nc_oc=AdrwmmZmqmh1YzY833_QobLQdBCpIbpphM-xr3WVuG_A_DwbKGlFvm35Ma8MRIHlu1o&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQOp36gNdtVaUgMT4fJYPNhs2gCCajrmP5pAfBDlG96usQ&oe=6AC43D82"
+          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOLChdSmJ9HF7Und7Ec9JkaAHwU6UEU0OZU136XM4LnY6PtSwNf9qkkQ6o9jY_JbkIbKlYR6JVt8renvcdJC0lTI8UsmEoPh3dVdy6ayA.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=DjCQeLeQjqQQ7kNvwEn9FLZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU5MzIzMjIyNTc3MTMzNSwiYXNzZXRfYWdlX2RheXMiOjM5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTQzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQPlPsSBtFiURdq6WP7_y5oATtzzuHeVKk0nUQz1EnAeGQ&oe=6AC589ED",
+          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/784430465_3936055073355495_7257637095700496657_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZapgW2jXXtAQ7kNvwGqqvVc&_nc_oc=AdqT2km1YDExSEChETCFj3Ssui8lYVGy_Esg6GP8ocIBwXCwOtvSu50pWOuGYaXo5KQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQPQThPTUOFo5KccTPSyr2mn719pBV7IeEcAVV4GltDWWA&oe=6AC58F02"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": false,
+      "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "2 ads use this creative and text"
@@ -314,7 +278,566 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/784622312_2129622187953825_2402446741182136177_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zOiRcbdTFrIQ7kNvwH7QjRK&_nc_oc=AdooNf4TjgOXA9iokpPv9aVG6-3CxrNSR1eParJTUMr7yujf7df0xNYnVtOIODwJ20o&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQP5ibu0R0YehbQGi64u16aYjuPVCok7djbCEFH-bDV6Eg&oe=6AC435F9"
+          "url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/784622312_2129622187953825_2402446741182136177_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zOiRcbdTFrIQ7kNvwGgv-KK&_nc_oc=AdrbtYn6N6aziHSdzRE4HHGhSX71-Raof4JbulTvxT0x_PCFojzxaMcC3B5OziohW8g&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQNImYZypIWFBlRgshdZD1wFrzP2lrjj1y9N_nHk5_-URA&oe=6AC58779"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
+    },
+    "1593286115516519": {
+      "adId": "1593286115516519",
+      "startedRunningRaw": "Started running on Aug 2, 2026",
+      "startedRunningOn": "2026-08-02",
+      "text": "Samedi, le mariage de ma fille.\n\nIl entre avec elle à son bras, assez jeune pour être notre fille...\n\nJe passe devant lui sans trembler.\n0:00 / 4:26\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOKbfcz0XDTMcFx3Q2Imgvy1Y2vfL2lBpFUX6S1kkp3XN3Dp-M3VnAJXTrXRYc_cYU5A7VBBF8dobKkKPjAwEbI6hdE4lVHFkB3SicwNQ.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=QcoHDslfZH4Q7kNvwGXqxpI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM0MzgxNDM0MTIyMDQ1NSwiYXNzZXRfYWdlX2RheXMiOjYwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjY1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQMGp-83GrBQuKw9OMdf0VwniTB6iJUtEtrM7xL7QRgt7w&oe=6AC58873",
+          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/761042182_3965066196958144_1137528117516553803_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8T3QOu1RsnEQ7kNvwE4u4QL&_nc_oc=Adrv9trPnWlAOnWq8vUmNqFhKyYND6_f91H8-opVXJ6_YaopIHe6ZSqswZENpQKEN8g&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQM1qikqF0nUZAEfQfl3XfNmtYFDfL453VbA-1v-wa9nSA&oe=6AC5A64E"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Insider/celebrity-secret"
+      ],
+      "hook": "Samedi, le mariage de ma fille.",
+      "euReach": 122542,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (43,005)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 125405
+        }
+      ]
+    },
+    "2150442415853148": {
+      "adId": "2150442415853148",
+      "startedRunningRaw": "Started running on Aug 23, 2026",
+      "startedRunningOn": "2026-08-23",
+      "text": "À 53 ans j'ai découvert que mon mari me trompait pendant qu'il était dans le coma.\n23 jours assise à côté de ce lit, à pleurer, à lui tenir la main...\n0:00 / 7:46\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQP8mbMW9mM9ZWq_mCwEwSArS8ao5KlUndyo_DsT1pgFXui4NcCAjnPJ6ZbsjsDrZIXD0iikCaeKYJpJkz3TYWhNHNxDLjOnGk3o48Hmeg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=yQps_q5IGk8Q7kNvwGRumeN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjgwMjY2NzczNjY5NDM1NzMsImFzc2V0X2FnZV9kYXlzIjo0MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ2NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQMAAyG8YYaZQZjoLc7Q3zbNlue-BgGJFu1Tn9Izh3_Z6w&oe=6AC58B5F",
+          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/784019712_1533666928001256_8959635876613652914_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AfOD5Oxm6SgQ7kNvwGeO8fs&_nc_oc=AdpNz1tLLEgZR6EEhS-gHFQTWug9Dy-liZ1WFqQlKJ9TTPwtIcSj-0B57jdZQoRQ2LU&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQMYeWy6jeWdAbDM6ueDRCzSDsQ-fiqQ6D1ErJ1GA3DWYw&oe=6AC587B9"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Insider/celebrity-secret",
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "À 53 ans j'ai découvert que mon mari me trompait pendant qu'il était dans le coma.",
+      "euReach": 124160,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 45-54 in France (44,756)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 125432
+        }
+      ]
+    },
+    "1065548919255042": {
+      "adId": "1065548919255042",
+      "startedRunningRaw": "Started running on Aug 5, 2026",
+      "startedRunningOn": "2026-08-05",
+      "text": "J'ai découvert que mon mari me trompait avec une jeune fille assez jeune pour être notre fille.\n\nJe me suis complètement effondrée.\n\nMais voici comment j'ai réussi à me relever et à retrouver mon éclat à soixante-trois ans.\n0:00 / 5:18\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNd6D2ytL1lgD39JeTgR87LQQ7rM9h9mzT2RW8RFiKIKSwPOymwYbz8Gdr_gEZCITpjmyLmJZM7wECHc-8ecbPTloj1peEYjb_v9TEXHA.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=eeb_mf0QrecQ7kNvwGDhDgS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjQ5MTM3MTQxMTM3Njk4MSwiYXNzZXRfYWdlX2RheXMiOjU3LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQM1wAx3VUBWm2OCWwc8QROKBBYdrlQ0c4r1t83fALfgrA&oe=6AC59596",
+          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/764593195_1067377099107756_5597395405827832578_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PQwvG-vISpQQ7kNvwE7yofJ&_nc_oc=AdomAdtn3B6y0t6uXGXv6XLDwxH89tyiwlDgG0_-GSeVhwS9rJZQEDoqskFVSr4L0Lo&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQNsvNf3SxFQcPiyA6z11CshNocBMyEcIMjuWYIdPk-Rfw&oe=6AC58E4D"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Insider/celebrity-secret",
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "J'ai découvert que mon mari me trompait avec une jeune fille assez jeune pour être notre fille.",
+      "euReach": 113830,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 45-54 in France (39,358)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 115714
+        }
+      ]
+    },
+    "889581880630325": {
+      "adId": "889581880630325",
+      "startedRunningRaw": "Started running on Aug 23, 2026",
+      "startedRunningOn": "2026-08-23",
+      "text": "WWW.NURIA-SHOP.COM\n10% avec le code ECLAT\nGarantie 99 jours\nLearn More",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/784928622_27558109807204049_2231415489709130839_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=B8gSJJMgA8sQ7kNvwFlBzLw&_nc_oc=Adq5WaJiGKOMaKOSo0-nEEa-fMylKRUddGpav1-EAUMJl13jShA9p4GlmP-81tONla0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQMmbxhdLy9P7YFS5ASInpI3UKxP51Yu8hSn3y_VES690A&oe=6AC582C3"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
+    },
+    "27829968516661411": {
+      "adId": "27829968516661411",
+      "startedRunningRaw": "Started running on Aug 6, 2026",
+      "startedRunningOn": "2026-08-06",
+      "text": "J'ai couché avec l'homme qui m'a trompée \n\nAvec la femme qui  était mon témoin de mariage\n\nLaisses moi expliquer...\n0:00 / 9:01\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nSee details",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPJvzRwdetwpL42FAnuAMcPB-_3ZG_tqGqmxPVepYICJkk7WUQ9EldeV0g-EqWW726VRIX3yCzWjDePwGCUVql1vppEN8Gzw1q0kJ0yBw.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=ysz4CUJpMwwQ7kNvwGf0WXL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTAzNTE1Nzc0OTI1Nzg5MiwiYXNzZXRfYWdlX2RheXMiOjU2LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTQxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQOyfFxKnkOmWDwTUrlwK5e_bYorVNoDQDOeeDhUy0vq3A&oe=6AC58813",
+          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/764863139_900480259797773_4972224624901033279_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uyHXraiD9RsQ7kNvwEPcxKc&_nc_oc=Adqza-KlAdeQwg_cJn9ZJKGZH3z-mqr-o9IZ2NB5PjqFeiOHR1PhZRi8Yfuv32hTJ8w&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQN4BdnR3mH8x9SsophgspMOG5bG1vbwwJ3DrkOZosvfqA&oe=6AC587D4"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Insider/celebrity-secret"
+      ],
+      "hook": "J'ai couché avec l'homme qui m'a trompée",
+      "euReach": 87528,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 45-54 in France (30,047)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 86761
+        }
+      ]
+    },
+    "1042182832044652": {
+      "adId": "1042182832044652",
+      "startedRunningRaw": "Started running on Aug 13, 2026",
+      "startedRunningOn": "2026-08-13",
+      "text": "Au mariage de ma fille, son père m'a regardé 10 minutes sans comprendre une seconde que cette femme, c'était moi...\n0:00 / 5:33\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQN-vWDx2lmHd0Qu-jYxjQnZXRKrPL5k4VNKCvDAJ5rEpByrr7SXWn0xhh7S0yOTIeGPRjd2t8OdoV0W_4En9MV3Kg_RYs6OMTC34J3fVQ.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=uBLU9vQoK1AQ7kNvwEEed-7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjIwMTM2MTQ1MDQ3NjkyNywiYXNzZXRfYWdlX2RheXMiOjUwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzMyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQOOoTY8V5GRzu4PF5hPPu4fRQ3go2K-K6zN6iO09CyYPg&oe=6AC5A850",
+          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/772560433_1416315053689752_8433042956046919171_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-Jk9V7VjkAcQ7kNvwHKPpjD&_nc_oc=AdrXgaieXpslMxgbn6T9bNxxWoAtWqfXjemX_bJX2J7yR1S0_jUtjDraocGeedPeOKs&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQMXvoTMZN8baXvlqS91oVcPudKdv1R0wxRO6Sa7VEzutw&oe=6AC59EEA"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Insider/celebrity-secret"
+      ],
+      "hook": "Au mariage de ma fille, son père m'a regardé 10 minutes sans comprendre une seconde que cette femme, c'était moi.",
+      "euReach": 66461,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (24,073)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 66877
+        }
+      ]
+    },
+    "1734449747836408": {
+      "adId": "1734449747836408",
+      "startedRunningRaw": "Started running on Sep 12, 2026",
+      "startedRunningOn": "2026-09-12",
+      "text": "WWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQME9c-bLuE-uJMEO9UWQgtWHFOBZoHvOiIlnkX25N2Tk9GcLxiz2YRJL66WqHcfAisZIdXtGhLfULbYAT7rVHWh7xWKnGwv3hXa5SZQ3g.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=0WCsC-wwNIYQ7kNvwGlf_s8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjg5ODUxNDQ4NzE3MjE3OCwiYXNzZXRfYWdlX2RheXMiOjE5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTA3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQPnk1HYNF-c3eYlWVJIgRv0aRzzZWm5g5ActkEYm6repw&oe=6AC5791A",
+          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/803267326_1074786494927304_5245987081918492721_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hoEEGSBKvqsQ7kNvwHk-EUR&_nc_oc=AdpbspaIO6fP1twe_mfGEyQcJXvBxpXsUC9Tmv7qYZqkDkB6vdXhXg1TePH7vTiOIrQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQNe_QuXTbAyaljOgx-HdLQwOosl1QVYStTkXvPT8AbqDw&oe=6AC5869E"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
+      "notifiedAsWinner": true,
+      "euReach": 44886,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (14,854)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 45286
+        }
+      ],
+      "angles": [
+        "Insider/celebrity-secret"
+      ],
+      "hook": "WWW.NURIA-SHOP."
+    },
+    "1530695838253310": {
+      "adId": "1530695838253310",
+      "startedRunningRaw": "Started running on Aug 16, 2026",
+      "startedRunningOn": "2026-08-16",
+      "text": "WWW.NURIA-SHOP.COM\n10% avec le code ECLAT\nGarantie 99 jours\nLearn more",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/778972150_1604706204596821_4770103666628116832_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EOJpAizWs7QQ7kNvwECHgvH&_nc_oc=AdpT22NtZEQnpZB8ZzW2MPMFyozIiGwbBjK8qxiA83lxhOI6FZNSwrkibRQv2JWRyRk&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQNCsHyvp5GnWIHI3gCtlixLT00w-k7izCKfSJ_gGANQDg&oe=6AC59BED"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
+    },
+    "1660107438421331": {
+      "adId": "1660107438421331",
+      "startedRunningRaw": "Started running on Aug 3, 2026",
+      "startedRunningOn": "2026-08-03",
+      "text": "Mon père est venu chez nous avec la femme pour laquelle il nous avait quittées.\n\nIl avait trompé ma mère avec une femme plus jeune que sa propre fille.\n\nIl était venu chercher les derniers cartons, s'attendant à retrouver le même visage fatigué et brisé qu'il avait abandonné, mais il est resté bouche bée dès que maman a ouvert la porte.\n\nTout cela grâce à ce qu'une femme nous avait montré quelques jours auparavant...\n0:00 / 8:37\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNIGu9CEP7mRr6SCbUGwojtnFUcjdzMpvYHqAj0w8I0FkUuyaoX6un-D8p0f2fMWpmbUC3HO4URBz7ZWoqGTJi2Xe3oLoI_lyQWp9VOMA.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=ruOlXQli7a8Q7kNvwG2YeST&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU0NTA2NzM3MDk2NjEzMCwiYXNzZXRfYWdlX2RheXMiOjU5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQM4q3QvgfEd8H7xvaq0ZyhNP43e_iFqvJpeLdOw8Yv8pg&oe=6AC58532",
+          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/761858768_1026686253404369_224686579196456313_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0Ne36efk6SIQ7kNvwGCPlSX&_nc_oc=AdqVgs3-1d4gXWjeJxtILnjpxPJ81A5VtWS2G27nltvxslJ6nRqZ3oIPKP1XZEcGsTc&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQORyZ8xE4J0x1NEmKdp3SdfTCGkaKFpcJvD_fU5nvsuPg&oe=6AC57805"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Insider/celebrity-secret"
+      ],
+      "hook": "Mon père est venu chez nous avec la femme pour laquelle il nous avait quittées.",
+      "euReach": 72945,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (24,313)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 73712
+        }
+      ]
+    },
+    "1086126580741252": {
+      "adId": "1086126580741252",
+      "startedRunningRaw": "Started running on Aug 16, 2026",
+      "startedRunningOn": "2026-08-16",
+      "text": "WWW.NURIA-SHOP.COM\n10% avec le code ECLAT\nGarantie 99 jours\nLearn more",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/774105664_3914658612162842_4409642865162244678_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9VhIPqOb7qAQ7kNvwHfjcq4&_nc_oc=AdoQI3AqreWKqA7cmbVVcB32yBZgAcExce_X7pxoGfc_pMNtguDQ0MT-VtWjvJ5N3eg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQOtxr6rI-vmiPPBtA9-y1WCfeBsZgSAywPVFOF-uHCxXQ&oe=6AC5AABF"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
+    },
+    "1574917077636373": {
+      "adId": "1574917077636373",
+      "startedRunningRaw": "Started running on Aug 14, 2026",
+      "startedRunningOn": "2026-08-14",
+      "text": "J'ai quitté ma femme il y a 4 ans. Je ne suis pas fier de ce que je vais vous raconter.\n\nMais si vous êtes une femme de plus de 50 ans, vous devez entendre cette histoire...\n0:00 / 4:58\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMQP0QcdUvmcmk8OD6pRjT-2_6bdd7rLq5Beykcn6P2TYtPeZXwiwovjBVd7vBNQF0JbAtTl7FmhZ64YNgGGPXk7SfIE7KmlWcnNABlAw.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=5gnvPk_fDy0Q7kNvwGfTxo4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTgwMzY3MDEzNzYwNjQxMiwiYXNzZXRfYWdlX2RheXMiOjQ4LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6Mjk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQOjAb5VmoT6nCoISai03IwXpgPkqC4gLSRxekzDDx6vQw&oe=6AC5882A",
+          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/769377264_1748499996483887_7263488687719786045_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lTNSUijGG98Q7kNvwGqpotI&_nc_oc=Adp17gLzJOvpq9HCh8kNOQxQ8UV8sbhvBrMYtDBwELiOeZTqlbNYbY3vlv-KfE9gkt0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQOb_53GLWmQTRSUgvB_rGoxc-KoBMKxrXEHiuwwY3Ljow&oe=6AC5A01B"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Insider/celebrity-secret",
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "J'ai quitté ma femme il y a 4 ans.",
+      "euReach": 46495,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (18,503)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 47149
+        }
+      ]
+    },
+    "1086250974352978": {
+      "adId": "1086250974352978",
+      "startedRunningRaw": "Started running on Aug 16, 2026",
+      "startedRunningOn": "2026-08-16",
+      "text": "Mardi dernier, je suis entrée dans le Sephora des Champs-Élysées sans dire qui j'étais.\n\nPersonne ne savait que j'étais la formulatrice de Nuria. Personne ne savait que j'avais passé trente ans dans les laboratoires cosmétiques de Séoul à travailler sur les peptides de soie. Je me suis présentée comme ce que je suis aussi : une femme de 61 ans, installée en France depuis huit ans, qui cherche un soin anti-âge qui fonctionne vraiment.\n\nJ'ai passé deux heures au rayon sérums et crèmes anti-rides. Je vais vous raconter ce que j'ai vu.\n\nPremière observation. Personne ne m'a demandé ce qui avait changé dans ma peau.\n\nJ'ai fait quatre comptoirs. La Roche-Posay. CeraVe. L'Oréal. Clinique. À chaque comptoir, on m'a demandé « peau sèche ou mixte ? », « vous cherchez un soin de jour ou de nuit ? », « vous préférez une texture légère ou riche ? ».\n\nPas une seule conseillère ne m'a demandé ce qui avait changé dans ma peau depuis dix ans. Pas une ne m'a parlé de relâchement. Pas une ne m'a demandé si mon cou avait perdu sa fermeté, si mes rides s'étaient creusées aux coins de la bouche, si mon teint s'était éteint. Pas une. En deux heures. Sur quatre comptoirs.\n\nElles vendaient des textures. Elles ne vendaient pas des solutions.\n\nDeuxième observation. Les vraies clientes de plus de 50 ans faisaient toutes la même chose.\n\nJ'ai regardé les femmes de mon âge qui s'arrêtaient au rayon. Elles prenaient un pot. Elles lisaient l'étiquette. Elles le retournaient pour voir le prix. Elles le reposaient. Puis elles en prenaient un autre. Et recommençaient.\n\nÀ un comptoir, une femme d'environ 62 ans a passé un quart d'heure à comparer trois crèmes. La conseillère lui a proposé un sérum à l'acide hyaluronique, puis une crème au rétinol, puis un contour des yeux. La femme a fini par dire « je vais réfléchir ». Elle est partie sans rien acheter.\n\nJ'ai vu ça se répéter quatre fois dans l'après-midi. Quatre femmes de plus de 55 ans repartir les mains vides.\n\nPourquoi ? Parce qu'elles sentent, sa…",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/777800993_2509377479540857_6798667802895553078_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=t8TdJ0DftocQ7kNvwHwY2Jc&_nc_oc=AdrsenNZLj4vWYQKP4m_ssKvqrVwOz0EFArxKFF-h4cb8m6Vnh04rzdfEBjgQ6VQ2K4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQOWinZHyqFmMNV2uDOGzHilIgAC_zhCegF9qdgLxerpUA&oe=6AC591F1"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 22,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "Mardi dernier, je suis entrée dans le Sephora des Champs-Élysées sans dire qui j'étais.",
+      "euReach": 28997,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 65+ in France (12,090)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 28297
+        }
+      ]
+    },
+    "1590473072616514": {
+      "adId": "1590473072616514",
+      "startedRunningRaw": "Started running on Sep 3, 2026",
+      "startedRunningOn": "2026-09-03",
+      "text": "WWW.NURIA-SHOP.COM\n10% avec le code ECLAT\nGarantie 99 jours\nLearn more",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/793212555_1552731479869412_231548344216815202_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IfYASdl_AnoQ7kNvwEaIUTm&_nc_oc=AdpHQ5CP2X46WxL6zqgC6-KQ0mC6Qgx2SCBlTC0JaD0KC1LnNH4UtTMLtrEpOrL8B-k&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQMwsgi2ZdknzWj1SKHa3JqW7AiC_SVUaRQQyG3cZ3HaRw&oe=6AC5931F"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP."
+    },
+    "1355074166253695": {
+      "adId": "1355074166253695",
+      "startedRunningRaw": "Started running on Aug 9, 2026",
+      "startedRunningOn": "2026-08-09",
+      "text": "Faisons le calcul, simplement.\n\nLe Botox : environ 300 € la séance, tous les 3 mois. 1 200 € par année. À vie. Et ça fige les muscles — ça ne reconstruit rien.\n\nCette ampoule coréenne : 39,90 €. Une fois.\n\nLe collagène de soie (120 daltons) traverse la barrière de la peau et relance vos fibroblastes : la peau se retend de l'intérieur. Pas figée. Reconstruite.\n\n⭐ 4,8/5 · plus de 10 800 clientes\n🛡️ Garantie 99 jours, satisfaite ou remboursée\n\n👉 Magasinez maintenant.\nWWW.NURIA-SHOP.COM\nLe Botox : 1 200€ /an. À vie.\n39,90 € une fois · Garantie 99 jours\nLearn More",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/769309567_2040903060127057_2365259864260373900_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FxnbEJ4nvCgQ7kNvwEfRpUl&_nc_oc=AdokJ0r0yIZ5fX0x5L1vbMA1Sht6x5vycu25_iPxujtidkMXNLDuV9IqtdPbr9Txi0w&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQMJyrG1zv6lTrhDcRk9oTRbCQB0gwaaKAt6r4GBne5QSQ&oe=6AC57B4C"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 32,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Botox-vergelijking",
+        "Mechanisme/penetratie",
+        "Insider/celebrity-secret"
+      ],
+      "hook": "Faisons le calcul, simplement.",
+      "euReach": 28178,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 45-54 in France (7,284)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 27228
+        }
+      ]
+    },
+    "1585563946571506": {
+      "adId": "1585563946571506",
+      "startedRunningRaw": "Started running on Aug 16, 2026",
+      "startedRunningOn": "2026-08-16",
+      "text": "WWW.NURIA-SHOP.COM\n10% avec le code ECLAT\nGarantie 99 jours\nLearn more",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/775654180_28205493419062804_7373759132244726397_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w1K46OZtEZAQ7kNvwHqncJw&_nc_oc=AdpPIfRQO6Y113YGgMWY3eMKurQXFUv3h3m_MU6C1JMVWELOcTURboCVdSyqiGbPfsI&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQNbUub5gUzNW28gz_WD-xmaQXJ_zEWYH0AdW2xfjtW2CQ&oe=6AC58B5B"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 4,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP.",
+      "euReach": 29178,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 45-54 in France (8,538)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 28790
+        }
+      ]
+    },
+    "1352325813655038": {
+      "adId": "1352325813655038",
+      "startedRunningRaw": "Started running on Jul 25, 2026",
+      "startedRunningOn": "2026-07-25",
+      "text": "J'ai fait semblant avec mon mari il y a trois semaines.\n\nDès que nous avons eu fini, je me suis enfermée dans la salle de bains\n\net j'ai pleuré dans une serviette pour qu'il ne m'entende pas...\n0:00 / 6:43\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNg4to1E6NC3c6rfYQST-x1lP3CkH9AY-lwqOC_uQIkM1UtlDFM9VBEETBCOEhbo46GJGK0_x3s7H8eq8s-kxKC0fCBFX4LL1UWpyeTsw.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=Xg0LE-Zv6s4Q7kNvwF1jbFk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTUzNjgwNTE3NDAzNjcxMSwiYXNzZXRfYWdlX2RheXMiOjY4LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&_nc_zt=28&oh=00_AQM_yaRDB_jcaQY4QX93UsVkOrC0AArrcjSz6Funz8GcOw&oe=6AC58EB8",
+          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/756341980_892116683976955_1389573531422611413_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=26ok6Zc7rrUQ7kNvwE2DO68&_nc_oc=AdpaZzdBFpg2sEdrZRxpObYXCj5IGlVvCON-g4n8tm9IsuHpBsdsKd34ATFfvKAJCL8&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQM29gPsKQeWrhRsl0Tfol83409XU1myuPykt6K8ESJM3w&oe=6AC57D0F"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 31,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Testimonial/persoonlijk verhaal",
+        "Insider/celebrity-secret"
+      ],
+      "hook": "J'ai fait semblant avec mon mari il y a trois semaines.",
+      "euReach": 36004,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 45-54 in France (12,958)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 37011
+        }
+      ]
+    },
+    "1602933357998448": {
+      "adId": "1602933357998448",
+      "startedRunningRaw": "Started running on Sep 3, 2026",
+      "startedRunningOn": "2026-09-03",
+      "text": "WWW.NURIA-SHOP.COM\n10% avec le code ECLAT\nGarantie 99 jours\nLearn more",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/793595736_1099666559364732_3268719934742168984_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2lHcJTxISi8Q7kNvwEjR-r6&_nc_oc=AdqZCgr13TuCGx3vWL8j234MJeyFmjka2xwTgFmrmAEjz704zmhkg-7-78djTdUdGrY&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OWKtGBjcGy6oVkhhppvTpQ&_nc_ss=7f289&oh=00_AQOeLof0D5UZPx9JFXoKGxKVjWm4UHCoFydDu_kBtnv9Ww&oe=6AC597A2"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:33:42.755Z",
+      "lastSeenAt": "2026-10-02T14:27:49.996Z",
+      "seenCount": 3,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP.",
+      "euReach": 15829,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (5,212)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 16169
+        }
+      ]
+    },
+    "2568631160241865": {
+      "adId": "2568631160241865",
+      "startedRunningRaw": "Started running on Jul 27, 2026",
+      "startedRunningOn": "2026-07-27",
+      "text": "La semaine dernière, mon ex-mari faisait la queue à la caisse derrière moi.\n\nSa petite amie, à son bras, était assez jeune pour être notre fille.\n\nPendant dix minutes, il ne s'est jamais rendu compte que c'était moi.\n\nIl m'a regardée droit dans les yeux comme si j'étais une inconnue.\n\nJe suis rentrée chez moi. Je me suis regardée dans le miroir et j'ai enfin compris pourquoi…\n0:00 / 4:58\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMF1eShGVCABZTn7ZkZB7BaTRkg8T_lZgULfniaSvHT8y4zSIpOPcd2hILtH2PvrTrNBBLK5QrUO_hMmLSoGS1Zzmim0yIKnHM1TIEf6w.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=T9lCfl-3ui0Q7kNvwH_dFvq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc0NDA4NjI3MDA1MzMzOCwiYXNzZXRfYWdlX2RheXMiOjY1LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6Mjk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&_nc_zt=28&oh=00_AQPq-EeHYUZvzC5777oBANLra6bPXNqgIgykNX0rO4omwQ&oe=6AC4637D",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/758588535_1042432284847473_5904792268327198672_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L6USjTeZzBQQ7kNvwG_5jwB&_nc_oc=AdrwN0kZj5dTpuRC4PhbthTIl7h9fIsVsfxOwlAc9Oisjk0CxufTqJylfY1Lx7Nd4LA&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQPtNQ-qRozZ7j35DLcXEDirqEXEAs_Gk5t1jMs6dcXfeg&oe=6AC45E3F"
         }
       ],
       "pageName": "Nuria",
@@ -324,8 +847,22 @@
       "lastSeenAt": "2026-10-01T15:09:03.549Z",
       "seenCount": 31,
       "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "WWW.NURIA-SHOP."
+      "angles": [
+        "Insider/celebrity-secret",
+        "Testimonial/persoonlijk verhaal"
+      ],
+      "hook": "La semaine dernière, mon ex-mari faisait la queue à la caisse derrière moi.",
+      "euReach": 342210,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 45-54 in France (120,708)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 345132
+        }
+      ]
     },
     "1679892116445794": {
       "adId": "1679892116445794",
@@ -363,511 +900,6 @@
         }
       ]
     },
-    "1593286115516519": {
-      "adId": "1593286115516519",
-      "startedRunningRaw": "Started running on Aug 2, 2026",
-      "startedRunningOn": "2026-08-02",
-      "text": "Samedi, le mariage de ma fille.\n\nIl entre avec elle à son bras, assez jeune pour être notre fille...\n\nJe passe devant lui sans trembler.\n0:00 / 4:26\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOKbfcz0XDTMcFx3Q2Imgvy1Y2vfL2lBpFUX6S1kkp3XN3Dp-M3VnAJXTrXRYc_cYU5A7VBBF8dobKkKPjAwEbI6hdE4lVHFkB3SicwNQ.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=QcoHDslfZH4Q7kNvwHlTwed&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM0MzgxNDM0MTIyMDQ1NSwiYXNzZXRfYWdlX2RheXMiOjU5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjY1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&_nc_zt=28&oh=00_AQMOqeXIeq2fb7lbCX7G5WQkzaLODpzOv1TUBD2WCpl5bw&oe=6AC436F3",
-          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/761042182_3965066196958144_1137528117516553803_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8T3QOu1RsnEQ7kNvwFh5k4I&_nc_oc=Adq5SD6Sdqx02vu6tXyOfxKtTzpjrcCMjCkehBUWjGK2K8m94aCKexs0ArLIGeTH5Is&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQN2m60-sj0QqvDVubvA8P0aObRpA14pD67isBJb456S-Q&oe=6AC454CE"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
-      "notifiedAsWinner": true,
-      "angles": [
-        "Insider/celebrity-secret"
-      ],
-      "hook": "Samedi, le mariage de ma fille.",
-      "euReach": 122542,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 55-64 in France (43,005)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 125405
-        }
-      ]
-    },
-    "2150442415853148": {
-      "adId": "2150442415853148",
-      "startedRunningRaw": "Started running on Aug 23, 2026",
-      "startedRunningOn": "2026-08-23",
-      "text": "À 53 ans j'ai découvert que mon mari me trompait pendant qu'il était dans le coma.\n23 jours assise à côté de ce lit, à pleurer, à lui tenir la main...\n0:00 / 7:46\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQP8mbMW9mM9ZWq_mCwEwSArS8ao5KlUndyo_DsT1pgFXui4NcCAjnPJ6ZbsjsDrZIXD0iikCaeKYJpJkz3TYWhNHNxDLjOnGk3o48Hmeg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=sxPVbmC_XmMQ7kNvwHLPrHf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjgwMjY2NzczNjY5NDM1NzMsImFzc2V0X2FnZV9kYXlzIjozOSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ2NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&_nc_zt=28&oh=00_AQOyZBpzrDmDOPEMdkHvngtVKIsAD_fQBbZfPBZXii--Ew&oe=6AC439DF",
-          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/784019712_1533666928001256_8959635876613652914_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AfOD5Oxm6SgQ7kNvwHoH9ZZ&_nc_oc=AdprEXokisLTRbRDJuWiNaipqmieT_UzdI4dXSW-pRR_9B9k0g1HVZQuduM4fvgZlBs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQNVwlq4J8U1W59hRr0JZdUFlBQOBzQjIigG4Rg3v7NyrA&oe=6AC43639"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
-      "notifiedAsWinner": true,
-      "angles": [
-        "Insider/celebrity-secret",
-        "Testimonial/persoonlijk verhaal"
-      ],
-      "hook": "À 53 ans j'ai découvert que mon mari me trompait pendant qu'il était dans le coma.",
-      "euReach": 124160,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 45-54 in France (44,756)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 125432
-        }
-      ]
-    },
-    "1065548919255042": {
-      "adId": "1065548919255042",
-      "startedRunningRaw": "Started running on Aug 5, 2026",
-      "startedRunningOn": "2026-08-05",
-      "text": "J'ai découvert que mon mari me trompait avec une jeune fille assez jeune pour être notre fille.\n\nJe me suis complètement effondrée.\n\nMais voici comment j'ai réussi à me relever et à retrouver mon éclat à soixante-trois ans.\n0:00 / 5:18\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNd6D2ytL1lgD39JeTgR87LQQ7rM9h9mzT2RW8RFiKIKSwPOymwYbz8Gdr_gEZCITpjmyLmJZM7wECHc-8ecbPTloj1peEYjb_v9TEXHA.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=eeb_mf0QrecQ7kNvwGYzd15&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjQ5MTM3MTQxMTM3Njk4MSwiYXNzZXRfYWdlX2RheXMiOjU2LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&_nc_zt=28&oh=00_AQOBm8WQ2bwtP_56dL97spnKcQTWBLLQZ50BHYkJDHcuJQ&oe=6AC44416",
-          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/764593195_1067377099107756_5597395405827832578_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PQwvG-vISpQQ7kNvwHMs2L8&_nc_oc=AdowYoaI_18jTxg_tZTjiCaJiNF7kjcYJxhsf51XgI4HSpyZWbi756oQs2V1i3Lpyyw&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQO-zxGqOsoR58ciRwkoS7Kxy17-PmomgZMUus7uJ7b7oQ&oe=6AC43CCD"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
-      "notifiedAsWinner": true,
-      "angles": [
-        "Insider/celebrity-secret",
-        "Testimonial/persoonlijk verhaal"
-      ],
-      "hook": "J'ai découvert que mon mari me trompait avec une jeune fille assez jeune pour être notre fille.",
-      "euReach": 113830,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 45-54 in France (39,358)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 115714
-        }
-      ]
-    },
-    "889581880630325": {
-      "adId": "889581880630325",
-      "startedRunningRaw": "Started running on Aug 23, 2026",
-      "startedRunningOn": "2026-08-23",
-      "text": "WWW.NURIA-SHOP.COM\n10% avec le code ECLAT\nGarantie 99 jours\nLearn More",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/784928622_27558109807204049_2231415489709130839_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DAX1k0QaT3UQ7kNvwEh2fqM&_nc_oc=Adqb26Dz22Hbx4mqjf-ZVweurfmZjhJPEjm8GhRVazYafT-JcmArIGchSlqcfWDI0Sc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQO0C_DrQPMzkUdj4HBD9myghgb350d3CVYisteJmN-Qyw&oe=6AC43143"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
-      "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "WWW.NURIA-SHOP."
-    },
-    "27829968516661411": {
-      "adId": "27829968516661411",
-      "startedRunningRaw": "Started running on Aug 6, 2026",
-      "startedRunningOn": "2026-08-06",
-      "text": "J'ai couché avec l'homme qui m'a trompée \n\nAvec la femme qui  était mon témoin de mariage\n\nLaisses moi expliquer...\n0:00 / 9:01\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nSee details",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPJvzRwdetwpL42FAnuAMcPB-_3ZG_tqGqmxPVepYICJkk7WUQ9EldeV0g-EqWW726VRIX3yCzWjDePwGCUVql1vppEN8Gzw1q0kJ0yBw.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=ysz4CUJpMwwQ7kNvwHksDBF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTAzNTE1Nzc0OTI1Nzg5MiwiYXNzZXRfYWdlX2RheXMiOjU1LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTQxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&_nc_zt=28&oh=00_AQO_bEyBjj-NOEps0JiFeBXzMR-ZtMYqTE_ae0u5DldoVg&oe=6AC43693",
-          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/764863139_900480259797773_4972224624901033279_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uyHXraiD9RsQ7kNvwE3kNDK&_nc_oc=Adr6ngi9IV2l1EVdl9PezEdUWFgxqmhjUA9pfRkbe2RvhHU7CFUpTOfbg1O-yUBfUPw&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQO_KZppfA6v3O9Cx5iYftpl90ijST_eTLgirEGqf3jODw&oe=6AC43654"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
-      "notifiedAsWinner": true,
-      "angles": [
-        "Insider/celebrity-secret"
-      ],
-      "hook": "J'ai couché avec l'homme qui m'a trompée",
-      "euReach": 87528,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 45-54 in France (30,047)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 86761
-        }
-      ]
-    },
-    "1042182832044652": {
-      "adId": "1042182832044652",
-      "startedRunningRaw": "Started running on Aug 13, 2026",
-      "startedRunningOn": "2026-08-13",
-      "text": "Au mariage de ma fille, son père m'a regardé 10 minutes sans comprendre une seconde que cette femme, c'était moi...\n0:00 / 5:33\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQN-vWDx2lmHd0Qu-jYxjQnZXRKrPL5k4VNKCvDAJ5rEpByrr7SXWn0xhh7S0yOTIeGPRjd2t8OdoV0W_4En9MV3Kg_RYs6OMTC34J3fVQ.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=uBLU9vQoK1AQ7kNvwH6P8wY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjIwMTM2MTQ1MDQ3NjkyNywiYXNzZXRfYWdlX2RheXMiOjQ5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzMyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&_nc_zt=28&oh=00_AQMbTRvw4m1g9AfRr1A4e1WenmfZUFW41ERcKIVD6MQCAw&oe=6AC456D0",
-          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/772560433_1416315053689752_8433042956046919171_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TwiA9o97rEIQ7kNvwHQ8S5M&_nc_oc=Adon9WAXnyCUViyI-FY5xxPMyItEHiWeFlCAOojj_MhMnne7NUp7kp1bkPDwjSHMjMU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQNZmMvPujqzL0zvGN8bO0ktX6_QMn2kBhDDnCSLvcr-Dw&oe=6AC44D6A"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
-      "notifiedAsWinner": true,
-      "angles": [
-        "Insider/celebrity-secret"
-      ],
-      "hook": "Au mariage de ma fille, son père m'a regardé 10 minutes sans comprendre une seconde que cette femme, c'était moi.",
-      "euReach": 66461,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 55-64 in France (24,073)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 66877
-        }
-      ]
-    },
-    "1734449747836408": {
-      "adId": "1734449747836408",
-      "startedRunningRaw": "Started running on Sep 12, 2026",
-      "startedRunningOn": "2026-09-12",
-      "text": "WWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQME9c-bLuE-uJMEO9UWQgtWHFOBZoHvOiIlnkX25N2Tk9GcLxiz2YRJL66WqHcfAisZIdXtGhLfULbYAT7rVHWh7xWKnGwv3hXa5SZQ3g.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=0WCsC-wwNIYQ7kNvwGa0KGF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjg5ODUxNDQ4NzE3MjE3OCwiYXNzZXRfYWdlX2RheXMiOjE4LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTA3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&_nc_zt=28&oh=00_AQOyg5FosrT-2nH-IrLVMJByYSN42KGtiu4QkArFsAn4YQ&oe=6AC45FDA",
-          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/803267326_1074786494927304_5245987081918492721_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hoEEGSBKvqsQ7kNvwHKX3FP&_nc_oc=AdpgwD60mnZ5EPEbfh6ZULuSeMysYylTBe5FBggQljm3jbkUKAqzF3kAxr-R9N-7qhQ&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQOGENmiRWlxEQVq-FMmBKZ1fxJorYy_bawm261XYLkr5g&oe=6AC4351E"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
-      "notifiedAsWinner": true,
-      "euReach": 44886,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 55-64 in France (14,854)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 45286
-        }
-      ],
-      "angles": [
-        "Insider/celebrity-secret"
-      ],
-      "hook": "WWW.NURIA-SHOP."
-    },
-    "1530695838253310": {
-      "adId": "1530695838253310",
-      "startedRunningRaw": "Started running on Aug 16, 2026",
-      "startedRunningOn": "2026-08-16",
-      "text": "WWW.NURIA-SHOP.COM\n10% avec le code ECLAT\nGarantie 99 jours\nLearn more",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/778972150_1604706204596821_4770103666628116832_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EOJpAizWs7QQ7kNvwH0T12o&_nc_oc=AdrowYFn6ef68ywui1t87gmqavWQzbBRDIkP-k6vnYttV08bt8L2Qotj7JSH_LI7IVI&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQMGVH89fMs9OJWZ3uSO5_yl7ilKk5nWI7_bruwJNJImDw&oe=6AC44A6D"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
-      "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "WWW.NURIA-SHOP."
-    },
-    "1660107438421331": {
-      "adId": "1660107438421331",
-      "startedRunningRaw": "Started running on Aug 3, 2026",
-      "startedRunningOn": "2026-08-03",
-      "text": "Mon père est venu chez nous avec la femme pour laquelle il nous avait quittées.\n\nIl avait trompé ma mère avec une femme plus jeune que sa propre fille.\n\nIl était venu chercher les derniers cartons, s'attendant à retrouver le même visage fatigué et brisé qu'il avait abandonné, mais il est resté bouche bée dès que maman a ouvert la porte.\n\nTout cela grâce à ce qu'une femme nous avait montré quelques jours auparavant...\n0:00 / 8:37\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNIGu9CEP7mRr6SCbUGwojtnFUcjdzMpvYHqAj0w8I0FkUuyaoX6un-D8p0f2fMWpmbUC3HO4URBz7ZWoqGTJi2Xe3oLoI_lyQWp9VOMA.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=ruOlXQli7a8Q7kNvwGz1ZKk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU0NTA2NzM3MDk2NjEzMCwiYXNzZXRfYWdlX2RheXMiOjU4LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&_nc_zt=28&oh=00_AQMNLV8eKCr7NcAlKcxc6mJNvqp7XpttxMpSCPwLDVb3qQ&oe=6AC433B2",
-          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/761858768_1026686253404369_224686579196456313_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0Ne36efk6SIQ7kNvwHNa2hu&_nc_oc=Adp_dID_30zMgRrgI17pz4gATsUe3D4IkSnH5OLtHCTTAsm28RL4lSgz7OWGhXIzb5s&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQMHK0uOPSyHFyxL6Qcao01aTeI1omTHerd5R0-irk2JVg&oe=6AC45EC5"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
-      "notifiedAsWinner": true,
-      "angles": [
-        "Insider/celebrity-secret"
-      ],
-      "hook": "Mon père est venu chez nous avec la femme pour laquelle il nous avait quittées.",
-      "euReach": 72945,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 55-64 in France (24,313)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 73712
-        }
-      ]
-    },
-    "1086126580741252": {
-      "adId": "1086126580741252",
-      "startedRunningRaw": "Started running on Aug 16, 2026",
-      "startedRunningOn": "2026-08-16",
-      "text": "WWW.NURIA-SHOP.COM\n10% avec le code ECLAT\nGarantie 99 jours\nLearn more",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/774105664_3914658612162842_4409642865162244678_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9VhIPqOb7qAQ7kNvwH0LTeN&_nc_oc=AdqvDOrUxxRaxSa9kH4OnKr9i7YCPE6dpEQ9UFKENEK0EQQNyIdob8dORliOkso7Uko&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQNHNw5estEvvOO6c0rEGsENqUMms_zdAsr6tZ0P4XrzXA&oe=6AC4593F"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
-      "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "WWW.NURIA-SHOP."
-    },
-    "1574917077636373": {
-      "adId": "1574917077636373",
-      "startedRunningRaw": "Started running on Aug 14, 2026",
-      "startedRunningOn": "2026-08-14",
-      "text": "J'ai quitté ma femme il y a 4 ans. Je ne suis pas fier de ce que je vais vous raconter.\n\nMais si vous êtes une femme de plus de 50 ans, vous devez entendre cette histoire...\n0:00 / 4:58\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMQP0QcdUvmcmk8OD6pRjT-2_6bdd7rLq5Beykcn6P2TYtPeZXwiwovjBVd7vBNQF0JbAtTl7FmhZ64YNgGGPXk7SfIE7KmlWcnNABlAw.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=5gnvPk_fDy0Q7kNvwHKhxhn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTgwMzY3MDEzNzYwNjQxMiwiYXNzZXRfYWdlX2RheXMiOjQ3LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6Mjk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&_nc_zt=28&oh=00_AQNUQrdC9mCCC_9mTK9KUdtvZrq-GdtF66qbIZ36rTJ5cQ&oe=6AC436AA",
-          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/769377264_1748499996483887_7263488687719786045_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5mwpDab6Sh0Q7kNvwEhAbtj&_nc_oc=Adr_yDZ1S3Eo9BZfD1_7vtUdNAIyQZ5KotudUmnHXT5Ta3VQeKuebbMPt0GyQm7DUK0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQP2-7J4oe7sEtB39-zZDLUkC1WOlShApnWnRYT-5d1X9w&oe=6AC44E9B"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
-      "notifiedAsWinner": true,
-      "angles": [
-        "Insider/celebrity-secret",
-        "Testimonial/persoonlijk verhaal"
-      ],
-      "hook": "J'ai quitté ma femme il y a 4 ans.",
-      "euReach": 46495,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 55-64 in France (18,503)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 47149
-        }
-      ]
-    },
-    "1086250974352978": {
-      "adId": "1086250974352978",
-      "startedRunningRaw": "Started running on Aug 16, 2026",
-      "startedRunningOn": "2026-08-16",
-      "text": "Mardi dernier, je suis entrée dans le Sephora des Champs-Élysées sans dire qui j'étais.\n\nPersonne ne savait que j'étais la formulatrice de Nuria. Personne ne savait que j'avais passé trente ans dans les laboratoires cosmétiques de Séoul à travailler sur les peptides de soie. Je me suis présentée comme ce que je suis aussi : une femme de 61 ans, installée en France depuis huit ans, qui cherche un soin anti-âge qui fonctionne vraiment.\n\nJ'ai passé deux heures au rayon sérums et crèmes anti-rides. Je vais vous raconter ce que j'ai vu.\n\nPremière observation. Personne ne m'a demandé ce qui avait changé dans ma peau.\n\nJ'ai fait quatre comptoirs. La Roche-Posay. CeraVe. L'Oréal. Clinique. À chaque comptoir, on m'a demandé « peau sèche ou mixte ? », « vous cherchez un soin de jour ou de nuit ? », « vous préférez une texture légère ou riche ? ».\n\nPas une seule conseillère ne m'a demandé ce qui avait changé dans ma peau depuis dix ans. Pas une ne m'a parlé de relâchement. Pas une ne m'a demandé si mon cou avait perdu sa fermeté, si mes rides s'étaient creusées aux coins de la bouche, si mon teint s'était éteint. Pas une. En deux heures. Sur quatre comptoirs.\n\nElles vendaient des textures. Elles ne vendaient pas des solutions.\n\nDeuxième observation. Les vraies clientes de plus de 50 ans faisaient toutes la même chose.\n\nJ'ai regardé les femmes de mon âge qui s'arrêtaient au rayon. Elles prenaient un pot. Elles lisaient l'étiquette. Elles le retournaient pour voir le prix. Elles le reposaient. Puis elles en prenaient un autre. Et recommençaient.\n\nÀ un comptoir, une femme d'environ 62 ans a passé un quart d'heure à comparer trois crèmes. La conseillère lui a proposé un sérum à l'acide hyaluronique, puis une crème au rétinol, puis un contour des yeux. La femme a fini par dire « je vais réfléchir ». Elle est partie sans rien acheter.\n\nJ'ai vu ça se répéter quatre fois dans l'après-midi. Quatre femmes de plus de 55 ans repartir les mains vides.\n\nPourquoi ? Parce qu'elles sentent, sa…",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/777800993_2509377479540857_6798667802895553078_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tWYA_cSgLmAQ7kNvwGM1fnY&_nc_oc=AdoLzuRNhR8bbITslPeI00uNIBmPHA0Pkl4tk3vaSMQgrcP5417fXKcxcJKyg0gREvA&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQNaVy8e5GGxxQbNHVrFopAdO75hsmQzkU5aM6KCuOoGCg&oe=6AC44071"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 21,
-      "notifiedAsWinner": true,
-      "angles": [
-        "Testimonial/persoonlijk verhaal"
-      ],
-      "hook": "Mardi dernier, je suis entrée dans le Sephora des Champs-Élysées sans dire qui j'étais.",
-      "euReach": 28997,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 65+ in France (12,090)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 28297
-        }
-      ]
-    },
-    "1590473072616514": {
-      "adId": "1590473072616514",
-      "startedRunningRaw": "Started running on Sep 3, 2026",
-      "startedRunningOn": "2026-09-03",
-      "text": "WWW.NURIA-SHOP.COM\n10% avec le code ECLAT\nGarantie 99 jours\nLearn more",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/793212555_1552731479869412_231548344216815202_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IfYASdl_AnoQ7kNvwGYvElj&_nc_oc=AdrKw_38lFk-Aq4KYFecNdhV-SI8K4G7u3CgOi3KtbeNcKub-8uisLtxMbBHn-q4hMY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQNsLfORudFVOlARFd5QHSre5PWDHSnEDMYSdpE8rNH5xA&oe=6AC4419F"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
-      "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "WWW.NURIA-SHOP."
-    },
-    "1355074166253695": {
-      "adId": "1355074166253695",
-      "startedRunningRaw": "Started running on Aug 9, 2026",
-      "startedRunningOn": "2026-08-09",
-      "text": "Faisons le calcul, simplement.\n\nLe Botox : environ 300 € la séance, tous les 3 mois. 1 200 € par année. À vie. Et ça fige les muscles — ça ne reconstruit rien.\n\nCette ampoule coréenne : 39,90 €. Une fois.\n\nLe collagène de soie (120 daltons) traverse la barrière de la peau et relance vos fibroblastes : la peau se retend de l'intérieur. Pas figée. Reconstruite.\n\n⭐ 4,8/5 · plus de 10 800 clientes\n🛡️ Garantie 99 jours, satisfaite ou remboursée\n\n👉 Magasinez maintenant.\nWWW.NURIA-SHOP.COM\nLe Botox : 1 200€ /an. À vie.\n39,90 € une fois · Garantie 99 jours\nLearn More",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/769309567_2040903060127057_2365259864260373900_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FxnbEJ4nvCgQ7kNvwHWR5x7&_nc_oc=AdrIJSwz9sqCZMA4bsDvWiqmzIAxzf3uWY60Zih5oLiudLzQEHcexbOg5ELqWJFAFnk&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQNS-9oU40Pfy-em9x_qqskUHmXAesgJM1SwTBv2yYuWxA&oe=6AC4620C"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 31,
-      "notifiedAsWinner": true,
-      "angles": [
-        "Botox-vergelijking",
-        "Mechanisme/penetratie",
-        "Insider/celebrity-secret"
-      ],
-      "hook": "Faisons le calcul, simplement.",
-      "euReach": 28178,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 45-54 in France (7,284)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 27228
-        }
-      ]
-    },
-    "1585563946571506": {
-      "adId": "1585563946571506",
-      "startedRunningRaw": "Started running on Aug 16, 2026",
-      "startedRunningOn": "2026-08-16",
-      "text": "WWW.NURIA-SHOP.COM\n10% avec le code ECLAT\nGarantie 99 jours\nLearn more",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/775654180_28205493419062804_7373759132244726397_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w1K46OZtEZAQ7kNvwHxL_Pw&_nc_oc=Adqbc5gIOmIM2AdgFNLeHpQLlABcQFfJb9k3YCd9eKzkAiDNZpLwtSg2JlTVNOPEIs4&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bNEegNO-OKAftyrd2qQiyw&_nc_ss=7f289&oh=00_AQMWAko-44cRIVGl_StNYEpm20i3_It5IBd_flcTHwSf4g&oe=6AC439DB"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-01T15:09:03.549Z",
-      "seenCount": 3,
-      "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "WWW.NURIA-SHOP.",
-      "euReach": 29178,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 45-54 in France (8,538)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 28790
-        }
-      ]
-    },
-    "1352325813655038": {
-      "adId": "1352325813655038",
-      "startedRunningRaw": "Started running on Jul 25, 2026",
-      "startedRunningOn": "2026-07-25",
-      "text": "J'ai fait semblant avec mon mari il y a trois semaines.\n\nDès que nous avons eu fini, je me suis enfermée dans la salle de bains\n\net j'ai pleuré dans une serviette pour qu'il ne m'entende pas...\n0:00 / 6:43\nWWW.NURIA-SHOP.COM\nLe sérum que toutes utilisent en secret\nLearn more",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNg4to1E6NC3c6rfYQST-x1lP3CkH9AY-lwqOC_uQIkM1UtlDFM9VBEETBCOEhbo46GJGK0_x3s7H8eq8s-kxKC0fCBFX4LL1UWpyeTsw.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=h-p-cH0iuFAQ7kNvwHBiwfH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTUzNjgwNTE3NDAzNjcxMSwiYXNzZXRfYWdlX2RheXMiOjY3LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=mWL0ZZtXDLCAjD17Hguleg&_nc_ss=7c289&_nc_zt=28&oh=00_AQP83-mA1iF_cYoYwyJQ1xkrEd5HuHIS2nhGfuu7kXgKEw&oe=6AC35C38",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/756341980_892116683976955_1389573531422611413_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=26ok6Zc7rrUQ7kNvwHXt8iw&_nc_oc=Adq1L9f2u91O9ERa7ENZwc1Zb-ep9rSG82MCj9DSrmvphtRIKJJJojy84FmtdE30CYg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=mWL0ZZtXDLCAjD17Hguleg&_nc_ss=7c289&oh=00_AQN0RX4ggl5jrfslU0AXVWc3pC90RJ9X29n5obF8-Dj5tA&oe=6AC382CF"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-30T23:26:33.172Z",
-      "seenCount": 30,
-      "notifiedAsWinner": true,
-      "angles": [
-        "Testimonial/persoonlijk verhaal",
-        "Insider/celebrity-secret"
-      ],
-      "hook": "J'ai fait semblant avec mon mari il y a trois semaines.",
-      "euReach": 36004,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 45-54 in France (12,958)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 37011
-        }
-      ]
-    },
     "1457185083093731": {
       "adId": "1457185083093731",
       "startedRunningRaw": "Started running on Jul 27, 2026",
@@ -888,38 +920,6 @@
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "WWW.NURIA-SHOP."
-    },
-    "1602933357998448": {
-      "adId": "1602933357998448",
-      "startedRunningRaw": "Started running on Sep 3, 2026",
-      "startedRunningOn": "2026-09-03",
-      "text": "WWW.NURIA-SHOP.COM\n10% avec le code ECLAT\nGarantie 99 jours\nLearn more",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/793595736_1099666559364732_3268719934742168984_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2lHcJTxISi8Q7kNvwH7MmVS&_nc_oc=Adq9rznxftFlLclctkwDxVp-1ETt7ke2NTNQHJ4fMKRM1AXYohBV1wBbrGln4FUMD8I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=T56D_y1rs7G6uAA1OyrvCw&_nc_ss=7c289&oh=00_AQNJedKXd13ESGF-jGjYu57fr322OZ5ki3YepJA2UGegVQ&oe=6AC36522"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-09-30T23:26:33.172Z",
-      "seenCount": 2,
-      "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "WWW.NURIA-SHOP.",
-      "euReach": 15829,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 55-64 in France (5,212)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 16169
-        }
-      ]
     },
     "1408886934783053": {
       "adId": "1408886934783053",
