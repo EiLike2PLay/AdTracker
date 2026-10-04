@@ -1,25 +1,25 @@
 {
   "version": 1,
   "pageId": "discover:collagen ampoule",
-  "updatedAt": "2026-10-03T11:15:39.518Z",
+  "updatedAt": "2026-10-04T11:55:22.516Z",
   "ads": {
     "1353401149905587": {
       "adId": "1353401149905587",
       "startedRunningRaw": "Started running on Aug 25, 2026",
       "startedRunningOn": "2026-08-25",
-      "text": "Source Beauty on Alibaba.com. Alibaba.com-World's Leading B2B Marketplace.\nM.ALIBABA.COM\nCustom Branded Hyaluronic Acid Rice Bran Water Avocado Fruit Anti-Wrinkle Firming Brightening Skin Moisturizing Face Cream\nLearn More",
+      "text": "Source Beauty on Alibaba.com. Alibaba.com-World's Leading B2B Marketplace.\nM.ALIBABA.COM\nCustomized Dragon Blood Advanced Care Serum Salicylic Acid for Neck Face Anti-Aging Moisturizing Smoothing Facial Serum\nLearn More",
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/690773488_964843519482903_5754448140513079214_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rbBQZrd251EQ7kNvwEZExcf&_nc_oc=Adph-Bkh0KOgbRW3RycWmvSGnmmUWDjc2kH01j5HaJnexX2Iey_a8cFFOhm-X8nGj78&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQOwjTSVCcfWnHfTze3_SmjCK483867C7Yy8GfPq7VS6xw&oe=6AC6B6EF"
+          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/692971800_2170948393759478_3186805868143974879_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=06wq4LCplZMQ7kNvwHzVCEs&_nc_oc=AdrmItpe-AeHZvMSRuFC8o_k3dowphG8wyABdX57eI1viGMAqJd4FvHnO4Xo59nhO7c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQPEBUeHbGufLqnlu2zQjDSjZsV0mX1-24JI6faBSnwNcQ&oe=6AC82CB1"
         }
       ],
       "pageName": "Alibaba.com",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 17,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 18,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "Source Beauty on Alibaba.",
@@ -41,53 +41,6 @@
         }
       ]
     },
-    "1004439732612360": {
-      "adId": "1004439732612360",
-      "startedRunningRaw": "Started running on Sep 10, 2026",
-      "startedRunningOn": "2026-09-10",
-      "text": "DERNIERE CHANCE !\n\nPlus que quelques heures pour profiter de notre promo 1+1 sérum offert !\n\nRupture de stock à 3 reprises cette année.\n\nSi le lien fonctionne encore, c'est qu'il est toujours disponible. 👇🏻\nMAISOLYA.COM\n1+1 OFFERT\nGarantie satisfait ou remboursé de 99 jours.\nShop now",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/804648250_2572037193216938_248857805159665211_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZK7xZeXZ5E0Q7kNvwFYpyX7&_nc_oc=AdqBYN0Qmm5SBmw7C5k_D72JD27ziE805VmhcJZvXULyYRoYd7PL8FYaxPd8mKfleZg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQOKk5WVWOG46V_vAPMJ4BrWt8ASwzowspxwmRyQS4WlHA&oe=6AC6BDE1"
-        }
-      ],
-      "pageName": "Maisolya",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 17,
-      "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "DERNIERE CHANCE !",
-      "euReach": 27118,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 55-64 in France (5,898)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 25938
-        }
-      ],
-      "reachHistory": [
-        {
-          "date": "2026-09-17",
-          "reachPerDay": 3091.8571428571427
-        },
-        {
-          "date": "2026-09-18",
-          "reachPerDay": 3059.5
-        },
-        {
-          "date": "2026-09-19",
-          "reachPerDay": 2882
-        }
-      ],
-      "notifiedAsRising": true
-    },
     "989291353829029": {
       "adId": "989291353829029",
       "startedRunningRaw": "Started running on Jun 4, 2026",
@@ -96,51 +49,51 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/714931491_4322363881427223_4108313315280416494_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hipkHEDVStgQ7kNvwHh9MTq&_nc_oc=Adrdl6So2EcFBWAux4EyyMIw90mIf_RK5Z5Mjr2MAT2FeTcgTaMDRgvivVCUkuK5fZg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQO6_QTt4AFzUIbvwRVvc0eNRXI9uu60qQ24yi8wL0eAMg&oe=6AC6ACAC"
+          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/714931491_4322363881427223_4108313315280416494_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hipkHEDVStgQ7kNvwH2OxgC&_nc_oc=AdqkX5WcyxhdN8IbRB074UGPfzDeTlWxNSI5bqO59pMBF2GIQFghG0MMHiboMTxYhiA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQNwebXorA10Q0a1Yq5tn41aflR6zRRX9Th8yZJoAaGxCw&oe=6AC7FE2C"
         },
         {
           "type": "image",
-          "url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/714882066_1017710350935567_23868143789671722_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-m9N1W-CM78Q7kNvwFqLNVy&_nc_oc=AdpG9VNp2aob07o4gzL7rxpG-862OTPaZvt900VKi8lP21HUBYJTZBkPx0eVdvZ-F88&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQP7IyWK6l0ZXY8QZIcALLmn56U0fs5_6G877f-o_7fPHg&oe=6AC69C4F"
+          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/714882066_1017710350935567_23868143789671722_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RMnlxSAU7cUQ7kNvwH3qBma&_nc_oc=AdqNifrfZSbNrm5LebN4cX34SvcW_u_BhmLFDwUYpXi9NAKMnnBstOSc3WEOBRqw_sI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQOU5z5efJ48bvxik4lTy_1AYM4dbe_6TTzdovjwDs1Hbw&oe=6AC8260F"
         },
         {
           "type": "image",
-          "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/715477756_975682615330288_2710646210029726148_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QfosvljNYYsQ7kNvwFA-OLE&_nc_oc=AdoFGnEDnUwXYyFkQNRUADbe9H5ErE8q5ITqS2x1ipvWgcqr8OTKLpSlQR7SJgtT3i0&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQMCV0KRVdOst4vNDmV0pwMdF_s8T1qXERa6BnqqJAHhug&oe=6AC6BD8B"
+          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/715477756_975682615330288_2710646210029726148_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QfosvljNYYsQ7kNvwEboFnW&_nc_oc=Adp2bteCF29bKqAvkDe6HYFnQ7lGoozlWqft4tSbdcnHK_m2YJ5V6j-AQStFa19QvBM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQNcCIprR_fv5X3bpYz9pjoyER1Wmmzogmg9Uwu0h2qm7A&oe=6AC80F0B"
         },
         {
           "type": "image",
-          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/715060132_995454046209768_7754923414570592013_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7vrtY0_NppcQ7kNvwE0uYbL&_nc_oc=Ado8giugX8gdA81UwzVYSnNP9oWzBooi5ka2rTyns3RXflsZGTz27-qF9lPR2aAfgK4&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQNa0CZgBswVkrx4vO_7oAXdH3bjr4BbYXX6aRdE03y1YQ&oe=6AC69CF9"
+          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/715060132_995454046209768_7754923414570592013_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7vrtY0_NppcQ7kNvwHt4q0i&_nc_oc=Adq_qhjhtPRqLuXCTuBT1_0MdA7j-lnkBoYd34UN5kwYtXrhURWsJzrtr5m-0OcZops&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQM8guAOS4J8DqVw7jZok7hDT17TpyTjbTBilRYK5OY44A&oe=6AC826B9"
         },
         {
           "type": "image",
-          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/715537406_1178956928629365_3200063105439177158_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nPyBt2Bo-5sQ7kNvwEAflCC&_nc_oc=AdqhnmofAX9AL-YbKiA_a89leOFzUzI-O6gDWfWg6DZLNB31kC3OkzvnNrs2-mLdK3I&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQNVHCWauFZo8a62chZY0_vtPEadIfVVY0cjUXecyB3PIQ&oe=6AC6CEA6"
+          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/715537406_1178956928629365_3200063105439177158_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nPyBt2Bo-5sQ7kNvwEY_8YY&_nc_oc=AdpQ9UeTzB-3uUwSvDvvtJELjxvALTw6AmpV3fjYFSjHwUcmX_l0ueZhCQgqkzyGqZc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQMLdT2W3I3T6Cu8XaosCL-3pDFRyNDMeim6SxCwhOvbUQ&oe=6AC82026"
         },
         {
           "type": "image",
-          "url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/714898060_1002908082139337_4904555173567699598_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oh6-MLpQoCsQ7kNvwE0PvLv&_nc_oc=AdpX8KFdeCGk_OYB2xVBtZXIMxCcmms8595SOuy41wWiJwLENBxCo10bjZC4UNlWAWM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQP1xhRDC0kwT3xtxAOr5FuFlEilA87odhl3U5RP3gX1Mg&oe=6AC6D209"
+          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/714898060_1002908082139337_4904555173567699598_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oh6-MLpQoCsQ7kNvwEJVaw7&_nc_oc=AdrDjCZN2MhVJHNymTMcR2TiZVmdd5K5nYTUGMtN3HklmFCML25v7cDI6fEcHA3gdF4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQOVPAE5YVFLR6T9--B6JA9uJdWjgH8Sm_t1fe2_pIxE9Q&oe=6AC82389"
         },
         {
           "type": "image",
-          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/714918465_834635486388178_7337239036998568778_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MEGzrYYtyfMQ7kNvwGNMo8z&_nc_oc=AdqNUk4bRjzer24YehgAPNmMFgpq_ZfRGSMObV81ciYrG65GT_jEyV9MLwAlJWXeUfc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQNUqcrcxmI08qBCyuYj_jqECGXrIXJ369jIsRBPqlE80Q&oe=6AC6C5DD"
+          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/714918465_834635486388178_7337239036998568778_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MEGzrYYtyfMQ7kNvwElbVy7&_nc_oc=AdrsKPvk2MwUdZEmDkFnkQWaQcj97D113nQ3YW7-LI1Iy1Fb_63DzkFt2sgkWAzcD4U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQMX--c4xSDiRyqsmeJMBtGsMmAUCpHGk1j6aae90aTALg&oe=6AC8175D"
         },
         {
           "type": "image",
-          "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/714600944_1006180955702850_6370785911849379446_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ePXBu3UEu6EQ7kNvwF2pW9M&_nc_oc=Adrw8lWo1H5eyZq5lIwmRGqhmIEcN1E1XPLth0yHTwVlIzd9LPYuMojzI98zVBzYmpU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQMfsDDgQnAC5TnTgE4A0vpuAa6GlqxTieOKnpSBcsE_2Q&oe=6AC6AB78"
+          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/714600944_1006180955702850_6370785911849379446_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wwaiHrU0dycQ7kNvwFZPPii&_nc_oc=AdreA_6C-EEMfx_r8Ra9HXl0pkvWHeJFMiCof48q-nnX8LALKyi35R7qVNFU3Wd2RI8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQObz7GsU3C-YVuBcSHSOABCE7vVMtHZuSoWjLoRMg5NEg&oe=6AC7FCF8"
         },
         {
           "type": "image",
-          "url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/716390258_1797090648319619_5702483742230207065_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mrbN99t78uIQ7kNvwH3Ydsl&_nc_oc=Adq8GcQSvfOiihfYAKhF_K9AJVPauBXPOX2Gzze3IAwtoWeYpe9Y0uDGkx92ZbHDM-I&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQNYy0PNjBrnQzDDked5u0SVDaKVQrpgl_Rr9OhZdY-T9A&oe=6AC69F68"
+          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/716390258_1797090648319619_5702483742230207065_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dU5u6dnL5C4Q7kNvwHs5RiN&_nc_oc=AdpphoKHPxXIjydnPnSK2DwP1q-FXBhJLz03Ey0W5NN-SnrxNJ0qMWsQk4K9Mre2O74&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQMCEqAMKRrKQ4fxFafHvYdC_Cq2LOdVKbgPQO_8B1r6_A&oe=6AC82928"
         },
         {
           "type": "image",
-          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/717235752_1415216030343883_7363207485750902873_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A8mqTZJz_kgQ7kNvwE0wXL5&_nc_oc=AdqlRB5bJgC-iGU3QsrSONFWN--QZ8GWOTtKAYVK92Z17N9F6C14KIlVOtXPfpUYgvI&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQNtgCBlQvGemH0RQlsD3DAgrCgCqQRcFWZ0h0CuxPL-QA&oe=6AC69F67"
+          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/717235752_1415216030343883_7363207485750902873_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gM5WWO7GRxcQ7kNvwF6mfbr&_nc_oc=Adq8aD9-Of6Nt7Gq6uFCt_mX03WKMzvVGf4OlGohqtXSLo2R1MW_4RNjyltFemSJdTU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQNog3rycnbOTm_K53h2WAHKUz6AUptEV8kLZvelgYg8bQ&oe=6AC82927"
         }
       ],
       "pageName": "KaiJoe",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 17,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 18,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "✨ Your Brand, Your Formula, Your Rules.",
@@ -169,16 +122,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOczRdfPnllCdxF5YW-_U1zgdQdJsYV4988ulQLewfCDmCubfiJ3Eag_m62HOgiJWseVI9601GN5cHG2pyjHFNaXW3wVszoB3r55OXNlA.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=Gu12VG1pOuQQ7kNvwEWioUI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjY5OTMxMTk2MjAyOTI5MjYsImFzc2V0X2FnZV9kYXlzIjoxNTcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo3NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&_nc_zt=28&oh=00_AQM0XkfxO7kPNfCOhlxvCwJ9UAswU8hgC4pZbsML3ldoVw&oe=6AC6B3CA",
-          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/684391842_1004568166082596_9134113157873753574_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tDCH-LHwNIkQ7kNvwFDCk3F&_nc_oc=AdohPSduOwClpnz88Qi81ZNCmbMRzehmUp2EKxB3EuSWxYalEaFdgDysiP0IJPgCSgA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQNK3oQN8nnKfnMvtcQ6PRe3SzNvPgRC3s9JkHWPn0qxqw&oe=6AC6CFFC"
+          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOczRdfPnllCdxF5YW-_U1zgdQdJsYV4988ulQLewfCDmCubfiJ3Eag_m62HOgiJWseVI9601GN5cHG2pyjHFNaXW3wVszoB3r55OXNlA.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=9yKgtdqI8dcQ7kNvwGSnJAl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjY5OTMxMTk2MjAyOTI5MjYsImFzc2V0X2FnZV9kYXlzIjoxNTgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo3NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&_nc_zt=28&oh=00_AQP7q6DntnzrWXE0Ise3LY4jYsOU6syzpcIcZKqJQ5Z3DQ&oe=6AC8054A",
+          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/684391842_1004568166082596_9134113157873753574_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tDCH-LHwNIkQ7kNvwFWuydt&_nc_oc=AdpWP7H2Ju7EZsLOlzkUkoUXQGCnqYswvZrbLqqh2c__PLZiTUIfiINFVOgv7WMdg5I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQOUqmJS4xxVXkOoJWBOW7NqeJsYfqBC_ARFWEdAkyLLHg&oe=6AC8217C"
         }
       ],
       "pageName": "KahunaSpa",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 17,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 18,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "🎉 This is your Last Chance!",
@@ -240,15 +193,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/641407540_2155605738583277_7774291509150841415_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g29aTGWgrXQQ7kNvwEv1AGW&_nc_oc=AdryZyXgdwU2H7sGAwdHsGxH01AeH9j0zgwb8ggnkHEF0bmZ-J2TiKNFzk9H-HqJ9TI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQNixUC-3N2fCIzeMsE06JRM8nA12DKrRnhBaPsJCMcAIA&oe=6AC6A071"
+          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641407540_2155605738583277_7774291509150841415_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g29aTGWgrXQQ7kNvwFZMHJm&_nc_oc=AdoBRupRUzqNp3Ew3cUr2riAViKEY5VBasaKfQJhRcpUGtLdk_RpqGLiOW8ycWNUY2I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQNmIJhFY0EHTchwmhav0jYWzFygqI19Eo1FfRJX46GgSA&oe=6AC82A31"
         }
       ],
       "pageName": "Torriden France",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 17,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 18,
       "notifiedAsWinner": true,
       "angles": [
         "Mechanisme/penetratie",
@@ -275,16 +228,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOPkirT_moRLzivr1tm0ziCZY1Rnr5oTQ0Z_aE7OGxKxrXkzXP9wLFh1pKJ29ad3MVRepHUTLG1XF2Rkx3LnDGUtCJtchdflFX5eZKvsA.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=t71vUTJTZNgQ7kNvwHmqOlj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYxMjU3Mjk3Mzc4OTk2MSwiYXNzZXRfYWdlX2RheXMiOjUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxMzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&_nc_zt=28&oh=00_AQNe3abyv5Zo9leh3KcTR4I0s1dCpBTHFCzL5ygHvDT7aA&oe=6AC6B02D",
-          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/825292497_1903890257256835_1800144723597962683_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QCoBboPijoAQ7kNvwGvS6EA&_nc_oc=AdoFSEUclrfCks-hYknRBbTdvfqhKjw5XYBfOAskAaZ3gWvEHrlOFcs9nB_J5tuFp08&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQPRuugy58tfCkJrhKHgU_afcfzn60ige1QrUKwWMXZpfw&oe=6AC6C524"
+          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOPkirT_moRLzivr1tm0ziCZY1Rnr5oTQ0Z_aE7OGxKxrXkzXP9wLFh1pKJ29ad3MVRepHUTLG1XF2Rkx3LnDGUtCJtchdflFX5eZKvsA.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=jn0-xpB3AbUQ7kNvwGV1MVC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYxMjU3Mjk3Mzc4OTk2MSwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxMzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&_nc_zt=28&oh=00_AQOGgyU0BQaSQmZXD5s3d0MX69vjpHlYjNvqCCOOxhL4gg&oe=6AC801AD",
+          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/825292497_1903890257256835_1800144723597962683_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QCoBboPijoAQ7kNvwFq6JDp&_nc_oc=AdoyL7L-0kQxo_ROec-1ISgHulLaudmhf8KRbWebKsUjuUQe9DW2rQBsd_zRXmex-rs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQNvdq4QKcrIr-1y-P8O2xefhO9hwkLxjgvSTor6zuvkGQ&oe=6AC816A4"
         }
       ],
       "pageName": "Korean Daily Insider",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-29T12:20:15.200Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 5,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 6,
       "notifiedAsWinner": false,
       "angles": [
         "Botox-vergelijking",
@@ -326,16 +279,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMGBZgnZlh0AZX0StTaAc_8WAsJxySHE0S6x-3OpKaO_Itd8fn_DBNEdpoA4L3L4kEaI4rYRq_wJh8lxZVYFQCzR6uJwZHdRtwG8VWmfg.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=uaTHP2t0TJcQ7kNvwGKhL_b&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjUwODkzNzc0MTc0MzAzMzUsImFzc2V0X2FnZV9kYXlzIjoyNjcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&_nc_zt=28&oh=00_AQOHv_ibR5LE27HJBf_bU7Atxhso5Rj38VFgIPagitZtPQ&oe=6AC6D031",
-          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/672579686_1695962591394395_5196065538498613468_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AgE0QRmExJYQ7kNvwH5XhQk&_nc_oc=AdrCnSuhxtXWayjP_9BvbdHyOTjIBbYGPoG8Uxl_GRJVe9jG0R7HSJoLKGQUphZ1pD8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQOpxg0mVpDvodABYscqNzBmF2JyTNZWqacFE8eCA2tR9Q&oe=6AC6A015"
+          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMGBZgnZlh0AZX0StTaAc_8WAsJxySHE0S6x-3OpKaO_Itd8fn_DBNEdpoA4L3L4kEaI4rYRq_wJh8lxZVYFQCzR6uJwZHdRtwG8VWmfg.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=8V8GTF83ajAQ7kNvwGd16ax&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjUwODkzNzc0MTc0MzAzMzUsImFzc2V0X2FnZV9kYXlzIjoyNjgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&_nc_zt=28&oh=00_AQP7w1kcOHQaDsJ1OypBF-my-sKOMlWjFbtoJcsCFCc0KA&oe=6AC821B1",
+          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/672579686_1695962591394395_5196065538498613468_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AgE0QRmExJYQ7kNvwGzTh_5&_nc_oc=AdoDgFN9TGRv2jCW-MorkteyXEGdOCg4_8kOLBB60Qv21tbZStnTBDJApDYwJZkvV3I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQPRBWYDVylm9WD5WJ5JSiNb0pMUxF5ZCZ8__SNfXQ53hg&oe=6AC829D5"
         }
       ],
       "pageName": "KahunaSpa",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 17,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 18,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "🎉 Happy New Years Promotion EXTENDED!",
@@ -397,16 +350,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNSQoOn8ci8MosRZvqKukEGEiiNXYGtA9StD7T9U49F2IqrOPnvKolwSizl1P46sE84aaVC6kUlguhErI69KoYtvEeVxGzbL6tOkNtumQ.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=DJ6yRL0eXrAQ7kNvwH2mBAH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzA0OTYzMjMyMjA5NDk2NSwiYXNzZXRfYWdlX2RheXMiOjE0MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjExMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&_nc_zt=28&oh=00_AQN9gyMCZ8QBuwNn3APQnWfLa3BTKFT1CMfuUtxvRBjEvA&oe=6AC6BB83",
-          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/698107767_1271808205073513_5111947779480289814_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HLY5aMhAHH8Q7kNvwEMpEdZ&_nc_oc=AdoaiCDmw35TLO28CgsvVgLzBnJU36thQXuSml_v1J7qYWlOR61YM_Su58d_7kwZnj4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQPcCHym3miFnKfStQ88liCWT5JgdVyzXqblM287OqsVyg&oe=6AC6A6A5"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNSQoOn8ci8MosRZvqKukEGEiiNXYGtA9StD7T9U49F2IqrOPnvKolwSizl1P46sE84aaVC6kUlguhErI69KoYtvEeVxGzbL6tOkNtumQ.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=DJ6yRL0eXrAQ7kNvwEgn0iv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzA0OTYzMjMyMjA5NDk2NSwiYXNzZXRfYWdlX2RheXMiOjE0MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjExMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&_nc_zt=28&oh=00_AQMFvnqAUvdylklD8-_K1IjgsWLh9eqiK1PFtOudedQ1tQ&oe=6AC80D03",
+          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/698107767_1271808205073513_5111947779480289814_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HLY5aMhAHH8Q7kNvwHzhbbc&_nc_oc=Adqj6jt6RNhMFgf9zVwrmJJeskRVQaMlKkIq9hYcATYTiV22DJvb3qLFzKYXekS-f9U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQOby3pB_KRGnZAYfZS7kpiYE1loO9IGG7j9caQ2epbDkQ&oe=6AC7F825"
         }
       ],
       "pageName": "KahunaSpa",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 17,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 18,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "🎉 This is your Last Chance!",
@@ -468,16 +421,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNKVeS5jp9P2c5KKvGK9yyTmDdoQ2Gdfwf0Swc0c-Qr1-hHfD9y0btKWQMbT_6boxUSWZrLxAoJ84QOwTpXyx_7wCuhzPBYW6CKi-WLOA.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=YDAeaJV8zisQ7kNvwGLgPNS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTEyMDgyODg0NTQ5NTQ2LCJhc3NldF9hZ2VfZGF5cyI6MjYwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTYyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&_nc_zt=28&oh=00_AQPUwPJjYtrdrjOoUWGHfyPpe4Q6XgOjMZ5PDeLbJR2DYw&oe=6AC6C29B",
-          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616215373_25776455688653448_1686325835988000951_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=f2wPmAsEywkQ7kNvwFsQ-M1&_nc_oc=AdpYLwIzKPwS_1V1H7euFrC8nZvMHifkRRDsmTOBjvAAeDf9BGOjC-rsjuumQFL1fQs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQMFud-MbEM7uEeyMY5NoQHb_m0eoPU5X9sKWB9PoIuTBg&oe=6AC6C720"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNKVeS5jp9P2c5KKvGK9yyTmDdoQ2Gdfwf0Swc0c-Qr1-hHfD9y0btKWQMbT_6boxUSWZrLxAoJ84QOwTpXyx_7wCuhzPBYW6CKi-WLOA.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=dGCyhpXG0wQQ7kNvwEEGGmL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTEyMDgyODg0NTQ5NTQ2LCJhc3NldF9hZ2VfZGF5cyI6MjYxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTYyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&_nc_zt=28&oh=00_AQNELshec1KhZUhW61KOwfktzuUsDFQBAtfh3kNw--0kIw&oe=6AC8141B",
+          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/616215373_25776455688653448_1686325835988000951_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=f2wPmAsEywkQ7kNvwG_jSPl&_nc_oc=Adq7SEifT1T0AQlxVSR2zmEfkWok7bB2XZcI_LqUhd2tn3H9ici_VID8n_coUgqs0xE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQPukRsAo1fBxyk5ncv8qsDySQTnnU5oAtPuSjOQ1KzTzQ&oe=6AC818A0"
         }
       ],
       "pageName": "KahunaSpa",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 17,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 18,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "🎉 Happy New Years Promotion EXTENDED!",
@@ -537,16 +490,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPYYOLo5C7nVolqckHgJW2wkn53m1IwXEMtBJeX9WU4Sd8P5E9HKK9g3uLjMh-Aq-YOo_ci37AWy3HKg2JAxpdkVGC8DAHw5MhhaYlJzg.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=bBVxzg9yo68Q7kNvwGXE3Gf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTg0NjE4NzYyNjU0Mjk2NCwiYXNzZXRfYWdlX2RheXMiOjIyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&_nc_zt=28&oh=00_AQMCRPXf5Rt98lAsAx9KNXHaa1QE606NdvgxtHPKtZ05Iw&oe=6AC69AC2",
-          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/802943883_1627424938980449_8462408715288038813_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JP5jLhKrLg4Q7kNvwEiU1aa&_nc_oc=Adquv_QPCyVzwn09YnG-672aVJaFTFTXqrSqVHQeWlxQqVOd5J22JLIc65t7XrHYSN4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQMC_byZtNoTd5eb5Ob4vfigNJVm6_4NZIAqNrRDYwQM1Q&oe=6AC6AE35"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPYYOLo5C7nVolqckHgJW2wkn53m1IwXEMtBJeX9WU4Sd8P5E9HKK9g3uLjMh-Aq-YOo_ci37AWy3HKg2JAxpdkVGC8DAHw5MhhaYlJzg.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=bBVxzg9yo68Q7kNvwEDVri9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTg0NjE4NzYyNjU0Mjk2NCwiYXNzZXRfYWdlX2RheXMiOjIzLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&_nc_zt=28&oh=00_AQMcMp87B9RUK3zziQ1xiO-FPAuClYLvxHtCpXV8-Xxa9A&oe=6AC82482",
+          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/802943883_1627424938980449_8462408715288038813_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JP5jLhKrLg4Q7kNvwFEwdzK&_nc_oc=AdreRUD4DDxfTGTagkErh08GwTU0GOqfzaT_PUmguJw5ePjsyRy-tmemBoT6czwYaoU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQNAeChGM_IQSxdoP0BLJBKGFjUJHd1sabUl1Y0klv2EEA&oe=6AC7FFB5"
         }
       ],
       "pageName": "KahunaSpa",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-27T11:36:31.076Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 7,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 8,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "🎉 New Year, Radiant You!",
@@ -606,16 +559,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMVovt5vKcCyvYvcl3Z9KD7F90gdQZgkRFRfMQ67XEAUgsOvjTqpCa2e9TWEp2-BqqjJH_SDfzdgnfyfdgCPpy_CJ1HQC7OUySjuK5rlw.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=__yr9hVbSs8Q7kNvwHsHwbR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjEyNzE4NDEwMTIzMDcxOCwiYXNzZXRfYWdlX2RheXMiOjE0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&_nc_zt=28&oh=00_AQOadGJkC-6ymfgsTm8yfsjdhJ8GnppVmDgX0CmujUwJWw&oe=6AC6CF03",
-          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/811710850_1822854992403247_4584576449213578117_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WcNs3AyX4tMQ7kNvwGa0u3n&_nc_oc=AdqZyQQrffHf_fGt-bHe3WT_3Jg-2LxQjyWzOkM1LOiLcQ5xUzN4abjX9Lkt-qW0MIw&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQMGdin5DGqSQRhEWcgZdU0QV7cduOKmyZHO-MFxOqJUGw&oe=6AC6C679"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMVovt5vKcCyvYvcl3Z9KD7F90gdQZgkRFRfMQ67XEAUgsOvjTqpCa2e9TWEp2-BqqjJH_SDfzdgnfyfdgCPpy_CJ1HQC7OUySjuK5rlw.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=__yr9hVbSs8Q7kNvwFTwms7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjEyNzE4NDEwMTIzMDcxOCwiYXNzZXRfYWdlX2RheXMiOjE1LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&_nc_zt=28&oh=00_AQPQCTl5Rx5TxtVZ0V9WbG6nFjpLshNP0jTyNiTGXx4VKg&oe=6AC82083",
+          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/811710850_1822854992403247_4584576449213578117_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WcNs3AyX4tMQ7kNvwHyZflH&_nc_oc=AdoRrARNjnlNjT6R8Yv4a1AYdSO67EvTQdXJbIDHYT7wM2pIofe44Q6iC19MxJ6GB-M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQPmBzkRjvDcn0K9lK9lbm06ZiPKBW3GtG9IDrqvrdQH7g&oe=6AC817F9"
         }
       ],
       "pageName": "Korean Daily Insider",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-25T11:23:00.337Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 9,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 10,
       "notifiedAsWinner": true,
       "angles": [
         "Botox-vergelijking",
@@ -656,16 +609,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMEtf5xdgLsWNtoqUt3jmKFYKclJULgmOHHaTlvqOBHFa6NOIc4avH3ampuD_P_liNkcLRgjB-Hm7n1jYoR_J5IH2m_gn5GbvPBFnJYdg.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=t7Xc_dFmdVsQ7kNvwG2LOKT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjIxNjU2MTk5MjI1NzQ0OCwiYXNzZXRfYWdlX2RheXMiOjE0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&_nc_zt=28&oh=00_AQOafKvMSXedvPMU8R595mPk4-Rg00Cl8_I2nH-vjTWE-A&oe=6AC6BAE7",
-          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/814714053_868860506312745_6654074189730949043_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8wPBUCcN07MQ7kNvwE7N41G&_nc_oc=Adq3oytUDB5USax_59uzY9FL5YkUjS5WwFVGEt5UIVY2L0jkPOTYeSDRWUY9S5txDKk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQNKDF3u-boY78Vb73yjf4n_f-OtgyjFL-6Ut8GvyGM_AQ&oe=6AC6BE7E"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMEtf5xdgLsWNtoqUt3jmKFYKclJULgmOHHaTlvqOBHFa6NOIc4avH3ampuD_P_liNkcLRgjB-Hm7n1jYoR_J5IH2m_gn5GbvPBFnJYdg.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=t7Xc_dFmdVsQ7kNvwFjjp1d&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjIxNjU2MTk5MjI1NzQ0OCwiYXNzZXRfYWdlX2RheXMiOjE1LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&_nc_zt=28&oh=00_AQNpu-nHB9FtbzcHLIXDzTbkgIAxafNVN2qjSI8K6FNNqQ&oe=6AC80C67",
+          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814714053_868860506312745_6654074189730949043_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_aOe_unW6GMQ7kNvwFPxY2E&_nc_oc=AdqIfKuaj5F1KZyBdRLUgxCk8WEoMav8beFbIKgjwJ4T7O5joabrZ6RdhbxAvrYO2qg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQOzxW-s0HXXzplx_3GjT5rN2O6aDguM3qGnXDOz7elLgg&oe=6AC80FFE"
         }
       ],
       "pageName": "Korean Daily Insider",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-21T12:15:41.746Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 13,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 14,
       "notifiedAsWinner": true,
       "angles": [
         "Botox-vergelijking",
@@ -707,16 +660,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPYYOLo5C7nVolqckHgJW2wkn53m1IwXEMtBJeX9WU4Sd8P5E9HKK9g3uLjMh-Aq-YOo_ci37AWy3HKg2JAxpdkVGC8DAHw5MhhaYlJzg.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=bBVxzg9yo68Q7kNvwGXE3Gf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTg0NjE4NzYyNjU0Mjk2NCwiYXNzZXRfYWdlX2RheXMiOjIyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&_nc_zt=28&oh=00_AQMCRPXf5Rt98lAsAx9KNXHaa1QE606NdvgxtHPKtZ05Iw&oe=6AC69AC2",
-          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/803103726_2149965985900209_8087308566716838719_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Em51L_r0eRMQ7kNvwEE8j5t&_nc_oc=AdrSNoVOkyBYjAZcUPMzuJQoGZ0sHXOx1zVZqBdx3IlbGVWJ1qpbyVHxskUF6yptLgc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQPdgTS208yc10iGG8kQQRUe4BIv-pUztWMTFz09-zPdUA&oe=6AC6A1A1"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPYYOLo5C7nVolqckHgJW2wkn53m1IwXEMtBJeX9WU4Sd8P5E9HKK9g3uLjMh-Aq-YOo_ci37AWy3HKg2JAxpdkVGC8DAHw5MhhaYlJzg.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=bBVxzg9yo68Q7kNvwEDVri9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTg0NjE4NzYyNjU0Mjk2NCwiYXNzZXRfYWdlX2RheXMiOjIzLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&_nc_zt=28&oh=00_AQMcMp87B9RUK3zziQ1xiO-FPAuClYLvxHtCpXV8-Xxa9A&oe=6AC82482",
+          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/803103726_2149965985900209_8087308566716838719_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Em51L_r0eRMQ7kNvwH4HIyg&_nc_oc=AdpRlVYwIXUSI1gcsnF6AtDkicAYefMIegApX-VZQ-86l9PQFjlclVSagpwNi13BoTM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQPK8KXo_Ytoz1zJ-EkWUGOJ_NXiDRlx5b2r1_qnW9JPDA&oe=6AC82B61"
         }
       ],
       "pageName": "KahunaSpa",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 17,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 18,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "🎉 Happy New Years Promotion EXTENDED!",
@@ -790,16 +743,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMC8M987TPRQoFxAG_gu1DbtFgR7CzbsdbC1658sJP7zrsLGQ0Mpq3bk4J5ClTNoZKg6qipR1CDP1Thv8M4W8di3NszJJ4F6tb0kinXRg.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=0WhLYwLPlxEQ7kNvwFzU1no&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTEwNTQ1NjU5NTQ4MzU4OSwiYXNzZXRfYWdlX2RheXMiOjUxLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTU3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&_nc_zt=28&oh=00_AQM8rrhN7oAqCST_G1apkT_IH-vvvfNxDkT9xorjCs8P2A&oe=6AC69BD6",
-          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/773572656_1612517943838753_1655498734381626443_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mJndV0D-NNAQ7kNvwGZKaWP&_nc_oc=Adpi3SZt2H10fY1wAFb9pOPv3b30JAyxQsfg218qvbb6Viei85O84pRRZ-6oHTnHGC0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQNkJ8SNl77irLLAN48ceYCo7Ywy_gAfnM5madQIm5FtWQ&oe=6AC6CC72"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMC8M987TPRQoFxAG_gu1DbtFgR7CzbsdbC1658sJP7zrsLGQ0Mpq3bk4J5ClTNoZKg6qipR1CDP1Thv8M4W8di3NszJJ4F6tb0kinXRg.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=0WhLYwLPlxEQ7kNvwEYmdRH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTEwNTQ1NjU5NTQ4MzU4OSwiYXNzZXRfYWdlX2RheXMiOjUyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTU3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&_nc_zt=28&oh=00_AQMJiarNbj2wiMrGBy5QxWRU7FUcK60mpZTz38CitXueTQ&oe=6AC82596",
+          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/773572656_1612517943838753_1655498734381626443_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mJndV0D-NNAQ7kNvwG6qwxs&_nc_oc=AdrHvxOkKJjzvBHv98GWcvfYHyvSaVO4PTnP1qNJ95tlvE10f58YhMFPkpXESxDV54U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQORMzmrnL2te8HoL0XHmug6ZSe20QCURZEhHFYLBK0Qgg&oe=6AC81DF2"
         }
       ],
       "pageName": "KahunaSpa",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 17,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 18,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "🎉 Happy New Years Promotion EXTENDED!",
@@ -859,16 +812,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOM1Hx28-Pyn3GrTA6gEC09m3rsesFVBSnb_eI4waAxBroT15kRqpvf_24ZNIVJtJ4SDUz3ivCdixVrEnA_9x_k17GsIs__Hf5e1kpu1Q.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=uYnGI5wBPtMQ7kNvwEcLJcb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjM3NzE4NzExOTQ3MTUyNywiYXNzZXRfYWdlX2RheXMiOjY2LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&_nc_zt=28&oh=00_AQMLRqHNU8kPNQDgPHzDGqCxsiJHe9fl9srxpIKVvGm2xw&oe=6AC6CE92",
-          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/774320920_1101285512340452_1492864669751021681_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9gg-dMPj1a4Q7kNvwEKlPOT&_nc_oc=AdryVM30VEiqNJm9fy-n10oLik6zwrbulPdyUrXWLWfTse2n_Gp2ZaSDBbTytBAMPX8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQNVZsORIs9vqBZcQbeXW2HNTWJOD7l8_O3IYwpaf8CPiQ&oe=6AC6B053"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOM1Hx28-Pyn3GrTA6gEC09m3rsesFVBSnb_eI4waAxBroT15kRqpvf_24ZNIVJtJ4SDUz3ivCdixVrEnA_9x_k17GsIs__Hf5e1kpu1Q.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=IHmRL6vG6PIQ7kNvwGCB_wf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjM3NzE4NzExOTQ3MTUyNywiYXNzZXRfYWdlX2RheXMiOjY3LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&_nc_zt=28&oh=00_AQO_JVmAM1AHAxF2VE3y0KPh6sImEYMFxrsSs8vh0F8fpw&oe=6AC82012",
+          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/774320920_1101285512340452_1492864669751021681_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9gg-dMPj1a4Q7kNvwFTjQ_X&_nc_oc=AdrtGTleO4AL39LjizV_4iw4ig8eK4nC-jqLRp2awBI8mZx7GD81DSgAI8POBsx9Xg4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQPmRuynZuZpNLadeZmXSa47mkGpDcrcpCvrbr8Pn5onaQ&oe=6AC801D3"
         }
       ],
       "pageName": "Dr. Pen Global",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-29T12:20:15.200Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 5,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 6,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "I used to book microneedling in a clinic.",
@@ -924,16 +877,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOayY39TBws4F19TynfuF457ctWz9PAGWHm5G2OzZ-QFAsIptJu2j6pGSDg1wxqVmgsmaRFkasqQQkDUD-WasWORCE2k6E2QoQnHu5lWg.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=jmv5XGPrZ8kQ7kNvwHt5wx_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTkyOTIzOTEwMzAxNzM2LCJhc3NldF9hZ2VfZGF5cyI6MTEzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTQzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&_nc_zt=28&oh=00_AQNnlfAwBAD5U2z2fFXUDBu8byKdt5SMqrXs-t6XS0E8gw&oe=6AC6AC92",
-          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/722430880_1030236122992873_5757949157880240941_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dz5SDU4GrDEQ7kNvwHPqrBv&_nc_oc=AdorY6Dz-h_9lb6XdYoM3P9Ob7Zn_1lzs5P-nYGbcets3jpbQmPHbZSbCiWyHhyfrys&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQNuIxAhMdbIythUhAgR9jr2xQWxF49bhppcnQM-hOU62Q&oe=6AC6BD43"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOayY39TBws4F19TynfuF457ctWz9PAGWHm5G2OzZ-QFAsIptJu2j6pGSDg1wxqVmgsmaRFkasqQQkDUD-WasWORCE2k6E2QoQnHu5lWg.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=jmv5XGPrZ8kQ7kNvwEwnRxY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTkyOTIzOTEwMzAxNzM2LCJhc3NldF9hZ2VfZGF5cyI6MTE0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTQzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&_nc_zt=28&oh=00_AQOAGKrDHxLtilAYyWivJUwHhnIHA9YctRijJj36QFEnLA&oe=6AC7FE12",
+          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/722430880_1030236122992873_5757949157880240941_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_ptxKnP5IS4Q7kNvwHQYT7v&_nc_oc=AdqgBeIUqipaWU_RaSrImVtIcGi25mx6RYUBOFxz9P8gDqSEP0dyZWAhiy5xu0lUC6E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQP60IWP771erKk0bJbi8Shj_iCaTWZTKCI1IqagTS_8oA&oe=6AC80EC3"
         }
       ],
       "pageName": "KahunaSpa",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 17,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 18,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "🎉 Happy New Years Promotion EXTENDED!",
@@ -993,16 +946,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMjWs6Y9KeEInxJ1QK4uFfcvyrq1Gfx8ir-Pp3OJZvZBHNOv2w8eblF781E4U2at3GD56jUS0S2F8UCO8SRZ_RL37touGqjcKdGLMFsqA.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=c5rhDjNiARUQ7kNvwFOyA5v&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTYwMzEyNDQ2NDAxNzEyLCJhc3NldF9hZ2VfZGF5cyI6MTQsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo2NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&_nc_zt=28&oh=00_AQOZ729BwsdflygadNtjoupLFGX2Gg90viN9pLwLKbjMIg&oe=6AC6C5DD",
-          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/796638757_2637363286744819_2397985658844477788_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bOo8A_-Wre0Q7kNvwEqK_Um&_nc_oc=AdrOQSfkDiZVVwbHxJyFwcmcZ_3232SHt4SH2P2FIJO4aS3gp11u-tezhwo7U_-Ow_4&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQNiMmM0AFDN6548ORN9GIqavfD0YpHaNnvNB9M3mdONxQ&oe=6AC6CBA9"
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMjWs6Y9KeEInxJ1QK4uFfcvyrq1Gfx8ir-Pp3OJZvZBHNOv2w8eblF781E4U2at3GD56jUS0S2F8UCO8SRZ_RL37touGqjcKdGLMFsqA.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=c5rhDjNiARUQ7kNvwGI9MI6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTYwMzEyNDQ2NDAxNzEyLCJhc3NldF9hZ2VfZGF5cyI6MTUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo2NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&_nc_zt=28&oh=00_AQMHP5RYz-GXQrL_ruMR5nbzT49ayUjxZbUIugtzy6hfjQ&oe=6AC8175D",
+          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/796638757_2637363286744819_2397985658844477788_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2mEPNI91qBMQ7kNvwHzCS3g&_nc_oc=AdpdmDQOpbkPLF5kQAzmdCRdBnj97vEORN1xIpKOEpccmdNXEaSgkNKXKKwdgT7TPys&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQP2l4BNHakMeu-6LLzaGWcRJ9MS6Ir3LyVjI4RaHl7AmQ&oe=6AC81D29"
         }
       ],
       "pageName": "Korean Daily Insider",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-25T11:23:00.337Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 9,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 10,
       "notifiedAsWinner": true,
       "angles": [
         "Botox-vergelijking",
@@ -1035,27 +988,6 @@
         }
       ]
     },
-    "1318628283529600": {
-      "adId": "1318628283529600",
-      "startedRunningRaw": "Started running on May 22, 2026",
-      "startedRunningOn": "2026-05-22",
-      "text": "El sistema Coreano 🇰🇷 que se está usando para reemplazar el bótox y lucir más joven.\nEste set combina 3 ampollas que trabajan juntas:\n💉 Péptidos + colágeno → ayudan a mejorar la firmeza🧬 PDRN → revitaliza la piel y mejora su apariencia✨   Ácido kójico + niacinamida → ayuda a unificar el tono\nTodo trabajando al mismo tiempo para que tu piel se vea más firme, luminosa y uniforme.\n👉 Descubre cómo funciona aquí: https://www.naturalumi.com/products/hometox-trio-set-pdrn-acido-kojico-peptidos\nNATURALUMI.COM\nAmpollas 🇰🇷 con hilos que remplaza las 💉👉🏻\nDescubre el poder de un tratamiento completo diseñado para transformar tu piel desde el interior hasta la superficie. Hometox Trio Set es un sistema avanzado de cuidado facial que combina ciencia y activos de alto rendimiento para ayudarte a lograr una piel más firme, luminosa y visiblemente rejuv...\nShop now",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/703612870_1324244139801848_5324437553266752857_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=80jyTu38PL8Q7kNvwEXsvTJ&_nc_oc=Adrmf6EtI3-QNVb6r5fxCQgs9Zou2VRXTLB43XWEjJ8YGP2dMoUsQ_4imqG_QP28jo0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQPqdSP7Plmqm5HS48hSAg-OHNomF8btViTFDoQruBC-xg&oe=6AC6BCAD"
-        }
-      ],
-      "pageName": "Naturalumi",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-10-03T11:15:39.518Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false,
-      "angles": [],
-      "hook": "El sistema Coreano 🇰🇷 que se está usando para reemplazar el bótox y lucir más joven."
-    },
     "1575762694303005": {
       "adId": "1575762694303005",
       "startedRunningRaw": "Started running on Sep 23, 2026",
@@ -1064,16 +996,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPDSARqqlxd6daLV4X78PgPM76p4LtM-L1YAeCUKSbLXJLYuPZjY4MVgGhiVIeTv_dX4WOuV1x9BbjDlKFsWjdXeLV6CweMnaI-s5EPJA.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=4PtFpgwJ1fEQ7kNvwGjPSXa&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc5OTE4MjM5NDQxNTQzNywiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo5MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&_nc_zt=28&oh=00_AQMcixn8oUUQqDtvZ5OB34PFLLZAiAAjolPJSZUn_ErQMw&oe=6AC6CBD3",
-          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/821665097_2517121522147483_9218899990994574569_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7j9fp7QOJh8Q7kNvwEIHF-O&_nc_oc=AdqTZhT7E78sNHzk4CvwMohe1_JtuOw8IXulqsl5j3Yx2GI_3SJ-BJeXFeXw7wx70cI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQPld-GXRA865KtNs89zrPI6Lf9V4lttvAgZQmD0FULSQg&oe=6AC6A6CB"
+          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPDSARqqlxd6daLV4X78PgPM76p4LtM-L1YAeCUKSbLXJLYuPZjY4MVgGhiVIeTv_dX4WOuV1x9BbjDlKFsWjdXeLV6CweMnaI-s5EPJA.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=4PtFpgwJ1fEQ7kNvwG2dDCj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc5OTE4MjM5NDQxNTQzNywiYXNzZXRfYWdlX2RheXMiOjEwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6OTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&_nc_zt=28&oh=00_AQNLAg18THd3eGrIiBT2olFcDAMIJ794HQ1frT38ygVkfw&oe=6AC81D53",
+          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/821665097_2517121522147483_9218899990994574569_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7j9fp7QOJh8Q7kNvwFtP6WC&_nc_oc=AdpKvxCr8g7bBApGkyWhOLA81bCw6Yt_-WVypyPAv7NfowZedco1V21fCBFGsHzp9PQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQNBaF0K4Ogo93UiU73GfDciRxNwYIgiWlRI8O5xdU7ibA&oe=6AC7F84B"
         }
       ],
       "pageName": "Korean Daily Insider",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-01T12:38:54.618Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 3,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 4,
       "notifiedAsWinner": true,
       "angles": [
         "Botox-vergelijking",
@@ -1100,15 +1032,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/783220601_1807863640568848_5042517974549044037_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lizyd458KSsQ7kNvwFxhDJx&_nc_oc=Adp02miuILoRvK5by5YytOlhW4uJux0qMeA-o8YLZW4p_ZfDp7SMdON6h-KLT4WGr1c&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQP--IxeUpYjc0K7pUcAwR12mkH08Cm9Gr-QZZEw3TDjig&oe=6AC6ABC0"
+          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/783220601_1807863640568848_5042517974549044037_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lizyd458KSsQ7kNvwEc8ufF&_nc_oc=AdrNEPOWAs3_VZNIAVOLt0DufKG-1Q09s_d8fLlzT07exV16R8tKYMjkTMnh1W-NMQE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQPx_Ub_D4a_kWvpmKkaPcr4aFejfaNPZVlllO2ev0iQ8Q&oe=6AC7FD40"
         }
       ],
       "pageName": "Maisolya",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 16,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 17,
       "notifiedAsWinner": true,
       "angles": [
         "Insider/celebrity-secret"
@@ -1134,15 +1066,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/651171799_920229920596437_5942193145584551958_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NDh66-pOlHEQ7kNvwEMxU0B&_nc_oc=Adrz37umfdGPPxKF3L4nMDrKoTe00JZprLIg8m_jPK7YUQejWqd2e2UHITuGYgMyHTI&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQMNgWMPr23UUwMU5dLhKkvmAcdInFmJCX0VTk9al3Yl_w&oe=6AC6B266"
+          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/651171799_920229920596437_5942193145584551958_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N7vu_Bz_BYQQ7kNvwFjozYU&_nc_oc=AdpratQCyGyTvlm6MHaDHuP9mUSZhq-2g1AWcxIGBhPuWafSW4pLb6LZHsYk445pkj4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQMfKih469HFHE9bsEWEohqChcuA5lcRDSxznSGK9_Wg2A&oe=6AC803E6"
         }
       ],
       "pageName": "Little Wonderland",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-03T11:15:39.518Z",
-      "seenCount": 17,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 18,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "Fan du Biodance Collagen Real Deep Mask ?",
@@ -1168,15 +1100,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/775442163_1539701507459083_8159651623498030199_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XhxQQahB_AIQ7kNvwF_Chte&_nc_oc=Adp2fxsbTo3uY0O07RFCIbvZpoi0a7kio66cJpwSNRlKL1iNZCzJDUzwH79MoO3mzQc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=suN3whJfg8vRLjahpwscmg&_nc_ss=79289&oh=00_AQOiHLuK_B2eIaX0t_vZappwdb70y-nJ82qo0CYmiVkPyQ&oe=6AC58021"
+          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/775442163_1539701507459083_8159651623498030199_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gIFkSgFhmHEQ7kNvwEidzio&_nc_oc=Adr4vtgfI20t0EbQy4DZzKAkVi4i8Zk6Vyop4LA7aw--WytZmDH99qP9AvpFCfli3WY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQMOb28dXvuPcCPuejCGLrF2y9BN9C6PvarMW_WWR6vyjA&oe=6AC82321"
         }
       ],
       "pageName": "Maisolya",
       "adLibraryUrl": null,
-      "active": false,
+      "active": true,
       "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-02T12:03:10.903Z",
-      "seenCount": 16,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 17,
       "notifiedAsWinner": true,
       "angles": [
         "Insider/celebrity-secret"
@@ -1202,15 +1134,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/707427101_1719894269027193_4425837006790847585_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=94MiWNsCzm8Q7kNvwGZRB1S&_nc_oc=Adr0D8tjsEA99XyX-zUD2dsScnyZvkqRuv6zhU78kDCPaeLZh5m4RZqX5AUbBszlEJQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=suN3whJfg8vRLjahpwscmg&_nc_ss=79289&oh=00_AQNpjKarCa0VaXsTl416wHtv-rOARrg42ZDE9uBH-sRCeg&oe=6AC56F5E"
+          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/707427101_1719894269027193_4425837006790847585_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=94MiWNsCzm8Q7kNvwF0SMno&_nc_oc=AdoDO3m9iJzZAPBo1GzAP2OjAMp8tV5vmKVgnZmv0_8Rhx3YTSFgjhQKJ5r7oSTi-N8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UyKcnpvg_B4kGCJSs1azDQ&_nc_ss=79289&oh=00_AQMqLHvp55keFKfQx3Fa8AIZtBn0o4LGju-eWNDisJdl5A&oe=6AC8125E"
         }
       ],
       "pageName": "Torriden France",
       "adLibraryUrl": null,
-      "active": false,
+      "active": true,
       "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-02T12:03:10.903Z",
-      "seenCount": 6,
+      "lastSeenAt": "2026-10-04T11:55:22.516Z",
+      "seenCount": 7,
       "notifiedAsWinner": true,
       "angles": [
         "Mechanisme/penetratie",
@@ -1228,6 +1160,74 @@
           "reach": 1488
         }
       ]
+    },
+    "1004439732612360": {
+      "adId": "1004439732612360",
+      "startedRunningRaw": "Started running on Sep 10, 2026",
+      "startedRunningOn": "2026-09-10",
+      "text": "DERNIERE CHANCE !\n\nPlus que quelques heures pour profiter de notre promo 1+1 sérum offert !\n\nRupture de stock à 3 reprises cette année.\n\nSi le lien fonctionne encore, c'est qu'il est toujours disponible. 👇🏻\nMAISOLYA.COM\n1+1 OFFERT\nGarantie satisfait ou remboursé de 99 jours.\nShop now",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/804648250_2572037193216938_248857805159665211_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZK7xZeXZ5E0Q7kNvwFYpyX7&_nc_oc=AdqBYN0Qmm5SBmw7C5k_D72JD27ziE805VmhcJZvXULyYRoYd7PL8FYaxPd8mKfleZg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQOKk5WVWOG46V_vAPMJ4BrWt8ASwzowspxwmRyQS4WlHA&oe=6AC6BDE1"
+        }
+      ],
+      "pageName": "Maisolya",
+      "adLibraryUrl": null,
+      "active": false,
+      "firstSeenAt": "2026-09-17T11:09:49.855Z",
+      "lastSeenAt": "2026-10-03T11:15:39.518Z",
+      "seenCount": 17,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "DERNIERE CHANCE !",
+      "euReach": 27118,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (5,898)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 25938
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-09-17",
+          "reachPerDay": 3091.8571428571427
+        },
+        {
+          "date": "2026-09-18",
+          "reachPerDay": 3059.5
+        },
+        {
+          "date": "2026-09-19",
+          "reachPerDay": 2882
+        }
+      ],
+      "notifiedAsRising": true
+    },
+    "1318628283529600": {
+      "adId": "1318628283529600",
+      "startedRunningRaw": "Started running on May 22, 2026",
+      "startedRunningOn": "2026-05-22",
+      "text": "El sistema Coreano 🇰🇷 que se está usando para reemplazar el bótox y lucir más joven.\nEste set combina 3 ampollas que trabajan juntas:\n💉 Péptidos + colágeno → ayudan a mejorar la firmeza🧬 PDRN → revitaliza la piel y mejora su apariencia✨   Ácido kójico + niacinamida → ayuda a unificar el tono\nTodo trabajando al mismo tiempo para que tu piel se vea más firme, luminosa y uniforme.\n👉 Descubre cómo funciona aquí: https://www.naturalumi.com/products/hometox-trio-set-pdrn-acido-kojico-peptidos\nNATURALUMI.COM\nAmpollas 🇰🇷 con hilos que remplaza las 💉👉🏻\nDescubre el poder de un tratamiento completo diseñado para transformar tu piel desde el interior hasta la superficie. Hometox Trio Set es un sistema avanzado de cuidado facial que combina ciencia y activos de alto rendimiento para ayudarte a lograr una piel más firme, luminosa y visiblemente rejuv...\nShop now",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/703612870_1324244139801848_5324437553266752857_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=80jyTu38PL8Q7kNvwEXsvTJ&_nc_oc=Adrmf6EtI3-QNVb6r5fxCQgs9Zou2VRXTLB43XWEjJ8YGP2dMoUsQ_4imqG_QP28jo0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=wN5dw7sd6U3oetl7GXm_qQ&_nc_ss=79289&oh=00_AQPqdSP7Plmqm5HS48hSAg-OHNomF8btViTFDoQruBC-xg&oe=6AC6BCAD"
+        }
+      ],
+      "pageName": "Naturalumi",
+      "adLibraryUrl": null,
+      "active": false,
+      "firstSeenAt": "2026-10-03T11:15:39.518Z",
+      "lastSeenAt": "2026-10-03T11:15:39.518Z",
+      "seenCount": 1,
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "El sistema Coreano 🇰🇷 que se está usando para reemplazar el bótox y lucir más joven."
     },
     "2158451781425193": {
       "adId": "2158451781425193",
