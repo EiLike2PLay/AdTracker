@@ -1,7 +1,7 @@
 {
   "version": 1,
   "pageId": "683748144815985",
-  "updatedAt": "2026-10-05T16:47:50.632Z",
+  "updatedAt": "2026-10-06T01:08:19.087Z",
   "ads": {
     "25907197515627905": {
       "adId": "25907197515627905",
@@ -11,16 +11,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMDHp-kn3T8V4BsgewAWLyq5boZiKMQrlu7CyK6BmhohY7cVOB49nQy6eqzjM9in-9jk3UvF3ZHyJLBDmewU327e6gFq7ILtmB74s2SqQ.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=wZ5bakD8m5sQ7kNvwHeBzpp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjY2OTMyMTQwNjc2OTcyOSwiYXNzZXRfYWdlX2RheXMiOjIxNywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQPvr6BXfzmu3QuuZdxHtrlOb8MjIR-SRPDzz6RmTmPwWA&oe=6AC9C046",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/645517945_941765914975910_2741890455816591775_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ng0BgkpmFkIQ7kNvwGJQCDd&_nc_oc=AdpYP2cjZv9s3eEeIYfJIxGg0id_tI68CFgbHdwnI9m4_DiZYPzGS5nr2LMdlNgZNZM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQNfmW19fgNK_5pyQFTher4_MC07Hg2HB6pZ4kNcPht2EA&oe=6AC98EB1"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMDHp-kn3T8V4BsgewAWLyq5boZiKMQrlu7CyK6BmhohY7cVOB49nQy6eqzjM9in-9jk3UvF3ZHyJLBDmewU327e6gFq7ILtmB74s2SqQ.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=wZ5bakD8m5sQ7kNvwGzxg_v&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjY2OTMyMTQwNjc2OTcyOSwiYXNzZXRfYWdlX2RheXMiOjIxNywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQPzHeVw-ewgNcx1j3mrmR4AEJ19v0cTwyGd4tUbdd6BDg&oe=6ACA30C6",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/645517945_941765914975910_2741890455816591775_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ng0BgkpmFkIQ7kNvwGpd7RR&_nc_oc=Adp84vNtOB-DpUrs-8BnEF2ZI8o_dPBLbcsNjf6dUXFJkHZOlw_bp8jW6R50yTtYuBw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQPhVlBXg_3I6G3cguhaba9HLDkggieISvk9xfE5RLKcWA&oe=6ACA3771"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "SAESKYN.COM"
@@ -33,16 +33,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNdl7TGpIfPUUTWRBSMlkcVlyE28Cfzvpb0dVGAmH1gZ_Cn9dE311vc5DXqwNO0WHX7wz7L2DgOZ_37HF0fgbM8DB3muVMd9a0aziIUCg.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=v4063dM0qf0Q7kNvwGVKjle&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE3NDk4Nzk4NDgxNTY5NSwiYXNzZXRfYWdlX2RheXMiOjMwMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQNABsFLRi7WKqzl5xu-QnfnCkxMiq64cKsllUMASiUYPQ&oe=6AC9AA1D",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/595223546_1835748970393312_8098808871413328695_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PucpsPlzpZIQ7kNvwElMAk8&_nc_oc=AdpMuh40gOizw8RoTXMOiGCOjBVr2lw5JmrT4J5154ccvapHbRkwPpjgCSSuJV79KUo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQOCUlh_m-NXqnnFL5mG3-DVsXlR28OiivRWZDthQFA3aA&oe=6AC9C333"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNdl7TGpIfPUUTWRBSMlkcVlyE28Cfzvpb0dVGAmH1gZ_Cn9dE311vc5DXqwNO0WHX7wz7L2DgOZ_37HF0fgbM8DB3muVMd9a0aziIUCg.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=v4063dM0qf0Q7kNvwG0TBX0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE3NDk4Nzk4NDgxNTY5NSwiYXNzZXRfYWdlX2RheXMiOjMwMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQOc8ZQ5H2-5zmlg9qR4QzxzsWbbnT3rvAFJkmUgOjIyWg&oe=6ACA1A9D",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/595223546_1835748970393312_8098808871413328695_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PucpsPlzpZIQ7kNvwEp3NLO&_nc_oc=AdrXCBJFD6a0xXZsgQQ6V7R7XYWqaNdtvH2H-w30QVNHKU6Eomxyv046jTNEIS58XUQ&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQPalskNIsGZ0K-eIV_UO6YzAWXjwNwxmiplItTnkbbZXA&oe=6ACA33B3"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "POV: Your entire skincare routine fits in your pocket"
@@ -55,16 +55,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPd6VG-OlIpYkzgjcOWFRBpDJJ5g5GUEIWoU6EFGMaSDTlnSDeLt-7fj8yq6_iQz7bJeoV_j09tPA6SgjQUZtcfBODAlTNWUx-4vdXrRw.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=2YGka0T4HKYQ7kNvwE7oruJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc3MDUzOTU4NDI5OTU2OSwiYXNzZXRfYWdlX2RheXMiOjgwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQO2wepS__GDcXMJ_aSbeQd2UF0yKVtiE66Ms3GC4M8mEQ&oe=6AC9B1C3",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/748597244_2049333228993153_3614863336551679904_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eVi1d3_soroQ7kNvwHHSekY&_nc_oc=AdoI6qc1vCmwjKPzGqjADlBS6Af7dfT3eGraJuC7BqLo8XTGui4qu290rwcICld0Pg4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQPWkM8sPyLQfL1iwI3RYXRT0N3jRcTkhwjUOWyFS0rhWw&oe=6AC9A4B8"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPd6VG-OlIpYkzgjcOWFRBpDJJ5g5GUEIWoU6EFGMaSDTlnSDeLt-7fj8yq6_iQz7bJeoV_j09tPA6SgjQUZtcfBODAlTNWUx-4vdXrRw.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=2YGka0T4HKYQ7kNvwHBAO_y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc3MDUzOTU4NDI5OTU2OSwiYXNzZXRfYWdlX2RheXMiOjgwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQPWrTXigocaUaxbZuJvhhJL22-xy6PSUM4NW70hUIYlqA&oe=6ACA2243",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/748597244_2049333228993153_3614863336551679904_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eVi1d3_soroQ7kNvwFf_4A-&_nc_oc=AdqziQ99luM9sb7pxOhxpkcAvtA9L5jxYXeFc9ybIrL5cPrR6K6VE77XHw2xd2pkUoE&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQPJEe2JXmcNdlHrJA-9z5jRqQaLPxbWvGJ2CqWbHt7jYg&oe=6ACA1538"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "SAESKYN.COM"
@@ -77,15 +77,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/672682154_1621008965800747_872685929031028400_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r2L77Ooo_v4Q7kNvwE4mlnj&_nc_oc=AdrEiVAGB-d5lNA1EUrMCXr-zTlFC2LwxoUekdYHLy8R3Phe09hqlPqgi79LDJgwqAA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQNqwonK77k_g0Po5XG1N4joRXZPFyIk6booiUsoNUH4Ig&oe=6AC9A9D4"
+          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/672682154_1621008965800747_872685929031028400_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r2L77Ooo_v4Q7kNvwHhPymI&_nc_oc=AdqBBbpnlFMNsmJlzc9fjglOIeCaQ6uJ6JqS2BotRkFC3P51Iz9Bbqn-nHNfB0b65KY&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQPNjyrc9zz3UxMbsknWYOD--1lpBX0ewYWefr60mXRpbw&oe=6ACA1A54"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "SAESKYN.COM"
@@ -98,16 +98,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQON_sBTzQRKcPuANyrqrhh6vLiFlsLUXbOz4Puc0YA_H0FpFH_CK_AJBIjjdIMtiUm8IKSJU6lF45tgpDfhO7-zkvaNUZ2GIdxW66h6Kw.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=aGd1nam7spgQ7kNvwFTOoe1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTkzOTMwNjc5OTk5NzAyNiwiYXNzZXRfYWdlX2RheXMiOjIyMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQPiy7-s0ERlE6P8N0Fv9WNdyyIE-gqhb_l6ppG5DyIpYQ&oe=6AC994EA",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/643304349_1231299101966982_6856236247338119109_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2mMPVhH_y0UQ7kNvwEqstWU&_nc_oc=Adr_bVGug0T6JxArF2KsDxeFqt-LK4f7XcRL1xMDu6x-MrWpPLQi7fG8AVPUQHdzA18&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQPyUAHqqDRY7So-Nr-5c97Y_g5mPM9fhovtEulDA9Jabw&oe=6AC9B5B2"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQON_sBTzQRKcPuANyrqrhh6vLiFlsLUXbOz4Puc0YA_H0FpFH_CK_AJBIjjdIMtiUm8IKSJU6lF45tgpDfhO7-zkvaNUZ2GIdxW66h6Kw.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=aGd1nam7spgQ7kNvwH0Nv91&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTkzOTMwNjc5OTk5NzAyNiwiYXNzZXRfYWdlX2RheXMiOjIyMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQMDARey8wCdwGVPXmBg0YJj7wgvRpIjxTxvIQVvOenaEQ&oe=6ACA056A",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/643304349_1231299101966982_6856236247338119109_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SPMz9N1kFwsQ7kNvwF_7H3c&_nc_oc=Adp-wRXUAc5XHkuekVHAbfFcxjoR8P11IJtQDTwEsML6UzMrxcAmcdJyuDDe25SorFs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQPctcNO-_eXDaA3-64_X08oXFbzbN6SqYECkXNQjtwjVQ&oe=6ACA2632"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [
         "Botox-vergelijking"
@@ -122,16 +122,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQON_sBTzQRKcPuANyrqrhh6vLiFlsLUXbOz4Puc0YA_H0FpFH_CK_AJBIjjdIMtiUm8IKSJU6lF45tgpDfhO7-zkvaNUZ2GIdxW66h6Kw.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=aGd1nam7spgQ7kNvwFTOoe1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTkzOTMwNjc5OTk5NzAyNiwiYXNzZXRfYWdlX2RheXMiOjIyMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQPiy7-s0ERlE6P8N0Fv9WNdyyIE-gqhb_l6ppG5DyIpYQ&oe=6AC994EA",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641712741_1155255686566920_2862836888941860148_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ny5RZydazVIQ7kNvwGRIr0g&_nc_oc=AdpBQeubqLFbj4RGVJRqijsx2T-RbFIPk2BPjX0CpfrCTN0sfPWYJf9_43kVi5DjzoM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQMOcWZrmv8QzYPK1tmc2xsu5PUsqIU4hrSaLAZ3pDl_lg&oe=6AC99A92"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQON_sBTzQRKcPuANyrqrhh6vLiFlsLUXbOz4Puc0YA_H0FpFH_CK_AJBIjjdIMtiUm8IKSJU6lF45tgpDfhO7-zkvaNUZ2GIdxW66h6Kw.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=aGd1nam7spgQ7kNvwH0Nv91&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTkzOTMwNjc5OTk5NzAyNiwiYXNzZXRfYWdlX2RheXMiOjIyMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQMDARey8wCdwGVPXmBg0YJj7wgvRpIjxTxvIQVvOenaEQ&oe=6ACA056A",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/641712741_1155255686566920_2862836888941860148_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ny5RZydazVIQ7kNvwF_dS5C&_nc_oc=AdrMTLileaKt_618GM8nMd7PONXX5RDUSjQAPD9e9O-aT5CcK9YgJoz4y49W9m60bR8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQMC5S59-49inPe4EjfnpnWs71aRVmIOr1CexVtOMx4u9Q&oe=6ACA0B12"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [
         "Botox-vergelijking"
@@ -146,16 +146,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMsy7EiG7ax9bGgMzWUMtQ-WFi_opQt3SL9tKxi5ZmTqJ_1d0alIgeA5w_LPq7a3Bu99s46x5Uqd4NCgosaVJavv-lOiGh9xQ8ariSC2Q.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=VxkzD0bKKDkQ7kNvwHlethQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU4ODAzMzI2MjQyMjY0MiwiYXNzZXRfYWdlX2RheXMiOjIyMCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE5OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQPj-AgIQA3o3NqF8jH3E6m8r0X6Ym0jH098Y-dpbzfUYA&oe=6AC9BB07",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/643721566_814031855069858_8437775512704639217_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FO9Hhwg0ikIQ7kNvwFz9cxW&_nc_oc=Adp3TpjPT-Pnagc4kUVT2U_V_kynvDxZbeaAl-kOb4u7ciisw0LkJFw-ndIeFyNooDY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQOzotQshoHnHUNPjiTVTApcpvnko46-AIxc9id-qPZKAg&oe=6AC9B866"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMsy7EiG7ax9bGgMzWUMtQ-WFi_opQt3SL9tKxi5ZmTqJ_1d0alIgeA5w_LPq7a3Bu99s46x5Uqd4NCgosaVJavv-lOiGh9xQ8ariSC2Q.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=VxkzD0bKKDkQ7kNvwE60Tp5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU4ODAzMzI2MjQyMjY0MiwiYXNzZXRfYWdlX2RheXMiOjIyMCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE5OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQOic1itICnyGKyOtoPRnkwpySMrAkat5Dkf76FKK1NrRg&oe=6ACA2B87",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/643721566_814031855069858_8437775512704639217_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FO9Hhwg0ikIQ7kNvwEc4x2V&_nc_oc=Adqkeehb7Z59E5zgg8fEEvm1DAmvzcjoQNzTKWTxYzfVtpWpJboNZdaVycSL_WnfRAI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQMxuwm0l0vYmCG9CCmIkKJkbSpcEiD0EVxlpMEwTNB4pQ&oe=6ACA28E6"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [
         "Botox-vergelijking"
@@ -170,15 +170,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/728653014_1649659596095825_3776073575116011229_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WETOnOUXHQ0Q7kNvwGAGtJl&_nc_oc=Adq1slB_3gGpWUrLMsQUsCx2yVRBHE7-ATkvnUafJ7ZfQNPHpBB1OS5ju5TwjzgVrxM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQN9daNAqcK5xAvDPNM0BpCBo8OJQNN9d6sIWgz4Kf_Ljg&oe=6AC9B3D1"
+          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/728653014_1649659596095825_3776073575116011229_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WETOnOUXHQ0Q7kNvwEvKyFK&_nc_oc=AdrDJdcjBr4ARElq_n61nm17C6nWB0cfSpeVoDW-aaXg1iJeO7qnl5FNAkS2hOZa1uo&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQORxTHSvBFItZS-srAP9_YjkG0XKWrJ6tDw03_FdcJ-fw&oe=6ACA2451"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "SAESKYN.COM"
@@ -191,16 +191,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMDIK0GROKi718jGciBVa8n3fT1CFSfrmSD78B-pQrH2uQZ9POiBdvtVyFhOoQkZs5Km2q0f5Sw5wCppS2ba_izzLbJ0sZOh93DU3Ds_A.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Yg9JPnpqZ9sQ7kNvwGCIImt&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6ODc2NDY4NDI4MTE5MTQ2LCJhc3NldF9hZ2VfZGF5cyI6MjY0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQP7KGE4m4D1jXCdceBJQukbxwkWBoTDSI6Wkj6bUssG7g&oe=6AC9BA87",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/614849580_1214316153471396_4378398914514823227_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5Mp04HgcYrEQ7kNvwEv4ffi&_nc_oc=Adpb-yA9Uj6TsIKuqR5IwMwVy3QSLXbuuI7Obt8wh_O8SsSCtj96GIbXU_7ASsWu00A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQN2XkLZgR2PnEOxG08f3PlvetYa9y338shY6Ff9kL-wyg&oe=6AC9B837"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMDIK0GROKi718jGciBVa8n3fT1CFSfrmSD78B-pQrH2uQZ9POiBdvtVyFhOoQkZs5Km2q0f5Sw5wCppS2ba_izzLbJ0sZOh93DU3Ds_A.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=Yg9JPnpqZ9sQ7kNvwGrqJhy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6ODc2NDY4NDI4MTE5MTQ2LCJhc3NldF9hZ2VfZGF5cyI6MjY0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQPFuTLXLj2ViD6QUDsTxwwS8sUpqg3_BuNUlDIXo7ybaA&oe=6ACA2B07",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/614849580_1214316153471396_4378398914514823227_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5Mp04HgcYrEQ7kNvwG6Vn_v&_nc_oc=AdoP5-oos26IR3fo4tFyYYYmY_gI2Y5hUJrmQ0SPhvKreF5yf7MJ9-DpQSJSf__AcEM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQMJjquvu-KAtY5pwHqPkP6GtKf9YlfFsZp0fezcFiC4SA&oe=6ACA28B7"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "\"Another firming cream?"
@@ -213,15 +213,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/677207426_951162157908317_5609855852361447763_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mWUcqnxQgPIQ7kNvwG2-Aop&_nc_oc=AdrF6xLAXZ9WwAsQwPbSMrbQkpRssLwWgfK934_8pqEbmeK30BxaepMT-FB3Up8RnZc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQM_RpuzfDR4OaA7dE8au9Hny06yrN_CbhBTQbsaLJXm8g&oe=6AC9AF69"
+          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/677207426_951162157908317_5609855852361447763_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mWUcqnxQgPIQ7kNvwGhJyog&_nc_oc=Adp_c4qxG8tywebbN6YO__Wb69nxjQZqitbBh1yFnOb7D57JKpx_W1kZD3h0mhq9b5Y&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQM80B-1UVq7MNvT5VCNl86nBHDEHJPkb7v7QZX39YEv3A&oe=6ACA1FE9"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "SAESKYN.COM"
@@ -234,16 +234,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPGbdu6FeV9f-LWM2FpiTHgiQTVlTtHqKsgTy8-LyTQ2RSOTIAfXVU2PXqB9cA6JkqyxE_EfLI8uDQ0JLcSggQQxmtWvrxKch1J3dKCJg.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=_ivPrHEgwrAQ7kNvwFVUETn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQ4NTQ0ODc0MzIzNDU3MiwiYXNzZXRfYWdlX2RheXMiOjIxNywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQNK1ZkYNB2OtzN5xmduF3DgWdRqT2vkxxmzBQ-EQ-Kpqw&oe=6AC99E5C",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/645293997_1434260921496759_2716089809640659460_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eNsdNMGMtugQ7kNvwFLNx5e&_nc_oc=Adocg6hND6EvyNdW4f0DE-z7exuk1dRNMDOCtrLNe4_R9AGUbILfg71p5PTrXfHD-do&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQO6hBHQussYY6CtbZJYuLNCwq-tyw-oVw1qDjTpSWPwFw&oe=6AC996EC"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPGbdu6FeV9f-LWM2FpiTHgiQTVlTtHqKsgTy8-LyTQ2RSOTIAfXVU2PXqB9cA6JkqyxE_EfLI8uDQ0JLcSggQQxmtWvrxKch1J3dKCJg.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=_ivPrHEgwrAQ7kNvwHIEWqs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQ4NTQ0ODc0MzIzNDU3MiwiYXNzZXRfYWdlX2RheXMiOjIxNywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQMif4EU29TfSG_QvjKUpPY42eMYVhHUMxeaSxFi-lDMJg&oe=6ACA0EDC",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/645293997_1434260921496759_2716089809640659460_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eNsdNMGMtugQ7kNvwFyoGiS&_nc_oc=AdrJWqlYLF-JtdlUGqWm5cMKsmEFCS4F9e3IQaGlj1HKsa1WtUiWBJBegHVbvLs-RiA&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQNphjPlt0Gd6AaPrrHCwzZPPwGCK6Ry_YIEbgdq5hVkjA&oe=6ACA076C"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "SAESKYN.COM"
@@ -256,16 +256,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNtMUPGvp-7QTA8HCrerApvbejH0TGhk6Y42ur-33W2TIar9NCD37LqViZ8osU1-3Qfbc0YrnQOrEqW2fFCi0uHB2pSJ674UvJkRc5Ugw.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=2D3Tm-qjBgoQ7kNvwHhYqO6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6ODEwMTEzMzQyMDI2NjU0LCJhc3NldF9hZ2VfZGF5cyI6MzAyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQNviZMSk5ywXBV0qnmVhNDrPHJtv2L8h2gJESz69W0tYw&oe=6AC996B8",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/594896608_1360011101717061_2646527061436814077_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aZUG9_A1XhUQ7kNvwFfsky2&_nc_oc=Adqd-Gqbcc5jLPJRylYlNU_-6YpS5JljgRcRptvyW35fsAjH-oh_ktuD4r-2JB10wWg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQNx4NL1b4Fnxxe6oFFT70dU8xKeuN4Zn73CnLmFsTYgew&oe=6AC99AF9"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNtMUPGvp-7QTA8HCrerApvbejH0TGhk6Y42ur-33W2TIar9NCD37LqViZ8osU1-3Qfbc0YrnQOrEqW2fFCi0uHB2pSJ674UvJkRc5Ugw.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=2D3Tm-qjBgoQ7kNvwEyZwhq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6ODEwMTEzMzQyMDI2NjU0LCJhc3NldF9hZ2VfZGF5cyI6MzAyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQOd7CRPm4fOV5NA1qInx3r4smHcqxg-ZwbTuQI2jnD0oA&oe=6ACA0738",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/594896608_1360011101717061_2646527061436814077_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aZUG9_A1XhUQ7kNvwHc_HiP&_nc_oc=Adr0shCLhHEd1HO0IHy5SBAl5XrnVX60nV7vskA-Fw-NNVPO7EAou8oUxj-lvesHeRQ&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQOwKL9oy7iktD_d1zj6TFWqCT2wWeZjWnRsayoJH5Ifow&oe=6ACA0B79"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "POV: Your entire skincare routine fits in your pocket"
@@ -278,16 +278,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOMuLw4a1-k9VvPOpQxAzh2wnHs75yZd64OxpK8AkidYWxtgDRRoY7Tfrc0rrU-LnupeawyEAmUwB34MTXYViCdrlmVyL0WjjJjtG29Uw.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=fu2MeeOv5r8Q7kNvwHJS8xK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjA2NDg0MDUwMDc3MDQ5NiwiYXNzZXRfYWdlX2RheXMiOjEwMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQOoY6fqOHiYSAhdxp2Ko-_bnf3s0B3roEc5fiGa5oS-0w&oe=6AC9A985",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731761401_900711199722228_1445912797564075223_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lWLs_Z6o9wUQ7kNvwGJPlc7&_nc_oc=Ado73CiFKIRL4N21XSZTGgiEUDj9bKbvMJslwx0tsXtdJ68KE1ehTD2Pedhx95Omw3k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQNPnZUcBb0MJZdydqV3zTiBPk0u_lv14APTJvAlOXUKMA&oe=6AC9A029"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOMuLw4a1-k9VvPOpQxAzh2wnHs75yZd64OxpK8AkidYWxtgDRRoY7Tfrc0rrU-LnupeawyEAmUwB34MTXYViCdrlmVyL0WjjJjtG29Uw.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=fu2MeeOv5r8Q7kNvwH1N4Kw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjA2NDg0MDUwMDc3MDQ5NiwiYXNzZXRfYWdlX2RheXMiOjEwMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQNmx1LmlQkIEQSwZhu3U-3zUml5y-vGB3xx6wRySRVRgg&oe=6ACA1A05",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/731761401_900711199722228_1445912797564075223_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lWLs_Z6o9wUQ7kNvwFL-w9_&_nc_oc=AdoXqeaCFwbLz1D8uO2DNwIZiVbQZr8ytXQPn9ie-cFnSYZezGzbd89j4t1NRqDJNXw&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQPfvtpxnnzgRrVh2ZRUcOSI0AeWYqK35EvQtt5uFvtyzw&oe=6ACA10A9"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [
         "Botox-vergelijking"
@@ -337,16 +337,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPzk-41g-bsMTP-CT63dkXLcLOdmBsGRdaiiYYK1FLV7iGeRLxmPJdBf_EFP-FiEdecv_aYOKF8P6vtAWp__4OKa116OmN13HTh0aPxlQ.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=GkGw4VuHRmcQ7kNvwHcyn0g&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTkxNjk4MTIwOTE3ODI2MiwiYXNzZXRfYWdlX2RheXMiOjIxNywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQO6pwfXYLUMHquAQqh9-wcFbAlwGN7UlQ1xiZTB_GdonA&oe=6AC9A56C",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/645808755_1220911040240422_8117402049701501952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ePYBSRUwHW0Q7kNvwF09kfM&_nc_oc=AdrM4ysFoXCM33nL9rIduLf8Jq8yYEEZjHdbj0AFsZBS7UNCnBEITC1wi9b67iSH0K0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQMePFuv6Jf6IOQjwRjySbQhp0DNP5L9Ijencb2DZO7xRg&oe=6AC9B289"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPzk-41g-bsMTP-CT63dkXLcLOdmBsGRdaiiYYK1FLV7iGeRLxmPJdBf_EFP-FiEdecv_aYOKF8P6vtAWp__4OKa116OmN13HTh0aPxlQ.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=GkGw4VuHRmcQ7kNvwFys_yq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTkxNjk4MTIwOTE3ODI2MiwiYXNzZXRfYWdlX2RheXMiOjIxNywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQP8qU2LYHSiLF_ZbKv2RPC-XOfMDJciguGv6kXqu2k8mA&oe=6ACA15EC",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/645808755_1220911040240422_8117402049701501952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ePYBSRUwHW0Q7kNvwGR1mzA&_nc_oc=Adpy9FuNvIz-vY-sNe2GdQroOCmfGZbeoGG0_w4brSwXKxBUVRArMIEs2B1cAt5ahow&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQORkc3QJxwh_evbGEgpz-jCVor2TqRpaeDFyMy8jLx8_w&oe=6ACA2309"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "SAESKYN.COM"
@@ -359,15 +359,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/708415570_1392666469331582_6751410411990743624_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mGZO3cdbYacQ7kNvwHHvW8e&_nc_oc=AdqU0h7STjmU5ssukCAfA0RqVDf2IArrrjBXF4rjhAIltNMlA7YqeVg-H01h4PNKPb4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQPdJqzBJOMSNEW0XwkF16H0DkXZ9gXJ-tMKnu6fe_pYsw&oe=6AC9A9FD"
+          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/708415570_1392666469331582_6751410411990743624_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mGZO3cdbYacQ7kNvwGoCdFh&_nc_oc=AdpezvP2omHB9RqlCHUkogqJ4aSWQ2jYNmFex_L1Af3YPmA8o_okCq987iqg1Kj6TDw&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQNK1R9j0CG2D9VEUKyOPEpwYPZw12EYP-_4RZh6lEBYcA&oe=6ACA1A7D"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "SAESKYN.COM"
@@ -380,15 +380,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/677931253_1892776804718634_8231278257351271101_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tec3TsgOG6sQ7kNvwEddURX&_nc_oc=AdqjcSjBfPF9RITa_wW2djpnWKbJdVsCX0ZoNjt7_zwZ81Hl9mFOcjSOVE2l7EG8Bso&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQNQocTNUH4eBDw754htz4Q4qr4D93gbzkmimSXt16z1LQ&oe=6AC9BFD2"
+          "url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/677931253_1892776804718634_8231278257351271101_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tec3TsgOG6sQ7kNvwEsq63c&_nc_oc=AdqqDL3Sm80dFmI7SgPAhr-7bj7MyU3on_VNAsfAFaRFw-4cIPu3uhbaslbfhZ9ed6E&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQNoDElC_VsEZtKTdGJl4wSG1kSqaple6LoIxkd1qt_pUA&oe=6ACA3052"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "SAESKYN.COM"
@@ -401,16 +401,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQM7xr1OfYVE7iiLhCjZidjEmOaSYW-dAw37i_G-JSKQEssAwRV-88MiW_BPvCvVOXLxUW1WLtlZ08XUhzf8gmuyZqq2yyu7IO1MSLUwMQ.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=XeUOudvAb4wQ7kNvwFdxl7p&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTUzODg3NjQ4NDMyNDk5OSwiYXNzZXRfYWdlX2RheXMiOjE0MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQNBbxG87-koStEZB_CsbYoQ9FGES2MrMeNq452dtfgR9w&oe=6AC994CC",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/698968175_1656067052332443_4147636824790980425_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NUX1Z8TZaJUQ7kNvwGbkAtt&_nc_oc=AdpqFLmhqt_S6hVM006lu1cVl3EI09Zd43sDex9nriVQPmM2IuHdFJDDoCS91UpEN-E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQNlqcGcJ0TrgU2IiAx9izKAFMLxMkUGIamTNZyq5C0RxQ&oe=6AC998C7"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQM7xr1OfYVE7iiLhCjZidjEmOaSYW-dAw37i_G-JSKQEssAwRV-88MiW_BPvCvVOXLxUW1WLtlZ08XUhzf8gmuyZqq2yyu7IO1MSLUwMQ.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=dRtei03T-QIQ7kNvwH4jgg5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTUzODg3NjQ4NDMyNDk5OSwiYXNzZXRfYWdlX2RheXMiOjE0MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQN-6kf8vkC9tezTABZq_WYG5dOj0qrm3nfSI-XNexIUaA&oe=6ACA054C",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/698968175_1656067052332443_4147636824790980425_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NUX1Z8TZaJUQ7kNvwHMJ2kv&_nc_oc=AdqZBc2flv8bUjdPihlftlqLpyCjYw6bL0jhpopkDkmwO1B8JVi8rM3ahzJ_DK-1cGk&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQPAKsmjfPd-CKVMJFc4OPwCfMbx5n43TvShYuf0wd2UYw&oe=6ACA0947"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "POV: Your entire skincare routine fits in your pocket"
@@ -423,16 +423,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNNVkavgZb-bW3wGtd7DqcuShYIcZ-UquacHdEcOQ9dDY8pP1CNvilgCZZlxiDS9OoHSOXrIEn_Gvrx_oQ9ddFvPYLDJze0Aw5dPUEEVA.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=FsYXGNi-OgIQ7kNvwFPS-N5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NDM4MjgxMTI4ODYyNzMzMCwiYXNzZXRfYWdlX2RheXMiOjkxLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQOg8UKxD3enmefpfFONgruCb0k83kiz2FnNA4U1df30wQ&oe=6AC9C315",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/739264578_1074575928429610_7579145782088633309_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6rDVfFPqcaAQ7kNvwEmJZ3s&_nc_oc=AdrOBy4Qpba5kP58Q7pjBle99KHpPnforo0lWvJ5EjB46Xxz_ZKvgMIeNr0zEZbK64k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQPZJLXup76U7ljJGiBo4Q_Gxf0NKVnnYWesLqHiG-M5ew&oe=6AC9AA99"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNNVkavgZb-bW3wGtd7DqcuShYIcZ-UquacHdEcOQ9dDY8pP1CNvilgCZZlxiDS9OoHSOXrIEn_Gvrx_oQ9ddFvPYLDJze0Aw5dPUEEVA.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=FsYXGNi-OgIQ7kNvwF00pku&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NDM4MjgxMTI4ODYyNzMzMCwiYXNzZXRfYWdlX2RheXMiOjkxLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQNiHcnL3HgCe1AYTI6VmWHa9vccNChxUKz6DyigAb--BQ&oe=6ACA3395",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/739264578_1074575928429610_7579145782088633309_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LJRVamFYr-UQ7kNvwEqoNKU&_nc_oc=Adp-4Vu_pOzTLd_1zX9AO5D2yV0cpgPPdjrjgAZldev7hbsm5L50tZ4fxZE4HKWEC4k&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQN7kKSb844ps7eA6_58B57oLhBGBT4Au1Nkav88_JwsJw&oe=6ACA1B19"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "POV: Your entire skincare routine fits in your pocket"
@@ -445,16 +445,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNVMn0qLJL2RJCW5Zg6mO1XXG1fH8aaX8Hg8kQmC3ZhI15OiqDZ9HzJmUEhQ7Uuyj2p3Fn3gXFx6PE1OIgzLkR9-DfVF5IwwfYVxx6uhA.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=YNrjn5l0KUQQ7kNvwGTI7r3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjYyMTg0Mjk1NDExNjg3NjEsImFzc2V0X2FnZV9kYXlzIjoxNTEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQObGTtpxiLB5BSkRbOIGo7slhx9bjF8IHVBh-MbQiaNwQ&oe=6AC9B98A",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/687804934_825345800634576_1288896813189050029_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5T6zXnw0dKQQ7kNvwEsarpj&_nc_oc=Adpda6QYX1Bm1MDnPPuCFsrbh4qeyHcwCB7Iwk4Ig6Ps2MU6I3oS-3tVaVa3UjdKf_g&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQMDpqdjUqx8haMJOtsOS6OjIDAnzvxIaWC8pUk448A8sQ&oe=6AC99876"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNVMn0qLJL2RJCW5Zg6mO1XXG1fH8aaX8Hg8kQmC3ZhI15OiqDZ9HzJmUEhQ7Uuyj2p3Fn3gXFx6PE1OIgzLkR9-DfVF5IwwfYVxx6uhA.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=YNrjn5l0KUQQ7kNvwG_kBh9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjYyMTg0Mjk1NDExNjg3NjEsImFzc2V0X2FnZV9kYXlzIjoxNTEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQPPIBl1k8BTuBrW4CWjhIGRDeR9mX9XHB5wYzOWQ9oMpA&oe=6ACA2A0A",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/687804934_825345800634576_1288896813189050029_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5T6zXnw0dKQQ7kNvwHWE9ve&_nc_oc=Ado-nFgKMblIl4JCi2u32jc4F7OHRmw0MiHkn_7gRYe6mX2M5O-GybGyPb4m2aTqceM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQOhU_NlMh8Z-I5acrSaqZtLmcCRqpmHCgwx1kZw8gI1SQ&oe=6ACA08F6"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [
         "Botox-vergelijking"
@@ -504,16 +504,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMcoatG_7D-ZBIUirJLi9tCZC-a8zGi5Stj0zegyXcLCvOPeMNbe_58RLbQt5bcEbMMGbv30qEzzQaL8gaFkqDtJuVRlkZYk7bArrfzxQ.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Ht-Kja-n-5IQ7kNvwGYRQHg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTUwODE5MzEwNzIwMDkzLCJhc3NldF9hZ2VfZGF5cyI6MjIyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQO5x5vIHT043die5_CbHVKsxOchNPUlOWzkBOgfgigxDw&oe=6AC999C9",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641267352_870101169406914_7249411477911848076_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ik3tyR8AX20Q7kNvwGBRJ5w&_nc_oc=AdqbB3GJJlr_CzMP9TOZf1yiGctuGWNTVl0Dw6U60dC_EBm6Fg7hm7EBMpT5H17qLyc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQOkc4NnJmoHXieN8Doul1y3itLDJyvKlj_zmXYsRxHn3w&oe=6AC98D23"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMcoatG_7D-ZBIUirJLi9tCZC-a8zGi5Stj0zegyXcLCvOPeMNbe_58RLbQt5bcEbMMGbv30qEzzQaL8gaFkqDtJuVRlkZYk7bArrfzxQ.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=Ht-Kja-n-5IQ7kNvwH1JXdu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTUwODE5MzEwNzIwMDkzLCJhc3NldF9hZ2VfZGF5cyI6MjIyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQNC_iokkDCnVTqHM6t8KMZG1Lh496U3YObjlB5DPb07RA&oe=6ACA0A49",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/641267352_870101169406914_7249411477911848076_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tRUVTGOkIaYQ7kNvwFSPhpB&_nc_oc=AdozeKbX1_8qovYPX8q2ziaU8CIEBNTaOpejCRWDkFqIwhijsFQQedUlXk-ByLdLOMs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQMciAhjjreqETwc0JGqx3QQFPTSpXdLvz-EoBo9YxSvpA&oe=6ACA35E3"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "SAESKYN.COM"
@@ -526,16 +526,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMdHQ0TJI0vqkOb7dnKq9Qk23aRrA_BqWP_jrCtQWVbLnqAY1X9nQNi_FO6hDc0GIDhzLh-fVvcikxeTZOXOPDqde2MsI1cNnSV25hPeg.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=8D28O-I7CkIQ7kNvwHiErYG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTMwNzQxNzU3MTU2NjEzOCwiYXNzZXRfYWdlX2RheXMiOjEwOCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQOkCmT2E8zN8d9-jURZKEaU4m2yOXOystJWXMNBpTSCvQ&oe=6AC99D4D",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/725924440_4146803665610904_281619213008293585_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OS5i94-KZG8Q7kNvwE1sFXE&_nc_oc=Adr51aQFlHPCZ8mWznExo2_PoRruPMPxEXMhaS3hhFoRi39hHQyE4PFfrTx0D46J7MQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQN51sbhllxEsBHWRyHjnWp-JIyKazI6ZwwfA3iQSDop7Q&oe=6AC99BA7"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMdHQ0TJI0vqkOb7dnKq9Qk23aRrA_BqWP_jrCtQWVbLnqAY1X9nQNi_FO6hDc0GIDhzLh-fVvcikxeTZOXOPDqde2MsI1cNnSV25hPeg.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=8D28O-I7CkIQ7kNvwEtFe8R&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTMwNzQxNzU3MTU2NjEzOCwiYXNzZXRfYWdlX2RheXMiOjEwOSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQOcBtwHxeYzMTXekyDPgnY00m_k70CrLNOMMpAJszqbTw&oe=6ACA0DCD",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/725924440_4146803665610904_281619213008293585_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OS5i94-KZG8Q7kNvwETLf57&_nc_oc=AdrkQ1i_14fk0rxVybTDqyE2zlkSfYAD0AkA_xVloetkpOno61LwW_WE1AU7-TDP-DA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQPrm0bHn33WPViNdng4cPlMFfth0XEuh4qSTjarIQm-Rw&oe=6ACA0C27"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "POV: Your entire skincare routine fits in your pocket"
@@ -548,16 +548,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOSAOfKlVyD3uLZzQ4wdhjV0vj9i-prtvuyWtuo6AbFrEWPvDZQ4Babd4879zp0s2WLcV9sapnoCxbHn8dTduvSprlLLGfznAO2a25WEg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=QO8lW-Wy7U4Q7kNvwE99cBK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQzNDY5MTQ3MTY4NDMxMywiYXNzZXRfYWdlX2RheXMiOjI2NCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjY2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQM9msojsdTKnTSlAPNXBbMIrGvyH3x5RaN3pqfZI8HqiA&oe=6AC99623",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/615452293_886582130759282_2841883955559552030_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uHkk85iemngQ7kNvwH5BOxp&_nc_oc=AdrfQyNQfP3Qy3b2Sd4M0KFw-7jSlGIVcp43T31RWt6CbMtKG9HZouA2sosrRDLu5N8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQPR_a7Lhzx-qNgs-mhuSStuxFIJTguYZCwd1tkAq2SZWQ&oe=6AC9B0C6"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOSAOfKlVyD3uLZzQ4wdhjV0vj9i-prtvuyWtuo6AbFrEWPvDZQ4Babd4879zp0s2WLcV9sapnoCxbHn8dTduvSprlLLGfznAO2a25WEg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=QO8lW-Wy7U4Q7kNvwEov4AY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQzNDY5MTQ3MTY4NDMxMywiYXNzZXRfYWdlX2RheXMiOjI2NCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjY2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQPG6qXtM_fUQxE2nqPoRzrlhffuwaczkTM5vJWHu25wnQ&oe=6ACA06A3",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/615452293_886582130759282_2841883955559552030_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uHkk85iemngQ7kNvwHt0Xu-&_nc_oc=Ado63sQ_foNyFGDIZr0XMCqN8k_cTU1ck3neDZ5vze7ewFP48NNP-Th3X5izq73sn0c&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQPu33IChcAupeVhhUvf8Qsj5m78CUZgRHw3CpcwB1Sn3g&oe=6ACA2146"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "\"Another firming cream?"
@@ -570,16 +570,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQN_b0jQmqiT4V69VXchqHmhH0Gj-OuRFdQV03qgCRV7Wv4pj7qv9SSUFAQUj8smrd5nQGZQsveIcP98qw5l1L_NU0f4yvCnGBSvjyqYdQ.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=KymUtgJl_JUQ7kNvwH8SWWb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY1Nzk0OTQyNTM4ODM4MCwiYXNzZXRfYWdlX2RheXMiOjIxNywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQOQaMMpcltqzVj_SKF7FzrqMhzTzXLnRk-AS8Z6cH4izQ&oe=6AC9BFA9",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/644527413_1353757703438380_1442083142277979413_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jpPiQZU_B_oQ7kNvwFjVDd7&_nc_oc=AdrE0N4l-n1z3z5kaBMMQRnipjlyytx8eIQWHmhTG-yZoT1a0q7vsWicgkRyEzN641Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQPhalfjhr1ww-bW3twTprkB9OeMer8gzKZR7FLnFwX5Hg&oe=6AC9B4B0"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQN_b0jQmqiT4V69VXchqHmhH0Gj-OuRFdQV03qgCRV7Wv4pj7qv9SSUFAQUj8smrd5nQGZQsveIcP98qw5l1L_NU0f4yvCnGBSvjyqYdQ.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=KymUtgJl_JUQ7kNvwGFMw28&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY1Nzk0OTQyNTM4ODM4MCwiYXNzZXRfYWdlX2RheXMiOjIxNywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQOhUWrkqZrhzltJTS2ukXR6mxVitXSWHDHwx8xpnqCsXA&oe=6ACA3029",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/644527413_1353757703438380_1442083142277979413_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jpPiQZU_B_oQ7kNvwFG8fV_&_nc_oc=AdogGzM_1WPntGmToodJ75SM5DNDTcoelVNvcf0TeJ76x1q7hrMwxjqS9-Y0ZVSWPa8&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQND71wo4N4hklF5EilBO-UoKdWABFXX4BXGRmt8J4LchA&oe=6ACA2530"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [
         "Botox-vergelijking"
@@ -628,16 +628,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQO3S6H5BJO6QSsO9u51mx-F_MLlDOz2fTuSIyGIUzqRaQE8n07CSmBhKDZbbu7INwUcTgac-yZxNCkg0IgmGLGFyeBWIdT1ULioRHwV2A.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=CPlUo4lsGU4Q7kNvwHMLpc-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTIzNDA1MzY3MTY5NjEwMSwiYXNzZXRfYWdlX2RheXMiOjIxMywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQPzhkKdZI28F6R4vAvMuPrCd562Ce97wDccUN59vLtKYg&oe=6AC9C124",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/646162440_26269822022629145_5738569004049376273_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7M1caiuWBRYQ7kNvwH_CrOL&_nc_oc=Adpf2vGWcfH7GN2YBtmcRgbJP2pLeqNmJJiPWeyfWaEtp51VovW-XOaO4T6fa-HqLo0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQNkujFNj-PRQYgT6UOSdd7Ak5q1AAoCC4HPID_TFKs54A&oe=6AC98B7E"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQO3S6H5BJO6QSsO9u51mx-F_MLlDOz2fTuSIyGIUzqRaQE8n07CSmBhKDZbbu7INwUcTgac-yZxNCkg0IgmGLGFyeBWIdT1ULioRHwV2A.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=CPlUo4lsGU4Q7kNvwG-LDic&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTIzNDA1MzY3MTY5NjEwMSwiYXNzZXRfYWdlX2RheXMiOjIxMywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQOsq61CBgqC5agK44pJdgEOro9PR-ZOfrFef9bCf7i1zw&oe=6ACA31A4",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/646162440_26269822022629145_5738569004049376273_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0JLAmMh4a8kQ7kNvwGNRLHq&_nc_oc=Adrfwsr1-eZHVqDkxB39mDtlmMl_jcqQVT3f6iD56fgiGJTSxCwFOolt0QkiuZylllY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQM3feVY602ih1hN5NFlyXRlQ3FZhq9c9k6eRq110tGCjw&oe=6ACA343E"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "\"Another firming cream?"
@@ -650,16 +650,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPBvq5c9j8UBpI5-B6G-FLl214uKKoLIC2Oz0PvjpuNCiGL-Z14XALoG4tWFywrBwN56VMKhScIgagXpzG_YLmxGX8v5EmWwH7Oy6RbuQ.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=2LlnTO6BS68Q7kNvwG51oLF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTIxOTcyODY2MzIxNzkzNiwiYXNzZXRfYWdlX2RheXMiOjIxNiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjU2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQPxnkHlHH6C0iYAVH9B6CJ-C1_AJePO-zRzWGQngeijtg&oe=6AC9B4AA",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/645683484_927631289638205_6667177149908126042_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TXOCqNsL9cwQ7kNvwEAHhzC&_nc_oc=AdqKhFW6B4cGoHw72TOV9HzmZyWkujNXTmvhByauFwyE9tWexLu0wIUGgl4GKvYqUF0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQOI6x9Ejjbal2F55loXGY1BRpRpqsvuA7LZXcTxGQKwSg&oe=6AC9A10E"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPBvq5c9j8UBpI5-B6G-FLl214uKKoLIC2Oz0PvjpuNCiGL-Z14XALoG4tWFywrBwN56VMKhScIgagXpzG_YLmxGX8v5EmWwH7Oy6RbuQ.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=2LlnTO6BS68Q7kNvwFtqXcP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTIxOTcyODY2MzIxNzkzNiwiYXNzZXRfYWdlX2RheXMiOjIxNiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjU2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQMxM3hwsOT8Kj-CwI74SIYI0tvo6blWNIqhbfXVsH1dog&oe=6ACA252A",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/645683484_927631289638205_6667177149908126042_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TXOCqNsL9cwQ7kNvwGOji8E&_nc_oc=Adp5VPC1srYfKajVxDGVfPFR0QrizO_HKNd_d7atPyxJce4dcS7reUQC4Cj5R4LB1KI&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQMpJX6EXEKN7hT_KcglDKsGMGTRaYYVMvtRwmkWEViq7w&oe=6ACA118E"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [
         "Botox-vergelijking"
@@ -708,15 +708,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/720823182_1841802113447215_7269113842038022515_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4OqK6rWc1joQ7kNvwEu8ZU8&_nc_oc=AdrHlTleKq6dRMDAlwRd_PivSh-WfrDcHVlU0v_sF0HsICxjpsYKn5TE68HeIyO_7LA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQPAlWz_-ptHsDmPvOKVWw52O3eCHAenorDVxdyVz2QVmg&oe=6AC9AE0C"
+          "url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/720823182_1841802113447215_7269113842038022515_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4OqK6rWc1joQ7kNvwFtf3pb&_nc_oc=AdpWarWQfjK2TVWvkP3yqjC-0G7-1yELARxiqvWX20Ymuns1heVENNtUCFfi-0fu5ZM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQPVwkA9kOoofjgG-kiNKJ2IUAE3P6SSnn83OBO_UZKdiA&oe=6ACA1E8C"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "SAESKYN.COM"
@@ -729,16 +729,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNBjesWjX0HXLZoTypPect5Fl3UNvF4n_EurG76qIDdXNlENYSaeE5Q-Ero506R37J_qYvsMX6NRCzt4bvLrBATzWndTEKJagHL4hMq3A.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=EYmcvkX2zWAQ7kNvwEryGnZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA4NDA4Njk5MDU0MzkzMSwiYXNzZXRfYWdlX2RheXMiOjIyMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjU2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQMBJxf4HvkS8vLJsEcXyeOwkfnLksfHpo4cWRAEG3JgCA&oe=6AC9AA45",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/642213798_1939474316942917_6413844319234130823_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lVz6U8SSVnYQ7kNvwGAeQBA&_nc_oc=AdojqQm0yxsv-HuNq_PvFmM0sIiW1Ub2Bk0SjAGu38-8zUKeNnK7zTYfefQl4mJ16jI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQOvfAQfIR0jVrM08ovivVP5qn084QU8PpahIDmhht8qhw&oe=6AC9AE5C"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNBjesWjX0HXLZoTypPect5Fl3UNvF4n_EurG76qIDdXNlENYSaeE5Q-Ero506R37J_qYvsMX6NRCzt4bvLrBATzWndTEKJagHL4hMq3A.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=EYmcvkX2zWAQ7kNvwEazfIA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA4NDA4Njk5MDU0MzkzMSwiYXNzZXRfYWdlX2RheXMiOjIyMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjU2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQOddvk9zqdtzbJ5ZbnEou6EVfuAUZQnbOHcsSMDucTq6g&oe=6ACA1AC5",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/642213798_1939474316942917_6413844319234130823_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lVz6U8SSVnYQ7kNvwGKDtbN&_nc_oc=AdojWT03YhiRSeTnJLVBzlkjvXzxqGILorzbl0jFbE5VedADz3nUCoyWheYmuOSX2RE&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQOLIEFVUqN_UHBGSplFM3EvuTjia4nswcnuJjZ2kuSE7Q&oe=6ACA1EDC"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 28,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 29,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "SAESKYN.COM",
@@ -786,16 +786,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMK1OK-O_SrMVEy1ikgiPFjs8evgpOLbeN2sqJW8LV1UTqsQ0Bsp8dBiIXpTWBSdgmls7HZ5C9Ff5TBP9SnHSV9iBrnW48uAyuTrHMXmw.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Kv5b6CGEaScQ7kNvwFpmHLc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjAxMjk1MzQ2OTI1NTgyNiwiYXNzZXRfYWdlX2RheXMiOjIxMywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjkwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQOqV0cjQgUDtSdrAlLmz95V25_qrF6Q_OuG8SVYFpIcgA&oe=6AC9A932",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/647108765_2057065215076009_5426417093992979182_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GnpSTbMrMigQ7kNvwEbWaEX&_nc_oc=AdqfNr-eAa-Ln-LsrdtY-13nrDlczHxuvx-09xkHI9xIz1yXDSLG-0sE7xWBKTv0v6w&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQNttGBH1U3fITaWcuh2RymfnZDqE6U43TszboULTE0e3A&oe=6AC9B704"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMK1OK-O_SrMVEy1ikgiPFjs8evgpOLbeN2sqJW8LV1UTqsQ0Bsp8dBiIXpTWBSdgmls7HZ5C9Ff5TBP9SnHSV9iBrnW48uAyuTrHMXmw.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=Kv5b6CGEaScQ7kNvwGFW0ts&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjAxMjk1MzQ2OTI1NTgyNiwiYXNzZXRfYWdlX2RheXMiOjIxMywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjkwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQPckK9NvusNT8lEeoGVkWxUjxTvupXO1iFo1wvT6Aty5Q&oe=6ACA19B2",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/647108765_2057065215076009_5426417093992979182_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nCjDtze2xzYQ7kNvwHUpa4S&_nc_oc=AdpACSSvR3MgF_iI4gnxaOtRyMN_IMVInc82FayhjXDy4prpwJTOp3_wlnTIqujxOFE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQO0tawfz1Y_8z1bSjQ7reQfClCNr0Ni2ZWSk3Ee6SQ7gA&oe=6ACA2784"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 40,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 41,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "\"Another firming cream?"
@@ -808,16 +808,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNeNU2pOT4Xo_Wumzqp3jhqxQdFfM0iu55Chd0KorMJ2ZgV8czNAhK_vUTvyMmdqixJcSkvjEptcX6SJllIhi9zUJtvUrhDYnmoUihhqw.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=hFGIRx8iHkAQ7kNvwE-gJno&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjY5MTA1MTgzNDYxNDI5OCwiYXNzZXRfYWdlX2RheXMiOjE1MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQNfGGUwUhk_gs_CoedyfvZ47_uEp5cAhUWVqMj3LCWr4w&oe=6AC9A4E2",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/688031610_783498598030062_1290299876909552813_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rGLCvL6TCtoQ7kNvwHWW3Sj&_nc_oc=AdqdI_NUEPnAVgPl7RfR3gODk0-0L7bq1i-CIwHuGcOpkR4y2tRHOSLzuOkayazLZ4Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQO_vDOQ9f04zAz7tsAX3Gt0AzMuYfD98a0MNXuwNl2m3Q&oe=6AC9B33D"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNeNU2pOT4Xo_Wumzqp3jhqxQdFfM0iu55Chd0KorMJ2ZgV8czNAhK_vUTvyMmdqixJcSkvjEptcX6SJllIhi9zUJtvUrhDYnmoUihhqw.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=hFGIRx8iHkAQ7kNvwEWYZky&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjY5MTA1MTgzNDYxNDI5OCwiYXNzZXRfYWdlX2RheXMiOjE1MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQPNudh1HaXTQ6GImbbX-hSOp1b2MJIfMu7-I0qnukl3Vg&oe=6ACA1562",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/688031610_783498598030062_1290299876909552813_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rGLCvL6TCtoQ7kNvwF5xz_b&_nc_oc=AdpL98ptfCOq-UmuF951J1gavM1O0IGYrStP72wYtTaRa2bCQso7fg0g5EWE4Oo4Nhc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQPGZF7omUbmct6k82bmjOtcCm2gaC3m7Ml_wI5-kx_5Zg&oe=6ACA23BD"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 28,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 29,
       "notifiedAsWinner": true,
       "angles": [
         "Botox-vergelijking"
@@ -867,16 +867,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPsJTED8L408vklPWEUOYf7IPGmkrbDBWsK0sg1LzLle0ZVZ_lRafCaWSOLtwkd8_oO__KuHcJTeszylcOrtD1FXTSZ9QA_g8hVesH6vg.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=AZKMhj2wjY8Q7kNvwFhr4r-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA0NTc4OTIwMTUwNjc0NCwiYXNzZXRfYWdlX2RheXMiOjU0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQPRyXmgrk1L1mPoyO_1gq7WfzzCw5r8aHCvzeThBIvZLQ&oe=6AC9BDC2",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/772094121_1365798731725911_9212199265878617957_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cACgRTfo2SIQ7kNvwHf24r5&_nc_oc=AdpKvivZKbITcv8YikzbEJpHc8xqkHtF9GugSZ0xjHmeLJy9WRfhrmRoNcNVWc873vI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SZ9g09YUc30TurJ0vbCsiQ&_nc_ss=7b289&oh=00_AQMij9QOy2xSa1yo4vL-QrDExvRuoHyBGASb3ykgUnr6uw&oe=6AC9A998"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPsJTED8L408vklPWEUOYf7IPGmkrbDBWsK0sg1LzLle0ZVZ_lRafCaWSOLtwkd8_oO__KuHcJTeszylcOrtD1FXTSZ9QA_g8hVesH6vg.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=AZKMhj2wjY8Q7kNvwFtvt05&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA0NTc4OTIwMTUwNjc0NCwiYXNzZXRfYWdlX2RheXMiOjU1LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&_nc_zt=28&oh=00_AQOJgJ_lFh4HMz-srh8R3aWzW0yqlIqlm6awQW9APNoQcg&oe=6ACA2E42",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/772094121_1365798731725911_9212199265878617957_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cACgRTfo2SIQ7kNvwHgAlVD&_nc_oc=AdpuWc1xCd97amMA09cL_Ly6Bim3qNrR113-UyzCJc6jhljlNqVnMYMR4Xhb1oYIC5g&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=nB4ATgBFskN2cbvPobhSpg&_nc_ss=7b289&oh=00_AQOA16OplkyrFFky59qMSPFXioYcodHss7-GtcPoi8M-BA&oe=6ACA1A18"
         }
       ],
       "pageName": "Saeskyn",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T12:10:25.163Z",
-      "lastSeenAt": "2026-10-05T16:47:50.632Z",
-      "seenCount": 6,
+      "lastSeenAt": "2026-10-06T01:08:19.087Z",
+      "seenCount": 7,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "SAESKYN.COM",
