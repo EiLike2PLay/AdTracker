@@ -1,7 +1,7 @@
 {
   "version": 1,
   "pageId": "121135054419977",
-  "updatedAt": "2026-10-06T23:32:46.097Z",
+  "updatedAt": "2026-10-07T15:03:12.113Z",
   "ads": {
     "2984558515080943": {
       "adId": "2984558515080943",
@@ -11,85 +11,19 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNJFFpdHY91X5ARcHDLXj2Bl1ITNiC9TyfJwztlawQu0PVrpzs-KsdS5du0C-MeVRsjuoh1p6NfHyU9ZBNeYeuRhfOQxKaIC_lfi5K04A.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=nMyZlePIONoQ7kNvwF9f6JT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM4MTI3NDI2NzEwNzA1MCwiYXNzZXRfYWdlX2RheXMiOjI1MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQNQVqeouew0DX3Kogp663Z2znD-VFvT3qRNBxpD2pHabQ&oe=6ACB5EA8",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/624545535_738031489073297_69399071541509251_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MN58NkLJUssQ7kNvwG7kVPW&_nc_oc=AdrM_9Pnv0UEcWT27_NUSB2lWArn8BTqjr85pAxGMsdF-YNu-cG6pNhbiHVdG3wDL7I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQNqK_ss8VdSjOeoS4yllXhyojgtJ8-2qBbHDxqkJtsAtg&oe=6ACB4125"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNJFFpdHY91X5ARcHDLXj2Bl1ITNiC9TyfJwztlawQu0PVrpzs-KsdS5du0C-MeVRsjuoh1p6NfHyU9ZBNeYeuRhfOQxKaIC_lfi5K04A.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=nMyZlePIONoQ7kNvwHRA-03&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM4MTI3NDI2NzEwNzA1MCwiYXNzZXRfYWdlX2RheXMiOjI1MSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQPpPOVKndRYE35zJtaa6QcFuO1QOEsrFPBXGn8P_oTskQ&oe=6ACC3FA8",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/624545535_738031489073297_69399071541509251_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MN58NkLJUssQ7kNvwGxO2QR&_nc_oc=AdqTMM0cAe9NeNr9xBUG944fVPq6sBqF_53bJ8wKSFVsPGvXdCiQBjwqwVdGgtaZedA&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQMluOSQ4GK-kwirYke_HAaaxdxrQj8dzTKX3bzkyDK_-Q&oe=6ACC2225"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 43,
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 44,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅"
-    },
-    "1590943578655945": {
-      "adId": "1590943578655945",
-      "startedRunningRaw": "Started running on Apr 25, 2026",
-      "startedRunningOn": "2026-04-25",
-      "text": "A needle-free lift in a bottle ✅\nBoosts firmness, fullness and bounce.\n0:00 / 0:30",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOiSWhfT7DzvVfvkBXMHPthNT2zg1-ecDpAvVem4eyo1iyWNDc6zOc7CaMJ0d2_Mnqrzhry4quX0bxVL3pQEZ-JHyve9ccSJYJ3bYZjfg.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=R2G28zL5jhwQ7kNvwEITKvo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI5NDM0MjEwNTkwNTQ3NiwiYXNzZXRfYWdlX2RheXMiOjIyOCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQP36jMNdlugZIKxE54awDo0O5Enp-TFtkkS2TQlq-XcPg&oe=6ACB4BAA",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/678765185_823781880311513_8181991630939900720_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FELZF_sMFkEQ7kNvwFNGw03&_nc_oc=AdqztcfkrYF6DtBIUJ08M_sms-fi61rsOZfq1i9I1GUyryVB1Io5nhQeiXu3xKWWyco&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQN7m0fPirr_aXGmsQ7a4ssCCDpEfGk0RmskOtCtptChOQ&oe=6ACB635A"
-        }
-      ],
-      "pageName": "Korean Skincare Reviews",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 43,
-      "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "A needle-free lift in a bottle ✅",
-      "euReach": 236437,
-      "euCountries": [
-        "Aland Islands",
-        "Austria",
-        "Belgium",
-        "Croatia",
-        "Cyprus",
-        "Denmark",
-        "Estonia",
-        "Finland",
-        "France",
-        "French Guiana",
-        "Germany",
-        "Greece",
-        "Hungary",
-        "Ireland",
-        "Italy",
-        "Latvia",
-        "Lithuania",
-        "Luxembourg",
-        "Malta",
-        "Netherlands",
-        "Poland",
-        "Portugal",
-        "Romania",
-        "Slovakia",
-        "Spain",
-        "Sweden"
-      ],
-      "euTopSegment": "Female 35-44 in Ireland (14,521)",
-      "euTopCountries": [
-        {
-          "country": "Ireland",
-          "reach": 46552
-        },
-        {
-          "country": "Germany",
-          "reach": 24381
-        },
-        {
-          "country": "Belgium",
-          "reach": 17299
-        }
-      ]
     },
     "1065736926443463": {
       "adId": "1065736926443463",
@@ -99,16 +33,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPO7uAWsnrRpuvV5MxZecNqcRggeHGdD-VERA7G1l7nND7z17nq1ExPscNpjRzxbZ4XOOWagHYuvjaSrJWHfoDgwJjnLroQWCmcRBBw8Q.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=1jw4EzD6xe4Q7kNvwHT49NW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTkzMDUzMzY5ODYwMjkxLCJhc3NldF9hZ2VfZGF5cyI6MTgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQMO7bD-saPQ9pcPaiJZu9kyR963Up1-nmIYXnZgFq_xAA&oe=6ACB70CE",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/817531728_1595449271993577_5851173076658174339_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mfnZfsrmudMQ7kNvwHm2Ihj&_nc_oc=Adojhv1L9irma5jvRz-1f7N3D8tahaK7XY4dvmh2xcbRHKc0Y6oZ98j0gOk02tx6LyA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQNph0U2HFmKv4mohHxnQp9lJWK_ppOm1euL-WDhO09vjQ&oe=6ACB6DD9"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPO7uAWsnrRpuvV5MxZecNqcRggeHGdD-VERA7G1l7nND7z17nq1ExPscNpjRzxbZ4XOOWagHYuvjaSrJWHfoDgwJjnLroQWCmcRBBw8Q.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=1jw4EzD6xe4Q7kNvwEMNeo_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTkzMDUzMzY5ODYwMjkxLCJhc3NldF9hZ2VfZGF5cyI6MTgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQM-mS2XuShyzsnU88QVfVKQLyS5y4ZUDYlhXGxbng1yzw&oe=6ACC198E",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/817531728_1595449271993577_5851173076658174339_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mfnZfsrmudMQ7kNvwG8cxKC&_nc_oc=AdoCteP1ku-RDZqwYlvbcHncR30tWcPKoOxFV8Wz_z3FAwYCIFRQ2qeI1owDyoCqZnM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQPqBwCQ8AUstTvKgTmaMIJ2Q90v4mNXXiH6sECcg9afCg&oe=6ACC1699"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-23T13:19:41.961Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 28,
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 29,
       "notifiedAsWinner": true,
       "angles": [
         "Mechanisme/penetratie"
@@ -158,85 +92,19 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPM0Vpb7MapRvNoSb9xl5U5cE4sdx9UBLCvXaOCsAbZO9v859GW5GoxYuVVq-H4gPQU-fw5qIFlQZpkp3BekipF9DStHrSbQXbuVr31tQ.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=bmbnNKR1vSsQ7kNvwFY2jBF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE5MTQ4OTM1OTYxMTE4OSwiYXNzZXRfYWdlX2RheXMiOjI5NSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjExNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQONxeY5OALCzKtjKPv5Nnk8NqaH-JuOFRM8HXJFGOw9dg&oe=6ACB6836",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/597698669_1345636660911090_6986548050405944385_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GOH6kTKnoxsQ7kNvwHrze3j&_nc_oc=Adqo3qMCrmu3ZFdbaLi6-I4Yqu1hxnEmt8d4HHNDU-nCfkHM6uL1DOG7cMAq6O9rB00&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQPQq6553EJvZQQlcxECPXRcSa9PXJmmIe4fceQIDCS-Ag&oe=6ACB4917"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPM0Vpb7MapRvNoSb9xl5U5cE4sdx9UBLCvXaOCsAbZO9v859GW5GoxYuVVq-H4gPQU-fw5qIFlQZpkp3BekipF9DStHrSbQXbuVr31tQ.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=bmbnNKR1vSsQ7kNvwEtrvs_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE5MTQ4OTM1OTYxMTE4OSwiYXNzZXRfYWdlX2RheXMiOjI5NSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjExNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQOi6CjVvbD5N2t0wj_GyDATFO3_Dv_kesJjFriBzOZTsg&oe=6ACC4936",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/597698669_1345636660911090_6986548050405944385_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GOH6kTKnoxsQ7kNvwEaxV0B&_nc_oc=AdrVtI-9rVlIH7EH2zpJ7OY7eNBTbruPSdqthBT5M-aUcv4qXjFxd-RL8KBUvX_75jc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQMIjyiagjjLqlKE9WBw7zBgmxRUPq_FYHZJZMAGbbQWDw&oe=6ACC2A17"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 43,
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 44,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅"
-    },
-    "1669037990778222": {
-      "adId": "1669037990778222",
-      "startedRunningRaw": "Started running on Apr 25, 2026",
-      "startedRunningOn": "2026-04-25",
-      "text": "A needle-free lift in a bottle ✅\nBoosts firmness, fullness and bounce.\n0:00 / 0:55",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPLb6l9u838F55aeJjDXhCqGXwxS0hM5RRdvIdttUAafwZXMjYZksrHvsyk3fUiMhZbQNLaZxdZeghjNR_H0YWTuQW78xNj4qQua5O2Yw.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=XDuow2NFyKEQ7kNvwEhtDxc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI2MjEyOTI4MjY4NzU5NiwiYXNzZXRfYWdlX2RheXMiOjIxNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQMXUjlkbZTqjsrxp7AETucrYZESqU4AdsEp9EETbyVepw&oe=6ACB4922",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/679706338_2157823011635702_4531696854725277751_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QRZ522RdUC8Q7kNvwE-IO67&_nc_oc=AdrE5_j10TY1VPhXqmOMY7oelJh-heUUogn6yry0o3PmZRECncQMBZrOoYr9RbtkFUA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQPPyAvUygysvAak3bv0jV_vybXLE2GUZ7lTnDvLadY93g&oe=6ACB6B0F"
-        }
-      ],
-      "pageName": "Korean Skincare Reviews",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 43,
-      "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "A needle-free lift in a bottle ✅",
-      "euReach": 92581,
-      "euCountries": [
-        "Aland Islands",
-        "Austria",
-        "Belgium",
-        "Croatia",
-        "Cyprus",
-        "Denmark",
-        "Estonia",
-        "Finland",
-        "France",
-        "French Guiana",
-        "Germany",
-        "Greece",
-        "Hungary",
-        "Ireland",
-        "Italy",
-        "Latvia",
-        "Lithuania",
-        "Luxembourg",
-        "Malta",
-        "Netherlands",
-        "Poland",
-        "Portugal",
-        "Romania",
-        "Slovakia",
-        "Spain",
-        "Sweden"
-      ],
-      "euTopSegment": "Female 35-44 in Spain (4,221)",
-      "euTopCountries": [
-        {
-          "country": "Spain",
-          "reach": 13516
-        },
-        {
-          "country": "Germany",
-          "reach": 10563
-        },
-        {
-          "country": "France",
-          "reach": 10346
-        }
-      ]
     },
     "1197300338697323": {
       "adId": "1197300338697323",
@@ -246,16 +114,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQON9ROQs9P8IZ3l0yFRhPFgEniDv-7mvf0vo67MNp-aMaigLM53vsKQYcs3wd3oEI8BpFmwTHVzEROULaHK_F0oyFI2T2ykQzO5gv9viw.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Xgc3PPKK36UQ7kNvwGjAKfq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6ODI1MjI0NzczNjE4MjEyLCJhc3NldF9hZ2VfZGF5cyI6Mjk1LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6ODAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQPG4QRLaQitB6T1EJXnOqiIn2a3xw-d3wfqvZVsr_F5Og&oe=6ACB4326",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/600873617_1314790460667003_4417377427220037938_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_EJhwpxZvyoQ7kNvwHoHMyV&_nc_oc=AdpUAjkQYXnNQxELHv8NOwy5f76vAhLm_ZEQlZsHwhj8Of8LQ3R5exxk7sK3j9-Qk-k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQOUde13vlE3687in2DWppzaaTTT5ZOjeuLZrQxAwQUZ9g&oe=6ACB6D73"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQON9ROQs9P8IZ3l0yFRhPFgEniDv-7mvf0vo67MNp-aMaigLM53vsKQYcs3wd3oEI8BpFmwTHVzEROULaHK_F0oyFI2T2ykQzO5gv9viw.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=Xgc3PPKK36UQ7kNvwH-Bo5b&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6ODI1MjI0NzczNjE4MjEyLCJhc3NldF9hZ2VfZGF5cyI6Mjk1LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6ODAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQPCiFC-XT1yDkpP6SNR1VYmeMmUBRukeMwkOUEZYam9VA&oe=6ACC2426",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/600873617_1314790460667003_4417377427220037938_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_EJhwpxZvyoQ7kNvwH8l4fI&_nc_oc=AdrcOnOsNh5YNEYANEqPkUI5kdDcEUoIoh2t_tk6xE4N6W0nERksuqCfrjRxFas_ndg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQP-h9k4f96FOFNnR6Tvgf967Ex2Xxzf3ahmAqM3p1GfNA&oe=6ACC1633"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 43,
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 44,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅",
@@ -312,16 +180,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMJhm2ou8EH8y4GVM_yoSSWX9DEKv1-1Cw0ILxSiyIln1l7T3UtY2IEfjHKXoxXe4SVWHpOHAb9jlgttTMzlZuSP6HiGJsW35KNDmRvXQ.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=j3gUOutWiF8Q7kNvwG6eZwr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU0MDM0MTQxNzA0NDU1MiwiYXNzZXRfYWdlX2RheXMiOjIzNiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQP0jDw9-cqc890zKhGoMVzkxpzyJwqdYDTNpjEcg0kJ_Q&oe=6ACB725E",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/633317435_2136601153826281_6748131131029071297_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CBMDsDu7hcAQ7kNvwF1zhql&_nc_oc=AdqMlJjW7mVcXjScMNJFfDrREAd4hDFYj0D2M_zAmh1mEOD3E8yHPAym61H-v89kjBY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQPcePjw7KlWcjSHTxaufY21gVJrVlhRdLVlxr55hg6klA&oe=6ACB6587"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMJhm2ou8EH8y4GVM_yoSSWX9DEKv1-1Cw0ILxSiyIln1l7T3UtY2IEfjHKXoxXe4SVWHpOHAb9jlgttTMzlZuSP6HiGJsW35KNDmRvXQ.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=l7dF54NqYJcQ7kNvwE66A--&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU0MDM0MTQxNzA0NDU1MiwiYXNzZXRfYWdlX2RheXMiOjIzNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQN4aZ98hfs_2B6vkBQxuZzb1qAiWrPfSAzG1OOwHUvdTQ&oe=6ACC1B1E",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/633317435_2136601153826281_6748131131029071297_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CBMDsDu7hcAQ7kNvwH0Yp_X&_nc_oc=AdpTzC-cbfk_heabIVnWuGGVYdeyDHLbz-WTJqhBBDNT7vuZTaU2048TS-xU_xuiu7w&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQPtSyy7sDI1pQXLNhoq7RLPcWSNH5t1Anxgm7QOv4ZKtw&oe=6ACC4687"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 43,
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 44,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅",
@@ -378,16 +246,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOn0y6PmCPIvUbhZsNXr0bN9rYA4Ess5Z_FVVr3K-3iog10k-KotL-c87lB3-zv4waXRBcNAbj6Xlt3-_Pui_ZgsUkUTskGMAqDXzkjjw.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=V4LKTqMS8rQQ7kNvwEBut-2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mzk5ODE5MDc1Njk4Mjg0MiwiYXNzZXRfYWdlX2RheXMiOjUzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTA4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQN9An3Ypr4TZlmnP30rNn3n98-BTE98x8411woFKfux5Q&oe=6ACB5282",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/774059533_1230761849185799_9077335133435509728_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EvC8msGbmoAQ7kNvwHGqMO5&_nc_oc=AdpibhD1XLGxqPW2E0sYNRTQBMFs7Kj6EZlAwfiFz9rZf5wX6huLKp_61ylkOZjoxSg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQMJ896uEk8Q26JIEA568K8VwUia4dMUIFvcJv8ZqF2zwg&oe=6ACB63C1"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOn0y6PmCPIvUbhZsNXr0bN9rYA4Ess5Z_FVVr3K-3iog10k-KotL-c87lB3-zv4waXRBcNAbj6Xlt3-_Pui_ZgsUkUTskGMAqDXzkjjw.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=V4LKTqMS8rQQ7kNvwHTilo8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mzk5ODE5MDc1Njk4Mjg0MiwiYXNzZXRfYWdlX2RheXMiOjU0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTA4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQMGVw0kyC7C0uxq5PQ2jM5YPOMv2R7PLjtE11e4IKS1HA&oe=6ACC3382",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/774059533_1230761849185799_9077335133435509728_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EvC8msGbmoAQ7kNvwEsk2we&_nc_oc=AdqrP88Z_I6ve6qOIBbU80LR2V2ekGmCfxN0ZzsfUMqFmSrMbAcyVdO2BNOKNxTHSC0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQNLxLbj4h7dBYB3ltNG8AqtAdo2qxZRwwN2Ld_src6K-w&oe=6ACC44C1"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 43,
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 44,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "Thousands of women are getting that feeling back with dissolvable silk peptide threads.",
@@ -413,28 +281,6 @@
         }
       ]
     },
-    "4257384234581099": {
-      "adId": "4257384234581099",
-      "startedRunningRaw": "Started running on Dec 15, 2025",
-      "startedRunningOn": "2025-12-15",
-      "text": "A needle-free lift in a bottle ✅\nBoosts firmness, fullness and bounce.\n0:00 / 1:36\nKOREANSKINTHERAPY.COM\nKorean Face Lift in a Serum\nShop now",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQO29zdG53VNCQ6vC7vXH7gPGFnZ6hUcH9TwQKwiX4l1tJH6jM9mlLzPfA2s4Gd2ENwNF1Rj5OSCR51rZZSTWlVgbskvwA5mn6AldY-dVw.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Yj9SWirZW0cQ7kNvwFbPtnu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE4ODc2NDI4NjU1NjM0NCwiYXNzZXRfYWdlX2RheXMiOjI5NSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjk1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQM5EF42j-VLjirkg72_oJ49pjpH6X9hIUc1SVwxV-UVZg&oe=6ACB4416",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/600296417_1205744404852635_6246623942275108425_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=apM7Y-E9XCYQ7kNvwHhC52w&_nc_oc=AdoHjPRTlTQspXwBBGovzRJvZxva4V1YoxuqAVy_pJ17Hq920Bbij2axDaessnevmko&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQMy2A3DzHUVcXrxiO2gD6rQ_cr9QBHpD9hOIAksEZtZqg&oe=6ACB6231"
-        }
-      ],
-      "pageName": "Korean Skincare Reviews",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 43,
-      "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "A needle-free lift in a bottle ✅"
-    },
     "891028317086442": {
       "adId": "891028317086442",
       "startedRunningRaw": "Started running on Mar 16, 2026",
@@ -443,16 +289,38 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNXPhJUmq6JtH7pdyr48H5FnW_0kHaDDuD1hi5FPtdOoe07V6h1XjDX91-CvpZMnccTbMph05jwYjzKm9cX8Ly-dMsuTPH_8SgfDWG0sQ.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=VZeu7jKOXsEQ7kNvwHW4R-k&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzA0MDIxOTc4Mjg0NTc0NCwiYXNzZXRfYWdlX2RheXMiOjIwNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQMAOokxx9W3RrRvqjOErFmoKyiMUmz9L7Sh8SkHCOB52Q&oe=6ACB43FB",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/650397478_26142502982079441_5137656807938600954_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xA6BtJjFG7IQ7kNvwGUgGT6&_nc_oc=Adpl1XB7gIo3XuayKLlpYelaS0aSkcsJINnU8V4P57-HMbHUuiH-d6lViCrJ9rITyGI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQO6zTf6dDJwdxuPxodDPEqDQH7I6RjqG0u_Fc78CgaDHQ&oe=6ACB4270"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNXPhJUmq6JtH7pdyr48H5FnW_0kHaDDuD1hi5FPtdOoe07V6h1XjDX91-CvpZMnccTbMph05jwYjzKm9cX8Ly-dMsuTPH_8SgfDWG0sQ.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=VZeu7jKOXsEQ7kNvwFJsaYu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzA0MDIxOTc4Mjg0NTc0NCwiYXNzZXRfYWdlX2RheXMiOjIwOCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQNXwdnvy3K2ow99-BglTLoP8GsmvN7p3zDZLkFY4J9C1w&oe=6ACC24FB",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/650397478_26142502982079441_5137656807938600954_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xA6BtJjFG7IQ7kNvwG2SxWs&_nc_oc=AdrvcsnxFh6SYw7kxy5gbDhsobaH1onBZd2zgEoazY_vZhs07ebvIYs4IDSeFUSNEXg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQM9hdry-2OMd3BnYn5VMCb0wGEMPVPEDn-t6wDosCIkFg&oe=6ACC2370"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 43,
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 44,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "A needle-free lift in a bottle ✅"
+    },
+    "4257384234581099": {
+      "adId": "4257384234581099",
+      "startedRunningRaw": "Started running on Dec 15, 2025",
+      "startedRunningOn": "2025-12-15",
+      "text": "A needle-free lift in a bottle ✅\nBoosts firmness, fullness and bounce.\n0:00 / 1:36\nKOREANSKINTHERAPY.COM\nKorean Face Lift in a Serum\nShop now",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQO29zdG53VNCQ6vC7vXH7gPGFnZ6hUcH9TwQKwiX4l1tJH6jM9mlLzPfA2s4Gd2ENwNF1Rj5OSCR51rZZSTWlVgbskvwA5mn6AldY-dVw.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=Yj9SWirZW0cQ7kNvwGPIGqy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE4ODc2NDI4NjU1NjM0NCwiYXNzZXRfYWdlX2RheXMiOjI5NSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjk1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQPxJc_7IQxzVQzMXZN9na_2wpSVhF1XCDq2UK9TwjUGFQ&oe=6ACC2516",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/600296417_1205744404852635_6246623942275108425_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=apM7Y-E9XCYQ7kNvwGSbErp&_nc_oc=Adr9h8t5d9Pse5jaCu9iB_pq68JCpWAGQkZJ2HpuM5gEKjsF7_w0oFFXWfsK6CWE8DU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQPNyzWYhWdE7q1JlKijN-CSUh0q2tK1wN8iwca9CqrfWA&oe=6ACC4331"
+        }
+      ],
+      "pageName": "Korean Skincare Reviews",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:32:54.312Z",
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 44,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅"
@@ -465,16 +333,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPbZbEE_OtyJdkJDJe7Vgo84tuQNff267Q4-TtoeQ3Pe4AXs9kPYfsyOgEyb4R68pvY1UKY2WB5hD5G9Wjkde-arWYKULciZzylh27QIg.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Kg4kCY9UzSAQ7kNvwGFcB0w&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA0OTA2MzY3Nzk1ODQyOSwiYXNzZXRfYWdlX2RheXMiOjE4LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQPrG3_PGgI_eB2DsuiYdn9riF2g2XTuI3dN41jxKldZVg&oe=6ACB43E9",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814560974_1054366150704930_9193925402678297730_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a4IsnWd3iWgQ7kNvwHWdyQy&_nc_oc=AdqEksv0oCMdDkWiBYlZwxkog8b1iJ4rQFWuK-RrS41MG5gDc4b3Rpk9LGNozJ064Kw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQMOe6Ubtz0HYT2yARIbj_pUN0Pgn6jG34CjvZfNekZBNQ&oe=6ACB52B5"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPbZbEE_OtyJdkJDJe7Vgo84tuQNff267Q4-TtoeQ3Pe4AXs9kPYfsyOgEyb4R68pvY1UKY2WB5hD5G9Wjkde-arWYKULciZzylh27QIg.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=Kg4kCY9UzSAQ7kNvwFGcWvg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA0OTA2MzY3Nzk1ODQyOSwiYXNzZXRfYWdlX2RheXMiOjE4LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQPpuhQ9RYCQdqtC_VpYWXfNp1KzzZF21HR9lEBYwI5qZA&oe=6ACC24E9",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/814560974_1054366150704930_9193925402678297730_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LKkzuOBq9eQQ7kNvwGzaUkx&_nc_oc=Adp_ar2qVYxFv1o2VNzHMkfo-tWd-bADrxb9e5-hSCzVsTzc8HVQMcEtmrZ_D7KVTcs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQNRpxrxQkDSA19j7OP_7T33vYc0giNWBNVnpgiFmY7NPg&oe=6ACC33B5"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-29T14:35:31.500Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 16,
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 17,
       "notifiedAsWinner": true,
       "angles": [
         "Mechanisme/penetratie",
@@ -503,72 +371,6 @@
         }
       ]
     },
-    "2819607908415595": {
-      "adId": "2819607908415595",
-      "startedRunningRaw": "Started running on Aug 14, 2026",
-      "startedRunningOn": "2026-08-14",
-      "text": "A needle-free lift in a bottle ✅\nBoosts firmness, fullness and bounce.\n0:00 / 2:14",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOEqMVag0dHakbi8D1Oo2bnViAiy1KIZt6l_DbpweRJ81zXcQlENLk61nC6Lvl0ymREwZjS6DfJuRbQN3zhUJjVYz8g6t6A2D8oW-J65Q.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=rQONNL6dW2EQ7kNvwHnwxWq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjExMzcxMjYzNjIwODU3MSwiYXNzZXRfYWdlX2RheXMiOjYxLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQOqnkA0DrG_IsnwhiP5o0tc9xLVxCjW7bzfEwwcMRj3og&oe=6ACB5349",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/767300700_1788575752478193_4851148712385668420_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9IX9qf5oPPgQ7kNvwEc2VTY&_nc_oc=AdraIIQ1V653Jt8XFc-AD5l2_mjZVdnAq6E5s4OX_WL98rTcTsy92qP6PK4Wr1kfktA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQOd7A6imw5jfFb2AgGfpMSWbBkgOR_eH99wtWj9dY_Vhw&oe=6ACB619A"
-        }
-      ],
-      "pageName": "Korean Skincare Reviews",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 43,
-      "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "A needle-free lift in a bottle ✅",
-      "euReach": 94635,
-      "euCountries": [
-        "Aland Islands",
-        "Austria",
-        "Belgium",
-        "Croatia",
-        "Cyprus",
-        "Denmark",
-        "Estonia",
-        "Finland",
-        "France",
-        "French Guiana",
-        "Germany",
-        "Greece",
-        "Hungary",
-        "Ireland",
-        "Italy",
-        "Latvia",
-        "Lithuania",
-        "Luxembourg",
-        "Malta",
-        "Netherlands",
-        "Poland",
-        "Portugal",
-        "Romania",
-        "Slovakia",
-        "Spain",
-        "Sweden"
-      ],
-      "euTopSegment": "Female 45-54 in Greece (4,813)",
-      "euTopCountries": [
-        {
-          "country": "Greece",
-          "reach": 13995
-        },
-        {
-          "country": "Malta",
-          "reach": 12467
-        },
-        {
-          "country": "Portugal",
-          "reach": 10275
-        }
-      ]
-    },
     "1097467622480997": {
       "adId": "1097467622480997",
       "startedRunningRaw": "Started running on Feb 5, 2026",
@@ -577,16 +379,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPyjvSY4o46rWs6GURNT5LVcgJ5jo4FU4SBa2F_BoafrrGEwh8RgnUhf0yVJptkhX3VJuRKvMrwyiglWJ0mvN-PRqDj3AujGVxCaduDXQ.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=D9BNr6u7yL4Q7kNvwH84QFz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYwNDc1MjM0MDk0OTAyOCwiYXNzZXRfYWdlX2RheXMiOjI1MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjkyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQPbnhDzCP-wBx2SRIcb8wSLewqIJhP-hqeBso0UcJr1Sg&oe=6ACB66A0",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/621976820_924162823603303_6297373654908501457_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ezNlGSkvtDsQ7kNvwEePZsG&_nc_oc=Adq43V6043DETUtkqWcMK8bSBY59lzvAHhk8OGP7r-a_hRMXAty9Er8QapDQBhrpreo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQNFOXHKaKj2z2pK_QhzavNdQMrlHrusxmWLQOe53xEmYQ&oe=6ACB5BC4"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPyjvSY4o46rWs6GURNT5LVcgJ5jo4FU4SBa2F_BoafrrGEwh8RgnUhf0yVJptkhX3VJuRKvMrwyiglWJ0mvN-PRqDj3AujGVxCaduDXQ.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=D9BNr6u7yL4Q7kNvwEUtoms&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYwNDc1MjM0MDk0OTAyOCwiYXNzZXRfYWdlX2RheXMiOjI1MSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjkyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQPjXZHdzd8ovqQeTWPO4K0zbCynDaSM-pCH-JmgV50fiw&oe=6ACC47A0",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/621976820_924162823603303_6297373654908501457_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GZxrp-z69EkQ7kNvwHbXIMI&_nc_oc=AdrKeHVlYsYgQeKdr1I16kxf_C8r2wR6MHbrPsJ764f1MUC6iKFkBsu-RxrMVsRTDQQ&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQMBZL86QZc88v6vpLi7uYLdpY_fzo96ufurm_hnI8ebBg&oe=6ACC3CC4"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 43,
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 44,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅",
@@ -635,6 +437,72 @@
         }
       ]
     },
+    "2819607908415595": {
+      "adId": "2819607908415595",
+      "startedRunningRaw": "Started running on Aug 14, 2026",
+      "startedRunningOn": "2026-08-14",
+      "text": "A needle-free lift in a bottle ✅\nBoosts firmness, fullness and bounce.\n0:00 / 2:14\nKOREANSKINTHERAPY.COM\nKorean Face Lift in a Serum\nShop now",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOEqMVag0dHakbi8D1Oo2bnViAiy1KIZt6l_DbpweRJ81zXcQlENLk61nC6Lvl0ymREwZjS6DfJuRbQN3zhUJjVYz8g6t6A2D8oW-J65Q.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=rQONNL6dW2EQ7kNvwF4RQlq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjExMzcxMjYzNjIwODU3MSwiYXNzZXRfYWdlX2RheXMiOjYyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQMHaib9q_rqrL5lkVlTzLspYYGJpDIt4xQvZwR5hHwavg&oe=6ACC3449",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/767300700_1788575752478193_4851148712385668420_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9IX9qf5oPPgQ7kNvwFjuE3B&_nc_oc=Adpi30UXpvuSPlnkFYWltRHR4HLy-osJeoOOehSAtABWkZtHmum9aSTH8bf624NG-d0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQOsh2TjqeQk60HuNoD_wPTIsg8Z4_kTL4YRAIBWvNAr5g&oe=6ACC429A"
+        }
+      ],
+      "pageName": "Korean Skincare Reviews",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:32:54.312Z",
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 44,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "A needle-free lift in a bottle ✅",
+      "euReach": 94635,
+      "euCountries": [
+        "Aland Islands",
+        "Austria",
+        "Belgium",
+        "Croatia",
+        "Cyprus",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "French Guiana",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 45-54 in Greece (4,813)",
+      "euTopCountries": [
+        {
+          "country": "Greece",
+          "reach": 13995
+        },
+        {
+          "country": "Malta",
+          "reach": 12467
+        },
+        {
+          "country": "Portugal",
+          "reach": 10275
+        }
+      ]
+    },
     "2880599882301971": {
       "adId": "2880599882301971",
       "startedRunningRaw": "Started running on May 29, 2026",
@@ -643,16 +511,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPo5j_V1mV5gFArfmvi8rQHghrSFVb3RIBXRcRQT25gpV4AFvVeJ-lMKUtLFaDBtAPOHt528R5XeF-CMJX22Rf8on4C_cuapHrSHKJxrA.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=jcDllG1yH9sQ7kNvwE0rNpc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTcyNTQ4MDUxMjE1OTU5MiwiYXNzZXRfYWdlX2RheXMiOjIyOCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQNrLyPQ8PH-eAW93UOmAPQbIiH47A6coz2zRZZqAYrFFg&oe=6ACB52D0",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/637882200_3939731519663984_1763085125588495033_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vz-3bjH94XkQ7kNvwHJbz2c&_nc_oc=AdrxJEhns_Fm7r_1y2DGrx8SFYvSthv3QRwmDteug0M6HnWEqF_7mle-TFUqKE_9bY0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQPd3ZhP0Q8m11ocpO-FCPeILw_00-SEwrpuPkxv1gEYQA&oe=6ACB5546"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPo5j_V1mV5gFArfmvi8rQHghrSFVb3RIBXRcRQT25gpV4AFvVeJ-lMKUtLFaDBtAPOHt528R5XeF-CMJX22Rf8on4C_cuapHrSHKJxrA.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=jcDllG1yH9sQ7kNvwEipLPM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTcyNTQ4MDUxMjE1OTU5MiwiYXNzZXRfYWdlX2RheXMiOjIyOSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQOZgW9H7wAyBlOyYpQgnDSV6KaYgjLgKs2J5ey_BBAZHQ&oe=6ACC33D0",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/637882200_3939731519663984_1763085125588495033_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vz-3bjH94XkQ7kNvwH693Ky&_nc_oc=Adrwld04yy2RrTM5tpfrkRZFfvHW3zErEz1Ym5pVtT8eXHl0xtmi9NEqGqVZ-H081Bg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQOop5CUt-BsVXfUNsrIBIyXEJk2mC8LwiBcAZHC9mB0lw&oe=6ACC3646"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 43,
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 44,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅",
@@ -701,6 +569,71 @@
         }
       ]
     },
+    "1918630005409315": {
+      "adId": "1918630005409315",
+      "startedRunningRaw": "Started running on Mar 16, 2026",
+      "startedRunningOn": "2026-03-16",
+      "text": "A needle-free lift in a bottle ✅\nBoosts firmness, fullness and bounce.\n0:00 / 0:55",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPLb6l9u838F55aeJjDXhCqGXwxS0hM5RRdvIdttUAafwZXMjYZksrHvsyk3fUiMhZbQNLaZxdZeghjNR_H0YWTuQW78xNj4qQua5O2Yw.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=XDuow2NFyKEQ7kNvwFg752V&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI2MjEyOTI4MjY4NzU5NiwiYXNzZXRfYWdlX2RheXMiOjIxNiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQOyxyO8vtqGJLgdfnJ5fpe_ECZv1268CwrPiNz_wJvxOw&oe=6ACC2A22",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/644720685_1264450772447018_243500833155226538_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GmSDxCgoDV4Q7kNvwGrhTjz&_nc_oc=AdrlCINI6qnJkIRGyOBCiGa206bvYpar48dboY-ewzvyDgsa1blK1l-yg5hbhzJ106w&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQNnI1IDKptEj95lYVjJXmEDv3QSZ1IwYSuvPsh7EQy-Yw&oe=6ACC1C0C"
+        }
+      ],
+      "pageName": "Korean Skincare Reviews",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-10-07T15:03:12.113Z",
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 1,
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "A needle-free lift in a bottle ✅"
+    },
+    "1122253597032943": {
+      "adId": "1122253597032943",
+      "startedRunningRaw": "Started running on Sep 23, 2026",
+      "startedRunningOn": "2026-09-23",
+      "text": "💔 I walked into my own kitchen and heard my husband of 23 years on the phone with another woman.\n\"I love you. Only you. I will tell her tonight.\"\nThen he said the part that took the air out of the room 👇🏾\n\"It is not her age. She just does not look like the woman I married anymore. She looks tired. All the time. Like she gave up. I am done. I want out.\"\nThen he turned around and saw me standing there.\nI did not scream. I did not cry. 😶\nI put the milk in the fridge. Then the eggs. Then the bread. One at a time. Because if I stopped moving I was going to have to feel it.\nI waited until he left the room to hold onto that counter.\nA few days later I heard two women at my office say I was aging by the day. They were not being cruel. That was the part that got me. They were just saying out loud what everybody could already see.\nThen two men in the corridor. \"She used to be gorgeous.\" Used to be. Past tense. Like I was something that already happened. 😔\nI stood in the office bathroom under that ugly light and looked at myself. And the worst part was not what he said. It was that I looked at my own face and agreed with him.\n❌ My jawline had gone soft.\n ❌ My cheeks had dropped.\n ❌ Whatever I put on top just sat in the lines and made it worse.\nThen I ran into my old friend Simone at a store. We are both 53. I had not seen her in fifteen years.\nShe had not aged a day. Glowing. Jaw sharp. Cheeks lifted. Same age as me and she looked fifteen years younger. The only difference between us was the skin.\nShe sat me down and told me the truth nobody had ever told me 👇🏾\n❌ It was never me. And it was never you. It is the products. They are made for the way lighter skin ages and sold to us anyway. Lighter skin wrinkles at the surface, so that is what they built for.\n❌ But our skin does not wrinkle first. Ours collapses underneath. The jawline goes. The cheeks drop. The hollows form. That is the sagging. And every cream you own was built to chase wrinkles you do not even get.\nThen …",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMPvJv_ZwbectAADjAGhNfA4ShpFSVxUk9QANWlX1ulmQ0LLS_kjdL_sM-BX15pO2MyuZyvGNTSOt_15NOzWVPQwgi8MHPYNIqwVYQ0Mg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=foFQzgJK2OAQ7kNvwGm90CL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYxNTEzMTU4MDE0ODk0OSwiYXNzZXRfYWdlX2RheXMiOjEzLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDA4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQMeo_2T6RweBblK2GAEXs5m8iWgqNHnPCvqzQpHbEotyA&oe=6ACC3D63",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/819376693_2379817856168422_3769951260238161273_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5LlUT4Ra2zIQ7kNvwHFOqd5&_nc_oc=Ado57FlM605a9FYfiEp9cV1VOA6VDTX7pz2OR63sJagBD1Hz3_SQ39VhQBUnMu1mYuA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQMuwM5DNchfZ0HOyrOgZMG_51csbnfYNkvYWI-md9UhmA&oe=6ACC44E0"
+        }
+      ],
+      "pageName": "Korean Skincare Reviews",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-10-03T13:01:07.690Z",
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 9,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "💔 I walked into my own kitchen and heard my husband of 23 years on the phone with another woman.",
+      "euReach": 7624,
+      "euCountries": [
+        "Germany",
+        "Ireland",
+        "Netherlands"
+      ],
+      "euTopSegment": "Female 45-54 in Ireland (1,345)",
+      "euTopCountries": [
+        {
+          "country": "Ireland",
+          "reach": 3792
+        },
+        {
+          "country": "Germany",
+          "reach": 2670
+        },
+        {
+          "country": "Netherlands",
+          "reach": 1116
+        }
+      ]
+    },
     "1006702111901537": {
       "adId": "1006702111901537",
       "startedRunningRaw": "Started running on May 29, 2026",
@@ -709,16 +642,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPvt0jnHbtEbkHDu6q623xJolsTYM6tKR2sJUXk2EJ6WeMHSZ-bMiJNituMuNojKIW8_ieTf3Z3mrf0fyoKsNS0FX9XyVLJdUvPNDJudA.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=UeSLOV4VN2YQ7kNvwGcWIOB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6ODA0Mzg5MTQyNzA2MjA0LCJhc3NldF9hZ2VfZGF5cyI6MjE1LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQMDoiH08BEGLqehF86dBUKXSD2HuRyR1sHznJ0EwU7FmA&oe=6ACB64EA",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/647288663_919312434069720_7515006281590089181_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_MaIfWeegH4Q7kNvwHzvaEc&_nc_oc=Adp-N_O31aWCGEc8TFTzVjO_LahG-6qA5tkGPNSwxd-vp29yOwYeQ9PP6rucVXHRBqk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQOYd6PE7-0MoH5DY4MgaacUU6ZJt77KXDfLriFxBePCIw&oe=6ACB5346"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPvt0jnHbtEbkHDu6q623xJolsTYM6tKR2sJUXk2EJ6WeMHSZ-bMiJNituMuNojKIW8_ieTf3Z3mrf0fyoKsNS0FX9XyVLJdUvPNDJudA.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=UeSLOV4VN2YQ7kNvwGVaLWQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6ODA0Mzg5MTQyNzA2MjA0LCJhc3NldF9hZ2VfZGF5cyI6MjE2LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQNExDoakOE-2YTt2YiINUn20SeZM_aNA3El3uTtx5GwwA&oe=6ACC45EA",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/647288663_919312434069720_7515006281590089181_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_MaIfWeegH4Q7kNvwF8itD7&_nc_oc=AdrIbeLb3FnQDWrd74qmpLvy74WOrTDeQIAVU5g0MSPiZHbnZpsUWEFWNlMxvDwP734&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQPgZKcpdH2tr28AYkviUPz4AYQIUmo2B7iMruyYewP6Jg&oe=6ACC3446"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 43,
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 44,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅",
@@ -767,46 +700,479 @@
         }
       ]
     },
-    "1122253597032943": {
-      "adId": "1122253597032943",
-      "startedRunningRaw": "Started running on Sep 23, 2026",
-      "startedRunningOn": "2026-09-23",
-      "text": "💔 I walked into my own kitchen and heard my husband of 23 years on the phone with another woman.\n\"I love you. Only you. I will tell her tonight.\"\nThen he said the part that took the air out of the room 👇🏾\n\"It is not her age. She just does not look like the woman I married anymore. She looks tired. All the time. Like she gave up. I am done. I want out.\"\nThen he turned around and saw me standing there.\nI did not scream. I did not cry. 😶\nI put the milk in the fridge. Then the eggs. Then the bread. One at a time. Because if I stopped moving I was going to have to feel it.\nI waited until he left the room to hold onto that counter.\nA few days later I heard two women at my office say I was aging by the day. They were not being cruel. That was the part that got me. They were just saying out loud what everybody could already see.\nThen two men in the corridor. \"She used to be gorgeous.\" Used to be. Past tense. Like I was something that already happened. 😔\nI stood in the office bathroom under that ugly light and looked at myself. And the worst part was not what he said. It was that I looked at my own face and agreed with him.\n❌ My jawline had gone soft.\n ❌ My cheeks had dropped.\n ❌ Whatever I put on top just sat in the lines and made it worse.\nThen I ran into my old friend Simone at a store. We are both 53. I had not seen her in fifteen years.\nShe had not aged a day. Glowing. Jaw sharp. Cheeks lifted. Same age as me and she looked fifteen years younger. The only difference between us was the skin.\nShe sat me down and told me the truth nobody had ever told me 👇🏾\n❌ It was never me. And it was never you. It is the products. They are made for the way lighter skin ages and sold to us anyway. Lighter skin wrinkles at the surface, so that is what they built for.\n❌ But our skin does not wrinkle first. Ours collapses underneath. The jawline goes. The cheeks drop. The hollows form. That is the sagging. And every cream you own was built to chase wrinkles you do not even get.\nThen …",
+    "1423151983090208": {
+      "adId": "1423151983090208",
+      "startedRunningRaw": "Started running on Sep 21, 2026",
+      "startedRunningOn": "2026-09-21",
+      "text": "⚠️ As the founder of KST I have to come clean. ⚠️\nI owe every woman who has ever bought the Collagen Peptide Serum an apology.\nBecause we lied. 😔\nLet me explain what was true first 👇🏾\n✅ The 120 Dalton collagen in every bottle is real. Small enough to actually get through the skin barrier and reach the place where our skin changes. That part we never lied about.\n✅ It was built specifically for melanin-rich skin. For the way our skin actually ages. That part was always true.\n✅ Every bottle comes with a full 90 day guarantee. If it does not work for you we will send every penny back. No forms. No argument. That part was always true too.\nBut there was one thing we got completely wrong. ❌\nWe told every woman who asked that the price of the Collagen Peptide Serum could not go any lower.\nWe said it was impossible.\nThat was the lie. 😶\nIt turns out we were sitting on something we never thought we could do.\nAnd right now we are doing something we have NEVER done in the history of this brand 👇🏾\n🔥 TWO full bottles of the Collagen Peptide Serum for the price of ONE. 🔥\nBuy one get one free. Right now. On our website.\nHere is why we are doing this 👇🏾\nWe just crossed 50,000 Black women who switched to the Collagen Peptide Serum from products that were never made for their skin. 💙\n50,000 women who finally got the answer the beauty industry never gave them.\nWe wanted to celebrate by passing every dollar of savings directly to you.\nAnd I will be honest with you about something else 👇🏾\n💸 We are losing money on this deal.\nThe 120 Dalton collagen alone costs more to produce than most brands spend on their entire formula.\nRunning buy one get one on top of that is not something we can do for long.\n⏳ This batch is already moving.\nWhen it is gone the deal is gone.\nWe are not running this again.\nIf you have been thinking about trying it. If you have been watching other women get results and wondering if it would work for your skin.\nRight now is your answer. Right now is your mom…",
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMPvJv_ZwbectAADjAGhNfA4ShpFSVxUk9QANWlX1ulmQ0LLS_kjdL_sM-BX15pO2MyuZyvGNTSOt_15NOzWVPQwgi8MHPYNIqwVYQ0Mg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=foFQzgJK2OAQ7kNvwGxuP6H&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYxNTEzMTU4MDE0ODk0OSwiYXNzZXRfYWdlX2RheXMiOjEzLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDA4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQMfBVQ8MT8tMYCVVGgeOwNDUjaGcribsuIZF56C5VYPZw&oe=6ACB5C63",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/819376693_2379817856168422_3769951260238161273_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5LlUT4Ra2zIQ7kNvwHmPydp&_nc_oc=AdpNNxwHr3tZZRac_AdCrzarPlmmpJ42Q6mQV_SBVfVLrXPSsSwDoji3RhSd7ESElqo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQPx71j22ZP0AAgBtLiTDP4YaGEG9fpHPez6bX5gdcT6ig&oe=6ACB63E0"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQN1z8NMyJV2eBbjbewy44Rc6cGDxdV9XBBY0AdqVHYyYr10tuxbDolulVBCHN-b6ACjqEfgds9V0VFesSgkUlLtsN0dEWXyDH3Sa64Mpw.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=UY-Ek8BGFT0Q7kNvwFRG56X&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjgwNjY4NTMxNjk2ODE4NzUsImFzc2V0X2FnZV9kYXlzIjoxNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjExNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&_nc_enc=QaMrnP7b47o2x7J7Byr5md2nhkV4wIRft-Trf4sev2zOkSRqgFThm1yfXf-UvCvVKR8ah3h0M5ypwaoynEzhW5Asj530-vAYJN66AZoFLJ3NUAiZb6vceFkIi2c&oh=00_AQMOoDXHxXXYgyuRmn8VNkDevOZhVqeNDbForA0aijWVgg&oe=6ACC3F30",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/789581456_1659854895828560_711444917394546762_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fYCRgmiGRLYQ7kNvwGR1-An&_nc_oc=AdpPMLSKg6_nKEb1JtgYQL1_WiYNRJBdtBGPVuFQrz6AZbW-u7-uqGBDLSeeUck-gp8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQOrR700ducpeC3ZzyaNK3Wqi-Rb924zU2UZNLqN7dugDQ&oe=6ACC3749"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-03T13:01:07.690Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 8,
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 9,
       "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "💔 I walked into my own kitchen and heard my husband of 23 years on the phone with another woman.",
-      "euReach": 7624,
+      "angles": [
+        "Mechanisme/penetratie"
+      ],
+      "hook": "⚠️ As the founder of KST I have to come clean.",
+      "euReach": 1573,
       "euCountries": [
         "Germany",
         "Ireland",
         "Netherlands"
       ],
-      "euTopSegment": "Female 45-54 in Ireland (1,345)",
+      "euTopSegment": "Female 55-64 in Ireland (281)",
       "euTopCountries": [
         {
           "country": "Ireland",
-          "reach": 3792
+          "reach": 833
         },
         {
           "country": "Germany",
-          "reach": 2670
+          "reach": 422
         },
         {
           "country": "Netherlands",
-          "reach": 1116
+          "reach": 307
+        }
+      ]
+    },
+    "2557966401335599": {
+      "adId": "2557966401335599",
+      "startedRunningRaw": "Started running on Sep 29, 2026",
+      "startedRunningOn": "2026-09-29",
+      "text": "💔 I ran back in for my phone. I could not have been gone more than ten minutes.\nI walked into my own kitchen and found my husband of thirty one years with another woman.\nShe picked up her bag and walked past me without a word. And I just stood there. Still holding the groceries. 😶\nThat night, in the dark, he decided to be honest with me.\n\"When I look at you now, I see a tired woman who stopped trying. Look at your face, Denise. You stopped taking care of yourself.\"\nHe did not shout it. He said it quietly. Like it was a fact I already knew.\nAnd my mother's ninetieth birthday was six weeks away. Two hundred people. And we would both be standing in that room. 😔\nEverything I owned fit in one truck. Thirty one years, and it all fit in one truck.\nSo I did what you are supposed to do 👇🏾\n✅ Up at five thirty. Walking until my legs gave out.\n ✅ No wine. No bread. Nothing.\nThe weight came off. And my face dropped further.\nMy own daughter looked at me and said: \"You look thinner. And you look worse. Your whole face has dropped, Mom. And it scares me.\"\nSo I went to the beauty counter and let them build me a stack of the most expensive things they sold. \"Whatever it takes.\"\nOne week later my face was worse. Tight. Flaking. Still dropping. I sat on the edge of the tub and thought, well, this is just what I look like now. 😔\nThen my friend Karen came over. She is sixty three. Everybody at her job thinks she is forty five. Two years earlier her husband had walked out and told her she had let herself go. Sound familiar.\nShe put a small bottle on my kitchen table and told me the thing nobody had told me 👇🏾\n❌ Everything you have been buying was built for the way lighter skin ages. Lighter skin wrinkles at the surface. Ours does not. Ours collapses underneath. The jaw goes. The cheeks drop. The hollows come in. That is the sagging.\n❌ Nothing on that counter was ever made to reach it.\nThen she explained why 🧬\n\"The collagen in this is 120 Daltons. Small enough to actually get thro…",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMG6A0c2MzZ3V2tPnx1ZXwbr632SZ9Ghjvxn4bLMlR8VPOwr3VKzaIoO_3aEebuE4cne1HkNgM4wv5Tq_g0dQ_62avTS6kGDDatI2p11Q.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=6gZytlZYev4Q7kNvwGcmn_g&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjE0ODIwNjg4OTQ1MTI4MywiYXNzZXRfYWdlX2RheXMiOjcsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1NTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQPGU9NIpBzLvTeIfVqdI8ORGXk-SdVC_jFgJ4YRghX8wQ&oe=6ACC235B",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/825329350_2346845116063648_5141003653187649212_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eUqWI3UVGTgQ7kNvwGMcXwe&_nc_oc=AdqhppsghiCNfNjKILcUN8t6pX45Hi2c6PhantUBAZR0GHhifY58YupcXXhO_max0A4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQPcqYpld3DrtN_9PfIVQcObVbxjomoFVlJFIPlf9q55zA&oe=6ACC3E8E"
+        }
+      ],
+      "pageName": "Korean Skincare Reviews",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-10-07T15:03:12.113Z",
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 1,
+      "notifiedAsWinner": false,
+      "angles": [
+        "Mechanisme/penetratie"
+      ],
+      "hook": "💔 I ran back in for my phone."
+    },
+    "1767376131180488": {
+      "adId": "1767376131180488",
+      "startedRunningRaw": "Started running on Oct 1, 2026",
+      "startedRunningOn": "2026-10-01",
+      "text": "💔 A young waitress looked straight through me at a café counter and served the woman who came in after me. \"Oh, I am so sorry. I did not even see you.\"\nSomewhere along the way I had gotten very good at not being seen. 😔\nMy husband Ray had to fly to Georgia for nine weeks. His mother shattered her hip, surgery and rehab, and we are up in Ohio.\nAt the airport he took my face in both hands and said something I could not argue with 👇🏾\n\"You have looked worn out for the best part of a year. And it frightens me, Gail. You were always the most beautiful woman in any room. I do not want to fly home and find you have given everything away and kept nothing back for yourself.\"\nI sat in the parking lot for twenty minutes. Then I made myself look at what he had been looking at.\nMy jaw had gone soft. My cheeks had dropped. Hollows under my eyes that were not there two years ago. My whole face had quietly started to give way while I was not paying attention.\nSo I did everything I could 👇🏾\n✅ Walking before sunrise\n ✅ Wine put away on weeknights\n ✅ A dress from the back of the closet\nInside two weeks the dress fit again. My face had not shifted a single day. 😔\nThen a girl at the community center gently pointed me toward the sitting-down class, the one the ladies fifteen years older than me enjoy. I am fifty seven.\nThen I ran into my friend Pam at the park. She is sixty three and looks younger than me. I made her stand still and tell me what she was doing.\nShe said 👇🏾\n❌ Everything you have ever used just sat on top of your skin and did nothing, because it never reached the part that is actually falling.\n❌ Our skin does not wrinkle at the surface like lighter skin. It gives way underneath. The jaw. The cheeks. The hollows. That is the sagging.\n✅ This one is different. 120 Daltons, small enough to actually get through the skin and reach it. Everything else is too big, so it just sits there. It is like trying to push a basketball through a chain link fence. It has Volufiline for…",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOR5byvh1uNRWWPXDYdNpRWWcl0GZQ9z8r32EhJpOI2TsWu7fDzJkunSRYgtNixkDm1JO0LZmJmjJfANigT6kKtzWgS0PqqjHlUbB4ufQ.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=Ous_pxeK6_MQ7kNvwFo1Nt2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE0NjU4MjMwMTI3MDAxNywiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0NDksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQNCENH4-CnsjXHaryIzpM0uziX_7z109T0C7mW6Q-2--g&oe=6ACC224A",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/832232055_1076098445204827_1168998075613825319_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9AfrDQ1ZcnoQ7kNvwGYEzN0&_nc_oc=AdpfTVBKPQ6KEvmvbSJqYBdJOzDrtAg83fNTdsyGeZSjrE73gCKSatj8uu24IPENuX0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQMc4kuXSy1zt7qeGnlJ-ZLCcIENyzdWX6CAuDEvf82omA&oe=6ACC42A3"
+        }
+      ],
+      "pageName": "Korean Skincare Reviews",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-10-07T15:03:12.113Z",
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 1,
+      "notifiedAsWinner": false,
+      "angles": [
+        "Mechanisme/penetratie"
+      ],
+      "hook": "💔 A young waitress looked straight through me at a café counter and served the woman who came in after me.",
+      "euReach": 2767,
+      "euCountries": [
+        "Germany",
+        "Ireland",
+        "Netherlands"
+      ],
+      "euTopSegment": "Female 55-64 in Ireland (671)",
+      "euTopCountries": [
+        {
+          "country": "Ireland",
+          "reach": 2037
+        },
+        {
+          "country": "Germany",
+          "reach": 510
+        },
+        {
+          "country": "Netherlands",
+          "reach": 242
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-10-07",
+          "reachPerDay": 125.33333333333333
+        }
+      ]
+    },
+    "1901907970400834": {
+      "adId": "1901907970400834",
+      "startedRunningRaw": "Started running on Jan 9, 2026",
+      "startedRunningOn": "2026-01-09",
+      "text": "A needle-free lift in a bottle ✅\nBoosts firmness, fullness and bounce.\n0:00 / 2:44\nKOREANSKINTHERAPY.COM\nKorean Face Lift in a Serum\nShop now",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNDy-JzNYLp8asBsEIUOI8131p1imyAVl2AiH_t0aK06sAqwgNh1z_tD0ZmCEchvzGeDV5o6wdAwKTAyi1njc99R8Cvva8gnLCzmdumiQ.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=OGbFFJCc4DcQ7kNvwHGhIQ4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTkzMjIwMDc4MDk4NTMzMywiYXNzZXRfYWdlX2RheXMiOjI3MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE2MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQPK2jsMyeL25WiF66R47VLp5Ud1cGf0vUkb8ernAGEFpA&oe=6ACC2853",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/614175908_1258392113010510_1142300554062407552_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yQj2w_OOPO4Q7kNvwGcBFy4&_nc_oc=AdqDnowtqgYkUSkrHwHWGpSdD1-bbPPXafk6GYDqLE_Xhy5YCgDU_I15I6m4lOsyzeU&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQMTpqFlehhPseG-EDscCxPnI8jz8dQOiXUqz3Wig_l43g&oe=6ACC20DC"
+        }
+      ],
+      "pageName": "Korean Skincare Reviews",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:32:54.312Z",
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 44,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "A needle-free lift in a bottle ✅"
+    },
+    "1088354623818107": {
+      "adId": "1088354623818107",
+      "startedRunningRaw": "Started running on Sep 27, 2026",
+      "startedRunningOn": "2026-09-27",
+      "text": "Thousands of women are getting that feeling back with dissolvable silk peptide threads. (No, it's not collagen powder 😅)\n\n👉 Visible smoothing in as little as 7 days\n\n👉 Works when nothing else has in years\n\n👉 Safe for thin, sensitive, mature skin\n\n🔥 Tap the link and see the threads for yourself.\n0:00 / 3:46",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOwcWNC09tYGe8iy6QyqnY8N-m49f1LT_IgAkQObOA0dW7PXhrv_A8dEPi4Ag62PeT-3XTQwKqkwG7cRwAPsW7iC9XUMiwqtrZ8T8sxDA.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=oRgJYZ5m8lgQ7kNvwHCQy1_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjI3NjIxOTI3NjI1MzE0OSwiYXNzZXRfYWdlX2RheXMiOjEyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQOFUv28wRaU10IGkba8-by0vPo6XwvCd5LWM1VhwsIulQ&oe=6ACC3B78",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/821196210_1789245642502327_8613052309521021440_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cwiyySPK5BMQ7kNvwGHqECe&_nc_oc=AdoCC94RLSyc6gbzFcSG3f_OEf75qeAu3yUfEYER136JfderHR4or_BeBuH9CXf8sLw&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQMncSaQa9s9qXBsGllWRGADDb1LGN4vf7rhGFupiVt8Sg&oe=6ACC49CD"
+        }
+      ],
+      "pageName": "Korean Skincare Reviews",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-10-03T13:01:07.690Z",
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 9,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "Thousands of women are getting that feeling back with dissolvable silk peptide threads.",
+      "euReach": 14801,
+      "euCountries": [
+        "Germany",
+        "Ireland",
+        "Netherlands"
+      ],
+      "euTopSegment": "Female 55-64 in Ireland (4,089)",
+      "euTopCountries": [
+        {
+          "country": "Ireland",
+          "reach": 11997
+        },
+        {
+          "country": "Germany",
+          "reach": 1413
+        },
+        {
+          "country": "Netherlands",
+          "reach": 978
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-10-03",
+          "reachPerDay": 391.8333333333333
+        },
+        {
+          "date": "2026-10-04",
+          "reachPerDay": 339.57142857142856
+        },
+        {
+          "date": "2026-10-05",
+          "reachPerDay": 298.875
+        }
+      ]
+    },
+    "3877722735702728": {
+      "adId": "3877722735702728",
+      "startedRunningRaw": "Started running on Sep 8, 2026",
+      "startedRunningOn": "2026-09-08",
+      "text": "I hate that I have to say this. The price of the Collagen Peptide Serum may have to go up soon.\n \nAnd the reason is not what you think. It is the 120 Dalton collagen. There is only one facility in the world that produces it at this size. It takes months to make a single batch. And the production cost just went up again. 👀\n \nI built this product because I am a Black woman and I watched my own face change in my 40s the same way every Black woman's face changes. And I could not find a single product on any shelf that was actually designed for what was happening to my skin.\n \nNot because Black women do not take care of themselves. Because the entire beauty industry spent decades studying white skin that wrinkles and never once studied the way Black skin ages.\n \nBlack skin does not wrinkle the way white skin does. Black skin collapses underneath. The jawline dissolves. The cheeks drop. The hollows form under the eyes. The whole face sags. And not one product on any shelf before this one was ever designed to reach the place where that collapse is actually happening.\n \nLa Mer Moisturizing Cream. Estee Lauder Revitalizing Supreme. SK-II Facial Treatment Essence. Olay Regenerist Collagen Peptide 24. Every single one of them built for white skin that wrinkles. And every single one of them has a collagen molecule so large it cannot pass through the skin barrier. It just sits on the surface while the face changes underneath it. 😩\n \nHere is what your skin actually needs. Collagen is what holds your face in its structure. Your jawline. Your cheeks. Your hollows. All of it sitting on a collagen foundation underneath. When that foundation breaks down the face does not wrinkle. It falls.\n \nFor collagen to actually reach the dermis where that breakdown is happening the molecule has to be under 500 Daltons to pass through the skin barrier. Every product on that shelf sits between 1,000 and 3,000 Daltons. Like pushing a basketball through a chain link fence. 🏀\n \nNot one drop of coll…",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOWG0V6xS5efBC0MDnPyDIXKMwkFE8Cfn21ZPxKsIEkajXXVhTE8aKnJa37wc0YckLkhsfPcN32ebg-N1n6dwu4W-WsRdUucl3xkXVnNQ.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=1k5OyPSbkrgQ7kNvwGLUWYQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTgyMjgzMTQwNTgyMzU3OSwiYXNzZXRfYWdlX2RheXMiOjI4LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjM1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQMhvudy-bRbMD5mEyeSyOD60_jZKPJSFP0hmAkXs2rkQA&oe=6ACC1DC0",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/801200312_2923470871326657_4807814470378076680_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rLVPsJgvpIkQ7kNvwGET47x&_nc_oc=Adpbjgh9LiTkUVuklpwU7GoKrID5RpmVDozl1KdmGvpSsUMWssxR7eSVnVcE2dB_dRM&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQN7FpPIg5KGiXQeMnYx3yk6fVw_82D3Y989JR2qWlGl7Q&oe=6ACC21CA"
+        }
+      ],
+      "pageName": "Korean Skincare Reviews",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-16T11:32:54.312Z",
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 2,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Mechanisme/penetratie"
+      ],
+      "hook": "I hate that I have to say this.",
+      "euReach": 2041,
+      "euCountries": [
+        "Germany",
+        "Ireland",
+        "Netherlands"
+      ],
+      "euTopSegment": "Female 55-64 in Ireland (296)",
+      "euTopCountries": [
+        {
+          "country": "Ireland",
+          "reach": 993
+        },
+        {
+          "country": "Germany",
+          "reach": 717
+        },
+        {
+          "country": "Netherlands",
+          "reach": 377
+        }
+      ]
+    },
+    "2924265181283758": {
+      "adId": "2924265181283758",
+      "startedRunningRaw": "Started running on Oct 1, 2026",
+      "startedRunningOn": "2026-10-01",
+      "text": "💔 I had not been on a date in twenty six years.\nMy husband passed three years ago. My daughter built the profile, picked the photos, and pushed me out the door.\nNinety seconds in, the man across the table leaned forward to be kind and said 👇🏾\n\"Can I say something? And I mean it in the nicest way. You look different from your pictures. You just look tired. Older. Are they from ten years ago?\"\nThey were from two years ago.\n\"Two years,\" I said. To the tablecloth. Almost to myself. 😶\nHe was not even being cruel. That was the worst part. He left money on the table for drinks we never ordered, told me I should look after myself, and he was gone.\nI deleted the app in the car park. Then I sat there and read the message he had sent the night before, where he said he could not wait to meet me.\nSo I did what everybody does. I went after everything except my face. 👇🏾\n✅ Walking every morning\n ✅ In bed by ten\n ✅ A dress I could not afford\nThree weeks of that and I had lost seven pounds. And my face had not given back a single day.\nMy jawline had gone soft. My cheeks had dropped. Whatever I put on just sat in the lines and made it worse.\nThen at dinner I finally said it to my friend Gloria. She is sixty four and she looks forty five. At Christmas she looked older than me.\nShe told me the thing nobody tells us 👇🏾\n❌ Our skin does not age the way lighter skin ages. Lighter skin wrinkles at the surface. Ours does not wrinkle first. Ours collapses underneath. The jawline goes. The cheeks drop. The hollows form. That is the sagging.\n❌ Every cream on that counter was built for surface wrinkles on lighter skin. Never once for us.\nI told her a man had sat across a table and told me I looked tired and old, and that was not a serum problem.\nShe slid a little bottle back across the table and said 👇🏾\n✅ The collagen in it is 120 Daltons. Small enough to actually get through your skin and reach where the collapse is happening. Everything you own is too big. It just sits on top. Like tr…",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQODALAwHXslI6H_LSvXWvTXERKfyckXOcMFzjD3Whvld8runjyrHm4T5IFR781aVesSyViRq1Y7rsvD5ye5myuvP-UdtER78eUFor2FOQ.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=0XcgpMU-F6oQ7kNvwH8H7bm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjI2NTEyMzM0NDIyMTMyMSwiYXNzZXRfYWdlX2RheXMiOjgsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyNTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQPp83G6uonFeKCgGFETo2ZbQmKaP9fJbL--6vSY-Sg4-g&oe=6ACC18D4",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/830188050_1105577062077909_9014183551607149327_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P1a2L2fSDYUQ7kNvwEBL9iT&_nc_oc=AdpnhRX-LNv08ulxVR2FqxCQRHA2sYu7QT-hGj0YRtr5qRcUpSM-_cEX6Aw7UY40xT0&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQMcmm8ySjDXEGrnsah5t8X4Gs3KHRVO-yXyC9w2QlrvzA&oe=6ACC295F"
+        }
+      ],
+      "pageName": "Korean Skincare Reviews",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-10-07T15:03:12.113Z",
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 1,
+      "notifiedAsWinner": false,
+      "angles": [
+        "Mechanisme/penetratie"
+      ],
+      "hook": "💔 I had not been on a date in twenty six years.",
+      "euReach": 2061,
+      "euCountries": [
+        "Germany",
+        "Ireland",
+        "Netherlands"
+      ],
+      "euTopSegment": "Female 55-64 in Ireland (457)",
+      "euTopCountries": [
+        {
+          "country": "Ireland",
+          "reach": 1268
+        },
+        {
+          "country": "Germany",
+          "reach": 558
+        },
+        {
+          "country": "Netherlands",
+          "reach": 294
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-10-07",
+          "reachPerDay": 142
+        }
+      ]
+    },
+    "38834257039555638": {
+      "adId": "38834257039555638",
+      "startedRunningRaw": "Started running on Oct 1, 2026",
+      "startedRunningOn": "2026-10-01",
+      "text": "Thousands of women are getting that feeling back with dissolvable silk peptide threads. (No, it's not collagen powder 😅)\n\n👉 Visible smoothing in as little as 7 days\n\n👉 Works when nothing else has in years\n\n👉 Safe for thin, sensitive, mature skin\n\n🔥 Tap the link and see the threads for yourself.\n0:00 / 4:33",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMNIXE7ghMsowhlsZ0WVgUbXMP2L_KhUh6fjkZht9KSZVN4OBW9bzkun2ORM37zmsRVOSvq9UPxjGm7tV2k1RfWtjf27uBSJq8aMSprFg.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=Bh_SSW7ZeeUQ7kNvwGJNZfz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQ0NTA0OTIwNDE5ODA1MSwiYXNzZXRfYWdlX2RheXMiOjgsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyNzIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQOVlLJY5Dte_DgmhwEqk-UJ9RIdUhPTRJpYDDj82b9tTA&oe=6ACC26AD",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/830003593_27744882665187133_7526810530047063642_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Tkviar8AL8UQ7kNvwGhWML4&_nc_oc=Ado9ZUjW03lU9W7SJLoVlOTWLRMtWBj5EuE59ocxi1hWsMbCz1VVH6OyHb0HguHmECA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=CR9fV3qYCg5okm89vb9POQ&_nc_ss=7b289&oh=00_AQOxQOWx0uiFMfwcvJX_AOeMDnMT3EHWyZLCQyJlRNfAww&oe=6ACC24C3"
+        }
+      ],
+      "pageName": "Korean Skincare Reviews",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-10-07T15:03:12.113Z",
+      "lastSeenAt": "2026-10-07T15:03:12.113Z",
+      "seenCount": 1,
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "Thousands of women are getting that feeling back with dissolvable silk peptide threads.",
+      "euReach": 7739,
+      "euCountries": [
+        "Germany",
+        "Ireland",
+        "Netherlands"
+      ],
+      "euTopSegment": "Female 55-64 in Ireland (2,171)",
+      "euTopCountries": [
+        {
+          "country": "Ireland",
+          "reach": 6189
+        },
+        {
+          "country": "Germany",
+          "reach": 1350
+        },
+        {
+          "country": "Netherlands",
+          "reach": 310
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-10-07",
+          "reachPerDay": 276.6666666666667
+        }
+      ]
+    },
+    "1590943578655945": {
+      "adId": "1590943578655945",
+      "startedRunningRaw": "Started running on Apr 25, 2026",
+      "startedRunningOn": "2026-04-25",
+      "text": "A needle-free lift in a bottle ✅\nBoosts firmness, fullness and bounce.\n0:00 / 0:30",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOiSWhfT7DzvVfvkBXMHPthNT2zg1-ecDpAvVem4eyo1iyWNDc6zOc7CaMJ0d2_Mnqrzhry4quX0bxVL3pQEZ-JHyve9ccSJYJ3bYZjfg.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=R2G28zL5jhwQ7kNvwEITKvo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI5NDM0MjEwNTkwNTQ3NiwiYXNzZXRfYWdlX2RheXMiOjIyOCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQP36jMNdlugZIKxE54awDo0O5Enp-TFtkkS2TQlq-XcPg&oe=6ACB4BAA",
+          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/678765185_823781880311513_8181991630939900720_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FELZF_sMFkEQ7kNvwFNGw03&_nc_oc=AdqztcfkrYF6DtBIUJ08M_sms-fi61rsOZfq1i9I1GUyryVB1Io5nhQeiXu3xKWWyco&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQN7m0fPirr_aXGmsQ7a4ssCCDpEfGk0RmskOtCtptChOQ&oe=6ACB635A"
+        }
+      ],
+      "pageName": "Korean Skincare Reviews",
+      "adLibraryUrl": null,
+      "active": false,
+      "firstSeenAt": "2026-09-16T11:32:54.312Z",
+      "lastSeenAt": "2026-10-06T23:32:46.097Z",
+      "seenCount": 43,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "A needle-free lift in a bottle ✅",
+      "euReach": 236437,
+      "euCountries": [
+        "Aland Islands",
+        "Austria",
+        "Belgium",
+        "Croatia",
+        "Cyprus",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "French Guiana",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 35-44 in Ireland (14,521)",
+      "euTopCountries": [
+        {
+          "country": "Ireland",
+          "reach": 46552
+        },
+        {
+          "country": "Germany",
+          "reach": 24381
+        },
+        {
+          "country": "Belgium",
+          "reach": 17299
+        }
+      ]
+    },
+    "1669037990778222": {
+      "adId": "1669037990778222",
+      "startedRunningRaw": "Started running on Apr 25, 2026",
+      "startedRunningOn": "2026-04-25",
+      "text": "A needle-free lift in a bottle ✅\nBoosts firmness, fullness and bounce.\n0:00 / 0:55",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPLb6l9u838F55aeJjDXhCqGXwxS0hM5RRdvIdttUAafwZXMjYZksrHvsyk3fUiMhZbQNLaZxdZeghjNR_H0YWTuQW78xNj4qQua5O2Yw.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=XDuow2NFyKEQ7kNvwEhtDxc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI2MjEyOTI4MjY4NzU5NiwiYXNzZXRfYWdlX2RheXMiOjIxNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQMXUjlkbZTqjsrxp7AETucrYZESqU4AdsEp9EETbyVepw&oe=6ACB4922",
+          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/679706338_2157823011635702_4531696854725277751_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QRZ522RdUC8Q7kNvwE-IO67&_nc_oc=AdrE5_j10TY1VPhXqmOMY7oelJh-heUUogn6yry0o3PmZRECncQMBZrOoYr9RbtkFUA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQPPyAvUygysvAak3bv0jV_vybXLE2GUZ7lTnDvLadY93g&oe=6ACB6B0F"
+        }
+      ],
+      "pageName": "Korean Skincare Reviews",
+      "adLibraryUrl": null,
+      "active": false,
+      "firstSeenAt": "2026-09-16T11:32:54.312Z",
+      "lastSeenAt": "2026-10-06T23:32:46.097Z",
+      "seenCount": 43,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "A needle-free lift in a bottle ✅",
+      "euReach": 92581,
+      "euCountries": [
+        "Aland Islands",
+        "Austria",
+        "Belgium",
+        "Croatia",
+        "Cyprus",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "French Guiana",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 35-44 in Spain (4,221)",
+      "euTopCountries": [
+        {
+          "country": "Spain",
+          "reach": 13516
+        },
+        {
+          "country": "Germany",
+          "reach": 10563
+        },
+        {
+          "country": "France",
+          "reach": 10346
         }
       ]
     },
@@ -824,7 +1190,7 @@
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
       "lastSeenAt": "2026-10-06T23:32:46.097Z",
       "seenCount": 43,
@@ -873,130 +1239,6 @@
         {
           "country": "Netherlands",
           "reach": 1079
-        }
-      ]
-    },
-    "1423151983090208": {
-      "adId": "1423151983090208",
-      "startedRunningRaw": "Started running on Sep 21, 2026",
-      "startedRunningOn": "2026-09-21",
-      "text": "⚠️ As the founder of KST I have to come clean. ⚠️\nI owe every woman who has ever bought the Collagen Peptide Serum an apology.\nBecause we lied. 😔\nLet me explain what was true first 👇🏾\n✅ The 120 Dalton collagen in every bottle is real. Small enough to actually get through the skin barrier and reach the place where our skin changes. That part we never lied about.\n✅ It was built specifically for melanin-rich skin. For the way our skin actually ages. That part was always true.\n✅ Every bottle comes with a full 90 day guarantee. If it does not work for you we will send every penny back. No forms. No argument. That part was always true too.\nBut there was one thing we got completely wrong. ❌\nWe told every woman who asked that the price of the Collagen Peptide Serum could not go any lower.\nWe said it was impossible.\nThat was the lie. 😶\nIt turns out we were sitting on something we never thought we could do.\nAnd right now we are doing something we have NEVER done in the history of this brand 👇🏾\n🔥 TWO full bottles of the Collagen Peptide Serum for the price of ONE. 🔥\nBuy one get one free. Right now. On our website.\nHere is why we are doing this 👇🏾\nWe just crossed 50,000 Black women who switched to the Collagen Peptide Serum from products that were never made for their skin. 💙\n50,000 women who finally got the answer the beauty industry never gave them.\nWe wanted to celebrate by passing every dollar of savings directly to you.\nAnd I will be honest with you about something else 👇🏾\n💸 We are losing money on this deal.\nThe 120 Dalton collagen alone costs more to produce than most brands spend on their entire formula.\nRunning buy one get one on top of that is not something we can do for long.\n⏳ This batch is already moving.\nWhen it is gone the deal is gone.\nWe are not running this again.\nIf you have been thinking about trying it. If you have been watching other women get results and wondering if it would work for your skin.\nRight now is your answer. Right now is your mom…",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQN1z8NMyJV2eBbjbewy44Rc6cGDxdV9XBBY0AdqVHYyYr10tuxbDolulVBCHN-b6ACjqEfgds9V0VFesSgkUlLtsN0dEWXyDH3Sa64Mpw.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=UY-Ek8BGFT0Q7kNvwEWZUwL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjgwNjY4NTMxNjk2ODE4NzUsImFzc2V0X2FnZV9kYXlzIjoxNCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjExNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&_nc_enc=QbB7KHVV1xOgoYAKG73Hz2KZAwkYxiqvjHB2T4UKmat0gmziYLssyNooF66oIjFPyIVNQAwOC2-cozRrlv4jGSyLSejdz5VVThZzcH2_M19F9u807R6fFxQzaSU&oh=00_AQM7k7QoULBNxN6dPwIKzLtBLpmY6k-78-Ptv02AzHoyCQ&oe=6ACB5E30",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/789581456_1659854895828560_711444917394546762_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Yg7x-GI6NCYQ7kNvwHP8FlT&_nc_oc=AdpRnxTyD270A7BqySTtKPGgjBsZTd4IAvAPu-pGBSpD32CSzL642PdI69qn2vCCuMw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQOSyDUG59rNxa_1YrPAkE-M5QXAedoo5ilwgrg08KD4jQ&oe=6ACB5649"
-        }
-      ],
-      "pageName": "Korean Skincare Reviews",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-10-03T13:01:07.690Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 8,
-      "notifiedAsWinner": true,
-      "angles": [
-        "Mechanisme/penetratie"
-      ],
-      "hook": "⚠️ As the founder of KST I have to come clean.",
-      "euReach": 1573,
-      "euCountries": [
-        "Germany",
-        "Ireland",
-        "Netherlands"
-      ],
-      "euTopSegment": "Female 55-64 in Ireland (281)",
-      "euTopCountries": [
-        {
-          "country": "Ireland",
-          "reach": 833
-        },
-        {
-          "country": "Germany",
-          "reach": 422
-        },
-        {
-          "country": "Netherlands",
-          "reach": 307
-        }
-      ]
-    },
-    "1901907970400834": {
-      "adId": "1901907970400834",
-      "startedRunningRaw": "Started running on Jan 9, 2026",
-      "startedRunningOn": "2026-01-09",
-      "text": "A needle-free lift in a bottle ✅\nBoosts firmness, fullness and bounce.\n0:00 / 2:44\nKOREANSKINTHERAPY.COM\nKorean Face Lift in a Serum\nShop now",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNDy-JzNYLp8asBsEIUOI8131p1imyAVl2AiH_t0aK06sAqwgNh1z_tD0ZmCEchvzGeDV5o6wdAwKTAyi1njc99R8Cvva8gnLCzmdumiQ.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=OGbFFJCc4DcQ7kNvwHEH5ty&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTkzMjIwMDc4MDk4NTMzMywiYXNzZXRfYWdlX2RheXMiOjI2OSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE2MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQNy-74pn7aY9UYhVl-JCw5BCdzyw6JPQFL_SyxFuOXOKQ&oe=6ACB4753",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/614175908_1258392113010510_1142300554062407552_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Nk1q0YiGr8sQ7kNvwGFDHT0&_nc_oc=AdohROlvQcThuFGmvD5ZTsYhZqv3gLEy5BeupA1jf9zZLQ-f47at9uA4yJPDcmSwUL4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQNbrp0HFkUWFqmGKQieJExsCOeJU4gKIlS1GSd-1Ojo2A&oe=6ACB3FDC"
-        }
-      ],
-      "pageName": "Korean Skincare Reviews",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 43,
-      "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "A needle-free lift in a bottle ✅"
-    },
-    "1088354623818107": {
-      "adId": "1088354623818107",
-      "startedRunningRaw": "Started running on Sep 27, 2026",
-      "startedRunningOn": "2026-09-27",
-      "text": "Thousands of women are getting that feeling back with dissolvable silk peptide threads. (No, it's not collagen powder 😅)\n\n👉 Visible smoothing in as little as 7 days\n\n👉 Works when nothing else has in years\n\n👉 Safe for thin, sensitive, mature skin\n\n🔥 Tap the link and see the threads for yourself.\n0:00 / 3:46",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOwcWNC09tYGe8iy6QyqnY8N-m49f1LT_IgAkQObOA0dW7PXhrv_A8dEPi4Ag62PeT-3XTQwKqkwG7cRwAPsW7iC9XUMiwqtrZ8T8sxDA.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=oRgJYZ5m8lgQ7kNvwHrxHWx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjI3NjIxOTI3NjI1MzE0OSwiYXNzZXRfYWdlX2RheXMiOjEyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&_nc_zt=28&oh=00_AQNIkRLuB6n7s6o1-jBRUJ0xYkNVRC0tGiHGys_14Y42rg&oe=6ACB5A78",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/821196210_1789245642502327_8613052309521021440_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cwiyySPK5BMQ7kNvwGDlgn6&_nc_oc=AdqWxf5N7KHiq5bnZqjFi6Z2qAE1KYkhslgIiBwUiarW1rARtgUTbJusPJrb5GubmnY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iuolayVVSfPYJxen5DOrtA&_nc_ss=7b289&oh=00_AQMU5MNzABEPSc9GtYkm60Db3NP4QBLPGeFyzGjTACqiew&oe=6ACB68CD"
-        }
-      ],
-      "pageName": "Korean Skincare Reviews",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-10-03T13:01:07.690Z",
-      "lastSeenAt": "2026-10-06T23:32:46.097Z",
-      "seenCount": 8,
-      "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "Thousands of women are getting that feeling back with dissolvable silk peptide threads.",
-      "euReach": 14801,
-      "euCountries": [
-        "Germany",
-        "Ireland",
-        "Netherlands"
-      ],
-      "euTopSegment": "Female 55-64 in Ireland (4,089)",
-      "euTopCountries": [
-        {
-          "country": "Ireland",
-          "reach": 11997
-        },
-        {
-          "country": "Germany",
-          "reach": 1413
-        },
-        {
-          "country": "Netherlands",
-          "reach": 978
-        }
-      ],
-      "reachHistory": [
-        {
-          "date": "2026-10-03",
-          "reachPerDay": 391.8333333333333
-        },
-        {
-          "date": "2026-10-04",
-          "reachPerDay": 339.57142857142856
-        },
-        {
-          "date": "2026-10-05",
-          "reachPerDay": 298.875
         }
       ]
     },
@@ -2718,30 +2960,6 @@
       "notifiedAsWinner": false,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅"
-    },
-    "3877722735702728": {
-      "adId": "3877722735702728",
-      "startedRunningRaw": "Started running on Sep 8, 2026",
-      "startedRunningOn": "2026-09-08",
-      "text": "I hate that I have to say this. The price of the Collagen Peptide Serum may have to go up soon.\n \nAnd the reason is not what you think. It is the 120 Dalton collagen. There is only one facility in the world that produces it at this size. It takes months to make a single batch. And the production cost just went up again. 👀\n \nI built this product because I am a Black woman and I watched my own face change in my 40s the same way every Black woman's face changes. And I could not find a single product on any shelf that was actually designed for what was happening to my skin.\n \nNot because Black women do not take care of themselves. Because the entire beauty industry spent decades studying white skin that wrinkles and never once studied the way Black skin ages.\n \nBlack skin does not wrinkle the way white skin does. Black skin collapses underneath. The jawline dissolves. The cheeks drop. The hollows form under the eyes. The whole face sags. And not one product on any shelf before this one was ever designed to reach the place where that collapse is actually happening.\n \nLa Mer Moisturizing Cream. Estee Lauder Revitalizing Supreme. SK-II Facial Treatment Essence. Olay Regenerist Collagen Peptide 24. Every single one of them built for white skin that wrinkles. And every single one of them has a collagen molecule so large it cannot pass through the skin barrier. It just sits on the surface while the face changes underneath it. 😩\n \nHere is what your skin actually needs. Collagen is what holds your face in its structure. Your jawline. Your cheeks. Your hollows. All of it sitting on a collagen foundation underneath. When that foundation breaks down the face does not wrinkle. It falls.\n \nFor collagen to actually reach the dermis where that breakdown is happening the molecule has to be under 500 Daltons to pass through the skin barrier. Every product on that shelf sits between 1,000 and 3,000 Daltons. Like pushing a basketball through a chain link fence. 🏀\n \nNot one drop of coll…",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-ams2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOWG0V6xS5efBC0MDnPyDIXKMwkFE8Cfn21ZPxKsIEkajXXVhTE8aKnJa37wc0YckLkhsfPcN32ebg-N1n6dwu4W-WsRdUucl3xkXVnNQ.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-ams2-1.xx.fbcdn.net&_nc_ohc=5aTIyidc4K4Q7kNvwFbyLHu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTgyMjgzMTQwNTgyMzU3OSwiYXNzZXRfYWdlX2RheXMiOjcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMzUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=ThkupSKepQ-FDg6x5bWP6Q&_nc_ss=7b289&_nc_zt=28&oh=00_AQIdLmXWc4eLtY1pHO645h08xLueD5gyC6QI7n27gAN5Iw&oe=6AB03600",
-          "thumbnailUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/801200312_2923470871326657_4807814470378076680_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=61nXHm-2WbIQ7kNvwHf4w8F&_nc_oc=AdqT-hlP6CQYgBVAABlKKCeiFa3FNOQCzS5dZZSRNYN_LlWWpGO38kk6f1Dqjd2xwhg&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ThkupSKepQ-FDg6x5bWP6Q&_nc_ss=7b289&oh=00_AQL7tbruoW9Ln8LXHeYgCEbcD2AglkWTZjgUKRN4kezXTQ&oe=6AB03A0A"
-        }
-      ],
-      "pageName": "Korean Skincare Reviews",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-09-16T11:32:54.312Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false,
-      "angles": [
-        "Mechanisme/penetratie"
-      ],
-      "hook": "I hate that I have to say this."
     },
     "2106381696598191": {
       "adId": "2106381696598191",
