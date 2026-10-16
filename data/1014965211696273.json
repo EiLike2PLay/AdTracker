@@ -1,7 +1,7 @@
 {
   "version": 1,
   "pageId": "1014965211696273",
-  "updatedAt": "2026-10-15T22:54:15.957Z",
+  "updatedAt": "2026-10-16T13:01:37.547Z",
   "ads": {
     "891455730191031": {
       "adId": "891455730191031",
@@ -11,16 +11,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQOhOHtsxHuStYfd1aXEbS6YYf8a9UDB8EOFRlimc9gTjmO6gizzlI5MbrASaEmxwxSPeprI5GgIOdsxk8PK-oKtWoKszWPUalo9mwS_ng.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=-qHPHec61JkQ7kNvwH5s7Jq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjcyODgxMjg0NzA4NjkxNDQsImFzc2V0X2FnZV9kYXlzIjo4NiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM2NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQPMt7_3uXA7JMOOu-jfU_Gg00JT33ADUvyZhYrzL_sNQw&oe=6AD72DF6",
-          "thumbnailUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/751819167_1808398510129487_1713495077092029922_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W7e9QBrjLfsQ7kNvwG8YkRc&_nc_oc=AdpW2EEB-rmKUZ5jLSswx33m-H_-4GnNOtRqXOvbgNNuybeU1un1e-FLUnYcqu0apYU&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQPO1XJTbqXBI-s5jgNN3j9OPgveqhHvTjiN5vLfEe5Esg&oe=6AD740DD"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOhOHtsxHuStYfd1aXEbS6YYf8a9UDB8EOFRlimc9gTjmO6gizzlI5MbrASaEmxwxSPeprI5GgIOdsxk8PK-oKtWoKszWPUalo9mwS_ng.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=W2LaRayBqBUQ7kNvwH760dA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjcyODgxMjg0NzA4NjkxNDQsImFzc2V0X2FnZV9kYXlzIjo4NiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM2NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQM_Kc1ZgJfNTcxuCnFtmYGaLl_7JeGj3lJPNOVelNwZUw&oe=6AD7D6B6",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/751819167_1808398510129487_1713495077092029922_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W7e9QBrjLfsQ7kNvwENY6S6&_nc_oc=AdpprxAQ2VvO_gJuuptjQctjdd3DSryZkSaTvxAGDvQQxge1imgFpspYeMZJDkbcKn0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQNQv9M-Q7Dk5WBVm7IXP-6Zxo2PX6AvDkkpJzfIk04fsQ&oe=6AD7E99D"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 59,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 60,
       "notifiedAsWinner": true,
       "angles": [
         "Testimonial/persoonlijk verhaal"
@@ -35,16 +35,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPCeJouvEQuq55jRbd1dsj6emI9frs8mgXWb6j750Xg3_uAO-tJi2ryBE4AUp4XsRlU92x39Lhn058saTiGoGovbygUgwRnUYhPvsDKfA.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=vK0F86bR_iIQ7kNvwEt0Gqf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTAzMTYyNTczOTg1MDYwOSwiYXNzZXRfYWdlX2RheXMiOjc3LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzUzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQMsA8Lh_i_Gu3pRSP3wh6AvUjm9sw8sq-9NK-FOjOdMug&oe=6AD747BD",
-          "thumbnailUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/760371340_2547145669135386_6423717622449268722_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fTI8rFoMEPAQ7kNvwH22u2y&_nc_oc=AdrlMdiWaGnsr6X-9BU_RQ1uOzwNxI-pUgbRW4EapyNXoxPv8Q40hvDvh9SxSzdP910&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQOxmkI0Qh1amtJ_bngd6QgE2QtXj8_Q72oMiBE3Z5T3VQ&oe=6AD71471"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPCeJouvEQuq55jRbd1dsj6emI9frs8mgXWb6j750Xg3_uAO-tJi2ryBE4AUp4XsRlU92x39Lhn058saTiGoGovbygUgwRnUYhPvsDKfA.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=vK0F86bR_iIQ7kNvwFnVE-C&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTAzMTYyNTczOTg1MDYwOSwiYXNzZXRfYWdlX2RheXMiOjc3LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzUzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQPtkdlsYskegy_KEwC1INLKTbCeTr7p9qLtRi7WzVUKfQ&oe=6AD7F07D",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/760371340_2547145669135386_6423717622449268722_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KjguhMwimTMQ7kNvwEIwIRc&_nc_oc=Adr_QfUd7imNyBJ3-Z6QZ7x8l-1I4NjGisK15KGbDdqan6xRU4q90ZvZRdYvqbBjLA0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQPn8MWKYvWi2Sqa7nDaIJCeVPsyqtIesCsMC8d6l14kNg&oe=6AD7F571"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 59,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 60,
       "notifiedAsWinner": true,
       "angles": [
         "Testimonial/persoonlijk verhaal"
@@ -70,16 +70,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOmpAts9p2G4aafZ8QZQi4He18fp-CljMUmTjj_VR3jhh25zJe_rKG_Sgvv0q7FNsSLv8if_e_ohgnpYte0sfpLOgBNEkRjYTrbw91W8A.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=ot5x-GVdfwIQ7kNvwELknVb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExOTU3NTEzNDA3NDEyNiwiYXNzZXRfYWdlX2RheXMiOjIxLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NzQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQNIpSbRvm6ciWOyzmVJVWw12kQnymrfog4BnA6E-gVUOw&oe=6AD7417D",
-          "thumbnailUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/821721314_2190961008481941_3314704453575538777_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tVeF--bhCfoQ7kNvwGpsebX&_nc_oc=Adrx_uf8kDNJsLXBhFnpbCrm1FTRDvJEpDsYmpbPSgzeSquOR4gibMstoBIHo2OpPaw&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQP3SZqvslP8D7izd3phspBnFvJenJuQI7E02069Xu1gFQ&oe=6AD71BC3"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOmpAts9p2G4aafZ8QZQi4He18fp-CljMUmTjj_VR3jhh25zJe_rKG_Sgvv0q7FNsSLv8if_e_ohgnpYte0sfpLOgBNEkRjYTrbw91W8A.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=ot5x-GVdfwIQ7kNvwFSic5J&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExOTU3NTEzNDA3NDEyNiwiYXNzZXRfYWdlX2RheXMiOjIxLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NzQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQNMCPk2bGMt_O8vz3SONhhyvAI7Ye0qVNFWRyCIPoJJ2g&oe=6AD7EA3D",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/821721314_2190961008481941_3314704453575538777_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=93ZpZctL7vYQ7kNvwHd7Ogw&_nc_oc=AdqHsSQlhf6feu9_6E0_SCUe7D2KfRwVkxVJT4bxZCrb5rH8nXexaCNEe-Nrq6rCzs0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQP396wIaoFL3MNEGH7sdRWr5Q9gp4vZHrZk1tSkX-sH-A&oe=6AD7FCC3"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-27T13:32:04.325Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 36,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 37,
       "notifiedAsWinner": true,
       "angles": [
         "Testimonial/persoonlijk verhaal"
@@ -120,16 +120,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQMDYdCzrTxpfOk8ENGk2ta99lfugSWUu-ed-Ki44I5T_i2VS2dyf8zSM765b_qE7KWRz21joww_O2wbKW-j0KjitmA3EDnqtBeEwuiTzw.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=zVqe5fyB0A8Q7kNvwE15bgr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY1NDYyODQ2NTk5NzYzNywiYXNzZXRfYWdlX2RheXMiOjE5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDM5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQNyQBBc44dnmU0KELGTrBFltwV2f0M8FIc4rtEJa7iCfw&oe=6AD71672",
-          "thumbnailUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/825329563_1305371128289214_4628098572541118589_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ybeR8y43dIIQ7kNvwEsZkVQ&_nc_oc=AdoVtnWYWGmmBKam0_xQt8YOH-K-isKPyCJl4n8j_ADLVw8eQLggKkH2zcKrwyvr7YQ&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQPtwVhEXEFlLS9vXt80OpbSzcKdGgw-d0s910wThfZaXw&oe=6AD740A8"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMDYdCzrTxpfOk8ENGk2ta99lfugSWUu-ed-Ki44I5T_i2VS2dyf8zSM765b_qE7KWRz21joww_O2wbKW-j0KjitmA3EDnqtBeEwuiTzw.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=zVqe5fyB0A8Q7kNvwEmzgtt&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY1NDYyODQ2NTk5NzYzNywiYXNzZXRfYWdlX2RheXMiOjIwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDM5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQNzo2jnd05W1We_dFkcwU-Ci7kX_KS5VhsIjzILy30elA&oe=6AD7F772",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/825329563_1305371128289214_4628098572541118589_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ybeR8y43dIIQ7kNvwG75pZy&_nc_oc=AdoBtK3F1FZko_zXlUYULlkrVMSLOp9cqhGm_4gRRMwcH9vFiwHfpxIhZBcJISx8pGs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQMrWG-05B7JWy981TJji6xr2nnAWUFTpo_e3TuW7z38Eg&oe=6AD7E968"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-05T16:46:56.669Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 22,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 23,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
@@ -168,16 +168,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQORSdaPWuC4Z3OqG-vkcb8gtALR_psFg4EpeffFBY4U1jrkUQ9iPhvgF62dWuS4-hWpaYtFpBQ-o3RQHTYbQ_DAL9bRoUeuFHdnZipccg.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=eGaFuLL9xjkQ7kNvwHU3Mo3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzcxOTU0NDA1NDY3Njk3MDcsImFzc2V0X2FnZV9kYXlzIjo4MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQMm2KlJ7v47lh6fjp2vzcAZwZDA-cjV8uhxQHl02yorpQ&oe=6AD733FB",
-          "thumbnailUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/754462949_2079883559303616_997841190176441762_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=duYxQOlDh2MQ7kNvwFCs1j3&_nc_oc=Adrf1ce8ZG9IQ2_BZ6nTtptZOlX_wHogBt6bnecWzMOetoVLeW5PIbr8smyNZ43ycrc&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQMslHm3yU9aY-IXTGOiKY_n3MF5nW62m9EusPfTXPP-Jg&oe=6AD7240E"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQORSdaPWuC4Z3OqG-vkcb8gtALR_psFg4EpeffFBY4U1jrkUQ9iPhvgF62dWuS4-hWpaYtFpBQ-o3RQHTYbQ_DAL9bRoUeuFHdnZipccg.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=MT68W5GsuuUQ7kNvwHirULZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzcxOTU0NDA1NDY3Njk3MDcsImFzc2V0X2FnZV9kYXlzIjo4MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQMQwpgJXTYPN_0C9y3FezP9DyNlgnNwWhB_vvol8fXx9g&oe=6AD7DCBB",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/754462949_2079883559303616_997841190176441762_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KKVhy1Lq6boQ7kNvwHb9j2a&_nc_oc=AdpewLJ4M-eL0vMWoohlVxZuNnOipwWNEbUW1ypZfq8QVHl5jRFcL_pqx0yJaoxApMo&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQNyb2DQ9FJp19HyIcRWRklcvzLrC-FY64IaOzig5Qx6qA&oe=6AD8050E"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 59,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 60,
       "notifiedAsWinner": true,
       "angles": [
         "Testimonial/persoonlijk verhaal"
@@ -203,16 +203,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMBwvWuRcLoXmHealbtx_edI9DDmUGvAyyAfbAIVIP9WonIHJfT-c2RzIORbESd0yznHg8t4wfJcVmABQ0dUl5u5zvz-h9wNOFbEPTdIg.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=RGRtHe7wEesQ7kNvwEhy4Ru&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjEyNzY5NjAzNDgzNjg3MiwiYXNzZXRfYWdlX2RheXMiOjc3LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTQxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQPKkFOeORPt7IEYJRfVDyOnhZIX8tc47vXcoZ5yvfmE2Q&oe=6AD71E7C",
-          "thumbnailUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/761596419_4280534135424466_4754324035816328647_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TG8CfobtpmUQ7kNvwEyX8fS&_nc_oc=AdqMHLtR31ss8FQVIDmYFeLYOjlXUI9F9oXMHGYIRlXkS-M5MCwMxF1mjEDsPJKEVhc&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQOFVgAPKYdk2WqbCNNxUhcHQ-1kB7zdhCm3UCkKjbj71Q&oe=6AD71834"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMBwvWuRcLoXmHealbtx_edI9DDmUGvAyyAfbAIVIP9WonIHJfT-c2RzIORbESd0yznHg8t4wfJcVmABQ0dUl5u5zvz-h9wNOFbEPTdIg.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=RGRtHe7wEesQ7kNvwG0oFSr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjEyNzY5NjAzNDgzNjg3MiwiYXNzZXRfYWdlX2RheXMiOjc4LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTQxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQM39_9TL0rOHF0TbAblwArXMqYefFg3v-uCB0QND570tA&oe=6AD7FF7C",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/761596419_4280534135424466_4754324035816328647_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TG8CfobtpmUQ7kNvwGZZLHy&_nc_oc=Ado-gnSgraakIY_b73FFE3-xiWaDGMmQ4Kg97kfknhquUN_gFY3v264IcP-Neg9nHQg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQPW7oUQoWOXwDMuD89X0-Cz17wrAKK6hvGWHJw1y11BNA&oe=6AD7F934"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 59,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 60,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "2 ads use this creative and text"
@@ -225,16 +225,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQN9dYitC7HUjxYXZyao7qIPk57RMj_9D1DuVyh1sMa5boMbFjsogPZN3WC2F7pdYWV_j8EWeMw0Ok-3ZUJS8LkyQpC4jFsOPh0f_SHiVg.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=AFm1h2-l7zkQ7kNvwHITAIt&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQwMzc5MTA4MTM2NTgxMCwiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0MzcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQMo5X87PlhelZ4yhiz7ThlvWBMdVSblfGtcdvpHmdBhkQ&oe=6AD71C55",
-          "thumbnailUrl": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/834939117_927151626872644_1553471883530663882_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jZlvhqo14DAQ7kNvwG-ftWs&_nc_oc=AdruP51Jmzb3rC8B3aIcMrUlBMk2d99mC0P8sjB4e_vm-YJJOSTWqKP6K9YAbTlcZzQ&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQM8HoXRfWtUIVf9cjZHkgnc-2KsRoMcpPxi4J1ldSK3mw&oe=6AD73F6D"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQN9dYitC7HUjxYXZyao7qIPk57RMj_9D1DuVyh1sMa5boMbFjsogPZN3WC2F7pdYWV_j8EWeMw0Ok-3ZUJS8LkyQpC4jFsOPh0f_SHiVg.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=h0AoE80_MAcQ7kNvwEH0ffe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQwMzc5MTA4MTM2NTgxMCwiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0MzcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQMJiMyhFU6JyBVrLlLmh4tJr2KjtVs29rTnyjcqofMuCg&oe=6AD7FD55",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/834939117_927151626872644_1553471883530663882_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jZlvhqo14DAQ7kNvwGKcLA0&_nc_oc=AdrRbGRjSaGgZ4r-TQ0jj4Kg3uxgyJpouc2Gm1wYm2YcYE2e7gll41FRbV0NirRvWuw&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQMCeNeTheC309BuJE-nYMBLwW833MiImloPY67Ou-pjVw&oe=6AD7E82D"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-11T14:37:45.447Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 10,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 11,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
@@ -273,15 +273,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/778296794_3671689142987153_4493865764813969716_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6svHKWcmSoIQ7kNvwENOwk6&_nc_oc=AdoHMzshDF1V24PitG65dsin48p8BEMLoj_7iw-EQzSo_C6XEthR7iyhYEA9o_V6lYc&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQMk9WP30Wrn3us8makJb99N1W77Ol_BX_tpYGtkdHA8RQ&oe=6AD71F92"
+          "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/778296794_3671689142987153_4493865764813969716_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6svHKWcmSoIQ7kNvwEbtFu3&_nc_oc=AdpUTqiNgUaYXIWPtXOHPsXjaT2rJN4C8xDR9IhTQx3nuD0bS_oc9aN6J4U5zLB0JVM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQPrcP5UDvknHzS_gpWxf-2KQO3r7DUvnqVe3-sSb_AT2Q&oe=6AD80092"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 59,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 60,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "WWW.NURIA-SHOP."
@@ -294,16 +294,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQPGzIHKCvAwujD1_pwHeHH6USxh6veuLrF_2bC8-k8bTg9lwlAa55-5scFfAck8_ks--4-SUrmRpUVQQfPuFXyYOroG00sl8sFAQjmJXw.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=ZJCQSetR2LsQ7kNvwGyQhTf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU0MzExMjYwNjkwNTg0NiwiYXNzZXRfYWdlX2RheXMiOjU4LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDM2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQM4JsQEic2MzWZ0rpDNRTQEsrqwcFMHleChcotCLI4nXQ&oe=6AD74226",
-          "thumbnailUrl": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/778139654_1544292800763301_5757025343339980114_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YcM0vaSYLcsQ7kNvwErAyho&_nc_oc=Adohx5-9Ol59jZfNI8TTT21Mopy9YWamYF6YurAXMdRNm6YaHcYWWlvDC0v8XGsF1E4&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQOiMxXjznwx6ZCOnsLN7KZtBJWJm6ws8wJuC6sJWAp4-w&oe=6AD711F4"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPGzIHKCvAwujD1_pwHeHH6USxh6veuLrF_2bC8-k8bTg9lwlAa55-5scFfAck8_ks--4-SUrmRpUVQQfPuFXyYOroG00sl8sFAQjmJXw.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=ZJCQSetR2LsQ7kNvwFfpox3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU0MzExMjYwNjkwNTg0NiwiYXNzZXRfYWdlX2RheXMiOjU4LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDM2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQM2b2wiTv5qxhwYZt3JfLZ6Ea1W9gvSxA79JpgGzIt76g&oe=6AD7EAE6",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/778139654_1544292800763301_5757025343339980114_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FodQu4569BgQ7kNvwHHAIEt&_nc_oc=AdpAE57CkZJV2yuDzNS1vW51pkMlAnjb4Yu1D0dJubekMo4-10drZr-AgOLNJLGrobY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQMz5bbcFfcXFYFQ9L0brkzX_8hvqdoWZefLnn1KoswHTw&oe=6AD7F2F4"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 59,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 60,
       "notifiedAsWinner": true,
       "angles": [
         "Testimonial/persoonlijk verhaal",
@@ -330,16 +330,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOnl-ePC7hDEbXrPlgp46nXPLX9eYqPZLasfZayaR8m-klr49l8ddO8-pg5pULneu-NfBmYQxamhAfObWiCu7GrMaN5DyySXyYIKJok-g.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=dejIXvsts8wQ7kNvwHZHLXS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA1OTk0NzQ3MDI1NTIwNCwiYXNzZXRfYWdlX2RheXMiOjQxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzY2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQMapruDppQuz4yyR-1-iJSMa1_XeCqee11J-JBxt8ebxA&oe=6AD73EB4",
-          "thumbnailUrl": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/793367474_28392045813758375_8370009996363849243_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HkjJBpETMcIQ7kNvwEIAF3Y&_nc_oc=Ado4TCMrDH4aoI5DqLd7WRIc58IMpnN7x2fDHVuf9EClfWgPDnZxnZdPdpfBg_Nf8JI&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQMXIZ9Os_sxLBfQQorPYJRABJtM24sl0ihcQghEreKgDw&oe=6AD73A46"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOnl-ePC7hDEbXrPlgp46nXPLX9eYqPZLasfZayaR8m-klr49l8ddO8-pg5pULneu-NfBmYQxamhAfObWiCu7GrMaN5DyySXyYIKJok-g.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=dejIXvsts8wQ7kNvwFclKGf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA1OTk0NzQ3MDI1NTIwNCwiYXNzZXRfYWdlX2RheXMiOjQyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzY2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQNmJ-0h2XbfqE2zuMKgY0MHoFwFstzsvWTLAZ1kXcOcrQ&oe=6AD7E774",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/793367474_28392045813758375_8370009996363849243_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HkjJBpETMcIQ7kNvwE5r9ht&_nc_oc=Adr-PLCW6mRuS8T6u1W8g3eJcOP9vX1KcGv9iEg724ZHbz0bWB3gwl5m3jbEfPjZrNM&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQM_YoamapLHVFi7sdneobW-dREQygykzEgN_bDodVtelw&oe=6AD7E306"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 59,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 60,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "À six heures du matin, j'avais trois appels manqués de l'homme qui avait divorcé de moi."
@@ -352,16 +352,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOLChdSmJ9HF7Und7Ec9JkaAHwU6UEU0OZU136XM4LnY6PtSwNf9qkkQ6o9jY_JbkIbKlYR6JVt8renvcdJC0lTI8UsmEoPh3dVdy6ayA.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=X0JrXpkcQusQ7kNvwGSYKpL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU5MzIzMjIyNTc3MTMzNSwiYXNzZXRfYWdlX2RheXMiOjUzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTQzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQPtChakA3vH_4QSEOXLS76I2qKHIps7dZEeIp2SYQGxsA&oe=6AD71DED",
-          "thumbnailUrl": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/784430465_3936055073355495_7257637095700496657_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JDNCLmyndz4Q7kNvwGb0v-U&_nc_oc=AdprvhBwzWL94biaaI7tdw4OOjp2E9eaCcgTJTeoIEoylzllpIN9ZZYyhmCSEQ-bz-k&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQPEJIVRLBNswQuIAXOYXfJEwKRvQrjn4Sjt7wbiDW8JmA&oe=6AD72302"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOLChdSmJ9HF7Und7Ec9JkaAHwU6UEU0OZU136XM4LnY6PtSwNf9qkkQ6o9jY_JbkIbKlYR6JVt8renvcdJC0lTI8UsmEoPh3dVdy6ayA.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=X0JrXpkcQusQ7kNvwE0Tpo2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU5MzIzMjIyNTc3MTMzNSwiYXNzZXRfYWdlX2RheXMiOjUzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTQzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQNlhPSNNQFncgGn6nNxDs0cNJbr48q17VFh1_RTqIEIXg&oe=6AD7FEED",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/784430465_3936055073355495_7257637095700496657_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JDNCLmyndz4Q7kNvwF-q6Hc&_nc_oc=AdqrLQ6GAGr-yBj2uBBE4YbLZZ_sZ6tVJ3Li_KIBlFA586-ZfUjEsYOrbxlzeLYfJds&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQNcZ0k8nRxQ8XnKZLX3Hlv70RcHTRGVZbOJSg-tiV1ElA&oe=6AD80402"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 59,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 60,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "2 ads use this creative and text"
@@ -374,15 +374,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/784928622_27558109807204049_2231415489709130839_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mgrcKLFFgQ8Q7kNvwFL73an&_nc_oc=AdrwEMwwLF-f3Z97qWXMGB0TdQVe6mQL-RmEtRjtx62oTzF_w3EU5b49OMkST8fA2tI&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQM_MIj7-RGhYYHthvrl0FoWS1XcU3cEjSdQ_H8o9MS7cw&oe=6AD716C3"
+          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/784928622_27558109807204049_2231415489709130839_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mgrcKLFFgQ8Q7kNvwEUDyuZ&_nc_oc=AdrcJT9_EAr84dfHI8z1CnC9VtURQx96GxqhfHvs0JpZwQVK5HZM8oW8Vmp_lPEh2iU&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQO8zpi2mESHi7h-ximMAUO6yEJAqOaF04erMvTPXUIJvQ&oe=6AD7F7C3"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 59,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 60,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "WWW.NURIA-SHOP."
@@ -395,15 +395,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/784622312_2129622187953825_2402446741182136177_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Z5oFiCjXx0sQ7kNvwFTIuOn&_nc_oc=Adptuo1TN_Mkwz_aw26h1JZVtB3yxpwA9M2BLxA6aYAGEwc2Ds0VgYbjcm6smwOy0Ew&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQOce5BlywKTc_lO8r_P6zebjZpK8y6zyAZoYlKr6NGNLA&oe=6AD71B79"
+          "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/784622312_2129622187953825_2402446741182136177_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IYNcn1IX5TUQ7kNvwEv6x9M&_nc_oc=AdqZySV-Uk-klybl1vEgaVp5z89jsEo-1KKgTDz3PQyVmrcZeX8_fjl2LLi6riex8ZQ&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQOtA2GPto9CDO97_mnClnQSbRv9SIs7S7wVDaTFY4lyyA&oe=6AD7FC79"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 59,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 60,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "WWW.NURIA-SHOP."
@@ -416,16 +416,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNUrFYSay4-MlfrlEFyYHJMqHKtCYVOueDWCETuyfOmDEreX4DIICgOoWsTbgObp4IiGbP0JzjMG5FSYHc-l17dpAcK5QKuNMFybyFAbw.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=MGm7Ca_TbokQ7kNvwFeR-rg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYzMzU5MjQwNTExMTM5OCwiYXNzZXRfYWdlX2RheXMiOjE5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjM5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQMWM22E7xI5HLzPnUiwINPl4gquya64v6ijK-4WSH82PA&oe=6AD71AFB",
-          "thumbnailUrl": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/825274036_1604735284393094_9182950945738584671_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KnW7u6QgvHQQ7kNvwF_mQlA&_nc_oc=AdrqSO6uTkyU84IaNFGD0Tx52I2TdJE70yO6wxczQ7GbCVBnhRZiWn0U2YWx-gJAWXw&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQMlLqtF7t-fy89dRXOpgW7WA4YzcetdoZw8AeCRH_Y46g&oe=6AD738BC"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNUrFYSay4-MlfrlEFyYHJMqHKtCYVOueDWCETuyfOmDEreX4DIICgOoWsTbgObp4IiGbP0JzjMG5FSYHc-l17dpAcK5QKuNMFybyFAbw.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=gw4sBRc1vM8Q7kNvwER4zoz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYzMzU5MjQwNTExMTM5OCwiYXNzZXRfYWdlX2RheXMiOjIwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjM5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQM4HfZkoGnotIxuzX8pdvRvDYspk8o7qu7027kjhf-EPA&oe=6AD7FBFB",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/825274036_1604735284393094_9182950945738584671_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KnW7u6QgvHQQ7kNvwGKf0qk&_nc_oc=Adop-YTpNs6abNDmu4CwaNta7-Xxn6pmbU3ZHxypVAe4gbb51O7gYQ3k9JNwC1yDL_A&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQOjej-ucpIqCFBeEMjFUzxQ30Hor1bCqUP203BOLlgktg&oe=6AD7E17C"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-09T14:57:33.278Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 14,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 15,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
@@ -449,15 +449,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/821267680_1123384510469512_3256326599987574501_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JCnM5C26m3cQ7kNvwG8L_2b&_nc_oc=AdoCgM7szfjESXH2-xRNhpIuXUxqxB0Z9wWN1c5-a4Ygm7cVlMl970rviU5ViYnSaz0&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQNzVu-PtgDJa2G6qknlKkyH_YwzH2R3h8gefoGPIJ4Y5Q&oe=6AD745B2"
+          "url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/821267680_1123384510469512_3256326599987574501_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JCnM5C26m3cQ7kNvwETlo9q&_nc_oc=AdoF5o727or1PaFumePISQj3wuZ0q7-Pp0uCbRMJJLioDDyxkkZeZnxCsuahAyeUaAY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQN9BUKX1lJqFsLe_dDrEoQPJov8qedwy3_EpxBXb1hH9w&oe=6AD7EE72"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-05T16:46:56.669Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 22,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 23,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "WWW.NURIA-SHOP.",
@@ -481,16 +481,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQP8mbMW9mM9ZWq_mCwEwSArS8ao5KlUndyo_DsT1pgFXui4NcCAjnPJ6ZbsjsDrZIXD0iikCaeKYJpJkz3TYWhNHNxDLjOnGk3o48Hmeg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=V7vmnmX6C6wQ7kNvwEfp8X9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjgwMjY2NzczNjY5NDM1NzMsImFzc2V0X2FnZV9kYXlzIjo1MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ2NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQMrbLspiUfq5hVGRUM0VYJS5ukSGzvBddWM6oK5xAOxYw&oe=6AD71F5F",
-          "thumbnailUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/784019712_1533666928001256_8959635876613652914_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1zM24lKx34wQ7kNvwEs4rAq&_nc_oc=AdrFKmygDt0nOXmM5iUk0MdAVx0QgfXCVWf1VZX-VN-zYXKmtamVMayJHFt27xC2LvA&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQNhWGZwe6rBcWjjOWKI-jum1FSh8gtXtwYk2GPP7nu_DQ&oe=6AD71BB9"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQP8mbMW9mM9ZWq_mCwEwSArS8ao5KlUndyo_DsT1pgFXui4NcCAjnPJ6ZbsjsDrZIXD0iikCaeKYJpJkz3TYWhNHNxDLjOnGk3o48Hmeg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=V7vmnmX6C6wQ7kNvwEc6Y1N&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjgwMjY2NzczNjY5NDM1NzMsImFzc2V0X2FnZV9kYXlzIjo1NCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ2NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQMleJP8gDs6HuIpS26PXxvU42fj82-EEAyRpCpcBDE5bg&oe=6AD8005F",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/784019712_1533666928001256_8959635876613652914_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1zM24lKx34wQ7kNvwFBaGOH&_nc_oc=AdrGP9ELEXtf4xUBnIJojRPg552c_tuCcPpJlumjPDSLgF0W11tjqBUPW5ZU7NolpoE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQMFraeouQURerj49YnhLL5FSbDC8sRhDQShmdprs9kyEw&oe=6AD7FCB9"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 59,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 60,
       "notifiedAsWinner": true,
       "angles": [
         "Insider/celebrity-secret",
@@ -517,16 +517,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOKbfcz0XDTMcFx3Q2Imgvy1Y2vfL2lBpFUX6S1kkp3XN3Dp-M3VnAJXTrXRYc_cYU5A7VBBF8dobKkKPjAwEbI6hdE4lVHFkB3SicwNQ.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=s-DKngCGg8gQ7kNvwFd360V&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM0MzgxNDM0MTIyMDQ1NSwiYXNzZXRfYWdlX2RheXMiOjczLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjY1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQNDkg6WJRuNpOIKij-ETRsS4V--SfYmOntCMOeFDvJQzw&oe=6AD71C73",
-          "thumbnailUrl": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/761042182_3965066196958144_1137528117516553803_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4Zz_w82GxmkQ7kNvwE7rfal&_nc_oc=AdqIxrQ12aWryuHOiakZP0E5lwZWP3WQ9EjkIeJezUxYO6IDceKNTKE12zqZgmKoIqs&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQP-3pc-KvhD0r9TCe0xzd7B_tILggzi9-Mv7-3iDTIu-A&oe=6AD73A4E"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOKbfcz0XDTMcFx3Q2Imgvy1Y2vfL2lBpFUX6S1kkp3XN3Dp-M3VnAJXTrXRYc_cYU5A7VBBF8dobKkKPjAwEbI6hdE4lVHFkB3SicwNQ.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=s-DKngCGg8gQ7kNvwGl3_G4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM0MzgxNDM0MTIyMDQ1NSwiYXNzZXRfYWdlX2RheXMiOjc0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjY1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQMlY6cp3x5x65wgt7pJ5ervxti9unK5X-MNiWgjck7oKQ&oe=6AD7FD73",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/761042182_3965066196958144_1137528117516553803_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4Zz_w82GxmkQ7kNvwGa3bWc&_nc_oc=AdoQVVoG9ormfyud8MW2RZR6-8NIVtpFLvMXSBVW0Poxz7xOCligX_vVrByy-5XWqIk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQMMfbNdxtVy2ES1LMo-wpBWCZiMu_B8LF-cFxLCyPj5SA&oe=6AD7E30E"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 59,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 60,
       "notifiedAsWinner": true,
       "angles": [
         "Insider/celebrity-secret"
@@ -552,16 +552,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPyEVMmNzslWjSBrzRos0i1KWae61Xvtq8FWAz88qJZD8sMnJlO_LSVKW39fu3wzG102uWr3tEf54DEhg9LByTGaKoRwovRc0xWjV9MXg.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=ydsUzBAQR5UQ7kNvwGCYunZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjIwODY2MTUyMzM2NTc1MSwiYXNzZXRfYWdlX2RheXMiOjEwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NzYwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQMBRXKcSjq9DPz_aQhNuBYp0LlZOIbSeMfyCTwKU_dACA&oe=6AD7118C",
-          "thumbnailUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/836379630_1615373090074171_4337114229916012013_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CwIlnqbmchAQ7kNvwGXVeLT&_nc_oc=AdpDe0-EsEQUNr_z2S3Y8naf3nxklOq_5GAn-zGFFjYKYjFH-gteD4KHmO6RRymnttM&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQMDT2nC-pc7Q-EEFSJgTxoN-JUrANifD9tsMQE9FnVi3g&oe=6AD72B9E"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPyEVMmNzslWjSBrzRos0i1KWae61Xvtq8FWAz88qJZD8sMnJlO_LSVKW39fu3wzG102uWr3tEf54DEhg9LByTGaKoRwovRc0xWjV9MXg.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=ydsUzBAQR5UQ7kNvwHqW4W7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjIwODY2MTUyMzM2NTc1MSwiYXNzZXRfYWdlX2RheXMiOjEwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NzYwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQPy43U8p27kzs6V-rodnPKIf_NQDc6E35RRkFW28MIn7Q&oe=6AD7F28C",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/836379630_1615373090074171_4337114229916012013_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CwIlnqbmchAQ7kNvwGOcRhZ&_nc_oc=Adr3qvJralc5yjKhV5sos4TGvC80lPc3B0AkyFY-I8Qs8E8TiDpba5bYeNCL5QUBAvk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQPxOMP466UySrXgR_UhASng0vBzl_u7ZO25wcjASxhV1g&oe=6AD80C9E"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-07T15:04:44.451Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 18,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 19,
       "notifiedAsWinner": true,
       "angles": [
         "Testimonial/persoonlijk verhaal"
@@ -587,16 +587,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQNd6D2ytL1lgD39JeTgR87LQQ7rM9h9mzT2RW8RFiKIKSwPOymwYbz8Gdr_gEZCITpjmyLmJZM7wECHc-8ecbPTloj1peEYjb_v9TEXHA.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=AzZGKeCodLcQ7kNvwHPIa7u&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjQ5MTM3MTQxMTM3Njk4MSwiYXNzZXRfYWdlX2RheXMiOjcwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQM8xo8WxNvWsAAGgh7T0H1ta0hYKyvwVShj1y2tju0uDg&oe=6AD72996",
-          "thumbnailUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/764593195_1067377099107756_5597395405827832578_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kiXxSGeK3hAQ7kNvwE526gN&_nc_oc=AdqBw_rzgnYEQxGqeQyLznsvFKcHegTVE9d6aqQD1CAgTnE_ZGEQdYrDxyuV5djRXPA&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQOmrEKYoCQIvRs7fuFvaWeV7viurAO2fWXnH5ZYMBvkpA&oe=6AD7224D"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNd6D2ytL1lgD39JeTgR87LQQ7rM9h9mzT2RW8RFiKIKSwPOymwYbz8Gdr_gEZCITpjmyLmJZM7wECHc-8ecbPTloj1peEYjb_v9TEXHA.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=AzZGKeCodLcQ7kNvwGd6WeZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjQ5MTM3MTQxMTM3Njk4MSwiYXNzZXRfYWdlX2RheXMiOjcxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQNNGGOQHiAo0Lyzn8nBTMArWmoJ9awwbCLeWWwbKaJRzw&oe=6AD80A96",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/764593195_1067377099107756_5597395405827832578_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kiXxSGeK3hAQ7kNvwHUyBrH&_nc_oc=Adpp3LzHVA8xlfiSQaiI1wd-gdK8qK_7QK_b_bO79kSRctPuSBpmyJmnQmbpMweoMDE&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQNu-nvSingvtQ1LSbOFYnj9IlicqayQ0XYto0YxRnnZ7A&oe=6AD8034D"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 59,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 60,
       "notifiedAsWinner": true,
       "angles": [
         "Insider/celebrity-secret",
@@ -623,16 +623,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPJvzRwdetwpL42FAnuAMcPB-_3ZG_tqGqmxPVepYICJkk7WUQ9EldeV0g-EqWW726VRIX3yCzWjDePwGCUVql1vppEN8Gzw1q0kJ0yBw.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=zpxEpvFZZQAQ7kNvwFI2zeB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTAzNTE1Nzc0OTI1Nzg5MiwiYXNzZXRfYWdlX2RheXMiOjY5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTQxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQOlqhD5tfXmHOHNJbgUWwlzQeuMB9dHAd7k1F_RfAV5Gw&oe=6AD71C13",
-          "thumbnailUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/764863139_900480259797773_4972224624901033279_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ERkXQCpJVYQQ7kNvwELzrE7&_nc_oc=AdpkOzK9yoEWCIMWgAGSU-U7JW6cfyZsQi3s6abiWbWXM9PEh_O9mKPvjmEoA0fzuYE&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQNPlElOV10doPwFYAThm5Nm_PQIUY9uFA6OEHQjK9R8WA&oe=6AD71BD4"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPJvzRwdetwpL42FAnuAMcPB-_3ZG_tqGqmxPVepYICJkk7WUQ9EldeV0g-EqWW726VRIX3yCzWjDePwGCUVql1vppEN8Gzw1q0kJ0yBw.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=zpxEpvFZZQAQ7kNvwEx1OVF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTAzNTE1Nzc0OTI1Nzg5MiwiYXNzZXRfYWdlX2RheXMiOjcwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTQxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQM7-64hAJUFDaRvVaNM-XRAqMG2VXcESjBMMZvdmZ90Lg&oe=6AD7FD13",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/764863139_900480259797773_4972224624901033279_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ERkXQCpJVYQQ7kNvwH5wPZ_&_nc_oc=AdotK6mxxGAVcocob7QNyH11-icX7P8AQY-BhtRuykcWhuc-S9JvRfhBQ74ocIDmktE&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQPstV5D49b0GkYfPIACNmzW7zmQH9f-gIl5NvGE2uDrwA&oe=6AD7FCD4"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 59,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 60,
       "notifiedAsWinner": true,
       "angles": [
         "Insider/celebrity-secret"
@@ -658,16 +658,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMqTqxK-9nuRZv3U9j-daqU561PVd1J3vBsBxnBJzzx0v9zv2jY3N5tkT2fpQIiUZPP9pytk5ZuR_cITZfl6NVyBofTMCmv34OLBm42uw.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=DwVUIG9hltsQ7kNvwGpVk1z&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjAwMjk1Njc1Mzc0NjcxMywiYXNzZXRfYWdlX2RheXMiOjE5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDYwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQPGQ1JUBKqloO6MDk3-3XgkU_AL5t_DcY3iQBDD2ifz0Q&oe=6AD71EEF",
-          "thumbnailUrl": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/825273254_1844588683176949_7794469797857713159_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TKitMr6-ymEQ7kNvwHSxEsU&_nc_oc=Adrz1AfunabLmSrw_5mP6QA2LojjraU90TQf7KRoQDzC-6OFwsOwY7GDtotP8GjJCow&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQPvw_HzU7OfwII8Jq2aSxjqs-FL4T1fnXFw2GDuXrT6ig&oe=6AD71ECF"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMqTqxK-9nuRZv3U9j-daqU561PVd1J3vBsBxnBJzzx0v9zv2jY3N5tkT2fpQIiUZPP9pytk5ZuR_cITZfl6NVyBofTMCmv34OLBm42uw.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=DwVUIG9hltsQ7kNvwEX3WwJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjAwMjk1Njc1Mzc0NjcxMywiYXNzZXRfYWdlX2RheXMiOjIwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDYwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQM46mTI9MKSp37O_Ca5SjblF0Fyg0L85KICyK2yyfDyng&oe=6AD7FFEF",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/825273254_1844588683176949_7794469797857713159_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6VGVgf0SrWAQ7kNvwFv8nm-&_nc_oc=AdpiEzYjSVAZu8_yVeeTlaOxYVlsh4JBgSiFtsEjtvygtZxIO2Cx-20sZ8zJP-2hzuE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQMazdbkje3mfqu6iIhKREsIebQ4nBheGmwwZjFgDtV_XQ&oe=6AD7FFCF"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-11T14:37:45.447Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 10,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 11,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
@@ -691,16 +691,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQME9c-bLuE-uJMEO9UWQgtWHFOBZoHvOiIlnkX25N2Tk9GcLxiz2YRJL66WqHcfAisZIdXtGhLfULbYAT7rVHWh7xWKnGwv3hXa5SZQ3g.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=p8i4ZgpXSFAQ7kNvwGbaHKB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjg5ODUxNDQ4NzE3MjE3OCwiYXNzZXRfYWdlX2RheXMiOjMyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTA3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQO-dc3OmlirjQu8P-zftp3G725CDhCHCYO5K1tP3_453A&oe=6AD7455A",
-          "thumbnailUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/803267326_1074786494927304_5245987081918492721_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=t4vffdC5TUUQ7kNvwHkvmfn&_nc_oc=AdrUwn9mmI-r-Hjlch28JNKeM3IqrpRxq2V-EnllmR_TW1dB3r7_6S4Vm_UQ5ZGkiO4&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQO2G0ynJ5cS22gMyukNtyy2eVwR_XGgxbxi2Z05Cc38AA&oe=6AD71A9E"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQME9c-bLuE-uJMEO9UWQgtWHFOBZoHvOiIlnkX25N2Tk9GcLxiz2YRJL66WqHcfAisZIdXtGhLfULbYAT7rVHWh7xWKnGwv3hXa5SZQ3g.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=ntgX1K_16eQQ7kNvwGrUnQe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjg5ODUxNDQ4NzE3MjE3OCwiYXNzZXRfYWdlX2RheXMiOjMzLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTA3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQPVo0M2JLrySrMrTt-LIcYtO2oC2sY6syKl2As9ePSpfA&oe=6AD7EE1A",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/803267326_1074786494927304_5245987081918492721_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jOD0kX2kQfMQ7kNvwH30_OX&_nc_oc=Adq8yM7XSKj8FtoLOH2A2bZiMq3vV33TN0MmoGvhpVCORIc6PGk8Ib6noURIvrgleE0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQMPptzPmaofplGG2U0A8bNvvDzr-T23Fjqh6nEwNUReIw&oe=6AD7FB9E"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 59,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 60,
       "notifiedAsWinner": true,
       "euReach": 44886,
       "euCountries": [
@@ -726,15 +726,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/834465573_1077333638530132_532318108054840791_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PS_ljS74hxAQ7kNvwHiQmTT&_nc_oc=AdpsetgGwCUdlWLWP4ywctC9zcDJNrn1xpyaN9C5Y8xjgH2ZBsKhJgUxFjrJpwy_7SQ&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQNrZWjYaYFXmHf3TZHMxp9xn_B_-t2OwonWLzjkV_7bnA&oe=6AD72932"
+          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/834465573_1077333638530132_532318108054840791_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dzrQLBvV19cQ7kNvwGZ94Cg&_nc_oc=Adq1gdt-I-SYDEuMlnWrkwdJ2HmFrVmTnXRqQWm3HvSQ-j9c1kVNY5CfWjRUVyGpeJI&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQMBkP8nswLC34PLlUwtAZFhA266To_zRlzzURbCaG5Org&oe=6AD80A32"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-13T15:33:51.185Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 6,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 7,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "WWW.NURIA-SHOP.",
@@ -758,15 +758,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/778972150_1604706204596821_4770103666628116832_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CvBdRtdY63oQ7kNvwFJyQbR&_nc_oc=Adqy0QQldIRFO_0Gk07-grYxa5iNV42SrcqFKWJUYW8cI3x9ecbbvNsuozsUwI_ZoKk&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQOpIBzZ1dvah8vaIQCNEgh8aPhoHLW-Z4QdKLSooM-ZuA&oe=6AD72FED"
+          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/778972150_1604706204596821_4770103666628116832_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=d4aQT9TPi7IQ7kNvwExCdYF&_nc_oc=AdpANXVcNxUzjBe4aqiReq8OhQ3gjtpzvNfb0EdCzT7V4JRpB4FcLImOqzmhwEmKUeY&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQMpun7o7yjQ55-qSOlTNeXjqTAadRuHZlOX4PoWBtoPTA&oe=6AD7D8AD"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 59,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 60,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "WWW.NURIA-SHOP."
@@ -779,16 +779,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQN-vWDx2lmHd0Qu-jYxjQnZXRKrPL5k4VNKCvDAJ5rEpByrr7SXWn0xhh7S0yOTIeGPRjd2t8OdoV0W_4En9MV3Kg_RYs6OMTC34J3fVQ.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=WPxkl2U4YScQ7kNvwG836Wh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjIwMTM2MTQ1MDQ3NjkyNywiYXNzZXRfYWdlX2RheXMiOjYzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzMyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQO4Nv6i0JYBoJrTUkrjcnzinpNhGkF_1UdWbDNecdAQWA&oe=6AD73C50",
-          "thumbnailUrl": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/772560433_1416315053689752_8433042956046919171_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4V1yxnmnSZEQ7kNvwEDVLMp&_nc_oc=AdrpTBwFyyKUX9c0DocDpqQRZ4cPj0Psrzupkpte5LkGr2iv-L_xk9VBmagmOg_bI3k&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQNDOGWxG7tzmIro54Qj0kVMwphPtHqmnNTPZGPp7lG5bg&oe=6AD732EA"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQN-vWDx2lmHd0Qu-jYxjQnZXRKrPL5k4VNKCvDAJ5rEpByrr7SXWn0xhh7S0yOTIeGPRjd2t8OdoV0W_4En9MV3Kg_RYs6OMTC34J3fVQ.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=WPxkl2U4YScQ7kNvwF8ErbD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjIwMTM2MTQ1MDQ3NjkyNywiYXNzZXRfYWdlX2RheXMiOjYzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzMyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQMCpCQiWThBKPC2psBxfF2gYb6e1FXufA8o-lQOGWiSpQ&oe=6AD7E510",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/772560433_1416315053689752_8433042956046919171_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4V1yxnmnSZEQ7kNvwGka244&_nc_oc=Adp6cM9gHw4qaAopiwyTSGM83xTYFdJ6XY2uUoLaUQHTcCya_MciYXxp2oJrQoNp7jY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQPFBfX0h_NMJ6fS4URkOcdrng8WLmAZchxbrOQRlTCydA&oe=6AD7DBAA"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 59,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 60,
       "notifiedAsWinner": true,
       "angles": [
         "Insider/celebrity-secret"
@@ -814,16 +814,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQOOy9NiBdCawuOLEsznJGeZZpsbXzfcV---swesOUOENmnb5l76gP8xLrFqSNWD82l_upYjGo_j4_0zJDYQ7qR5su02LYRsIZj8U_atrA.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=bRTqckR7szIQ7kNvwHEJi6n&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTEwMjk3MDg1MjI2Njc4NCwiYXNzZXRfYWdlX2RheXMiOjIxLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTEzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQOmzIRtQLLgBZSxWC2tCRP5ht1i2QnkK3hPZH3G3Ri6oQ&oe=6AD7151C",
-          "thumbnailUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/824979146_1097235283280082_3477110487203753653_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_l5Ws2FLYncQ7kNvwFspUch&_nc_oc=Adqsl3hMRlAZzqgY-4KVnUuGVzgRfM751x5pbX7xvEGzTV9Q4RMtNZH0ysn1HTBCOPA&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQPreBrssyuvrLKPxztFAKq_oIqg7Fa3qzjGn-pUjAMuqA&oe=6AD7462B"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOOy9NiBdCawuOLEsznJGeZZpsbXzfcV---swesOUOENmnb5l76gP8xLrFqSNWD82l_upYjGo_j4_0zJDYQ7qR5su02LYRsIZj8U_atrA.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=bRTqckR7szIQ7kNvwGBqWoe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTEwMjk3MDg1MjI2Njc4NCwiYXNzZXRfYWdlX2RheXMiOjIyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTEzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQNjPrOBVkaK3DyY0YP12gFsfDs5Pqf1lhLzadZBjrwMaw&oe=6AD7F61C",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/824979146_1097235283280082_3477110487203753653_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_l5Ws2FLYncQ7kNvwFivYoe&_nc_oc=AdppJ2ZNwQOQHfFoVqFdpgjU_2Tl4gjbitPR0LuXuDHX4XjF1WdRFEb4lj49SNWBZHw&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQNM2U_iQvlG6sz0myAEMeBboEUFbE1o7HG5YG46s8OmKw&oe=6AD7EEEB"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-03T13:02:04.898Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 26,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 27,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "WWW.NURIA-SHOP.",
@@ -847,34 +847,38 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMmq3Vnwvftmlux080YzTHxhsNSyF2U9L3PhbD_EBm9qDQW_Wu4r5VPIvpd7mD9_A6Ervjwgpyo6eVbEP4lt6WY-h7jfdjPrF3UEa2Gzw.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=nXTAu9Yi1KMQ7kNvwHqlrFc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTMzNjA2NzA1NTE4NDMxNCwiYXNzZXRfYWdlX2RheXMiOjMsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo3MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQPRGMmeuo6VqljNiv2UxGWh-Ln9qxBNpKd_CWbQqxEBYg&oe=6AD72C97",
-          "thumbnailUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/844177079_2245845735989550_3382981699203341769_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=toP2E3Jh64AQ7kNvwEQc7HX&_nc_oc=AdrpC-R8ox-MA61xYwAqKyGFwnckf-8UxDuhQ-KIEMzMdqVq__78DqlOa-uBPCbSksY&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQMlF32H_iUhDLJ-qRP4Ws57_KaQU1-ykPnrImREfBfbmQ&oe=6AD73706"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMmq3Vnwvftmlux080YzTHxhsNSyF2U9L3PhbD_EBm9qDQW_Wu4r5VPIvpd7mD9_A6Ervjwgpyo6eVbEP4lt6WY-h7jfdjPrF3UEa2Gzw.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=nXTAu9Yi1KMQ7kNvwG2udcH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTMzNjA2NzA1NTE4NDMxNCwiYXNzZXRfYWdlX2RheXMiOjMsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo3MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQOscTNW8OffZ-9gSKTTgwgH4WHRF6lJUByXp5HoiX7Xsw&oe=6AD80D97",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/844177079_2245845735989550_3382981699203341769_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=toP2E3Jh64AQ7kNvwHu0_2b&_nc_oc=AdpchIv1_4SV8o-jOee6mMyViwrBZgrqtebPcmsFs9XWhZI2ESisj72dwvdBUO-aIIE&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQNphdZtzICWeaSolns3gDxW3n-P8iaUlLf0FP6YWiOB7g&oe=6AD7DFC6"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-15T22:54:15.957Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 1,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 2,
       "notifiedAsWinner": false,
       "angles": [],
       "hook": "Mon père est entré au mariage de mon frère avec la femme pour qui il a quitté ma mère, assez jeune pour être sa fille.",
-      "euReach": 95616,
+      "euReach": 103242,
       "euCountries": [
         "France"
       ],
-      "euTopSegment": "Female 55-64 in France (24,057)",
+      "euTopSegment": "Female 55-64 in France (25,729)",
       "euTopCountries": [
         {
           "country": "France",
-          "reach": 94127
+          "reach": 100407
         }
       ],
       "reachHistory": [
         {
           "date": "2026-10-15",
           "reachPerDay": 31375.666666666668
+        },
+        {
+          "date": "2026-10-16",
+          "reachPerDay": 25101.75
         }
       ]
     },
@@ -886,16 +890,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQNIGu9CEP7mRr6SCbUGwojtnFUcjdzMpvYHqAj0w8I0FkUuyaoX6un-D8p0f2fMWpmbUC3HO4URBz7ZWoqGTJi2Xe3oLoI_lyQWp9VOMA.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=msDQQa4L3xAQ7kNvwFE-KQl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU0NTA2NzM3MDk2NjEzMCwiYXNzZXRfYWdlX2RheXMiOjczLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&_nc_zt=28&oh=00_AQOatKvVJh2DDayEKa-GnlVbHareVdpFXP6zxJV-LlKC6w&oe=6AD71932",
-          "thumbnailUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/761858768_1026686253404369_224686579196456313_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fi0U-mKG3DwQ7kNvwGv7Fq1&_nc_oc=AdoN3RnItFOCwzr88Xq45ApLH-95D7DfEU3AIG8lvUSKM5iGQVQQWjzmVcxL4LqKzZA&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=2w4qitTF45QYhrYYfGXesw&_nc_ss=7f289&oh=00_AQPq3cSjYYz0BGw-Zs2lJ9jPWr9KnOE6gD16gpbBwgM7Mw&oe=6AD74445"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNIGu9CEP7mRr6SCbUGwojtnFUcjdzMpvYHqAj0w8I0FkUuyaoX6un-D8p0f2fMWpmbUC3HO4URBz7ZWoqGTJi2Xe3oLoI_lyQWp9VOMA.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=msDQQa4L3xAQ7kNvwEvill2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU0NTA2NzM3MDk2NjEzMCwiYXNzZXRfYWdlX2RheXMiOjczLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&_nc_zt=28&oh=00_AQPMjmyRzz5GOsRldCPy-RdEZbxlsOQrYWWw8Sn4donDxw&oe=6AD7FA32",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/761858768_1026686253404369_224686579196456313_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fi0U-mKG3DwQ7kNvwHeWcsv&_nc_oc=AdqdNJN8XFTo8yu4ARO7-LSD8t_5mjNUs0Ra7ZlcW2JFrKJgRsvAWnaulI6kdgzYt8E&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Gumw4xv18oae0JGISIXSAw&_nc_ss=7f289&oh=00_AQPVv9q-hfQ-wtMOqoxHnf4F_7eWm9ZVO1KtZWy97xmNRg&oe=6AD7ED05"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:33:42.755Z",
-      "lastSeenAt": "2026-10-15T22:54:15.957Z",
-      "seenCount": 59,
+      "lastSeenAt": "2026-10-16T13:01:37.547Z",
+      "seenCount": 60,
       "notifiedAsWinner": true,
       "angles": [
         "Insider/celebrity-secret"
