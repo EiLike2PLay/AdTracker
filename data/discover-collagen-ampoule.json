@@ -1,46 +1,8 @@
 {
   "version": 1,
   "pageId": "discover:collagen ampoule",
-  "updatedAt": "2026-10-23T11:11:04.870Z",
+  "updatedAt": "2026-10-24T10:28:35.823Z",
   "ads": {
-    "1353401149905587": {
-      "adId": "1353401149905587",
-      "startedRunningRaw": "Started running on Aug 25, 2026",
-      "startedRunningOn": "2026-08-25",
-      "text": "Source Beauty on Alibaba.com. Alibaba.com-World's Leading B2B Marketplace.\nM.ALIBABA.COM\nBest Organic Astaxanthin Hyaluronic Acid Vitamin E Anti-Wrinkle Firming Skin Disposable Ampoule Moisturizing Facial Serum\nLearn More",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/688966088_958882000277630_6292829630676130851_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Lcy7y4iRHHcQ7kNvwGfu3Pu&_nc_oc=Adpt9flKcoH668i_gdd6t2EotoT0JUjGekHlZW5ovei6WXrIxgLbr-EE2bt0ijaQCIc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQNIcAe2iLim4yA_63NTMrJ6nYXwLmICqZCP3SRhRyZwvg&oe=6AE1223F"
-        }
-      ],
-      "pageName": "Alibaba.com",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 37,
-      "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "Source Beauty on Alibaba.",
-      "euReach": 892,
-      "euCountries": [],
-      "euTopSegment": "Female 35-44 in France (37)",
-      "euTopCountries": [
-        {
-          "country": "Italy",
-          "reach": 198
-        },
-        {
-          "country": "France",
-          "reach": 154
-        },
-        {
-          "country": "Spain",
-          "reach": 68
-        }
-      ]
-    },
     "1800392334493195": {
       "adId": "1800392334493195",
       "startedRunningRaw": "Started running on Sep 28, 2026",
@@ -49,16 +11,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOPkirT_moRLzivr1tm0ziCZY1Rnr5oTQ0Z_aE7OGxKxrXkzXP9wLFh1pKJ29ad3MVRepHUTLG1XF2Rkx3LnDGUtCJtchdflFX5eZKvsA.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=VyVSwnQbw8MQ7kNvwEQM35i&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYxMjU3Mjk3Mzc4OTk2MSwiYXNzZXRfYWdlX2RheXMiOjI1LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&_nc_zt=28&oh=00_AQOKr9VuzAAtMoGnuxYC1J5Ldp2ARz54jVDQ93f8V9_tBQ&oe=6AE10E2D",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/825292497_1903890257256835_1800144723597962683_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JMuMPZBt0dwQ7kNvwGaWCkK&_nc_oc=AdpV7EL6QwN42t4sR8KDrzRlzdXcYVsO2mMvoGHFMcJ5DBeCbhp7-HG2Jbnp2sI2nQ4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQNaQ5U8QiT9U3euwyKoOsuCbPCmLAdIiXBJTgjjoXvQIQ&oe=6AE12324"
+          "url": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOPkirT_moRLzivr1tm0ziCZY1Rnr5oTQ0Z_aE7OGxKxrXkzXP9wLFh1pKJ29ad3MVRepHUTLG1XF2Rkx3LnDGUtCJtchdflFX5eZKvsA.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=VyVSwnQbw8MQ7kNvwHwlEV7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYxMjU3Mjk3Mzc4OTk2MSwiYXNzZXRfYWdlX2RheXMiOjI2LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&_nc_zt=28&oh=00_AQMI_TPPIMTyv-HglpxIEbC5-9MxB17bHJnub7yrPaqVrA&oe=6AE25FAD",
+          "thumbnailUrl": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/825292497_1903890257256835_1800144723597962683_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LjwvAVxbWM8Q7kNvwGMNnH1&_nc_oc=Ado1bmRYFM4SHqQDlWXDD0Pnl6DhfBgWOVAyObLcdgFnkn-OFtOTyiLrnLFCd9HMUDg&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQP-uxnyjE4fR9-3QP3OnmMirZWUa3s7euUV6SYMyrCbnw&oe=6AE274A4"
         }
       ],
       "pageName": "Korean Daily Insider",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-29T12:20:15.200Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 21,
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 22,
       "notifiedAsWinner": true,
       "angles": [
         "Botox-vergelijking",
@@ -96,19 +58,19 @@
       "adId": "3125694917600942",
       "startedRunningRaw": "Started running on Jun 30, 2026",
       "startedRunningOn": "2026-06-30",
-      "text": "Torriden, l'expertise skincare coréenne : des formules innovantes et effiaces, adaptées à tous les types de peau.\n🩵 Notre sérum Dive in est #1 en Corée\n🩵 -10% sur votre première commande\n🩵 Livraison offerte dès 49€\nTORRIDEN.FR\nDuo Équilibrant Balanceful\nImpossible de trouver la page\nShop Now",
+      "text": "Torriden, l'expertise skincare coréenne : des formules innovantes et effiaces, adaptées à tous les types de peau.\n🩵 Notre sérum Dive in est #1 en Corée\n🩵 -10% sur votre première commande\n🩵 Livraison offerte dès 49€\nTORRIDEN.FR\nRoutine Hydratation Dive In\nImpossible de trouver la page\nShop Now",
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641603553_2532624100528390_6719821916707190368_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8ScPd_PGRQwQ7kNvwEQk1oG&_nc_oc=AdqO74B5LogvlH34G-ZOIU35ox9wBT2Sco5PI65BwAjdLRLMmCaN0elFuztWK44hKt8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQOk-Ls0qCqTMK94YgyQ_GqyOcU7CtAaoeLH68NhtvjEoA&oe=6AE12387"
+          "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/641685783_934003659085309_3246292576286310026_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=96rtZzfaiv4Q7kNvwGzVz7q&_nc_oc=AdrMpY8lq7PGjSuXPig2aotGrnsf2PRjO7ne2APj87eHkJX14j2Vu3PPQYP9IISef3Y&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQMMZfrRhPKv5kRgivBIUi4GKEnMCngGuqYsUMbTQ5ifmw&oe=6AE2762F"
         }
       ],
       "pageName": "Torriden France",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 37,
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 38,
       "notifiedAsWinner": true,
       "angles": [
         "Mechanisme/penetratie",
@@ -135,51 +97,51 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/714931491_4322363881427223_4108313315280416494_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IZuXMv0mXTIQ7kNvwFCo1iV&_nc_oc=AdqJyKcnQynxUdybofeAHA7nc3hIcualt8Y975zh-Vohm6ZOs3lVeOdv9rKVC6Iw9RY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQMRMxJV0BayF7QD8nBHOwXTwCDjJlhhYU0SsusE4dvRxA&oe=6AE10AAC"
+          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/714931491_4322363881427223_4108313315280416494_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IZuXMv0mXTIQ7kNvwFFlPQ_&_nc_oc=Adpzaf8LLCCd_UYXOwUPTcFD4v5gKhvhrCdkElGnC0unWnVEdM0VaBimzxzx15uSMuo&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQMAnm6pdZacIduL1oAKyT22q2iKwKFv9WTYtIglR93jxg&oe=6AE25C2C"
         },
         {
           "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/714882066_1017710350935567_23868143789671722_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GnGeq2jTZF8Q7kNvwF1OAU1&_nc_oc=AdryfSFmAVU8SQC2LsG5CsY-FBDaLHuzTvpweW60Voa-K1dp3o9QYKyX7S1ivlBcxzk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQNndxvBEjz5nSWG74zmnfqA9vVrXwMMdeFe_e9OjbFE-g&oe=6AE0FA4F"
+          "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/714882066_1017710350935567_23868143789671722_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GnGeq2jTZF8Q7kNvwGEDyf2&_nc_oc=AdpEz5JctCAk4Tf-qP3EJsvs1zJNyxJKB8Bm2fDRrdvgvXUEGS-QEyj6sPCBPtKtTDo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQMhUval7N4rA6EN5fgmIBz-eS-HsfZn87WxWafBlMPkEQ&oe=6AE24BCF"
         },
         {
           "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/715477756_975682615330288_2710646210029726148_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PRKfH_f9N3QQ7kNvwHcMcmR&_nc_oc=AdoshheB_u8tyW7luoljfOU7YtSOTgrBcv5pLmOwazAbbpx9VS5tRcseZb1snNXYGFw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQMHSbVogbEdCayeAneNzAOh2UnbneHdkW3N6ibL4_7cWg&oe=6AE11B8B"
+          "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/715477756_975682615330288_2710646210029726148_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PRKfH_f9N3QQ7kNvwGxwQW5&_nc_oc=AdoeQ--ynPzKb2Z_8PamlQLNSlboOPdy3L3nXmqu2UlIpeNEi6XSc-sc11nE1qLocHQ&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQM_ihpQ0av-R_5LhmgTTj3UityyNpB9ucnRv1EJ4R30Lg&oe=6AE26D0B"
         },
         {
           "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/715060132_995454046209768_7754923414570592013_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C5PjQcLC8gsQ7kNvwEJme9H&_nc_oc=AdqpZf_yjKGdRoOtDxUCx69OJf6X2scnrf5ZcT_6_202XAtXlyFPg8AgZalBFKtgPDw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQNklmzrUA04Ai89PflW8NuUESQSBP58mCN-fOGYXMPcFQ&oe=6AE0FAF9"
+          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/715060132_995454046209768_7754923414570592013_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GpENz4K63EYQ7kNvwEAUz1N&_nc_oc=Ado-9YZl5bcBxbum88qs0lLWqs_YpHL80ol9Li-z-qFnMuU2v7jx7IgtsF8pbhXJSuU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQNV5qB9r61rDATnWF8q2_4DA18ee4p9gtGXzAcE6azUCw&oe=6AE24C79"
         },
         {
           "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/715537406_1178956928629365_3200063105439177158_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fivozYumQQcQ7kNvwGg_ujq&_nc_oc=AdqTydYhjbg4UHppH62eNJ30O24i1kk-5PKAIgFl5KlqRaL9k7YAnI0V595W82Wpv8E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQPD1RfNj-ds6cZzl90eC8GhVrv1Xw2U4kERU0AkTD8_aQ&oe=6AE12CA6"
+          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/715537406_1178956928629365_3200063105439177158_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8inyFX6RpggQ7kNvwE8dDL4&_nc_oc=AdqGkHTiwfNHjm0et2CE_2UuhLHgTiKsTjY0jKfHs7EuPY5fHX5hY26VhP244MyW_Mc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQMrswnM_TIMIrDxSD7KrGWgLmWeDdL7rmDjwYsxCh9dJg&oe=6AE245E6"
         },
         {
           "type": "image",
-          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/714898060_1002908082139337_4904555173567699598_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dGQ7bPu--TsQ7kNvwE7KGSk&_nc_oc=Adqkwf_T6Q8PcWarrzt5y4kSJjbKFpNbTfqgBYZE6Hd1BuOK7P434wqWsWzXx0SxOYE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQOYwkjdLQ4Ew9Q_Tlqw1ppODr8ENYglxoaHxcGn-U49gA&oe=6AE0F7C9"
+          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/714898060_1002908082139337_4904555173567699598_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dGQ7bPu--TsQ7kNvwEaZv98&_nc_oc=AdqvKO4agPoys8hRa9CJKrhARXOWeNHpfsJ7ChxupGKGaJKRcxFUjHdUDQcFzpiiyEI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQM5d8hUSBXeD-9G8SPiDX3JkLHfCqsbWyBeA0Dpm63VnQ&oe=6AE24949"
         },
         {
           "type": "image",
-          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/714918465_834635486388178_7337239036998568778_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PeU5GoEUaEsQ7kNvwF1iY0z&_nc_oc=AdreZUW_1BI5VAXJCbfkS80o-zH9biVy1yuvt3XYv2QYRw0UWjpM1N8QRqi7pEvUW6I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQN_aPxOsfssaHWBc7omCHyBdjsJz3rn_R_wLVA5Z3G1Hg&oe=6AE123DD"
+          "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/714918465_834635486388178_7337239036998568778_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G-QUIkmRuWYQ7kNvwFRRDlU&_nc_oc=AdqpaZN6m535FOwQ_qAS2ao25_gh5ZjzqLuWyFs9AJPpLQEPkwE62YbZjCxBQpNJiGI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQNbcx2ngnxTN3VMx1qbqa1gUuzur9YbbwPcH6rKRpFEAA&oe=6AE2755D"
         },
         {
           "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/714600944_1006180955702850_6370785911849379446_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QwH6r29n3X4Q7kNvwHDbGrh&_nc_oc=Adqz1jRI0Hv4jux9nyAZCJYBaoGEPCGvm1DE6v6KnJzD92LBBSn0qm52CMEJxtgHrIU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQP6A4ULOlqrCm9gfkQwjUJynNBq_dyg-NEFhOSrS-ICMQ&oe=6AE10978"
+          "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/714600944_1006180955702850_6370785911849379446_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QwH6r29n3X4Q7kNvwEBLNU9&_nc_oc=AdrobiLwUt2ddl2KROTCgwL4OYEx1ZCCjvQQE1F4s63Xsc19ZE_-kZUIrchiPz7ZE6I&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQPKxxYne7zQVycI3diW0IPmbONeSnAtNW1PqhS4YaRYFQ&oe=6AE25AF8"
         },
         {
           "type": "image",
-          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/716390258_1797090648319619_5702483742230207065_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wlVrlEoAOM8Q7kNvwE-_GCr&_nc_oc=Adqi-mWVZ32UYmcxpW_UX0155i5SyjUhMsrQCj5XQ_lWOUaHH1tpmNtkxMkKTe0_3ow&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQOcKGnpAPQhi24TQxumeDN7TbdLPHqwi0nPUx3LvRTX9Q&oe=6AE0FD68"
+          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/716390258_1797090648319619_5702483742230207065_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wlVrlEoAOM8Q7kNvwHRotFZ&_nc_oc=AdoKykFFY6ObzsOHb2SfPu8-g7CdaLXl6TiNe-hAnFCl6-WjcMk5CG3HyhUtrmr2aL0&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQM2s1N-I_btv3d2tndongz8_IxSAKIgct0qCfyq8Un8sQ&oe=6AE24EE8"
         },
         {
           "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/717235752_1415216030343883_7363207485750902873_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J4ZRrSUWCkgQ7kNvwHCxllq&_nc_oc=AdqfZlNcVB6QnMfoivufnxfLOAZet7zYVM36El35xZ-uTtXCFjhZs3YJlew0K79Mirw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQOSV5LhXtqV1qp_t93LlkY4a28ZCO_XKGjYgUObX_MiRQ&oe=6AE0FD67"
+          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/717235752_1415216030343883_7363207485750902873_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J4ZRrSUWCkgQ7kNvwE7cPS5&_nc_oc=Adow0zKrlTVneQKtZtPOTeOysvI2CkJOcpVxxmSiuss17ompuptlMxUb6MMPA8VjWsE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQNK3Zo9sDXLj4MVydobLLeTsIJ-O17Bf2DXipqqMFAdVg&oe=6AE24EE7"
         }
       ],
       "pageName": "KaiJoe",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 37,
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 38,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "✨ Your Brand, Your Formula, Your Rules.",
@@ -208,16 +170,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOczRdfPnllCdxF5YW-_U1zgdQdJsYV4988ulQLewfCDmCubfiJ3Eag_m62HOgiJWseVI9601GN5cHG2pyjHFNaXW3wVszoB3r55OXNlA.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=WCJhIBe7efUQ7kNvwEUjkq7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjY5OTMxMTk2MjAyOTI5MjYsImFzc2V0X2FnZV9kYXlzIjoxNzcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo3NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&_nc_zt=28&oh=00_AQOwc-OvWaww3vxF5hfo-MgiPHvVfY6VOICEZhZetBnk3Q&oe=6AE111CA",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/684391842_1004568166082596_9134113157873753574_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=K5Wp-iQLyxsQ7kNvwE9XoRy&_nc_oc=AdpLZQT1LWHLYHDIRHtSnKMYVC_JDhElRF0XA22GKj64NOZFEXmjimqOL9577r6iOmU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQNDPD0QZKBB4E3jrUd4SFt_3fw4r-v7uFxhO-vq-nwvPw&oe=6AE12DFC"
+          "url": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOczRdfPnllCdxF5YW-_U1zgdQdJsYV4988ulQLewfCDmCubfiJ3Eag_m62HOgiJWseVI9601GN5cHG2pyjHFNaXW3wVszoB3r55OXNlA.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=WCJhIBe7efUQ7kNvwGapujM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjY5OTMxMTk2MjAyOTI5MjYsImFzc2V0X2FnZV9kYXlzIjoxNzgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo3NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&_nc_zt=28&oh=00_AQNk0FMmCGazHzjRD3is7NDE8C4m6GwXtbiJzfT-ISdvFA&oe=6AE2634A",
+          "thumbnailUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/684391842_1004568166082596_9134113157873753574_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=K5Wp-iQLyxsQ7kNvwGeB00d&_nc_oc=AdpcAktT8orP91b-gC83yDwacqWGi6Qh5gEDZCX6oqxj6CurIP-vz651xRMHiikfF-A&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQOBZ5avqU3_G0ZgwhIlwLSbaEvus0Eii-Ox07VV0cF6Ww&oe=6AE2473C"
         }
       ],
       "pageName": "KahunaSpa",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 37,
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 38,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "🎉 This is your Last Chance!",
@@ -279,16 +241,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQN1YcGzDdE10QCt7YfFVFBCtBF4-oZr04SpY4iP_p3pG2ZTW8WZ7MqsVOz0z8SzAmDIVIbdMus-vuJ6B0EZrDwTrXc8XrQt8FGSw_1Icg.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Q1s8cjLr2IcQ7kNvwE0g8PB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjUxMzUwOTgxNTc4NTA4MiwiYXNzZXRfYWdlX2RheXMiOjI1LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&_nc_zt=28&oh=00_AQP17XQSHdfGUSB6HrjlTJPbuoMU1nQ4f44WAX-gShv8LQ&oe=6AE127AD",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/825268070_1784384032584162_321709655017445618_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GcFkS3Gq6pYQ7kNvwESh_qE&_nc_oc=Adrgyb_Esl_i1Wfznwee3GiCYF2t1lUFt6hs3Ejd38IpBjtwi-WdnhZ40CIKc4_tu1g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQORHx4zIeOVgDSAkAZ8nGiraclfbiMY7nhXmZS1uOOIpw&oe=6AE12580"
+          "url": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQN1YcGzDdE10QCt7YfFVFBCtBF4-oZr04SpY4iP_p3pG2ZTW8WZ7MqsVOz0z8SzAmDIVIbdMus-vuJ6B0EZrDwTrXc8XrQt8FGSw_1Icg.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=Q1s8cjLr2IcQ7kNvwHWsWNN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjUxMzUwOTgxNTc4NTA4MiwiYXNzZXRfYWdlX2RheXMiOjI2LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&_nc_zt=28&oh=00_AQPACXW2iMmrsarTkx3XJUraaitFlGNnPeMf-S0evhcbIg&oe=6AE240ED",
+          "thumbnailUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/825268070_1784384032584162_321709655017445618_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1D7KJb_DNE4Q7kNvwHMKq4p&_nc_oc=AdqWInUwA4Dm_zRKsrZ_HwUs77t-CbayI9GVLhqgIAeF_1grSjBcLsJYNB-XvwC7Uns&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQPXe1KB5ab0wU4cycsL8f6861BQDQES3ohwmsWUvA03Dw&oe=6AE27700"
         }
       ],
       "pageName": "Korean Daily Insider",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-09T12:45:54.592Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 11,
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 12,
       "notifiedAsWinner": true,
       "angles": [
         "Botox-vergelijking",
@@ -307,263 +269,6 @@
         }
       ]
     },
-    "955681350371185": {
-      "adId": "955681350371185",
-      "startedRunningRaw": "Started running on Sep 18, 2026",
-      "startedRunningOn": "2026-09-18",
-      "text": "Le Botox coûte 600 € et disparaît en 3 mois. Ceci coûte une fraction du prix et se fait à la maison.\n\nL'Ampoule KLEAR Deep Collagen utilise de vrais fils de peptides de soie dorée coréens qui fondent dans votre peau et la raffermissent de l'intérieur. Le collagène de très faible poids moléculaire pénètre en profondeur pour reconstruire l'élasticité perdue, tandis que le Volufiline comble les joues creuses et l'ovale du visage relâché.\n\nDès la première utilisation, votre peau paraît plus ferme, liftée, et des années plus jeune. Sans aiguilles. Sans rendez-vous. Sans temps de récupération.\n\nUn acheté, un offert aujourd'hui. Annulez le Botox. Prenez ceci à la place.\n0:00 / 0:55\nKLEARLABS.CO\nRaffermit la peau relâchée en 2 minutes\nShop now",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMVovt5vKcCyvYvcl3Z9KD7F90gdQZgkRFRfMQ67XEAUgsOvjTqpCa2e9TWEp2-BqqjJH_SDfzdgnfyfdgCPpy_CJ1HQC7OUySjuK5rlw.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=jqvTkttH-jQQ7kNvwFyQ6KM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjEyNzE4NDEwMTIzMDcxOCwiYXNzZXRfYWdlX2RheXMiOjM0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&_nc_zt=28&oh=00_AQOIT_uLKTcfoMdUYkBrMj9AuoZP0W4wmlV6oM3KEAk_bA&oe=6AE12D03",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/811710850_1822854992403247_4584576449213578117_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IowAJZCOmgMQ7kNvwGkl0xl&_nc_oc=Adp6hJ5Z4JTjr8vyh037ZtNLvSFay8qkqQkUkSzgjSlq24Vk2MycTzY1PItUiQcPaec&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQNz-618Pvhr8pRNSLQr200JNfV8w_hqNF5R2G3ozNw0gQ&oe=6AE12479"
-        }
-      ],
-      "pageName": "Korean Daily Insider",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-09-25T11:23:00.337Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 25,
-      "notifiedAsWinner": true,
-      "angles": [
-        "Botox-vergelijking",
-        "Mechanisme/penetratie"
-      ],
-      "hook": "Le Botox coûte 600 € et disparaît en 3 mois.",
-      "euReach": 14610,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 65+ in France (6,457)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 13946
-        }
-      ],
-      "reachHistory": [
-        {
-          "date": "2026-09-25",
-          "reachPerDay": 1338.4285714285713
-        },
-        {
-          "date": "2026-09-26",
-          "reachPerDay": 1467.25
-        },
-        {
-          "date": "2026-09-27",
-          "reachPerDay": 1549.5555555555557
-        }
-      ]
-    },
-    "977261151424848": {
-      "adId": "977261151424848",
-      "startedRunningRaw": "Started running on Apr 15, 2026",
-      "startedRunningOn": "2026-04-15",
-      "text": "🎉 Happy New Years Promotion EXTENDED! Get the full Dr. Melaxin Radiant Blowout Set for ONLY $89 — originally $279 (that’s 70% OFF!) 👏🔥\n\nInside this glow-boosting routine you get all you need for radiant, smooth, luminous skin:\n• 🧼 Melting Cleanser\n• 🌿 Exfoliating Kojic Acid Turmeric Spray\n• 💎 Exfoliating Black Rice Ampoule\n• ✨ Calcium B12 Cyano Pink Serum\n• 🌸 Picotonic Shot Serum\n• 💖 Calcium Volume Multi Balm Stick\n• 👁️‍🗨️ Calcium Volume Eye Patches\n\n✨ Smooth texture • Fade dullness & dark spots • Tighten pores • Deep nourishment • Glow that gets noticed ✨ All from one routine — no guesswork. This mega deal won’t last forever! Tap Shop Now and lock in your radiant glow before it ends. 🎆💫\n0:00 / 0:51\nKAHUNASPA.COM\nRadiant Blowout Set – $89 (70% OFF)! 🎉\nFull routine: cleanse → exfoliate → nourish → glow ✨\nShop now",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMGBZgnZlh0AZX0StTaAc_8WAsJxySHE0S6x-3OpKaO_Itd8fn_DBNEdpoA4L3L4kEaI4rYRq_wJh8lxZVYFQCzR6uJwZHdRtwG8VWmfg.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Uom01gz1DioQ7kNvwHQHyyA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjUwODkzNzc0MTc0MzAzMzUsImFzc2V0X2FnZV9kYXlzIjoyODcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&_nc_zt=28&oh=00_AQPV8nMS8rwNYqRku3_DsXxTuiCLmJpwPAU6IxLLfqLLAQ&oe=6AE12E31",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/672579686_1695962591394395_5196065538498613468_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zR6HECX-nRkQ7kNvwHzysjK&_nc_oc=Ado9m75ZJbpume-LKVHSgnhAcAGNnUEVxQd05HTPsdo--kTlvPYGpoVTRSjuJtrOkw8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQO7O42yqmWDNyqPaB4sd1AuEhQQ8QDYw_1-UWgEaxJWig&oe=6AE0FE15"
-        }
-      ],
-      "pageName": "KahunaSpa",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 37,
-      "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "🎉 Happy New Years Promotion EXTENDED!",
-      "euReach": 4392,
-      "euCountries": [
-        "Aland Islands",
-        "Austria",
-        "Belgium",
-        "Bulgaria",
-        "Croatia",
-        "Cyprus",
-        "Czech Republic",
-        "Denmark",
-        "Estonia",
-        "Finland",
-        "France",
-        "Germany",
-        "Greece",
-        "Guadeloupe",
-        "Hungary",
-        "Ireland",
-        "Italy",
-        "Latvia",
-        "Lithuania",
-        "Luxembourg",
-        "Malta",
-        "Martinique",
-        "Netherlands",
-        "Poland",
-        "Portugal",
-        "Romania",
-        "Saint Martin",
-        "Slovakia",
-        "Slovenia",
-        "Spain",
-        "Sweden"
-      ],
-      "euTopSegment": "Female 25-34 in Germany (224)",
-      "euTopCountries": [
-        {
-          "country": "Germany",
-          "reach": 559
-        },
-        {
-          "country": "Spain",
-          "reach": 463
-        },
-        {
-          "country": "Cyprus",
-          "reach": 393
-        }
-      ]
-    },
-    "1753334629294374": {
-      "adId": "1753334629294374",
-      "startedRunningRaw": "Started running on Sep 23, 2026",
-      "startedRunningOn": "2026-09-23",
-      "text": "I used to book microneedling in a clinic. Now I do the whole thing at home.\n\nThe Dr. Pen M9 changes needle depth with one click. 0.2mm across the forehead and eye area, 0.6mm on the cheeks and jaw, 0.8mm on the neck, without stopping to swap anything out. Fresh sealed cartridge every treatment, and the pen verifies it's genuine before it runs.\n\nPrep: numbing cream, 70% isopropyl, gloves, clean station.\nGlide: Medisco Meso PDRN ampoule.\nAftercare: Dr. Pen x Peachaboo Hydra Repair biocellulose mask, then red light and NIR.\n\nOne vial covered my whole face and neck. Redness had settled the same night. The glow turns up around day 10.\n\nPrep, procedure, aftercare. It's all here.\n\nShop the M9 👇\n0:00 / 6:51\nEU.DRPEN.CO\nJUST LAUNCHED: Dr. Pen M9\nPrep, procedure, aftercare\nShop now",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOM1Hx28-Pyn3GrTA6gEC09m3rsesFVBSnb_eI4waAxBroT15kRqpvf_24ZNIVJtJ4SDUz3ivCdixVrEnA_9x_k17GsIs__Hf5e1kpu1Q.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=DkhLSWX5mI4Q7kNvwG_RCm7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjM3NzE4NzExOTQ3MTUyNywiYXNzZXRfYWdlX2RheXMiOjg2LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&_nc_zt=28&oh=00_AQPt7wTiyZQCRlcsr9E4cL1Y_YioBGDSYjYViZaGrHgG3Q&oe=6AE12C92",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/774320920_1101285512340452_1492864669751021681_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Se49azjEHXIQ7kNvwE2kq08&_nc_oc=AdpuHsgflwixmLLaiJStan8feD1WRoORbkcM5_SNncezdK9jWdztb0inP5qK8ppaQ64&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQNygqenKpZ6EGURRmVJiUsF4TZul3PzndML2R3Y-k10Vw&oe=6AE10E53"
-        }
-      ],
-      "pageName": "Dr. Pen Global",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-09-29T12:20:15.200Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 25,
-      "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "I used to book microneedling in a clinic.",
-      "euReach": 4564,
-      "euCountries": [
-        "Austria",
-        "Belgium",
-        "Bulgaria",
-        "Croatia",
-        "Cyprus",
-        "Czech Republic",
-        "Denmark",
-        "Estonia",
-        "Finland",
-        "France",
-        "Greece",
-        "Hungary",
-        "Ireland",
-        "Italy",
-        "Latvia",
-        "Lithuania",
-        "Luxembourg",
-        "Malta",
-        "Netherlands",
-        "Poland",
-        "Portugal",
-        "Romania",
-        "Slovakia",
-        "Slovenia",
-        "Sweden"
-      ],
-      "euTopSegment": "Female 35-44 in Ireland (161)",
-      "euTopCountries": [
-        {
-          "country": "Ireland",
-          "reach": 506
-        },
-        {
-          "country": "Sweden",
-          "reach": 372
-        },
-        {
-          "country": "Netherlands",
-          "reach": 354
-        }
-      ]
-    },
-    "2140378906748046": {
-      "adId": "2140378906748046",
-      "startedRunningRaw": "Started running on May 13, 2026",
-      "startedRunningOn": "2026-05-13",
-      "text": "🎉 This is your Last Chance! Get the full Dr. Melaxin Radiant Blowout Set for ONLY $79 — originally $279 (that’s 70% OFF!) 👏🔥\n\nInside this glow-boosting routine you get all you need for radiant, smooth, luminous skin:\n• 🧼 Melting Cleanser\n• 🌿 Exfoliating Kojic Acid Turmeric Spray\n• 💎 Exfoliating Black Rice Ampoule\n• ✨ Calcium B12 Cyano Pink Serum\n• 🌸 Picotonic Shot Serum\n• 💖 Calcium Volume Multi Balm Stick\n• 👁️‍🗨️ Calcium Volume Eye Patches\n\n✨ Smooth texture • Fade dullness & dark spots • Tighten pores • Deep nourishment • Glow that gets noticed ✨ All from one routine — no guesswork. This mega deal won’t last forever! Tap Shop Now and lock in your radiant glow before it ends. 🎆💫\n0:00 / 1:51\nKAHUNASPA.COM\nRadiant Blowout Set – $79 (70% OFF)! 🎉\nGet Smooth, Luminous Skin in 1 Routine\nShop now",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNSQoOn8ci8MosRZvqKukEGEiiNXYGtA9StD7T9U49F2IqrOPnvKolwSizl1P46sE84aaVC6kUlguhErI69KoYtvEeVxGzbL6tOkNtumQ.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=SOAqD4WOZZYQ7kNvwEllV5V&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzA0OTYzMjMyMjA5NDk2NSwiYXNzZXRfYWdlX2RheXMiOjE2MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjExMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&_nc_zt=28&oh=00_AQNgJujI28iuyiunCczA8hEHdHox12tenYasyjS4eS3vrA&oe=6AE11983",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/698107767_1271808205073513_5111947779480289814_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_azzzNL2faAQ7kNvwFjPenZ&_nc_oc=AdoXEeyZ2T2As6IjBOSjXrZU59Dr4Mz8Or9x6llqJt-daQ6ItpTWIuwUUR2mkD-Mdh0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQMXQpa4s6RBAT8-GJEJO4aBGkXtMI0BrPh_kC6ec_Pxvg&oe=6AE104A5"
-        }
-      ],
-      "pageName": "KahunaSpa",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-09-17T11:09:49.855Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 37,
-      "notifiedAsWinner": true,
-      "angles": [],
-      "hook": "🎉 This is your Last Chance!",
-      "euReach": 417,
-      "euCountries": [
-        "Aland Islands",
-        "Austria",
-        "Belgium",
-        "Bulgaria",
-        "Croatia",
-        "Cyprus",
-        "Czech Republic",
-        "Denmark",
-        "Estonia",
-        "Finland",
-        "France",
-        "Germany",
-        "Greece",
-        "Guadeloupe",
-        "Hungary",
-        "Ireland",
-        "Italy",
-        "Latvia",
-        "Lithuania",
-        "Luxembourg",
-        "Malta",
-        "Martinique",
-        "Netherlands",
-        "Poland",
-        "Portugal",
-        "Romania",
-        "Saint Martin",
-        "Slovakia",
-        "Slovenia",
-        "Spain",
-        "Sweden"
-      ],
-      "euTopSegment": "Female 35-44 in Malta (18)",
-      "euTopCountries": [
-        {
-          "country": "Cyprus",
-          "reach": 54
-        },
-        {
-          "country": "Malta",
-          "reach": 41
-        },
-        {
-          "country": "Greece",
-          "reach": 27
-        }
-      ]
-    },
     "2281986609417513": {
       "adId": "2281986609417513",
       "startedRunningRaw": "Started running on Oct 15, 2026",
@@ -572,51 +277,51 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/847847978_28784253474542672_9032946826408905116_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5bXKnrBSGeQQ7kNvwHRMpBc&_nc_oc=AdrkJQhpklCV0f_yhYFhNa4S0M76XA6lpm93_6lJwlxB7Ti5HZgIsdhz7HDsEzn_hNs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQOgrfvU1A1FHncNGg6OSxrEjs4PQRHAX4JQWyRixSnnKg&oe=6AE10288"
+          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/847847978_28784253474542672_9032946826408905116_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V4Z8rL7OnxcQ7kNvwEfhEch&_nc_oc=Adp5b64qCzPhjZSkZyy9pWzYDhs81g3Jopkukad-IEHxPqHZLc1IqD07vQVihTMqkh4&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQNv4Fn7zHm6PRQjAh00GKVasXWc6pAtt-ygu-popwZcGA&oe=6AE25408"
         },
         {
           "type": "image",
-          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/848815521_1646178130294446_6562764478850647593_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zD5Y346H12oQ7kNvwEsThwt&_nc_oc=Adq-psl7vUwLeVz84FTYL5B3REzeAifJveYuIiXyCBjjvr59e5E18Em4r7TzVZUt7UY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQNDZ8ev3Rtl5oN03_Nyh88ZFaoeRK_fzpm7f_-8V4p9dA&oe=6AE0F9F3"
+          "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/848815521_1646178130294446_6562764478850647593_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zD5Y346H12oQ7kNvwHyHB3T&_nc_oc=AdoFOYUEW1WlSut0fA3Z5Kxso8hKz89FgEScxGPzVeKcO2kXadA1mLNdYg2S614za54&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQM7IN1tQlNtOeVMoWfZdFOzlPwdtOcOR58xqByMRIQ5xQ&oe=6AE24B73"
         },
         {
           "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/851643629_1436048788591925_6944994195176317886_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=89Tc0Ejk928Q7kNvwHk8AAD&_nc_oc=Adr27gGS_ccs5lpm_m3InI26Ayk6PBJKr8_DSI50qljr7kkSWMMj_OsxnyJr80qxbVI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQNG_AXYtXQU-aPc6GfdooyWFBGe4c0fcIcAvyIasqgCrg&oe=6AE1139E"
+          "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/851643629_1436048788591925_6944994195176317886_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=89Tc0Ejk928Q7kNvwGgXOzx&_nc_oc=Adrf4-fK84fldiYM3era4q7C25eihiiusJZxumOMGn39pOXjvU0LrS08rsVoQYwvw20&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQMZm32J-8kIvIz5n7kiIMy1aj_sPlOBIxeYeBDWM814uw&oe=6AE2651E"
         },
         {
           "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/848044635_1003726909423287_2843331260245688568_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nz6HqLR4QQwQ7kNvwGhnrup&_nc_oc=Adr0qXCvPvrUY8j1S7DIMjMHFQTc_aJse2jme9Ou8l0NFU7UJaRsc6DUxXwGuIS3OtI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQPKGI2-6uECfQtiV9Gykw_EQ_FbViNKSqSCgCl4AR1WQw&oe=6AE123A0"
+          "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/848044635_1003726909423287_2843331260245688568_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nz6HqLR4QQwQ7kNvwG7w8g9&_nc_oc=AdpDlWXtXefjBxxjUdpgL2KpGlKMdr72_jksZ08a6PlrTjxkjxAlUEHxP9TSC1hXCn0&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQOwFiUN8S3foZkS0r6OoqhQ-aP7S0E5GSlg_Wvl-8X5lQ&oe=6AE27520"
         },
         {
           "type": "image",
-          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/850668470_1100228109539411_2731880118269981109_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gKqgYg-HlesQ7kNvwHh3F8A&_nc_oc=AdqJm2MX3eZ89mql10KVSR4R4-QQ5RRFWbQUpgg0o70WdSueBLQwAKr2IBIXwSPbIUs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQPn7q1tKWaUG6FTNcLHeQfjkEcvsCoy8nCRFMBFKKc6sw&oe=6AE12B92"
+          "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/850668470_1100228109539411_2731880118269981109_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gKqgYg-HlesQ7kNvwF001up&_nc_oc=AdpYGr5vROLAgJJh744zygiRGp2yyPSaDSzDUpZw65HBKn4Iah5KcKY8XUcW2l1ZBdw&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQMUNl7ko3SsYWI76HGhgoQEt_AezRa_Rk4YYlKRmQXcWg&oe=6AE244D2"
         },
         {
           "type": "image",
-          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/850372170_1117322244615185_1279141844629071039_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zqcU7ovkxisQ7kNvwFm1NVS&_nc_oc=AdoOPPFJ4wI84PmA-XlqVoJUJmjGqjhBlWcPVUIhKRPgW-Ip96lXhbodCqcixBw27H4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQPPiS37A797JUmHCZd8iI2XJRcxR7z4FaiEbiHPi887YQ&oe=6AE1188B"
+          "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/850372170_1117322244615185_1279141844629071039_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zqcU7ovkxisQ7kNvwFGJEEf&_nc_oc=AdpxsxmyXal1_qQkUNJXZHYhisqBjIj1V6WHFRcm6JFWTlmX7_-Jf02eUgCjzGwqUow&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQMrsBJR8X19RDr8SiReNrGVh6pJkd0wyiI9DGFGmZdCGw&oe=6AE26A0B"
         },
         {
           "type": "image",
-          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/847939424_1840129290567936_7990322240576526023_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5w-z1DdRasQQ7kNvwG7RLso&_nc_oc=AdrSf-fahwIE1CNNDgEBa2q1c_GQi0ZzllpvtgEqNe6aH2YoCBsJNBlxFvhuyYDwLGk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQNnyxwoYBO-UdDh7tIgUN072ABtEIUgEhZDagE4tdXMTA&oe=6AE1210E"
+          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/847939424_1840129290567936_7990322240576526023_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5w-z1DdRasQQ7kNvwEpJzov&_nc_oc=AdogdrwGd7Ii68v1ilz9BAb94Me2USVDBWvfnLyGXwznqjiKOyaYtawA4eDZ7RapAps&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQOrjAN9YfQe8DmQFgekSASqc7TH-4SRzay3b9WpG8cDTw&oe=6AE2728E"
         },
         {
           "type": "image",
-          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/848186768_1834043531346168_86781489397397570_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MwuzHz3w7JcQ7kNvwHx_GIA&_nc_oc=Adp7gO873WcIqbOEaA-NOwXELtH-TY5eHsiRB8ComvshhwbPGJdIzn59MJQi2mbHHiU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQMHH6Kvx3AtQoXEJkdf0DqtiZ0NgYnuOB4SOtXqezrnSQ&oe=6AE12248"
+          "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/848186768_1834043531346168_86781489397397570_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O0ESzKeszSoQ7kNvwETPCJY&_nc_oc=AdrPKcTUmjdLwaH8zHE0Pg0BuyFG65WC5ndLaQUib73pp3fAj7p1OMN1sjC7cetBi7Y&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQPXbkmoaldjkt0J7oa75HEzFKVBCR9GzLC-VmCMMGhdmQ&oe=6AE273C8"
         },
         {
           "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/847182060_1623637922645430_1146929189303704035_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ai4Jjy_ppQQQ7kNvwHsTwO2&_nc_oc=AdoDYFHNeFq0OGqvmsYWz9kC3t5HoxNJea34QNOwdV2GPpgPKuA1nVJMdhfEEdmjR10&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQOX-wTX03ApCt8_fkniQSH5hpcRYoQuLLxINCAzanZ2og&oe=6AE10A40"
+          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/847182060_1623637922645430_1146929189303704035_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ai4Jjy_ppQQQ7kNvwGSOJOC&_nc_oc=AdrJDyW8zW98pV3bK75tDX6g557dOiZgQSrN_wudqcCdwh2eXrCgQVYsR7gY7-5ab-o&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQOMK6_3SWKPztwyXzGsG29lYuws3hcGXwm2buY0hVkOIw&oe=6AE25BC0"
         },
         {
           "type": "image",
-          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/849535037_998069083318370_3645389383542887011_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6TiHYguZM9wQ7kNvwFcvjYj&_nc_oc=AdqxivrJqfg-m1f5ZC7uS-SMEdr5Fwlx7AdfQPGeicF8ugaMGbtTYkO_PzdRJmpcuZ0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQMc_kxhDQ5dZtqlRxc3iiaNe73T7LfpMHrSLSMozRJRKw&oe=6AE11656"
+          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/849535037_998069083318370_3645389383542887011_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6TiHYguZM9wQ7kNvwEAgyFW&_nc_oc=AdoonwQkFdxl6HS8aEcTx7G_roEPD7oMNOtn2QlfGRYav98cJNpPuc51tvfq4cCSDJ4&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQPf4ibbPpZsMqUMCSwup5XvO0SXaFPydtt0-Atpat1W4g&oe=6AE267D6"
         }
       ],
       "pageName": "NUA SEOUL Shop K-Beauty Online",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-16T10:55:28.215Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 8,
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 9,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "NUA-SEOUL.COM",
@@ -682,56 +387,262 @@
         }
       ]
     },
-    "3591746301001433": {
-      "adId": "3591746301001433",
+    "955681350371185": {
+      "adId": "955681350371185",
       "startedRunningRaw": "Started running on Sep 18, 2026",
       "startedRunningOn": "2026-09-18",
-      "text": "Le Botox coûte 600 € et disparaît en 3 mois. Ceci coûte une fraction du prix et se fait à la maison.\n\nL'Ampoule KLEAR Deep Collagen utilise de vrais fils de peptides de soie dorée coréens qui fondent dans votre peau et la raffermissent de l'intérieur. Le collagène de très faible poids moléculaire pénètre en profondeur pour reconstruire l'élasticité perdue, tandis que le Volufiline comble les joues creuses et l'ovale du visage relâché.\n\nDès la première utilisation, votre peau paraît plus ferme, liftée, et des années plus jeune. Sans aiguilles. Sans rendez-vous. Sans temps de récupération.\n\nUn acheté, un offert aujourd'hui. Annulez le Botox. Prenez ceci à la place.\n0:00 / 1:04\nKLEARLABS.CO\nRaffermit la peau relâchée en 2 minutes\nShop now",
+      "text": "Le Botox coûte 600 € et disparaît en 3 mois. Ceci coûte une fraction du prix et se fait à la maison.\n\nL'Ampoule KLEAR Deep Collagen utilise de vrais fils de peptides de soie dorée coréens qui fondent dans votre peau et la raffermissent de l'intérieur. Le collagène de très faible poids moléculaire pénètre en profondeur pour reconstruire l'élasticité perdue, tandis que le Volufiline comble les joues creuses et l'ovale du visage relâché.\n\nDès la première utilisation, votre peau paraît plus ferme, liftée, et des années plus jeune. Sans aiguilles. Sans rendez-vous. Sans temps de récupération.\n\nUn acheté, un offert aujourd'hui. Annulez le Botox. Prenez ceci à la place.\n0:00 / 0:55\nKLEARLABS.CO\nRaffermit la peau relâchée en 2 minutes\nShop now",
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMEtf5xdgLsWNtoqUt3jmKFYKclJULgmOHHaTlvqOBHFa6NOIc4avH3ampuD_P_liNkcLRgjB-Hm7n1jYoR_J5IH2m_gn5GbvPBFnJYdg.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=PZFe2_2mKlIQ7kNvwFI2Ya4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjIxNjU2MTk5MjI1NzQ0OCwiYXNzZXRfYWdlX2RheXMiOjM0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&_nc_zt=28&oh=00_AQNb98jd0NqGcKBKVkI3fmkI0pR9fbIFCSgxCZsWLybzag&oe=6AE118E7",
-          "thumbnailUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814714053_868860506312745_6654074189730949043_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Na38ePxo3jkQ7kNvwFgRzrz&_nc_oc=AdpsjLPrZ993arnZK4oxSNbfCv0kDxRiVAFbPRGYVq3bMgWkvWY97Nt3gbZyfh3o3pk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQM94GlwLqGQ1wR-4EwRmjwZ5CRdiru0v39fQXIqxGsIpg&oe=6AE11C7E"
+          "url": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMVovt5vKcCyvYvcl3Z9KD7F90gdQZgkRFRfMQ67XEAUgsOvjTqpCa2e9TWEp2-BqqjJH_SDfzdgnfyfdgCPpy_CJ1HQC7OUySjuK5rlw.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=jqvTkttH-jQQ7kNvwH6OPuC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjEyNzE4NDEwMTIzMDcxOCwiYXNzZXRfYWdlX2RheXMiOjM1LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&_nc_zt=28&oh=00_AQNo5WeFtVQHmwCC--SXVMHLf74Hvz9RpxrYiTEqiUczTw&oe=6AE24643",
+          "thumbnailUrl": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/811710850_1822854992403247_4584576449213578117_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IowAJZCOmgMQ7kNvwGarpr7&_nc_oc=AdquuvihqHR8GR5pPNlgClpDekyrrUeLnuWXAjvvkFxph4S6DHbjod6N7jo_A3sUwag&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQNV-yXXdUc4ehMmvZuL5hn2AWieY2Otc0sj60jvyXd3Og&oe=6AE275F9"
         }
       ],
       "pageName": "Korean Daily Insider",
       "adLibraryUrl": null,
       "active": true,
-      "firstSeenAt": "2026-09-21T12:15:41.746Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 29,
+      "firstSeenAt": "2026-09-25T11:23:00.337Z",
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 26,
       "notifiedAsWinner": true,
       "angles": [
         "Botox-vergelijking",
         "Mechanisme/penetratie"
       ],
       "hook": "Le Botox coûte 600 € et disparaît en 3 mois.",
-      "euReach": 14324,
+      "euReach": 14610,
       "euCountries": [
         "France"
       ],
-      "euTopSegment": "Female 65+ in France (6,859)",
+      "euTopSegment": "Female 65+ in France (6,457)",
       "euTopCountries": [
         {
           "country": "France",
-          "reach": 13735
+          "reach": 13946
         }
       ],
       "reachHistory": [
         {
-          "date": "2026-09-21",
-          "reachPerDay": 2349
+          "date": "2026-09-25",
+          "reachPerDay": 1338.4285714285713
         },
         {
-          "date": "2026-09-22",
-          "reachPerDay": 2566
+          "date": "2026-09-26",
+          "reachPerDay": 1467.25
         },
         {
-          "date": "2026-09-23",
-          "reachPerDay": 2747
+          "date": "2026-09-27",
+          "reachPerDay": 1549.5555555555557
+        }
+      ]
+    },
+    "1753334629294374": {
+      "adId": "1753334629294374",
+      "startedRunningRaw": "Started running on Sep 23, 2026",
+      "startedRunningOn": "2026-09-23",
+      "text": "I used to book microneedling in a clinic. Now I do the whole thing at home.\n\nThe Dr. Pen M9 changes needle depth with one click. 0.2mm across the forehead and eye area, 0.6mm on the cheeks and jaw, 0.8mm on the neck, without stopping to swap anything out. Fresh sealed cartridge every treatment, and the pen verifies it's genuine before it runs.\n\nPrep: numbing cream, 70% isopropyl, gloves, clean station.\nGlide: Medisco Meso PDRN ampoule.\nAftercare: Dr. Pen x Peachaboo Hydra Repair biocellulose mask, then red light and NIR.\n\nOne vial covered my whole face and neck. Redness had settled the same night. The glow turns up around day 10.\n\nPrep, procedure, aftercare. It's all here.\n\nShop the M9 👇\n0:00 / 6:51\nEU.DRPEN.CO\nJUST LAUNCHED: Dr. Pen M9\nPrep, procedure, aftercare\nShop now",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOM1Hx28-Pyn3GrTA6gEC09m3rsesFVBSnb_eI4waAxBroT15kRqpvf_24ZNIVJtJ4SDUz3ivCdixVrEnA_9x_k17GsIs__Hf5e1kpu1Q.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=DkhLSWX5mI4Q7kNvwEpD4yB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjM3NzE4NzExOTQ3MTUyNywiYXNzZXRfYWdlX2RheXMiOjg3LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&_nc_zt=28&oh=00_AQOizfNURmM3I9xhZZLlb058LSKi-VlSim68i-6ukOilYQ&oe=6AE245D2",
+          "thumbnailUrl": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/774320920_1101285512340452_1492864669751021681_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Se49azjEHXIQ7kNvwEr4GSI&_nc_oc=AdoOaP-2W6GL48pnUnnMhWSAYcpBtkcGVupidSjc-SzCYgPuutLO9X178yssFrUKzuY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQM9qAdTNJvONf2mVuX5mWNuhiNOKFP2NkPT-2ePh-60xA&oe=6AE25FD3"
         }
       ],
-      "notifiedAsRising": true
+      "pageName": "Dr. Pen Global",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-29T12:20:15.200Z",
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 26,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "I used to book microneedling in a clinic.",
+      "euReach": 4564,
+      "euCountries": [
+        "Austria",
+        "Belgium",
+        "Bulgaria",
+        "Croatia",
+        "Cyprus",
+        "Czech Republic",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "Greece",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Slovakia",
+        "Slovenia",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 35-44 in Ireland (161)",
+      "euTopCountries": [
+        {
+          "country": "Ireland",
+          "reach": 506
+        },
+        {
+          "country": "Sweden",
+          "reach": 372
+        },
+        {
+          "country": "Netherlands",
+          "reach": 354
+        }
+      ]
+    },
+    "977261151424848": {
+      "adId": "977261151424848",
+      "startedRunningRaw": "Started running on Apr 15, 2026",
+      "startedRunningOn": "2026-04-15",
+      "text": "🎉 Happy New Years Promotion EXTENDED! Get the full Dr. Melaxin Radiant Blowout Set for ONLY $89 — originally $279 (that’s 70% OFF!) 👏🔥\n\nInside this glow-boosting routine you get all you need for radiant, smooth, luminous skin:\n• 🧼 Melting Cleanser\n• 🌿 Exfoliating Kojic Acid Turmeric Spray\n• 💎 Exfoliating Black Rice Ampoule\n• ✨ Calcium B12 Cyano Pink Serum\n• 🌸 Picotonic Shot Serum\n• 💖 Calcium Volume Multi Balm Stick\n• 👁️‍🗨️ Calcium Volume Eye Patches\n\n✨ Smooth texture • Fade dullness & dark spots • Tighten pores • Deep nourishment • Glow that gets noticed ✨ All from one routine — no guesswork. This mega deal won’t last forever! Tap Shop Now and lock in your radiant glow before it ends. 🎆💫\n0:00 / 0:51\nKAHUNASPA.COM\nRadiant Blowout Set – $89 (70% OFF)! 🎉\nFull routine: cleanse → exfoliate → nourish → glow ✨\nShop now",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMGBZgnZlh0AZX0StTaAc_8WAsJxySHE0S6x-3OpKaO_Itd8fn_DBNEdpoA4L3L4kEaI4rYRq_wJh8lxZVYFQCzR6uJwZHdRtwG8VWmfg.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=Uom01gz1DioQ7kNvwFSYKGz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjUwODkzNzc0MTc0MzAzMzUsImFzc2V0X2FnZV9kYXlzIjoyODgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&_nc_zt=28&oh=00_AQMc65qujzcO0kkmipNuDvc1ObXN_1cOjKvgfV4bxLuF8Q&oe=6AE24771",
+          "thumbnailUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/672579686_1695962591394395_5196065538498613468_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=B93NSlSExekQ7kNvwFSwrAK&_nc_oc=Ado5466EuZX8kWft-o5IB_hdnyNyZjwse83YDhk6nFR0yQNulgcguts2QJ3Z64-BF-w&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQPbQjIBqn_Hx21SUhm8e-JjdXhqXrSj74qxpu2azU3nkw&oe=6AE24F95"
+        }
+      ],
+      "pageName": "KahunaSpa",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-17T11:09:49.855Z",
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 38,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "🎉 Happy New Years Promotion EXTENDED!",
+      "euReach": 4392,
+      "euCountries": [
+        "Aland Islands",
+        "Austria",
+        "Belgium",
+        "Bulgaria",
+        "Croatia",
+        "Cyprus",
+        "Czech Republic",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "Germany",
+        "Greece",
+        "Guadeloupe",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Martinique",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Saint Martin",
+        "Slovakia",
+        "Slovenia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 25-34 in Germany (224)",
+      "euTopCountries": [
+        {
+          "country": "Germany",
+          "reach": 559
+        },
+        {
+          "country": "Spain",
+          "reach": 463
+        },
+        {
+          "country": "Cyprus",
+          "reach": 393
+        }
+      ]
+    },
+    "2140378906748046": {
+      "adId": "2140378906748046",
+      "startedRunningRaw": "Started running on May 13, 2026",
+      "startedRunningOn": "2026-05-13",
+      "text": "🎉 This is your Last Chance! Get the full Dr. Melaxin Radiant Blowout Set for ONLY $79 — originally $279 (that’s 70% OFF!) 👏🔥\n\nInside this glow-boosting routine you get all you need for radiant, smooth, luminous skin:\n• 🧼 Melting Cleanser\n• 🌿 Exfoliating Kojic Acid Turmeric Spray\n• 💎 Exfoliating Black Rice Ampoule\n• ✨ Calcium B12 Cyano Pink Serum\n• 🌸 Picotonic Shot Serum\n• 💖 Calcium Volume Multi Balm Stick\n• 👁️‍🗨️ Calcium Volume Eye Patches\n\n✨ Smooth texture • Fade dullness & dark spots • Tighten pores • Deep nourishment • Glow that gets noticed ✨ All from one routine — no guesswork. This mega deal won’t last forever! Tap Shop Now and lock in your radiant glow before it ends. 🎆💫\n0:00 / 1:51\nKAHUNASPA.COM\nRadiant Blowout Set – $79 (70% OFF)! 🎉\nGet Smooth, Luminous Skin in 1 Routine\nShop now",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNSQoOn8ci8MosRZvqKukEGEiiNXYGtA9StD7T9U49F2IqrOPnvKolwSizl1P46sE84aaVC6kUlguhErI69KoYtvEeVxGzbL6tOkNtumQ.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=Y3-rcv1aipgQ7kNvwE1pBlC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzA0OTYzMjMyMjA5NDk2NSwiYXNzZXRfYWdlX2RheXMiOjE2MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjExMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&_nc_zt=28&oh=00_AQP5z9FwbUSlB9PmE3PAbK8xEkOXtaIqt8SCLnNZ_v3BeQ&oe=6AE26B03",
+          "thumbnailUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/698107767_1271808205073513_5111947779480289814_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_azzzNL2faAQ7kNvwFd9j5N&_nc_oc=AdrOt1GOo370dP_SFLgW8dYaMpjhPAQXciFCYkZqv3igYq1xrp5WkaGAqkhte3xUnOA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQMNKMpt7ixHnpy2hIrU9kKgImVlimyA2Ib-ZYzoMc27OQ&oe=6AE25625"
+        }
+      ],
+      "pageName": "KahunaSpa",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-17T11:09:49.855Z",
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 38,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "🎉 This is your Last Chance!",
+      "euReach": 417,
+      "euCountries": [
+        "Aland Islands",
+        "Austria",
+        "Belgium",
+        "Bulgaria",
+        "Croatia",
+        "Cyprus",
+        "Czech Republic",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "Germany",
+        "Greece",
+        "Guadeloupe",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta",
+        "Martinique",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Saint Martin",
+        "Slovakia",
+        "Slovenia",
+        "Spain",
+        "Sweden"
+      ],
+      "euTopSegment": "Female 35-44 in Malta (18)",
+      "euTopCountries": [
+        {
+          "country": "Cyprus",
+          "reach": 54
+        },
+        {
+          "country": "Malta",
+          "reach": 41
+        },
+        {
+          "country": "Greece",
+          "reach": 27
+        }
+      ]
     },
     "1116622477683457": {
       "adId": "1116622477683457",
@@ -741,15 +652,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/776497629_1537424187559437_1394675904578510277_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=79qRpYxCFK0Q7kNvwGcYFaj&_nc_oc=Adq4fJdyPtgZJFU0QxVkNKnVBWO-9vmM3PUe4_R7abBv8G7FQjLGcP4Wee5lV2k46js&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQM4IdQNku_Ouw8o6er4BH2qZy0LYw1pZJvEmpyoxGidHA&oe=6AE0FCF2"
+          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/776497629_1537424187559437_1394675904578510277_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=79qRpYxCFK0Q7kNvwHs0ZeB&_nc_oc=AdovND72oFajEQFuMEj05zhsASqZwS2LCWe0U1opFPtNF6nuaNcKB2362MerHWPOxNQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQM7bmKbQmjn5S--Lo8UWwsP-2GYvcYeToddCtlAXYcl9Q&oe=6AE24E72"
         }
       ],
       "pageName": "Jining Heruio Biotechnology Co., Ltd",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-22T11:26:13.111Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 2,
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 3,
       "notifiedAsWinner": true,
       "angles": [
         "Testimonial/persoonlijk verhaal"
@@ -807,8 +718,63 @@
         {
           "date": "2026-10-23",
           "reachPerDay": 1
+        },
+        {
+          "date": "2026-10-24",
+          "reachPerDay": 0.8888888888888888
         }
       ]
+    },
+    "3591746301001433": {
+      "adId": "3591746301001433",
+      "startedRunningRaw": "Started running on Sep 18, 2026",
+      "startedRunningOn": "2026-09-18",
+      "text": "Le Botox coûte 600 € et disparaît en 3 mois. Ceci coûte une fraction du prix et se fait à la maison.\n\nL'Ampoule KLEAR Deep Collagen utilise de vrais fils de peptides de soie dorée coréens qui fondent dans votre peau et la raffermissent de l'intérieur. Le collagène de très faible poids moléculaire pénètre en profondeur pour reconstruire l'élasticité perdue, tandis que le Volufiline comble les joues creuses et l'ovale du visage relâché.\n\nDès la première utilisation, votre peau paraît plus ferme, liftée, et des années plus jeune. Sans aiguilles. Sans rendez-vous. Sans temps de récupération.\n\nUn acheté, un offert aujourd'hui. Annulez le Botox. Prenez ceci à la place.\n0:00 / 1:04\nKLEARLABS.CO\nRaffermit la peau relâchée en 2 minutes\nShop now",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMEtf5xdgLsWNtoqUt3jmKFYKclJULgmOHHaTlvqOBHFa6NOIc4avH3ampuD_P_liNkcLRgjB-Hm7n1jYoR_J5IH2m_gn5GbvPBFnJYdg.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=iJwKAFATf74Q7kNvwG7gNYn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjIxNjU2MTk5MjI1NzQ0OCwiYXNzZXRfYWdlX2RheXMiOjM1LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&_nc_zt=28&oh=00_AQPwbODXV1HCsBFUic-V6KmmT707D_Gza1zL9MtbSypc5A&oe=6AE26A67",
+          "thumbnailUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/814714053_868860506312745_6654074189730949043_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Na38ePxo3jkQ7kNvwGz-022&_nc_oc=AdqaFQ1Q1hTaUk1ac74UT8oJtAd1ppffVaHhh_j2UOI-uv03q_ye6TrctSe6z_8tT2k&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQO8HP5u88icvCt4pisCnFLEdOMBbKszfVcS80JVruLXNg&oe=6AE26DFE"
+        }
+      ],
+      "pageName": "Korean Daily Insider",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-09-21T12:15:41.746Z",
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 30,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Botox-vergelijking",
+        "Mechanisme/penetratie"
+      ],
+      "hook": "Le Botox coûte 600 € et disparaît en 3 mois.",
+      "euReach": 14324,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 65+ in France (6,859)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 13735
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-09-21",
+          "reachPerDay": 2349
+        },
+        {
+          "date": "2026-09-22",
+          "reachPerDay": 2566
+        },
+        {
+          "date": "2026-09-23",
+          "reachPerDay": 2747
+        }
+      ],
+      "notifiedAsRising": true
     },
     "1860988731946183": {
       "adId": "1860988731946183",
@@ -818,15 +784,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/829447381_1771524804178850_7497577962712040605_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RefPl7nZoKQQ7kNvwEN-YVZ&_nc_oc=AdovBuFUZKFuOBqYGQgZ0CiWeSB7PW-B51lr_fY1bd3tYAPdcXOhHGjZWhVOL4G5V3o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQOVUcKINYana8cSX4KWUTmp25Zds3nnbflhow28vU30Xw&oe=6AE11159"
+          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/829447381_1771524804178850_7497577962712040605_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hDGoW4XD5LIQ7kNvwETsEam&_nc_oc=Adr_INQopCuxkaX__L6_E1D4FSqlCv815qfBTxbzxWj6cg6Q7_O3-OTvoWh616u39po&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQNPiTNI6X6b2l06ETwm8MTDVwq3hZGqYrSRWAp9lWdkkg&oe=6AE262D9"
         }
       ],
       "pageName": "Laboratoire SVR",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-07T12:50:42.041Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 8,
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 9,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "Lisse en surface, rebondie au toucher !",
@@ -856,6 +822,42 @@
         }
       ]
     },
+    "1818285472933328": {
+      "adId": "1818285472933328",
+      "startedRunningRaw": "Started running on Sep 30, 2026",
+      "startedRunningOn": "2026-09-30",
+      "text": "Le Botox coûte 600 € et disparaît en 3 mois. Ceci coûte une fraction du prix et se fait à la maison.\n\nL'Ampoule KLEAR Deep Collagen utilise de vrais fils de peptides de soie dorée coréens qui fondent dans votre peau et la raffermissent de l'intérieur. Le collagène de très faible poids moléculaire pénètre en profondeur pour reconstruire l'élasticité perdue, tandis que le Volufiline comble les joues creuses et l'ovale du visage relâché.\n\nDès la première utilisation, votre peau paraît plus ferme, liftée, et des années plus jeune. Sans aiguilles. Sans rendez-vous. Sans temps de récupération.\n\nUn acheté, un offert aujourd'hui. Annulez le Botox. Prenez ceci à la place.\n0:00 / 1:31",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPDSARqqlxd6daLV4X78PgPM76p4LtM-L1YAeCUKSbLXJLYuPZjY4MVgGhiVIeTv_dX4WOuV1x9BbjDlKFsWjdXeLV6CweMnaI-s5EPJA.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=bAO-qdwbTiYQ7kNvwG-n1Cf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc5OTE4MjM5NDQxNTQzNywiYXNzZXRfYWdlX2RheXMiOjMwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6OTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&_nc_zt=28&oh=00_AQO89PO3zT0hGJgQcEw3qFgVNHkTkU5x_jAtVS3wliWWIg&oe=6AE24313",
+          "thumbnailUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/832926830_1090852927136029_5889438214115848483_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Dl2EhnHrtEsQ7kNvwGI8RW3&_nc_oc=Adq_FPpTEHXNnorE_IEdgGOuulIiUKth0z6c3QHzzliWH0lVfJ7cJR3tEo9W_nQETcQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQOQT3SnIo4dP3AqYMBZf8n5SH76xVgr2IgvO_TO3zeORQ&oe=6AE24F8F"
+        }
+      ],
+      "pageName": "Korean Daily Insider",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-10-22T11:26:13.111Z",
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 3,
+      "notifiedAsWinner": true,
+      "angles": [
+        "Botox-vergelijking",
+        "Mechanisme/penetratie"
+      ],
+      "hook": "Le Botox coûte 600 € et disparaît en 3 mois.",
+      "euReach": 9536,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (2,880)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 9462
+        }
+      ]
+    },
     "1655130499378923": {
       "adId": "1655130499378923",
       "startedRunningRaw": "Started running on Sep 30, 2026",
@@ -864,16 +866,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOt07AQkmKRMnP8-i2bjmkETnh1LyQQQQG4hybRzUqM4t8_ZEYCRonEzQg5vM6T6WACKzu5LAXyAKderNNAWylKLoYLYlKnuaCcD1noHg.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=hYt4jUDEjc8Q7kNvwGWqKaD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQ0NjQyNDY0NDA1MTg3OCwiYXNzZXRfYWdlX2RheXMiOjI1LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&_nc_zt=28&oh=00_AQPJ0inv25DKa0TPkeZXZgPpEYdFd5Q6NE0OO06MUDRXfw&oe=6AE10BDD",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/830236694_1469578055166795_5217607869173082486_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UQ9ncGL7g_kQ7kNvwFH4jPG&_nc_oc=AdrO8V_909BwK1Srxz2hZbVyiRisIjWrqHa0sgkF4lq30vGCLDrYK53fQRN0mTSGnPM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQOe54xfichDGfc-Q_njmAUBv_RMfVn3WwB2q1Jp1QXRxw&oe=6AE12350"
+          "url": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOt07AQkmKRMnP8-i2bjmkETnh1LyQQQQG4hybRzUqM4t8_ZEYCRonEzQg5vM6T6WACKzu5LAXyAKderNNAWylKLoYLYlKnuaCcD1noHg.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=hYt4jUDEjc8Q7kNvwHOdw_k&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQ0NjQyNDY0NDA1MTg3OCwiYXNzZXRfYWdlX2RheXMiOjI2LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&_nc_zt=28&oh=00_AQPpdWfVs4xrCAGwz8UQLXYbYRvtdTwq1tMCfekDjy5CZQ&oe=6AE25D5D",
+          "thumbnailUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/830236694_1469578055166795_5217607869173082486_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UQ9ncGL7g_kQ7kNvwHgo6Lm&_nc_oc=AdrP2oi6UGJzvKC97lewgzYrR2QWt81iHrytYb5xoq_iDtYzTFfO88wYrt760-F_4Ak&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQOQyg_yq3n_fZBXRS9LDHifJSC6P3MFgnjw0z1mhVK9JA&oe=6AE274D0"
         }
       ],
       "pageName": "Korean Daily Insider",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-05T13:53:38.471Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 15,
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 16,
       "notifiedAsWinner": true,
       "angles": [
         "Botox-vergelijking",
@@ -915,15 +917,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/847690471_2193257118280975_3328581028661826714_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xDLIZ-w4_ScQ7kNvwEk-_D-&_nc_oc=AdplaGZvc8Nwk_n5AOdwv93Cc51hJFWNCjLsr6HWFG5r4nxTmjJmTiffGDYwfAXoocU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQOHaFxF60IU30IAXrEQSTW998FG44stAiW2YbL3JtO58w&oe=6AE11860"
+          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/847690471_2193257118280975_3328581028661826714_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gl6TUtZjqeUQ7kNvwG5uJJS&_nc_oc=Ado4ybLEDAbvTLKHnA_v3AUCOVNyDT0CiFF3ZHzS-gTyfkurlWeukA_GDoPenV-1gDE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQPveLDyjep3Icycug4MOkkzMuhcrNNZ0WDgTpjsfRQ7xg&oe=6AE269E0"
         }
       ],
       "pageName": "L'unique - Paris",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-20T11:04:32.221Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 4,
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 5,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "Et si ce n’était pas seulement la fatigue qui marquait votre visage, mais aussi votre routine de soin ?",
@@ -961,19 +963,19 @@
       "adId": "1595803445677625",
       "startedRunningRaw": "Started running on Sep 23, 2026",
       "startedRunningOn": "2026-09-23",
-      "text": "Your new skincare essential is here ✨\nDiscover Seoryune — Korean-inspired beauty made for smoother, brighter and healthier-looking skin.\nUpgrade your routine today.\nSEORYUNE.COM\nKorean NAD+ EGF Firming Serum\nShop Now",
+      "text": "Your new skincare essential is here ✨\nDiscover Seoryune — Korean-inspired beauty made for smoother, brighter and healthier-looking skin.\nUpgrade your routine today.\nSEORYUNE.COM\nKorean Wrinkle Bounce Multi Balm Stick\nShop Now",
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/822499748_1257407949909640_867397868011820661_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=atl05cJYBg8Q7kNvwGGouW1&_nc_oc=Ado-J9Lw-x_GC498-YyXJNtSpeHxvmYNl7WWjuaq64Ls56LHnW2VBu0Xrv0klv6dtHk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQOOOArAOlbwxFJhzmfDg5ud0MKo5citCid12ZZvHsChog&oe=6AE1020D"
+          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/820343720_2318092785261497_6246327918894882464_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YUO4wswZK1MQ7kNvwGfFPvq&_nc_oc=AdqfHZCIFCq9J6SeRXlzvpZqSkH22Pdf0YKH-9JqlWA1XP_pZcQMW-Ozm4Cb1dg4S3Q&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQOeRXrtwIskUBQ0mIFEGYIStvtC-ipSWD54NGGQRhgrug&oe=6AE247E1"
         }
       ],
       "pageName": "Seoryune",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-15T11:00:21.525Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 9,
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 10,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "Your new skincare essential is here ✨",
@@ -1010,39 +1012,61 @@
         }
       ]
     },
-    "1818285472933328": {
-      "adId": "1818285472933328",
-      "startedRunningRaw": "Started running on Sep 30, 2026",
-      "startedRunningOn": "2026-09-30",
-      "text": "Le Botox coûte 600 € et disparaît en 3 mois. Ceci coûte une fraction du prix et se fait à la maison.\n\nL'Ampoule KLEAR Deep Collagen utilise de vrais fils de peptides de soie dorée coréens qui fondent dans votre peau et la raffermissent de l'intérieur. Le collagène de très faible poids moléculaire pénètre en profondeur pour reconstruire l'élasticité perdue, tandis que le Volufiline comble les joues creuses et l'ovale du visage relâché.\n\nDès la première utilisation, votre peau paraît plus ferme, liftée, et des années plus jeune. Sans aiguilles. Sans rendez-vous. Sans temps de récupération.\n\nUn acheté, un offert aujourd'hui. Annulez le Botox. Prenez ceci à la place.\n0:00 / 1:31",
+    "1127759196301974": {
+      "adId": "1127759196301974",
+      "startedRunningRaw": "Started running on Oct 19, 2026",
+      "startedRunningOn": "2026-10-19",
+      "text": "Skincare routine d’automne ✅\nDirection votre pharmacie ou parapharmacie pour passer à votre routine SVR d’automne ! À la carte : de l’hydratation, de l’apaisement et de l’éclat, toujours dans des formules ultra-concentrées et des textures hyper agréables.\n \nQuels sont vos essentiels de la saison ?\n_\n \nAutumn skincare routine ✅\nHead to your nearest SVR stockist to get your autumn routine sorted! You’ll find options that hydrate, soothe and brighten in concentrated formulas and gorgeous textures.\n \nWhat are your autumn essentials?",
       "media": [
         {
-          "type": "video",
-          "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPDSARqqlxd6daLV4X78PgPM76p4LtM-L1YAeCUKSbLXJLYuPZjY4MVgGhiVIeTv_dX4WOuV1x9BbjDlKFsWjdXeLV6CweMnaI-s5EPJA.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=bAO-qdwbTiYQ7kNvwE7b4k9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc5OTE4MjM5NDQxNTQzNywiYXNzZXRfYWdlX2RheXMiOjI5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6OTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&_nc_zt=28&oh=00_AQO_qbWTuQYJPat44OEX8F4NsWhwdw0DP_Qi97F1wqVAZw&oe=6AE129D3",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/832926830_1090852927136029_5889438214115848483_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Dl2EhnHrtEsQ7kNvwHx3Zar&_nc_oc=AdrRdfv9nGQ3IjXVbEZa9ndHJGzwv89SK6W1RbeBwXpgyLFaus6xyKn9jovPjH_yjRI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQPFbPwuk8iRgXwInccuAc--NKgWClpmObQssGixrGWs1A&oe=6AE0FE0F"
+          "type": "image",
+          "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/854629166_1087759580830090_2904814418769840306_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iZWOtSMZ2k0Q7kNvwEfAOM8&_nc_oc=AdoQn0pEp6pqBzpSDDZ4Ob6cHqYwVtvrdDqNaEbCyvJf-ZNFEFLqoL0RZq5yeaoKFAQ&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQP4iI3VQE0-lnV6LPBnyFT07DFCwahxXV5cxrP0srDrpQ&oe=6AE24573"
+        },
+        {
+          "type": "image",
+          "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/854878902_1478684190743300_4646763056549414293_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yKkPMzW-cDgQ7kNvwFKf8my&_nc_oc=AdplDXIT-h-dTYlS9eEkWrl8ZILAGw4EhKdmIBG__C5_TJjEh8tLyQzguxp3apJOh1o&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQP7owZwRtTcFSaUZCBWjfXf-k7GqsqU6IkPJmZuYEPMLA&oe=6AE25C60"
+        },
+        {
+          "type": "image",
+          "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/855489248_2002261390732580_4249324162045855059_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XuwHe6jX0noQ7kNvwHkRxJm&_nc_oc=Adp_MrOBck5xYIaXBYVLMPnQWES9kaoe7lQeFE3vVCrXR6lW6uMJguc8Julv5O0BcUU&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQOPM68MasSUyMxsh1jnz2zA1YPPYmwUYYmTiM3X__zdOQ&oe=6AE24E2C"
+        },
+        {
+          "type": "image",
+          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/853877774_1708231507595372_5788899017260591319_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VR47oAAwsQMQ7kNvwGg3FnP&_nc_oc=AdpI-t3-EFtmSyjud4T0DTTMqf2STGrPW_BmOcwAayDpTYLEBPDPwh4u3F6vK4CvmyY&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQNhuCksVoK9gQ-1t_VjhnC75OqHxyaLQ2eNIjwR1p5N1w&oe=6AE24B07"
+        },
+        {
+          "type": "image",
+          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/854235977_1010825422033522_2033835793849730533_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ugtn_4OedhMQ7kNvwFZF40t&_nc_oc=AdqxAhMrm1RGAWpLnNSxiF9XxxHuCHNaoquWj_s0eljxzFVtRrcp09xQizHiW4VRcL0&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQOAzbNwfFss2eelFq2kM92iCx6eiwN7ENm30yYvx3Oe1A&oe=6AE240EB"
+        },
+        {
+          "type": "image",
+          "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/853441226_1422320766636393_7599341533688305570_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=90PNFPINaWEQ7kNvwGklAdx&_nc_oc=Adpse0O3lPU7Z67vunGiH95jWADJ8ss7zXZ8og8ai6ZMoDZ1eYLrd0kix-Cxr4ixlRk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQMuBnI9rxQpzCTu7C5Y3urVbUz5hDBoUx3dY7qfYLUwhA&oe=6AE24CFB"
         }
       ],
-      "pageName": "Korean Daily Insider",
+      "pageName": "Laboratoire SVR",
       "adLibraryUrl": null,
       "active": true,
-      "firstSeenAt": "2026-10-22T11:26:13.111Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 2,
-      "notifiedAsWinner": true,
-      "angles": [
-        "Botox-vergelijking",
-        "Mechanisme/penetratie"
-      ],
-      "hook": "Le Botox coûte 600 € et disparaît en 3 mois.",
-      "euReach": 9536,
+      "firstSeenAt": "2026-10-24T10:28:35.823Z",
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 1,
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "Skincare routine d’automne ✅",
+      "euReach": 10655,
       "euCountries": [
         "France"
       ],
-      "euTopSegment": "Female 55-64 in France (2,880)",
+      "euTopSegment": "Female 25-34 in France (2,608)",
       "euTopCountries": [
         {
           "country": "France",
-          "reach": 9462
+          "reach": 11179
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-10-24",
+          "reachPerDay": 2235.8
         }
       ]
     },
@@ -1054,16 +1078,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMjWs6Y9KeEInxJ1QK4uFfcvyrq1Gfx8ir-Pp3OJZvZBHNOv2w8eblF781E4U2at3GD56jUS0S2F8UCO8SRZ_RL37touGqjcKdGLMFsqA.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=uMsxztIzwRsQ7kNvwHNGAp7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTYwMzEyNDQ2NDAxNzEyLCJhc3NldF9hZ2VfZGF5cyI6MzQsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo2NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&_nc_zt=28&oh=00_AQMutdoOkQo5IpwqoobeV2O6It2urXxLuOR_ipRhfgd3nQ&oe=6AE123DD",
-          "thumbnailUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/796638757_2637363286744819_2397985658844477788_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UNnPvUMsbVIQ7kNvwFMBCPY&_nc_oc=Adq70EGHS1bL_tCqI3RATrFJ75E4FHZ_PRMMhWKzwn1CRAmh0TktFkQJ6_5WwmBTE08&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQMNEPZ622-0D4C7fa07QWNz6sRkhGfhd70KDzHb_6G_Uw&oe=6AE129A9"
+          "url": "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMjWs6Y9KeEInxJ1QK4uFfcvyrq1Gfx8ir-Pp3OJZvZBHNOv2w8eblF781E4U2at3GD56jUS0S2F8UCO8SRZ_RL37touGqjcKdGLMFsqA.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=uMsxztIzwRsQ7kNvwEZNV6h&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTYwMzEyNDQ2NDAxNzEyLCJhc3NldF9hZ2VfZGF5cyI6MzUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo2NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&_nc_zt=28&oh=00_AQOEt2MAOaylTL0xv4KHjdqhj0ktHkvF4PPZPWHr3SM45w&oe=6AE2755D",
+          "thumbnailUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/796638757_2637363286744819_2397985658844477788_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UNnPvUMsbVIQ7kNvwGM4-Rz&_nc_oc=Adq_IFuwebc8Y-aC_yIluij9eotcFiB-tOzDkns6wr6S1HgoIsMDVyPwAYIHFaM4Dwo&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZOgWV4W3BWJdMgAhuET1nQ&_nc_ss=79289&oh=00_AQPqiR432iV4zzxyBH_6APUn3nXcSWujPJdDP4McZCko_w&oe=6AE242E9"
         }
       ],
       "pageName": "Korean Daily Insider",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-25T11:23:00.337Z",
-      "lastSeenAt": "2026-10-23T11:11:04.870Z",
-      "seenCount": 21,
+      "lastSeenAt": "2026-10-24T10:28:35.823Z",
+      "seenCount": 22,
       "notifiedAsWinner": true,
       "angles": [
         "Botox-vergelijking",
@@ -1093,6 +1117,44 @@
         {
           "date": "2026-09-27",
           "reachPerDay": 703.2222222222222
+        }
+      ]
+    },
+    "1353401149905587": {
+      "adId": "1353401149905587",
+      "startedRunningRaw": "Started running on Aug 25, 2026",
+      "startedRunningOn": "2026-08-25",
+      "text": "Source Beauty on Alibaba.com. Alibaba.com-World's Leading B2B Marketplace.\nM.ALIBABA.COM\nBest Organic Astaxanthin Hyaluronic Acid Vitamin E Anti-Wrinkle Firming Skin Disposable Ampoule Moisturizing Facial Serum\nLearn More",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/688966088_958882000277630_6292829630676130851_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Lcy7y4iRHHcQ7kNvwGfu3Pu&_nc_oc=Adpt9flKcoH668i_gdd6t2EotoT0JUjGekHlZW5ovei6WXrIxgLbr-EE2bt0ijaQCIc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W8u0NtvYQCfax2-rstM0jw&_nc_ss=79289&oh=00_AQNIcAe2iLim4yA_63NTMrJ6nYXwLmICqZCP3SRhRyZwvg&oe=6AE1223F"
+        }
+      ],
+      "pageName": "Alibaba.com",
+      "adLibraryUrl": null,
+      "active": false,
+      "firstSeenAt": "2026-09-17T11:09:49.855Z",
+      "lastSeenAt": "2026-10-23T11:11:04.870Z",
+      "seenCount": 37,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "Source Beauty on Alibaba.",
+      "euReach": 892,
+      "euCountries": [],
+      "euTopSegment": "Female 35-44 in France (37)",
+      "euTopCountries": [
+        {
+          "country": "Italy",
+          "reach": 198
+        },
+        {
+          "country": "France",
+          "reach": 154
+        },
+        {
+          "country": "Spain",
+          "reach": 68
         }
       ]
     },
