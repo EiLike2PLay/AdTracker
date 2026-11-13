@@ -1,7 +1,7 @@
 {
   "version": 1,
   "pageId": "121135054419977",
-  "updatedAt": "2026-11-13T00:52:49.169Z",
+  "updatedAt": "2026-11-13T15:54:11.130Z",
   "ads": {
     "2165973297546023": {
       "adId": "2165973297546023",
@@ -11,16 +11,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMJhm2ou8EH8y4GVM_yoSSWX9DEKv1-1Cw0ILxSiyIln1l7T3UtY2IEfjHKXoxXe4SVWHpOHAb9jlgttTMzlZuSP6HiGJsW35KNDmRvXQ.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=6xySvuUAo34Q7kNvwFVFkc9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU0MDM0MTQxNzA0NDU1MiwiYXNzZXRfYWdlX2RheXMiOjI3NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRkpcOiDBLwkAiFtkP7gNxcNhi_3K5OH9Zpx2csJYdAMg&oe=6AFC39DE",
-          "thumbnailUrl": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/633317435_2136601153826281_6748131131029071297_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oTq-oRrw4ZAQ7kNvwE-lM4O&_nc_oc=Adr1me50k8uRncZ2vOCLQN-ui9AWQYWW8XUWz_PT66tvf6dP-Bt1lxjatsPa7jhZgWU&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQRQWX5_W0vq3Dq9Kq8CSP0UDQWb3FEmTuvty0XYnBuz7A&oe=6AFC2D07"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMJhm2ou8EH8y4GVM_yoSSWX9DEKv1-1Cw0ILxSiyIln1l7T3UtY2IEfjHKXoxXe4SVWHpOHAb9jlgttTMzlZuSP6HiGJsW35KNDmRvXQ.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=6xySvuUAo34Q7kNvwECZHGz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU0MDM0MTQxNzA0NDU1MiwiYXNzZXRfYWdlX2RheXMiOjI3NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQcVES2WSTlFCZJEG1rkaUMcJMnlgMjbJSnjBGXk70YGQ&oe=6AFD1ADE",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/633317435_2136601153826281_6748131131029071297_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oTq-oRrw4ZAQ7kNvwFvTTtE&_nc_oc=Adrhes080q0XzQTsGq-6AMxnE1Zd0fItV0p6klEEWabYuAUVtvafaqrRBcQOcMnvA38&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQRWshRGnBv2ASNzaquqC8UaMcrRGMUg2W4UxYhPOtU5Qw&oe=6AFD0E07"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 114,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 115,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅",
@@ -77,16 +77,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNDvJAlsw9tzgcZk435XBP2u3OmK-_bZ6cyScEXthKP7MK9IAPNUoT8GQbj9pjUzEZagkHVTA85T7eMjTLOwPf1urRXO3xJEg2gyVYVjQ.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=LrlEOvfuAMQQ7kNvwFzU-ye&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjA2MjAzMDI4MTEwNDczNywiYXNzZXRfYWdlX2RheXMiOjM0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjI4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQT2Gw_b6CM7gh95_4ScuN3QKznmdBeaHAViDxRp_FSIFA&oe=6AFC31DB",
-          "thumbnailUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/844148911_1091192090548437_2883245552379384110_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=t62SQ-ahIUkQ7kNvwGV9_Vw&_nc_oc=AdqObB-rKC5PSEMDDTCBEHocceK_7n535G8Uu4CEMWbIRfCxlP85aVUv7aMb-l2fycw&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQTg2Ic1RSOWUwG7X4Qww6J8aZEL-EPflQHSKjqsqRD2KA&oe=6AFC23FB"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNDvJAlsw9tzgcZk435XBP2u3OmK-_bZ6cyScEXthKP7MK9IAPNUoT8GQbj9pjUzEZagkHVTA85T7eMjTLOwPf1urRXO3xJEg2gyVYVjQ.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=LsUngUdE1tUQ7kNvwHNhYM-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjA2MjAzMDI4MTEwNDczNywiYXNzZXRfYWdlX2RheXMiOjM0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjI4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQT8EmrpX2xkHBhBboFp8_YF23aJhCpLR4CPnTwHG2eBEg&oe=6AFD12DB",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/844148911_1091192090548437_2883245552379384110_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fZfG4lt7p8MQ7kNvwEh5ojP&_nc_oc=AdrOnBIfKI94Sp868Y08gHdjOKT_gJXNj_044U_R_hFk34pKpYlYgi7IYUGnfDsIANQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQQM3_fyQIKTm_V8_3WfvUsHtRiIiYIwZ5zixxp244Zyng&oe=6AFD04FB"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-19T23:17:31.752Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 46,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 47,
       "notifiedAsWinner": true,
       "angles": [
         "Cadeau/bundel-framing"
@@ -136,16 +136,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQPLb6l9u838F55aeJjDXhCqGXwxS0hM5RRdvIdttUAafwZXMjYZksrHvsyk3fUiMhZbQNLaZxdZeghjNR_H0YWTuQW78xNj4qQua5O2Yw.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=fnhbypKmQzAQ7kNvwH9tebp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI2MjEyOTI4MjY4NzU5NiwiYXNzZXRfYWdlX2RheXMiOjI1MiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTCHd6pa_Ctd4c1s9fKJngYojvvIesM0SS8N4L5GYnGbw&oe=6AFC48E2",
-          "thumbnailUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/644720685_1264450772447018_243500833155226538_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FGWO3yfMv0MQ7kNvwGDnP4J&_nc_oc=Adq5vJXYjFPrnJ9184mmg_lxl7atYBu8VzazzKAkGOU1BF5ZCrY99FGZnixMNW5-hQ8&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQQHN6brrSSjuH_LZFU8jwNotD52A-7awrD_cR4e9OpeQQ&oe=6AFC3ACC"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPLb6l9u838F55aeJjDXhCqGXwxS0hM5RRdvIdttUAafwZXMjYZksrHvsyk3fUiMhZbQNLaZxdZeghjNR_H0YWTuQW78xNj4qQua5O2Yw.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=fnhbypKmQzAQ7kNvwHAHLWk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI2MjEyOTI4MjY4NzU5NiwiYXNzZXRfYWdlX2RheXMiOjI1MywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQww7S89SZt8r3w1KHztvNR-QQ3l5Gm4vy9DqXYNTHcpA&oe=6AFCF1A2",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/644720685_1264450772447018_243500833155226538_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FGWO3yfMv0MQ7kNvwHubM9b&_nc_oc=Adp1WGneQNxDrm2pL3dU9rv72YgEdKT72_sSDEL8Lgd1YwdZXxwOZ3DnHo8yhFcMpwo&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQQzGE7kh4AyFCIGw9tef4DriyW4qdlzbdjorsG6LXZB1g&oe=6AFD1BCC"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-07T15:03:12.113Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 71,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 72,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅"
@@ -158,16 +158,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQO29zdG53VNCQ6vC7vXH7gPGFnZ6hUcH9TwQKwiX4l1tJH6jM9mlLzPfA2s4Gd2ENwNF1Rj5OSCR51rZZSTWlVgbskvwA5mn6AldY-dVw.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=07seoWeaRR4Q7kNvwEKAvLZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE4ODc2NDI4NjU1NjM0NCwiYXNzZXRfYWdlX2RheXMiOjMzMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjk1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQK1e1ICvBV5r-jejFCHphHH4OHq9tnXT2astkF3k56Zg&oe=6AFC43D6",
-          "thumbnailUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/600296417_1205744404852635_6246623942275108425_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NvtSTCkD-6cQ7kNvwGnR35G&_nc_oc=AdqayYka3KpRlN9tzvStWD7-dc66c_e5YMmHMBJ_FNLDd7a5BHhKO7XY6mV9KoVVTFQ&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQTEnJz30V05oSItFQmXaapp_XnL7YNu3rLr6SvaTkwtag&oe=6AFC29B1"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQO29zdG53VNCQ6vC7vXH7gPGFnZ6hUcH9TwQKwiX4l1tJH6jM9mlLzPfA2s4Gd2ENwNF1Rj5OSCR51rZZSTWlVgbskvwA5mn6AldY-dVw.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=07seoWeaRR4Q7kNvwEY7GJo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE4ODc2NDI4NjU1NjM0NCwiYXNzZXRfYWdlX2RheXMiOjMzMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjk1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTV1iurLpv-i91aR8N_MxpKBiTmcfHsSAiI50n6jk-Pvg&oe=6AFCEC96",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/600296417_1205744404852635_6246623942275108425_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZZitRUHFqxcQ7kNvwEaJ_4Y&_nc_oc=AdoQ0hOb6xtT0nhkDVKFr58BperQcwsp5sOkozYJjheh59L9MK9qc7QLugIcfZp6Nrs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQQntxFIHGhk_oCSzk0umYWdI5cpEapi0gRuQG15vI6egQ&oe=6AFD0AB1"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 114,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 115,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅"
@@ -180,16 +180,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPo5j_V1mV5gFArfmvi8rQHghrSFVb3RIBXRcRQT25gpV4AFvVeJ-lMKUtLFaDBtAPOHt528R5XeF-CMJX22Rf8on4C_cuapHrSHKJxrA.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=5hgFG1DZ5o0Q7kNvwGCteDJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTcyNTQ4MDUxMjE1OTU5MiwiYXNzZXRfYWdlX2RheXMiOjI2NSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSyHMv8RqEn9YZVOs73Uc_KGHcg_kJqLD74edub5_sc8g&oe=6AFC1A50",
-          "thumbnailUrl": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/637882200_3939731519663984_1763085125588495033_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8Zwc3QvpNIIQ7kNvwHeM5oC&_nc_oc=AdoHU5YrtgtpKLNzFO9IQhXn_76rDKpggGlq4sqcu7CpC-EulJyyWnXewdEQG4DGkWM&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQRS1-hxsHuXzmcMOzpkK48CtsAGVdofPcAHeNr9FTXFIA&oe=6AFC1CC6"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPo5j_V1mV5gFArfmvi8rQHghrSFVb3RIBXRcRQT25gpV4AFvVeJ-lMKUtLFaDBtAPOHt528R5XeF-CMJX22Rf8on4C_cuapHrSHKJxrA.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=5hgFG1DZ5o0Q7kNvwGoU_ps&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTcyNTQ4MDUxMjE1OTU5MiwiYXNzZXRfYWdlX2RheXMiOjI2NiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTgLLVdFyRurDakijyQQ_3zCt4ScidDhpZGEanTikLv4w&oe=6AFCFB50",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/637882200_3939731519663984_1763085125588495033_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8Ei0LGcSS1oQ7kNvwGpEmr0&_nc_oc=Adoamf5S_ThP_vdvw8YpjqfiO5NDiXpSIjz8Sciez5Oky99M-RbQvylXqhPJtdtApL4&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQTG__IiX3wq3H-Tn1vVsT0QV77loHCiQq08brtCrWibdg&oe=6AFCFDC6"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 114,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 115,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅",
@@ -246,16 +246,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOn0y6PmCPIvUbhZsNXr0bN9rYA4Ess5Z_FVVr3K-3iog10k-KotL-c87lB3-zv4waXRBcNAbj6Xlt3-_Pui_ZgsUkUTskGMAqDXzkjjw.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=CZ5R5yJTgLkQ7kNvwHAv3gj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mzk5ODE5MDc1Njk4Mjg0MiwiYXNzZXRfYWdlX2RheXMiOjkwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTA4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTDL1cx5TgsmkpvFZL56SccwfuUrMd-12pKjedxCbMgdA&oe=6AFC1A02",
-          "thumbnailUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/776291475_1863490641694937_9035293811463800947_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TooiGqy7fzYQ7kNvwHbziYH&_nc_oc=Adqgo2X3Sb9mp2lgEirIoDVXBL15XoViw-KdrLS4g1T6NB0rmb1fgXpFtyYzDsbPTiM&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQRWO0SNfCq47npjhcveC5BXLXj562mdyPjAEWQjfzLe3w&oe=6AFC202B"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOn0y6PmCPIvUbhZsNXr0bN9rYA4Ess5Z_FVVr3K-3iog10k-KotL-c87lB3-zv4waXRBcNAbj6Xlt3-_Pui_ZgsUkUTskGMAqDXzkjjw.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=CZ5R5yJTgLkQ7kNvwGvps-b&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mzk5ODE5MDc1Njk4Mjg0MiwiYXNzZXRfYWdlX2RheXMiOjkxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTA4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ2zPpSczeK3Km6uSSzbRVJdPTUpjb0S0O-VH0hebpSZA&oe=6AFCFB02",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/776291475_1863490641694937_9035293811463800947_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TooiGqy7fzYQ7kNvwEyY82e&_nc_oc=Adois6ysqGyruNX-Tr06tQB6PCe3NrNhs-t9t1rrwRMUFb-GeaQ2qz5LVzqcz4zs7PY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQTLC6aryPvP-znBo09h6Na2cDn1uCZKaA2DXYq20T_oXA&oe=6AFD012B"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-11-08T23:24:38.871Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 7,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 8,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "Thousands of women are getting that feeling back with dissolvable silk peptide threads.",
@@ -289,16 +289,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPIxMr9xfgqdPuCerXqSQfYVRpBmUEOT9F3Cqe07V2tfAvGcJ5ovfabi19MjLGi6aVti1F64Qk25lR6rdBtxtGUxkJ8-jkbe4ie6U0nKA.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=xnbzIOQPamUQ7kNvwEG6PWk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTg0OTY0NDYyMjg4ODMxNiwiYXNzZXRfYWdlX2RheXMiOjM2LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQThRQKCIgOm9ksyLcxa3M39ApZerU42zwW8SmWg1nnEIg&oe=6AFC426D",
-          "thumbnailUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/837660597_1415467560715417_4750173495101459676_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8FwkqKVcDd0Q7kNvwElvLOn&_nc_oc=AdpVyDGZIDO7qFp_C9Dl2s9wYpdXgc3RzG5OxlUCeEFTVgeHVGAbjZv9QxEPjcCtVGE&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQQb53odP0XfzXy1NLlW5KWo_2LcqWWARuBmjakITuw_xQ&oe=6AFC2F5B"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPIxMr9xfgqdPuCerXqSQfYVRpBmUEOT9F3Cqe07V2tfAvGcJ5ovfabi19MjLGi6aVti1F64Qk25lR6rdBtxtGUxkJ8-jkbe4ie6U0nKA.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=xnbzIOQPamUQ7kNvwGeBXER&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTg0OTY0NDYyMjg4ODMxNiwiYXNzZXRfYWdlX2RheXMiOjM3LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTH7qMrIoW3LfLVJdoMTuM3Ksol1jexPXWo34LOXy6lhA&oe=6AFCEB2D",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/837660597_1415467560715417_4750173495101459676_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dcdHufHww5EQ7kNvwG-mkf5&_nc_oc=AdoZjq8tdgkT6t50iil70iS0Hd_W-4V6v1osnK1EXTPBxH-M8TfwAeS4_3doIWQgVOo&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQS_ZWb6dI0sILtc0JxkOARLMrDqs1biLp7bfJQGekw5QQ&oe=6AFD105B"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-14T13:18:02.895Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 57,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 58,
       "notifiedAsWinner": true,
       "angles": [
         "Mechanisme/penetratie"
@@ -348,16 +348,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQOR5byvh1uNRWWPXDYdNpRWWcl0GZQ9z8r32EhJpOI2TsWu7fDzJkunSRYgtNixkDm1JO0LZmJmjJfANigT6kKtzWgS0PqqjHlUbB4ufQ.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=r-B6qj4y9ccQ7kNvwEK6J09&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE0NjU4MjMwMTI3MDAxNywiYXNzZXRfYWdlX2RheXMiOjQyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDQ5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQpFZgdp63Gt8pwpvZmnW5yWeHXWOctzlodJDQStlKLSQ&oe=6AFC410A",
-          "thumbnailUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/832232055_1076098445204827_1168998075613825319_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WMF_v5Gy7TgQ7kNvwHqaK-q&_nc_oc=AdqzpS91Jz-tn8Do67hB6NDIZIa89iq3RV0Q1ngIhL-I4kBRh0_oyF2tgYKq4VQvQOk&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQTi3iay_v1sFZlutgE36b_KCnSO8UbX12Z77chgIq0Z7A&oe=6AFC2923"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOR5byvh1uNRWWPXDYdNpRWWcl0GZQ9z8r32EhJpOI2TsWu7fDzJkunSRYgtNixkDm1JO0LZmJmjJfANigT6kKtzWgS0PqqjHlUbB4ufQ.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=r-B6qj4y9ccQ7kNvwEJcXJI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE0NjU4MjMwMTI3MDAxNywiYXNzZXRfYWdlX2RheXMiOjQzLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDQ5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQS_XcAK89DPt7uxhUq5CPpGoD50t-sqAgVuSLiy0z_qw&oe=6AFCE9CA",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/832232055_1076098445204827_1168998075613825319_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WMF_v5Gy7TgQ7kNvwGDNDph&_nc_oc=AdogXT67Uj59OqLrSEIkHAPta72VIdvBSY8ttOQS_W2wRRc1oVg5seVxW5B2lJuEj5g&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQTj6DItOG0Nz8ZGu8O8a9tDt0QxCfwB233YIZgxL5rKIw&oe=6AFD0A23"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-07T15:03:12.113Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 71,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 72,
       "notifiedAsWinner": true,
       "angles": [
         "Mechanisme/penetratie"
@@ -407,16 +407,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNDy-JzNYLp8asBsEIUOI8131p1imyAVl2AiH_t0aK06sAqwgNh1z_tD0ZmCEchvzGeDV5o6wdAwKTAyi1njc99R8Cvva8gnLCzmdumiQ.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=NGo1zlI1cuEQ7kNvwH8SsWa&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTkzMjIwMDc4MDk4NTMzMywiYXNzZXRfYWdlX2RheXMiOjMwNiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE2MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSRNhh6y63iqRkInGYM_SjGunxAOWYUFmoRl1MV-9wiZw&oe=6AFC4713",
-          "thumbnailUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/614175908_1258392113010510_1142300554062407552_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AKeJFZL1I0kQ7kNvwF8n0N3&_nc_oc=AdoX3GEuYKr3HJRNDb0wkn06JJICcIVPnevCuo4tYUUC4eal8avDfzFgXFa8Xz9IzCc&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQSdg3eL_ZuIWweTpDQ7yJQYqA31SP9pR_1G4d1c9lcqCw&oe=6AFC3F9C"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNDy-JzNYLp8asBsEIUOI8131p1imyAVl2AiH_t0aK06sAqwgNh1z_tD0ZmCEchvzGeDV5o6wdAwKTAyi1njc99R8Cvva8gnLCzmdumiQ.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=8kPoEZp8LIgQ7kNvwHdeDVs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTkzMjIwMDc4MDk4NTMzMywiYXNzZXRfYWdlX2RheXMiOjMwNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE2MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRSH0RXL4zEi1zmTnPCggF5mXKD-Br7uGbi3JlyA86-fg&oe=6AFCEFD3",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/614175908_1258392113010510_1142300554062407552_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AKeJFZL1I0kQ7kNvwHaYpce&_nc_oc=Adp9uhzpyhZcAhrtRfotf0Gw7J_60zJO0yYp1XgANkqjTY9AL4JVpQ2EqplV9kBsu6U&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQRLTAhxRm-2v2BLAitHmGwlTm8Z1aCAGrN4_8g1QrjSQw&oe=6AFD209C"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 114,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 115,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅"
@@ -429,16 +429,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQODALAwHXslI6H_LSvXWvTXERKfyckXOcMFzjD3Whvld8runjyrHm4T5IFR781aVesSyViRq1Y7rsvD5ye5myuvP-UdtER78eUFor2FOQ.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=avi5g6p6StMQ7kNvwHtoapM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjI2NTEyMzM0NDIyMTMyMSwiYXNzZXRfYWdlX2RheXMiOjQ1LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjU3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ-AEJmtuAeJ6E4XcYs_N1dG1HBq0zfpFAUUFSJ8fnq4Q&oe=6AFC3794",
-          "thumbnailUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/830188050_1105577062077909_9014183551607149327_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XqzRm4zXww0Q7kNvwFCPixr&_nc_oc=AdoPwVpv2SX5bHK0atRRB6xc-Z49X_hvBylURIzlTvvlfRjDBRBHGYprrXVw048WNR0&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQQ1SjnfEAL-loYojI-1Fywq1tpdohaIOshe9VHxZBYuOw&oe=6AFC481F"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQODALAwHXslI6H_LSvXWvTXERKfyckXOcMFzjD3Whvld8runjyrHm4T5IFR781aVesSyViRq1Y7rsvD5ye5myuvP-UdtER78eUFor2FOQ.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=w3oIcx5eBQkQ7kNvwFs0tS-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjI2NTEyMzM0NDIyMTMyMSwiYXNzZXRfYWdlX2RheXMiOjQ1LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjU3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRj4x-enmy8MvE-6pcyKt07Aifg9kRtj9MviKH0EtLkDA&oe=6AFD1894",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/830188050_1105577062077909_9014183551607149327_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XqzRm4zXww0Q7kNvwGqHtHi&_nc_oc=AdrqsvEbjCDu_4gHG9wKo66Hu7tuL_VrOdHUamZpDtdv69UE7uEQVtUxGpOx1OHM3eI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQSXpBjRHu4NtvsChX_85XQbWBQik8X2S_MYXogY4tyiPg&oe=6AFCF0DF"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-07T15:03:12.113Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 71,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 72,
       "notifiedAsWinner": true,
       "angles": [
         "Mechanisme/penetratie"
@@ -488,16 +488,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPS__dFYn9_8M5FRdfThdyOuGfwYVComaCKi9m1DKdjBY9alclt2D8zGUJqgBXsNNp6AhcQcbPyvHKnUfXwFR5szKfOrsu_2e6mT6PMjw.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=oszUEcyZX_IQ7kNvwHfzZKV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM4NzgyNjcwNjc4NjcxNSwiYXNzZXRfYWdlX2RheXMiOjcxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTY1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRVinfVJLYXqSZsj9NyeYtpaC_h38gvOsQebEVIuCf8ig&oe=6AFC1D4C",
-          "thumbnailUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/786888780_1062299719779167_3526118734609298481_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Gpt_pP1z6v8Q7kNvwHVswNL&_nc_oc=AdqKSH8iz7v6SHORxz9l6ISXC_L8AElwKwBPIq3hYWyBxqGOAgp8ANoJxYZrtNsLiJU&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQQHL-_polArt1frgnozO1OhwEV98b05dHQOmQf42xNnOw&oe=6AFC4682"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPS__dFYn9_8M5FRdfThdyOuGfwYVComaCKi9m1DKdjBY9alclt2D8zGUJqgBXsNNp6AhcQcbPyvHKnUfXwFR5szKfOrsu_2e6mT6PMjw.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=oszUEcyZX_IQ7kNvwFXq-ne&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM4NzgyNjcwNjc4NjcxNSwiYXNzZXRfYWdlX2RheXMiOjcxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTY1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRjeapARezilparH5G5xjp9ERf950Zw7a7e45nJTsPn3w&oe=6AFCFE4C",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/786888780_1062299719779167_3526118734609298481_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Gpt_pP1z6v8Q7kNvwF_JsBD&_nc_oc=Adowl0kmnXui1u3gjy1Z1yiw9d4InQiibBFy_SwDlHtlEkOM49VXDQ9uOhi4thexctQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQQpytXimE84_jbRPgRB3R3magjUCJpabp_Sz1dNaFXkaA&oe=6AFCEF42"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 32,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 33,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "Three months ago I ended up back in bed with the man who left me for my best friend.",
@@ -531,16 +531,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQPdSkK_FN9Ij3DVQWghIRtrmJCnH_V0pV7B9QHhI2q6XxQykcWjCmITjIcynnkOtWrOyJ0Cli4LiNETzsMLT_DJKEA7_r3mQxL7S6qZjg.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=Y_IYHEIbTL0Q7kNvwGVcX7a&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA4NDAzNDc1MTI4MDI2OCwiYXNzZXRfYWdlX2RheXMiOjM0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjMyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSKEDUNHGsg5PjKo3ba14ArlKU8hdf5T5r9YPKcQJ_Lzg&oe=6AFC3474",
-          "thumbnailUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/843224342_1127865476447208_7950352511568301093_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=80gbbELXYR0Q7kNvwFPXPVL&_nc_oc=AdqCUNO9EfcyjAObncFdiMDIFD9AuZDGu48rxGkGVsP-UhNuKZSdqYZSJDfFVwpzR74&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQSVEkrruaEn2CSj2CnXftvkrMhNyMNnq7Nw0AJrAzDfDw&oe=6AFC334F"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPdSkK_FN9Ij3DVQWghIRtrmJCnH_V0pV7B9QHhI2q6XxQykcWjCmITjIcynnkOtWrOyJ0Cli4LiNETzsMLT_DJKEA7_r3mQxL7S6qZjg.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=Y_IYHEIbTL0Q7kNvwF8I5ui&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA4NDAzNDc1MTI4MDI2OCwiYXNzZXRfYWdlX2RheXMiOjM0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjMyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSskMb1xL-wR18VNFy20vWm4Xmr12ePCgAH9NXiDhD9kw&oe=6AFD1574",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/843224342_1127865476447208_7950352511568301093_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=80gbbELXYR0Q7kNvwFfAKUo&_nc_oc=Ado_F0lMq34GrTO3D8zjDW5LpaJrAN3r2Jsz3dIjtSboNZMd0C3Jj5G_EA5N7b_prB0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQSlDEU8Vv1jhjxhYDMBqcowyzWnJWBI_TjDHfXaIbbm3Q&oe=6AFD144F"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-10-30T23:27:20.607Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 25,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 26,
       "notifiedAsWinner": true,
       "angles": [
         "Cadeau/bundel-framing"
@@ -576,16 +576,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMuJRIl3wsCFqbZgFdNEW6aDEK2AEox13iEKMRcTlRJROhGJFNtzNA6mWSYl8Exgli0PenzjC3RRvdN6BbWKD3C7OaUaZxPOE1lu5LzeA.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=gDgG1n7wqiwQ7kNvwEB5m8g&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjQwODkyMDg2OTYzNzYyOSwiYXNzZXRfYWdlX2RheXMiOjkzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjEzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=UkE9Jbon-v88MJdh0l6i8z39c-xtb5ktTHhOk4L-TaiI10Q7KIFP4hWRIDw5oRVvpsHTvudvey5HlZi_7fHOijO0AHh74y_vqwmJsBAhLIeLFkfrmaz5tcRBhVA&oh=00_AQRego5ewER7zVjbw0vKvuXSTTJw4dmH1HAqcIAFM5m6dw&oe=6AFC1905",
-          "thumbnailUrl": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/773572711_1569915897840837_1136665874280194541_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S83Br2RyFlwQ7kNvwE3eWuC&_nc_oc=AdoQBJuSaATRO7fee_xqXju8m6WXtRsHgJX0gxv8FR9uGjW5ON55ggjIQhXvm-iRnQQ&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQQoMSH7eP7zui072fxhZH2_VMCX_8B5FvZT-y5xVrv6GQ&oe=6AFC408E"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMuJRIl3wsCFqbZgFdNEW6aDEK2AEox13iEKMRcTlRJROhGJFNtzNA6mWSYl8Exgli0PenzjC3RRvdN6BbWKD3C7OaUaZxPOE1lu5LzeA.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=gDgG1n7wqiwQ7kNvwF9pcGy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjQwODkyMDg2OTYzNzYyOSwiYXNzZXRfYWdlX2RheXMiOjkzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjEzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=Uil5mWCFQPjLqoxg1w8Giu4OW-2_RbmCQ3Dh0HLP39IiqZFjX7XbCnvIKmrhy7-yrZ-b_j6MfQS8N_VTn3xORxGKCrwOFqAEE4ZeRpAaI1aRfomevSMtnXbM76E&oh=00_AQR8YuAsMZxQH50OfB5_G2uZdeJup8W0jnICEPPk32VbZg&oe=6AFCFA05",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/773572711_1569915897840837_1136665874280194541_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S83Br2RyFlwQ7kNvwHdW6Ku&_nc_oc=Adq4D00y1OdGEM7Rjj3FNddiQRE_pRksPTqRrQFEaEBg1KvuIZZcsv-h6GDxGunlhb0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQRe2OLgy7C4NZVot3rGZQ9Q2ipRtOv5xWrdjdNtPbH1yw&oe=6AFCE94E"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 52,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 53,
       "notifiedAsWinner": true,
       "angles": [
         "Mechanisme/penetratie"
@@ -621,16 +621,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNohD7IemTV285GiWT4p9XRMMOrPU9JiZXiuIq1RX7KO-9EYhTuSdB553OemXqHLJgDLdGCz8krBNV72TbJfVogG7SIloVBC_l2vp-2JQ.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=uL5E6qmIzNQQ7kNvwE7Kgzs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM3NTQ5MjQ3NDc5NTMyMSwiYXNzZXRfYWdlX2RheXMiOjQyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzA0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQR6mtBg18mwCWrLGYr16Wiyu8baqpKfO9Jt5rPtzzg7Rw&oe=6AFC2566",
-          "thumbnailUrl": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/825267191_1727795998282832_4306483228059609110_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7k01TwRQwSIQ7kNvwHRm9rq&_nc_oc=AdpU7UZ-NJAqK_grbCIW7E8V8Zb2RW558couDCTcIygO-_O4-NxE19eXZug8LOePsSo&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQSkl8i6P8o6fxmNGxj7eCAbZHci7XU2tkbHriO7VPzVvg&oe=6AFC2572"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNohD7IemTV285GiWT4p9XRMMOrPU9JiZXiuIq1RX7KO-9EYhTuSdB553OemXqHLJgDLdGCz8krBNV72TbJfVogG7SIloVBC_l2vp-2JQ.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=xMA29oXVGQoQ7kNvwH3o0p3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM3NTQ5MjQ3NDc5NTMyMSwiYXNzZXRfYWdlX2RheXMiOjQzLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzA0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQHtFokFtEHFHI_5gusOdCXOQ8dzZ07SKK4yX2WIkOWnA&oe=6AFD0666",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/825267191_1727795998282832_4306483228059609110_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7k01TwRQwSIQ7kNvwH0BF-D&_nc_oc=AdpAsQuoKMIE-HkvHkpd_MMNu6fTto4lNwd863AwDBg0CLCMeqVRIm2qCr7Xlz61OEQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQTEHSyDkqvBqgrLPvkX9pgDgFPtaepwbX3BC8NbzmM0wA&oe=6AFD0672"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-11-05T16:02:59.831Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 14,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 15,
       "notifiedAsWinner": true,
       "angles": [
         "Testimonial/persoonlijk verhaal"
@@ -666,16 +666,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQPLb6l9u838F55aeJjDXhCqGXwxS0hM5RRdvIdttUAafwZXMjYZksrHvsyk3fUiMhZbQNLaZxdZeghjNR_H0YWTuQW78xNj4qQua5O2Yw.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=fnhbypKmQzAQ7kNvwH9tebp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI2MjEyOTI4MjY4NzU5NiwiYXNzZXRfYWdlX2RheXMiOjI1MiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTCHd6pa_Ctd4c1s9fKJngYojvvIesM0SS8N4L5GYnGbw&oe=6AFC48E2",
-          "thumbnailUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/644720685_1264450772447018_243500833155226538_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FGWO3yfMv0MQ7kNvwGDnP4J&_nc_oc=Adq5vJXYjFPrnJ9184mmg_lxl7atYBu8VzazzKAkGOU1BF5ZCrY99FGZnixMNW5-hQ8&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQQHN6brrSSjuH_LZFU8jwNotD52A-7awrD_cR4e9OpeQQ&oe=6AFC3ACC"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPLb6l9u838F55aeJjDXhCqGXwxS0hM5RRdvIdttUAafwZXMjYZksrHvsyk3fUiMhZbQNLaZxdZeghjNR_H0YWTuQW78xNj4qQua5O2Yw.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=fnhbypKmQzAQ7kNvwHAHLWk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI2MjEyOTI4MjY4NzU5NiwiYXNzZXRfYWdlX2RheXMiOjI1MywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQww7S89SZt8r3w1KHztvNR-QQ3l5Gm4vy9DqXYNTHcpA&oe=6AFCF1A2",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/644720685_1264450772447018_243500833155226538_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FGWO3yfMv0MQ7kNvwHubM9b&_nc_oc=Adp1WGneQNxDrm2pL3dU9rv72YgEdKT72_sSDEL8Lgd1YwdZXxwOZ3DnHo8yhFcMpwo&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQQzGE7kh4AyFCIGw9tef4DriyW4qdlzbdjorsG6LXZB1g&oe=6AFD1BCC"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 39,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 40,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅"
@@ -688,16 +688,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQNG1_PoKfc7W932k579mYN4-2VRpoxiypsN3353Pq3RTQx36-Ya_WEfLLBVcqCpNy_jJjI_9-uCMNrN-OjjpuDEoBxRlca5BraB9NoeJQ.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=5gUKD6Qa-WQQ7kNvwFCAheF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc5Njc1MzIyODAxOTA1MywiYXNzZXRfYWdlX2RheXMiOjY4LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTcwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTN8GUcoTsnBv65Y9VVBD3XKB7suQk4i9_hnKyKn0HfBw&oe=6AFC1905",
-          "thumbnailUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/802966599_1436250091707964_5353266954313231469_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8ZR9C6G2QpYQ7kNvwHUz9wX&_nc_oc=AdrjC_FRDn4j4F-HQBMfJ3-Pc7Qdl54FkwEGXBVrs1enJXZGEcEautKDKcv0xF2RhaQ&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQSmsYcvJhTxLS7-sEznEbPrHXN_W6m4c4znljIa2fkLmA&oe=6AFC2BD0"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNG1_PoKfc7W932k579mYN4-2VRpoxiypsN3353Pq3RTQx36-Ya_WEfLLBVcqCpNy_jJjI_9-uCMNrN-OjjpuDEoBxRlca5BraB9NoeJQ.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=5gUKD6Qa-WQQ7kNvwHLhH-z&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc5Njc1MzIyODAxOTA1MywiYXNzZXRfYWdlX2RheXMiOjY4LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTcwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSUuFC-6HkenFN33JWjgXcxF45mc3OTuM6cdfKhaTXlOw&oe=6AFCFA05",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/802966599_1436250091707964_5353266954313231469_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8ZR9C6G2QpYQ7kNvwHchAG_&_nc_oc=Adp0qM-f6woOzRx9xrLhgUS0iZ_KwAJ9NUjvkRAZF7NS-FxDPSi89_VQFv-bV3iVNkI&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQQKl0AFY2slOVDI7ocntAuCez4UttKkAyQgAS30MwvTaw&oe=6AFD0CD0"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 11,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 12,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "Thousands of women are getting that feeling back with dissolvable silk peptide threads.",
@@ -754,16 +754,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMuB8sVfL5FAhS3msn2YH8f83E2I3cPtodjuDd-AAfL-yZdDWcQc2XI-JXjTswYun5opIYiZsIFiLcgzQZOq3F1Q9nEpuirloFZdIHecQ.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=qRh9bigKVN8Q7kNvwHZM_jk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQ0Mzg2NTU1MTE3MTUwMSwiYXNzZXRfYWdlX2RheXMiOjQzLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRZ2DhJtZ5CUk93SyZzZ7PXfvypaIM5NbZ_TJ9lN43YFw&oe=6AFC35BA",
-          "thumbnailUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/831507012_2324164128318307_1411541410770043884_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jJDiWxEunkkQ7kNvwHxl_zI&_nc_oc=Adp8zLEmK23V-6qN0kMYJpX7aRFXMgE-9oj2sPfBHAQDvmBFDcTcWBoylLc6LN3vbps&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQQUbCPWXFyD5f8dG3m0Dsg1b4jm_j_Q6amUDHffGfbTnw&oe=6AFC495B"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMuB8sVfL5FAhS3msn2YH8f83E2I3cPtodjuDd-AAfL-yZdDWcQc2XI-JXjTswYun5opIYiZsIFiLcgzQZOq3F1Q9nEpuirloFZdIHecQ.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=qRh9bigKVN8Q7kNvwHYEMhJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQ0Mzg2NTU1MTE3MTUwMSwiYXNzZXRfYWdlX2RheXMiOjQ0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTcTyHA2phQ6bFeutWh912ZbVcY-ctR8hnTx-XhLCHVCQ&oe=6AFD16BA",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/831507012_2324164128318307_1411541410770043884_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jJDiWxEunkkQ7kNvwGYT6YD&_nc_oc=AdpiEXG390kWP_x606dny1W1dPFAiiOvk6KtjMi0FhdMZ3-nS9ZW5zxhgMKvX1_E1s0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQSNovevW5SMVbH9eSWZtu66kdDao2jZuL6nc5NChcAM1w&oe=6AFCF21B"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-11-07T23:24:04.869Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 9,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 10,
       "notifiedAsWinner": true,
       "angles": [
         "Mechanisme/penetratie",
@@ -800,16 +800,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOrJ1QdqBc4xzksAg2JlZ_gcP7t5-aQHkbGQNk0w6qMbgEeKc2bp96w5l2Fj5wyNwXkLWo1yYyH7ltO3hTzxiwJDfKvjcRBrh8mi9OFVQ.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=UlSaWUpdpVIQ7kNvwGF-gB-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM4NDEyODczMzkxMzkzMCwiYXNzZXRfYWdlX2RheXMiOjcyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6ODYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSgnTSwalN-4XNKBYvS8WXY2WgXDwmC3Rf8BX0HCLwGhw&oe=6AFC424F",
-          "thumbnailUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/802504066_2190136958223004_8542627951991668045_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FBMdD0Y_J_MQ7kNvwFqAG39&_nc_oc=AdpAYn8K597P-nMaW-j_f0MxeaYGbRbs2pC5_jXqhfGLJ7FYUyloUnBsNkFxQgLSDtA&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQTSQkjgGapoY1E4kMe-KTRFEDcVexeqeMGVSyaqjb_V2g&oe=6AFC2404"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOrJ1QdqBc4xzksAg2JlZ_gcP7t5-aQHkbGQNk0w6qMbgEeKc2bp96w5l2Fj5wyNwXkLWo1yYyH7ltO3hTzxiwJDfKvjcRBrh8mi9OFVQ.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=UlSaWUpdpVIQ7kNvwFK480D&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM4NDEyODczMzkxMzkzMCwiYXNzZXRfYWdlX2RheXMiOjcyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6ODYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQp-HJXuRLJcz09gjbM0M1g2WkDAfVGG-miiXL4OwDFNQ&oe=6AFCEB0F",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/802504066_2190136958223004_8542627951991668045_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FBMdD0Y_J_MQ7kNvwHQs5ov&_nc_oc=AdrkakzkzNqh0SufKbJteYXvNJ1ng5vPWUkAm-yFf5Wp5rya7RwphnpV9Pp2U2KK7yw&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQSs3JnV2Xe5FBM4Dc6IP4vVSIahuFsIlJFe2CExa0pfVw&oe=6AFD0504"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 9,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 10,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "Thousands of women are getting that feeling back with dissolvable silk peptide threads.",
@@ -866,16 +866,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQN5-nmznESGZo5HZ9jYwJPpgHri2rCp3w8y0JpLZGsjW3ccPlxwOfi8ewKI5umo9GFPH6CU0yJAf6X3nRsRF6ODLGDYrr0B-c0YcnbYpA.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=xxwoL3WrbxUQ7kNvwGxnWQs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM0MTMwMDI3MTUwMzQ2MSwiYXNzZXRfYWdlX2RheXMiOjkzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzAyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQS0XPjtMesM0HtMVMoRz-fdSQHdrUqNZOdKX0WMULom-g&oe=6AFC439F",
-          "thumbnailUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/768604151_1580775763507021_1360499202486270302_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=whyB5GnUJMQQ7kNvwEOPsR4&_nc_oc=AdqVwX6WRVn694ejUb6SWzfEu6ojFkTzbHzXZX8WnTCOJQc67FFh-3BbeEUNz6xvVds&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQRWNIBvYIh56ysgoootAmuNKDIq2YjRy_3wQEMyoV1o-A&oe=6AFC3B7D"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQN5-nmznESGZo5HZ9jYwJPpgHri2rCp3w8y0JpLZGsjW3ccPlxwOfi8ewKI5umo9GFPH6CU0yJAf6X3nRsRF6ODLGDYrr0B-c0YcnbYpA.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=xxwoL3WrbxUQ7kNvwE5hiGz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM0MTMwMDI3MTUwMzQ2MSwiYXNzZXRfYWdlX2RheXMiOjk0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzAyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTgPl7Js40zcTExW-x7Bl3DksV92J5TrRgHWw34XuCmyg&oe=6AFCEC5F",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/768604151_1580775763507021_1360499202486270302_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=whyB5GnUJMQQ7kNvwFmzjOZ&_nc_oc=AdqUr8M3QZaUgY45vFoBG5yVFCr0q9Bk5HMB1rz6TVOircBKuv1VTF0dqjUURuD-ld4&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQRfz6FeLp-fvbfYKWf6vjfjlYAo39M0CpI4KkH_yrgY1g&oe=6AFD1C7D"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 8,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 9,
       "notifiedAsWinner": true,
       "angles": [
         "Mechanisme/penetratie",
@@ -912,16 +912,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQNUsrExK7RMCh670RvKBcpa7c5iliBC4iWtksiqzmrGDgR7Yomq7YnRhPauekzvxvXesHoWoLBWGKc8_Bof3Szd4cSow9f_QL-RzdfRzg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=_qZS0wuytiQQ7kNvwEz9aPu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc1OTkwOTg5MjAwMzk0OCwiYXNzZXRfYWdlX2RheXMiOjYyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTgwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTBiGhRiWsHqxeZ9x8yWshzHx_ORUIJQhO-YVAyBvccsw&oe=6AFC4B4F",
-          "thumbnailUrl": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/801756051_1059475046683507_1395197267524974773_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vcz4RVsnv_AQ7kNvwHzOvg2&_nc_oc=AdqdLCO5Mn5UajVf5siO65i57fJFemCEwZP2BZ0aI6p4IpdCDtYdtahC_BpLQilYIgQ&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQRkUKfCGAcO2FdDJI4tpdz_6E5OSkRMl5AR4EaeJnN3zw&oe=6AFC26FF"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNUsrExK7RMCh670RvKBcpa7c5iliBC4iWtksiqzmrGDgR7Yomq7YnRhPauekzvxvXesHoWoLBWGKc8_Bof3Szd4cSow9f_QL-RzdfRzg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=_qZS0wuytiQQ7kNvwHdebkz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc1OTkwOTg5MjAwMzk0OCwiYXNzZXRfYWdlX2RheXMiOjYyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTgwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQVXN3WVHt_oRO0nUNRSQ8jfiZS15Q2KS9c5F-5q3_hdg&oe=6AFCF40F",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/801756051_1059475046683507_1395197267524974773_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vcz4RVsnv_AQ7kNvwGEJzCr&_nc_oc=AdpoJekiiIv0Nhk9A5Vt467enCYAyWshy2B86sWJUdizNpdyafvtnBhi1XXZWeWpcZ4&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQSy49XSt4rpFRNK6Nd1XJN7a7oiZQ7V3KjRB3WXS-_DzA&oe=6AFD07FF"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 8,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 9,
       "notifiedAsWinner": true,
       "angles": [
         "Testimonial/persoonlijk verhaal"
@@ -936,16 +936,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQO5Iwwc-07bJTlJZ_FZiArCKY1dH9E2zmm4_fA3BpxXq5lY326x2VuSnHWksFuMwT_9FIKMMtaUvKVpXd7YMI29_1dFHAkFrke3BZUN8g.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=mZ-YhHYhqBAQ7kNvwEoeKx-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTcwMTY5NTY3Nzc3MjU3MywiYXNzZXRfYWdlX2RheXMiOjk4LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQrg_HiRRpBzRt5XxmdSmQ39A9Rh7pvjw0x0-8_Vxkj9Q&oe=6AFC269F",
-          "thumbnailUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/764006461_1018396554289772_7649111067036764279_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3DrVr_8DDFMQ7kNvwEOF3nE&_nc_oc=Adphqn3WuqhQTPg4Dp2EMDTRMJJ2barsQp8v0lHu1udG0kABmoDqQ5aH80EIiuPgldc&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQQVxDRejL5ceVN4fl2jsa4ZsoYV_NhjHcZzfun8MRRczQ&oe=6AFC4457"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQO5Iwwc-07bJTlJZ_FZiArCKY1dH9E2zmm4_fA3BpxXq5lY326x2VuSnHWksFuMwT_9FIKMMtaUvKVpXd7YMI29_1dFHAkFrke3BZUN8g.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=_gXucY_O_10Q7kNvwEbAcmm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTcwMTY5NTY3Nzc3MjU3MywiYXNzZXRfYWdlX2RheXMiOjk5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSlt3x9CSk14X6OR_G4eWvrtLQKzPuojagSvPK2b36i8Q&oe=6AFD079F",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/764006461_1018396554289772_7649111067036764279_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3DrVr_8DDFMQ7kNvwHyrXa7&_nc_oc=AdrYzIIMzQKCf22K4KFRD5eLXpD083QP0WGFhdemHg4Z-tFDwwoHV3NXoWXKMwrEbF4&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQQ5-8CHGdlw3DMqKBC4QmsxnSgOCqgEOC2A1-vHXDkypw&oe=6AFCED17"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 8,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 9,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅",
@@ -1002,16 +1002,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQM--1hRz30CmESKdD7UTwpAu5OezuyVmXj1kpwqUX05-sYMwqYUY6QjvXiQBLufEjYWUiCH0zeiheouBoYbzCtUeyGCNEDlEIYVIJE2ww.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=YBqzE8Yn7oAQ7kNvwGMzsGT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI4ODg1NzY0MzE0NzgxNiwiYXNzZXRfYWdlX2RheXMiOjI1MiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQZHXZxz9u1zhgqfy86GoC5l2bgkLqwMTI1pY_MVJQtzw&oe=6AFC19DA",
-          "thumbnailUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/646171334_2031893657754935_7639561903584051241_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fYmEQv9_iBMQ7kNvwGF_Cgg&_nc_oc=AdopRRXovgNOwSnFbTzp6NyxFzaYr1YwiO_ku0dFfcIn12t25kWF2DXAbIYdWS6BMyc&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQQNd6zCf8emdHStzeV2P-oW3xkz2KeNOBYZR2NGg-2X8w&oe=6AFC2D15"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQM--1hRz30CmESKdD7UTwpAu5OezuyVmXj1kpwqUX05-sYMwqYUY6QjvXiQBLufEjYWUiCH0zeiheouBoYbzCtUeyGCNEDlEIYVIJE2ww.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=YBqzE8Yn7oAQ7kNvwF4NQTJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI4ODg1NzY0MzE0NzgxNiwiYXNzZXRfYWdlX2RheXMiOjI1MywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSxO1CT9ApAWFBXbg-I8DT4kM0pQ2OXodyYsd5_a-o8Cg&oe=6AFCFADA",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/646171334_2031893657754935_7639561903584051241_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fYmEQv9_iBMQ7kNvwEgwhEq&_nc_oc=AdpfOduMtoUj5J1FF9xBxQ_2ffaM8hcCQxu4a8L7mS50cFSFRr1octVOaSJzVuc0LAM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQSJrS_VEirjt7XBxvZKNOiOZMOnyNkHYSPYPdvgH8yUSg&oe=6AFD0E15"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 8,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 9,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅",
@@ -1068,16 +1068,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOD-itrpthtUre2t5uvjtYYGTDX_suMOTEEILCH9At3orrAJuODHIMig-hmi8RkgbhoExQKNBWUbsaYI9jzbf1QZSa_I8NwLzUixoqtZQ.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=gQUZbkJiVEQQ7kNvwH87EQs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTMwMDM1MTMyNTIzNjk2MSwiYXNzZXRfYWdlX2RheXMiOjI2NSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjkwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRxl_vNa6RXMExTTjLHqg0_eRdgJ2iUc0WtrQD7yfx7dQ&oe=6AFC28F4",
-          "thumbnailUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/636981975_1603262004197963_7320200600277027099_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Qgv5d4_2Ng0Q7kNvwG9ol0v&_nc_oc=AdoVZ4oCW8t83Te2tp5XSD8PSspvHKy5T1R0GFxhO173gO2Kdhl3jxrV3Y0wXpFZCeQ&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQRZ-5f2H3AXMi3zTwlub0NNle_rr1BrNxfoMPxs56cZqQ&oe=6AFC2F5C"
+          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOD-itrpthtUre2t5uvjtYYGTDX_suMOTEEILCH9At3orrAJuODHIMig-hmi8RkgbhoExQKNBWUbsaYI9jzbf1QZSa_I8NwLzUixoqtZQ.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=gQUZbkJiVEQQ7kNvwGNKIuq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTMwMDM1MTMyNTIzNjk2MSwiYXNzZXRfYWdlX2RheXMiOjI2NiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjkwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQT2sW4eaTRxvUxDmzWVn-rvZ1xuvAlwuHZv02u6ZaF25A&oe=6AFD09F4",
+          "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/636981975_1603262004197963_7320200600277027099_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Qgv5d4_2Ng0Q7kNvwFgQlFe&_nc_oc=AdpBSoNsRE3MklTWFnqD24qRI5otgkUF3dSJBb7EY7zeLL6wAuHQD1gf39kmACOk97o&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQR0vI7ivobI--r6HLIPAy0SrLl4dmfuer_c3Q_bRtRdwg&oe=6AFD105C"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 8,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 9,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅",
@@ -1134,16 +1134,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMPvJv_ZwbectAADjAGhNfA4ShpFSVxUk9QANWlX1ulmQ0LLS_kjdL_sM-BX15pO2MyuZyvGNTSOt_15NOzWVPQwgi8MHPYNIqwVYQ0Mg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=IIq0tkA5sMwQ7kNvwEi9fYX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYxNTEzMTU4MDE0ODk0OSwiYXNzZXRfYWdlX2RheXMiOjUwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDA4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTlVOT-kvNBR2DSZtPthFfmILlEKE0CfBeGRfAuPLPgOA&oe=6AFC23E3",
-          "thumbnailUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/830594970_1436514398453865_3374217848749121428_n.jpg?_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fna7iIf8ZoEQ7kNvwF5oGB5&_nc_oc=Adqda2YOJz3IVF0myCpcdIuRF4fPIItdiOfsMHTcZoYtSrYvqsYAS8k0JAqtFZGFdPM&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQRSFfvnWsIJZQ-FT8Vc8nyAwl1JaKLYByCn60MDNbl-hg&oe=6AFC4440"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMPvJv_ZwbectAADjAGhNfA4ShpFSVxUk9QANWlX1ulmQ0LLS_kjdL_sM-BX15pO2MyuZyvGNTSOt_15NOzWVPQwgi8MHPYNIqwVYQ0Mg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=IIq0tkA5sMwQ7kNvwFUueYh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYxNTEzMTU4MDE0ODk0OSwiYXNzZXRfYWdlX2RheXMiOjUwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDA4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTUOI0hH5fmw8QCEWniNOqvURZIlwkeQy8IXBqI6eG8Dw&oe=6AFD04E3",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/830594970_1436514398453865_3374217848749121428_n.jpg?_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fna7iIf8ZoEQ7kNvwF__D0a&_nc_oc=Adod4Ec0TxYxP-kZEFxUXJ_t2Wo2yNpUxVIk5eC9iWIUv5izlkECgLlu4wg_KDv3D1s&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQSQD5lH0dYTMnlqVQ778Yqs3E1OoL_ZmVL5pmhuJVfFxw&oe=6AFCED00"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-11-08T23:24:38.871Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 7,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 8,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "💔 I walked into my own kitchen and heard my husband of 23 years on the phone with another woman.",
@@ -1177,16 +1177,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMbkrf6bHYfvP-JquEvzo2v1hE06EVkAZgmspcMQJrm0C92e45uGNh-JMsMoWbTO5M4k5_hRlN21-T5IFg-lNgjPLALQEh3TQZK0bM6OQ.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=GPJeQAmWmBYQ7kNvwHTyP-K&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTcxMzcwMjY0OTcwMjkxMywiYXNzZXRfYWdlX2RheXMiOjkxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTPRewlLNBn5-PLH_Lp1AHY0FZxfs6KVUBl3NOs7a_2TQ&oe=6AFC2A8A",
-          "thumbnailUrl": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/776405677_1079038984589416_1776220066340918684_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YCj3wJKEV5YQ7kNvwEAdnOC&_nc_oc=AdpXwpEgyK3swg3cRNktbXnaKP3oH3f0doT50IEN2U1UgmkXuc7e3NX-luI05IP1JVE&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQS5t_Ty4JWmV5miKWTHYT7rRyHqb8CGvpXk1vGvClT6VQ&oe=6AFC1FED"
+          "url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMbkrf6bHYfvP-JquEvzo2v1hE06EVkAZgmspcMQJrm0C92e45uGNh-JMsMoWbTO5M4k5_hRlN21-T5IFg-lNgjPLALQEh3TQZK0bM6OQ.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=GPJeQAmWmBYQ7kNvwH_0YGg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTcxMzcwMjY0OTcwMjkxMywiYXNzZXRfYWdlX2RheXMiOjkyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSTzMUmxJBBwoZ00UqN_YJWwSQminMSZfqO2kyd7ilIBw&oe=6AFD0B8A",
+          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/776405677_1079038984589416_1776220066340918684_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YCj3wJKEV5YQ7kNvwE9-0eY&_nc_oc=AdoPgUax9tnJdfP9m-ixSzevq-XkFCwd6q5osYE-RNzdJWzvqRztVZn263KXeChi_5g&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQSVgo_jhN5LUdS8Jy5lyhnqSmHqqVJ0cciXf2Fe5Hk-DQ&oe=6AFD00ED"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 6,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 7,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "Thousands of women are getting that feeling back with dissolvable silk peptide threads."
@@ -1199,16 +1199,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOVoIhyRbuVlZs2OgX3C4i-1_MmSc3AiitMccwkJpjCzDAp4Q2YhXToA3As2ipYGQ8MbS5exCrmfiE2QIUYN0FScPWsEB2LxBg-NcFq9g.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=wrQPmXEy0e8Q7kNvwF_dDPp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQwMDk4ODYyMTk1MDQzOCwiYXNzZXRfYWdlX2RheXMiOjkxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTI3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRlV8xwLpyQ2nd6fCgUaOhuOgkcfDZ24MehH6COceT0uw&oe=6AFC2355",
-          "thumbnailUrl": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/779976065_1728752748243902_786788950479680082_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xKPxKC3hC1gQ7kNvwHi6eBT&_nc_oc=Adov0vzsUB-wNToHqCLZFUaeMQ_5c96FSvm-C44thfwr3Kdzvzrs6X2Tdm5AQWIncKI&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQT8TgSGRBqbY8J6Td0koc89v1jN_X7hK7Cwb0W_TpLiLw&oe=6AFC24F3"
+          "url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOVoIhyRbuVlZs2OgX3C4i-1_MmSc3AiitMccwkJpjCzDAp4Q2YhXToA3As2ipYGQ8MbS5exCrmfiE2QIUYN0FScPWsEB2LxBg-NcFq9g.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=wrQPmXEy0e8Q7kNvwEaNu1V&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQwMDk4ODYyMTk1MDQzOCwiYXNzZXRfYWdlX2RheXMiOjkyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTI3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQR4683vtLnvbChkVAxB-nC1tIdmWUHzG63B68s_KXgaZw&oe=6AFD0455",
+          "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/779976065_1728752748243902_786788950479680082_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a3QaGkh-HqMQ7kNvwHdTFcg&_nc_oc=AdqgsJp6R5hiyKqlBEAGa1pOl58ZV8PCKtqWcCjFogiiDnj6R3z1TO5K-qzOvw0deGg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQSAAN-Eba07-U66PBs_63ICOoEmci4rUbDg0ma4i8wVhw&oe=6AFD05F3"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 4,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 5,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "Thousands of women are getting that feeling back with dissolvable silk peptide threads."
@@ -1221,15 +1221,15 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/775523735_1371477635120546_4898130476048911074_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8N3YqYtBgIAQ7kNvwH6EmsA&_nc_oc=AdpTXBRPO3jmE6eWl8KBbB3wy_oFL4GSJsb_4nx6XMOn2TWwKaITMoq7idYjATiSN2U&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=vQOXxVTbZ6nx4srmlrv1Cg&_nc_ss=7b289&oh=00_AQSsHtLj_uwbHx9ZEupsYtSYvW4WOjZDuKlH5QpdRrxCxA&oe=6AFC256F"
+          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/775523735_1371477635120546_4898130476048911074_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8N3YqYtBgIAQ7kNvwF5csIw&_nc_oc=AdpTClHJ8DEjYOVAONNu07BDpMehZIv26RF6Is1rprBzTIOIRBQURzZnMAKL0UsmfUY&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=3fG9E-D55UFALLQg6RqSug&_nc_ss=7b289&oh=00_AQRoMbZWIa8YOB9II9Vg4Q25erq02b4lgw-HVNIB6iwhVQ&oe=6AFD066F"
         }
       ],
       "pageName": "Korean Skincare Reviews",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-09-16T11:32:54.312Z",
-      "lastSeenAt": "2026-11-13T00:52:49.169Z",
-      "seenCount": 4,
+      "lastSeenAt": "2026-11-13T15:54:11.130Z",
+      "seenCount": 5,
       "notifiedAsWinner": true,
       "angles": [],
       "hook": "A needle-free lift in a bottle ✅",
