@@ -1,7 +1,7 @@
 {
   "version": 1,
   "pageId": "1014965211696273",
-  "updatedAt": "2026-11-15T23:44:49.286Z",
+  "updatedAt": "2026-11-16T17:53:53.663Z",
   "ads": {
     "1123420766950602": {
       "adId": "1123420766950602",
@@ -11,17 +11,17 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-sea5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQP3CDFl89Q2m6VhZe_i-7Xzr5FNBp_gupTNBLbmg5dRBwgbVKPm2RrdHoU7HG7-Ey4LXpNzpsVUutJIqPhoFnoudWQhuMTlUR9r8yLSmQ.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-sea5-2.xx.fbcdn.net&_nc_ohc=MNf6vGlu6yMQ7kNvwE4mIa9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTEzNjY5Mjc1MjM0MjMwMywiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0NjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQS_lmlWKGaASFXPW4xNeeLnTpqUvFAX6AposDrGHAAWDA&oe=6AFFFACC",
-          "thumbnailUrl": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.35426-6/899906751_1425510139736751_4527343827924332762_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wSk4Hzi5POcQ7kNvwH6wfFp&_nc_oc=Adp8jCO7m1H5EbUAm8A6XkzjghLDgPy508hE5pPdh8WU4bFkRqN0KKzSTa_37cwNDq0&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQRx78lTzhJxT4fuw4-kt5b9daDQq2YqhZlBf5serDShOg&oe=6B001071"
+          "url": "https://video-dfw6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQP3CDFl89Q2m6VhZe_i-7Xzr5FNBp_gupTNBLbmg5dRBwgbVKPm2RrdHoU7HG7-Ey4LXpNzpsVUutJIqPhoFnoudWQhuMTlUR9r8yLSmQ.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-dfw6-1.xx.fbcdn.net&_nc_ohc=MNf6vGlu6yMQ7kNvwFVzOiV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTEzNjY5Mjc1MjM0MjMwMywiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0NjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ8XUYfrkgoC3KNY3wnI-LLZyMykxcjuCd0meiuCoBDIg&oe=6B01140C",
+          "thumbnailUrl": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/899906751_1425510139736751_4527343827924332762_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wSk4Hzi5POcQ7kNvwEM-bNS&_nc_oc=Adp-VoPPOBaI7Ro2m321FEJuyXEtkVwu9kvyUGkT_8yWvkL4_FBuDte0N5jIq8f-M3I&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQSb5lqjaAcZN2scwAgag3EhZXCft898gT_4h16QR9oUzg&oe=6B0129B1"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-11-10T02:33:11.559Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 11,
-      "notifiedAsWinner": false,
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 12,
+      "notifiedAsWinner": true,
       "angles": [],
       "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
       "euReach": 5861,
@@ -50,52 +50,6 @@
         }
       ]
     },
-    "1647062477157368": {
-      "adId": "1647062477157368",
-      "startedRunningRaw": "Started running on Nov 9, 2026",
-      "startedRunningOn": "2026-11-09",
-      "text": "WWW.NURIA-SHOP.COM\n10% avec le code ECLAT\nGarantie 99 jours\nLearn more",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/902044882_2991554074511510_5475687597760940265_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LeyCv2xq1dcQ7kNvwFdXR5c&_nc_oc=AdoCsSyMoHryb1RwO1WyRQIoICLLLcE84t9hDvpP7sQZyYzo3_harRAaPB7eVZx4AaM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQTwIfNwKlrE_e_yYL6tccHmqe7flmlWVRZBMtBShA07Zw&oe=6B0007B8"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-11-11T00:25:09.191Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 10,
-      "notifiedAsWinner": false,
-      "angles": [],
-      "hook": "WWW.NURIA-SHOP.",
-      "euReach": 7475,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 55-64 in France (2,334)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 7349
-        }
-      ],
-      "reachHistory": [
-        {
-          "date": "2026-11-11",
-          "reachPerDay": 1201.5
-        },
-        {
-          "date": "2026-11-12",
-          "reachPerDay": 2083
-        },
-        {
-          "date": "2026-11-13",
-          "reachPerDay": 1837.25
-        }
-      ]
-    },
     "2395667361201610": {
       "adId": "2395667361201610",
       "startedRunningRaw": "Started running on Nov 9, 2026",
@@ -104,17 +58,17 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPLBbiwWdPD4ldXmhhOdgUZ8zlAGqNZJ29RmNdVe_CwL0KspftPGh-vbmz0v3DFSR5PTUiShuUaSSIAOR1XpPw9WzeaMth11gjUmdizkw.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=jXPLReoThDAQ7kNvwEcGqFl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQ1NTM1OTM1MzIxOTExNiwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo3NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRy1iS0_qpG0D6ouBDN1mlu4uoZsIsM8931d3O8gY-ntA&oe=6B00302A",
-          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/897616908_1154152920399281_7877638730693070619_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6iggx0q-P3kQ7kNvwHTWLoX&_nc_oc=Adp6BGIF-eVV1e8V58IqyCz8SFvoS6bQJjuOCTqfHrvEamsOv8vfd-KDWb9dKmkhYpQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQSxcNHTtc3BMZjAHn4Igdkbh5G01Ziq7BKIOlrAfHKujA&oe=6B000C9E"
+          "url": "https://video-dfw5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPLBbiwWdPD4ldXmhhOdgUZ8zlAGqNZJ29RmNdVe_CwL0KspftPGh-vbmz0v3DFSR5PTUiShuUaSSIAOR1XpPw9WzeaMth11gjUmdizkw.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-dfw5-2.xx.fbcdn.net&_nc_ohc=xH6gYpLC3ZwQ7kNvwFiUD63&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQ1NTM1OTM1MzIxOTExNiwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo3NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQZKBW4bryj4YUED56oDHuztgDGqwFOXgDhEOqr5A1COw&oe=6B01112A",
+          "thumbnailUrl": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/897616908_1154152920399281_7877638730693070619_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6iggx0q-P3kQ7kNvwHg2YNp&_nc_oc=AdqL419Gpr91o0mtQoKyJdlMyHgTJtO71Gme1JajyiJIQgIYd5DCD0qTigkS3Isk95k&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQS7Ra_JZiKt_nHjHFVBtmPYeVYtQotLwiEO0E5rKtFBIQ&oe=6B0125DE"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-11-10T02:33:11.559Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 11,
-      "notifiedAsWinner": false,
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 12,
+      "notifiedAsWinner": true,
       "angles": [
         "Testimonial/persoonlijk verhaal"
       ],
@@ -145,147 +99,6 @@
         }
       ]
     },
-    "2615155128979581": {
-      "adId": "2615155128979581",
-      "startedRunningRaw": "Started running on Nov 9, 2026",
-      "startedRunningOn": "2026-11-09",
-      "text": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?\nDécouvrez Nuria— une formule liquide à action rapide, étayée par la science, conçue pour favoriser le drainage lymphatique naturel et la vitalité de tout votre corps.\n💧 Aide à éliminer les toxines et les déchets accumulés\n💧 Favorise une bonne circulation sanguine et renforce le système immunitaire\n💧 Réduit les gonflements, la rétention d'eau et l'inflammation\n💧 Contribue à une peau plus nette, moins gonflée et à une sensation de légèreté\n\n✅ À base d'ingrédients à base de plantes tels que la racine rouge, le gaillet gratteron et la bardane\n✅ Sans alcool, sans OGM\n🍯 Goût de miel\n\n🌿 Plantes naturelles | Testé par des laboratoires indépendants en France | Sans OGM\n\n💗 Quelques gouttes dans de l'eau suffisent, deux fois par jour… et laissez votre corps ressentir la différence\n👉 Cliquez sur « Acheter maintenant » et purifiez votre corps de l'intérieur ✨\nhttps://nuria-shop.com/products/drainage-lymphatique-nuria\n0:00 / 0:39\nWWW.NURIA-SHOP.COM\n🌿 Ne blâmez pas votre mode de vie — commencez par rééquilibrer votre système lymphatique\nSee details",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-sea5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQO8xrgCm1AO5hNXwh39UYdy24XnYz_VtVW8hOy08Lwp7D_YONoMQcV6_aTsmA2aocrOvuYngu7lRdrR4DPsmj-z5RJlk4BuQoOmbPRSDg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-sea5-2.xx.fbcdn.net&_nc_ohc=3BZN2_unczIQ7kNvwGgcUpl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE1MTM4ODc0NDA3ODU2OSwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQR_mgcQovQJfrRvE8pa-loMJ46maJBeyK3I-top9Lsntw&oe=6B002077",
-          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/899812775_1768708934203817_364093697784200133_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UiaFYENg5XcQ7kNvwHm1Z_9&_nc_oc=AdomepAwET5Nj_wpFgyi_tDAyeDbU6AjW-WQl0MtMKNL8ECeOTZWRZ54vBtgGOZea5c&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQSKP1G44d-3p0MgqswBoiRn3xmrVO9guCKkkH6sZxqgVQ&oe=6B001587"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-11-11T00:25:09.191Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 10,
-      "notifiedAsWinner": false,
-      "angles": [],
-      "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
-      "euReach": 6788,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 35-44 in France (1,758)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 6978
-        }
-      ],
-      "reachHistory": [
-        {
-          "date": "2026-11-11",
-          "reachPerDay": 278
-        },
-        {
-          "date": "2026-11-12",
-          "reachPerDay": 1350.6666666666667
-        },
-        {
-          "date": "2026-11-13",
-          "reachPerDay": 1744.5
-        }
-      ]
-    },
-    "1790503648884916": {
-      "adId": "1790503648884916",
-      "startedRunningRaw": "Started running on Nov 9, 2026",
-      "startedRunningOn": "2026-11-09",
-      "text": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?\nDécouvrez Nuria— une formule liquide à action rapide, étayée par la science, conçue pour favoriser le drainage lymphatique naturel et la vitalité de tout votre corps.\n💧 Aide à éliminer les toxines et les déchets accumulés\n💧 Favorise une bonne circulation sanguine et renforce le système immunitaire\n💧 Réduit les gonflements, la rétention d'eau et l'inflammation\n💧 Contribue à une peau plus nette, moins gonflée et à une sensation de légèreté\n\n✅ À base d'ingrédients à base de plantes tels que la racine rouge, le gaillet gratteron et la bardane\n✅ Sans alcool, sans OGM\n🍯 Goût de miel\n\n🌿 Plantes naturelles | Testé par des laboratoires indépendants en France | Sans OGM\n\n💗 Quelques gouttes dans de l'eau suffisent, deux fois par jour… et laissez votre corps ressentir la différence\n👉 Cliquez sur « Acheter maintenant » et purifiez votre corps de l'intérieur ✨\nhttps://nuria-shop.com/products/drainage-lymphatique-nuria\n0:00 / 7:34\nWWW.NURIA-SHOP.COM\n🌿 Ne blâmez pas votre mode de vie — commencez par rééquilibrer votre système lymphatique\nSee details",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMp6EbJQdxQ5m9nBNkMGXv5DyARhkybXB8Bge_VQTKBvJZjMcTuDz9cmRquZQUPQhYCGnBnED9c1ypvSEWMgo2M7GhEarHfqt8eBcuUjA.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=avE50BP8Nk4Q7kNvwF1jyyu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjA3OTY3NDU1MjY3NzUwMywiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0NTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSXNXuxfJLBihBpdRzAdVIhm2Y007UrEzsGNK1lMT7lDA&oe=6B003211",
-          "thumbnailUrl": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.35426-6/901146408_1161658253180472_929465008551179068_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6QkyhjKSLawQ7kNvwHgRMEf&_nc_oc=AdrMSoSxliGTE2U6ChSjL3Mfu9WhuTg4-ScPsCMxLUVU1VZbJ9BedKWypaC3U41F0sU&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQT4XabShk5iHOylQTnn39WHxehRC5MNEvUJjDqSj4ZyLw&oe=6B001E18"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-11-11T00:25:09.191Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 10,
-      "notifiedAsWinner": false,
-      "angles": [],
-      "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
-      "euReach": 10622,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 35-44 in France (3,392)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 10673
-        }
-      ],
-      "reachHistory": [
-        {
-          "date": "2026-11-11",
-          "reachPerDay": 564
-        },
-        {
-          "date": "2026-11-12",
-          "reachPerDay": 2863
-        },
-        {
-          "date": "2026-11-13",
-          "reachPerDay": 2668.25
-        }
-      ]
-    },
-    "1709544800741305": {
-      "adId": "1709544800741305",
-      "startedRunningRaw": "Started running on Nov 9, 2026",
-      "startedRunningOn": "2026-11-09",
-      "text": "WWW.NURIA-SHOP.COM\n20 % de réduction avec le code ECLAT20\nLearn more",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMjWwoCmyKaetzQQ6Kz7D-6y3nyuIWPOcG4hCBYOXkSHHj83oPvOm7dzU5ITg3gruHDcGPFG7QTHsfIu4EmdW8bhLVTqA0LjCBHq7RLRQ.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=yRAS_CnSOL8Q7kNvwGdxqlu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY0MzY4OTQ2NzIxMjQwOCwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxNDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQa61z5WgFSnTr0IMEOfKchevmPo-KH7hFOXQYx7zHLuw&oe=6B00036B",
-          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/896489097_1671258104659952_5347788603298537072_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6cGrYDJVtTsQ7kNvwFJnc1_&_nc_oc=AdrKo2nCvIjigyO1caSLrOlygJTJbae2FII5LMqHralAxJfkoqzmLKpra4WqwbhP5RM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQTHQmqU7J9wdWQDN51n9al0Ye9IyuOXhU7Aewpnlfc5vQ&oe=6B000C81"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-11-10T02:33:11.559Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 11,
-      "notifiedAsWinner": false,
-      "angles": [],
-      "hook": "WWW.NURIA-SHOP.",
-      "euReach": 4158,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 55-64 in France (1,297)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 4117
-        }
-      ],
-      "reachHistory": [
-        {
-          "date": "2026-11-10",
-          "reachPerDay": 7
-        },
-        {
-          "date": "2026-11-11",
-          "reachPerDay": 1100
-        },
-        {
-          "date": "2026-11-12",
-          "reachPerDay": 1372.3333333333333
-        }
-      ]
-    },
     "1726969505703139": {
       "adId": "1726969505703139",
       "startedRunningRaw": "Started running on Nov 9, 2026",
@@ -294,17 +107,17 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-sea5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMyBE3g-mGW7zC4OdCEbh-07FTvelXUnbpe6Zkpzn0xGtsH_gYn7fZjFIhQa4FuKB-tmeD5tRQleEXilW62MRqI3wAGcIxDf3DM92h4xQ.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-sea5-2.xx.fbcdn.net&_nc_ohc=s8iZq7vh1zEQ7kNvwH0UqTN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTkxMDkwMjI1MzYwNDg2NywiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo4NjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTXJ4t1Bnf7CcXOajsX0EoqFuso5VFzHuZFkSeKAeehWA&oe=6B001868",
-          "thumbnailUrl": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.35426-6/898869882_1766883684373766_710748351163604281_n.jpg?_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r8wfMAvMgEEQ7kNvwGG1dXf&_nc_oc=AdrdX_NjxkS7I_Zx2vHCzKxQhOA2XWoZd68-r_wlu3WI7mbK_eTC0MhQZv_fMwmqzuw&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQT8Yt5YahyVtgPNaqg3tX6RM4rfDZfZBPcbMskyZUHXcg&oe=6B003287"
+          "url": "https://video-dfw5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMyBE3g-mGW7zC4OdCEbh-07FTvelXUnbpe6Zkpzn0xGtsH_gYn7fZjFIhQa4FuKB-tmeD5tRQleEXilW62MRqI3wAGcIxDf3DM92h4xQ.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-dfw5-1.xx.fbcdn.net&_nc_ohc=s8iZq7vh1zEQ7kNvwEIHNXi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTkxMDkwMjI1MzYwNDg2NywiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo4NjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTVIUdPRTwtlK1mLwY8Kmlu4yc_vhdtSaqEqe9Sc5yziA&oe=6B0131A8",
+          "thumbnailUrl": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/898869882_1766883684373766_710748351163604281_n.jpg?_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r8wfMAvMgEEQ7kNvwFCPcKi&_nc_oc=AdrYENsfwWPjna6_VhKSNzdl2XD5K_79akjjIHbfJGjvF8srvGbKbPgHEe4-Eb8cqI0&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQR6qN2eS-lYq3uKKBjN-o7DicnDJjTpVToPbaJ3zwHxxQ&oe=6B011387"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-11-11T00:25:09.191Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 10,
-      "notifiedAsWinner": false,
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 11,
+      "notifiedAsWinner": true,
       "angles": [],
       "hook": "Vous vous sentez constamment gonflé, enflammé, avec de la rétention d'eau, fatigué ou en manque d'énergie ?",
       "euReach": 6167,
@@ -333,97 +146,233 @@
         }
       ]
     },
-    "2401696887235188": {
-      "adId": "2401696887235188",
-      "startedRunningRaw": "Started running on Nov 10, 2026",
-      "startedRunningOn": "2026-11-10",
-      "text": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?\nDécouvrez Nuria— une formule liquide à action rapide, étayée par la science, conçue pour favoriser le drainage lymphatique naturel et la vitalité de tout votre corps.\n💧 Aide à éliminer les toxines et les déchets accumulés\n💧 Favorise une bonne circulation sanguine et renforce le système immunitaire\n💧 Réduit les gonflements, la rétention d'eau et l'inflammation\n💧 Contribue à une peau plus nette, moins gonflée et à une sensation de légèreté\n\n✅ À base d'ingrédients à base de plantes tels que la racine rouge, le gaillet gratteron et la bardane\n✅ Sans alcool, sans OGM\n🍯 Goût de miel\n\n🌿 Plantes naturelles | Testé par des laboratoires indépendants en France | Sans OGM\n\n💗 Quelques gouttes dans de l'eau suffisent, deux fois par jour… et laissez votre corps ressentir la différence\n👉 Cliquez sur « Acheter maintenant » et purifiez votre corps de l'intérieur ✨\nhttps://nuria-shop.com/products/drainage-lymphatique-nuria\n0:00 / 6:23\nWWW.NURIA-SHOP.COM\n🌿 Ne blâmez pas votre mode de vie — commencez par rééquilibrer votre système lymphatique\nSee details",
+    "2615155128979581": {
+      "adId": "2615155128979581",
+      "startedRunningRaw": "Started running on Nov 9, 2026",
+      "startedRunningOn": "2026-11-09",
+      "text": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?\nDécouvrez Nuria— une formule liquide à action rapide, étayée par la science, conçue pour favoriser le drainage lymphatique naturel et la vitalité de tout votre corps.\n💧 Aide à éliminer les toxines et les déchets accumulés\n💧 Favorise une bonne circulation sanguine et renforce le système immunitaire\n💧 Réduit les gonflements, la rétention d'eau et l'inflammation\n💧 Contribue à une peau plus nette, moins gonflée et à une sensation de légèreté\n\n✅ À base d'ingrédients à base de plantes tels que la racine rouge, le gaillet gratteron et la bardane\n✅ Sans alcool, sans OGM\n🍯 Goût de miel\n\n🌿 Plantes naturelles | Testé par des laboratoires indépendants en France | Sans OGM\n\n💗 Quelques gouttes dans de l'eau suffisent, deux fois par jour… et laissez votre corps ressentir la différence\n👉 Cliquez sur « Acheter maintenant » et purifiez votre corps de l'intérieur ✨\nhttps://nuria-shop.com/products/drainage-lymphatique-nuria\n0:00 / 0:39\nWWW.NURIA-SHOP.COM\n🌿 Ne blâmez pas votre mode de vie — commencez par rééquilibrer votre système lymphatique\nSee details",
       "media": [
         {
           "type": "video",
-          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQM8RRDXlofZB7_C91mvmFBbPrzw5s1wZT0-94Ao1R4bBfqHXID-8rAsaxXBCvPXSxWiZG_Gw2h0IdyED1Sh125W7TnsziyPbMAJiCnNJQ.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=UrlHpCVP7_AQ7kNvwGjdlPG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTczMzMzNzcyODgwMDQwNywiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozODMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=UkcM_jVHrS0xigdNWgVTImWFKVu9QjxLaX8wFBs6D-bh9Z-AdZxSxqsBjU8QRVZLbD8sfn2ZMpZANMbmjqf7nGTDvP836FNvPL8dF-U2ewl14bF_LK4plBFPiw4&oh=00_AQQWaNzQygVwAvBe5JMko-x5llBV1bS4yU8Z6xCh6shZYw&oe=6B001E5C",
-          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/894924184_1457371393032191_1092955662033668752_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R_6Qj_QpaKoQ7kNvwEvtTpi&_nc_oc=AdptHLZAFcOPFW1UWZomY4-b6blPJW65qcfyyHgVXiOfHMZUZpRaY6V8wKlSpEmFYa0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQQQB1ugD6atUtPsOI9HR-lI-T_JY7lWsYbx5ccal9u32A&oe=6B001AA0"
+          "url": "https://video-dfw5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQO8xrgCm1AO5hNXwh39UYdy24XnYz_VtVW8hOy08Lwp7D_YONoMQcV6_aTsmA2aocrOvuYngu7lRdrR4DPsmj-z5RJlk4BuQoOmbPRSDg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-dfw5-1.xx.fbcdn.net&_nc_ohc=3BZN2_unczIQ7kNvwFeDsDY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE1MTM4ODc0NDA3ODU2OSwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ8e1JddAFw-3NdNTznQAaa7R1Rk5xOQ7FnpFQ07D6bJw&oe=6B010177",
+          "thumbnailUrl": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/899812775_1768708934203817_364093697784200133_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3CQgTuEXRBIQ7kNvwETD3LY&_nc_oc=AdqEBFu1kWOwnP0MHLep8YZ-l2C1hy3EH91xdbaL5KexUnqENfc4fhiCXL8Q9hedlo4&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQSsuO8dGZvo9jokzedLbaXXeaoiZmw3Sq1wuITGx1QeJw&oe=6B012EC7"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-11-11T00:25:09.191Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 10,
-      "notifiedAsWinner": false,
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 11,
+      "notifiedAsWinner": true,
       "angles": [],
       "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
-      "euReach": 6135,
+      "euReach": 6788,
       "euCountries": [
         "France"
       ],
-      "euTopSegment": "Female 35-44 in France (1,938)",
+      "euTopSegment": "Female 35-44 in France (1,758)",
       "euTopCountries": [
         {
           "country": "France",
-          "reach": 6000
+          "reach": 6978
         }
       ],
       "reachHistory": [
         {
           "date": "2026-11-11",
-          "reachPerDay": 914
+          "reachPerDay": 278
         },
         {
           "date": "2026-11-12",
-          "reachPerDay": 2122
+          "reachPerDay": 1350.6666666666667
         },
         {
           "date": "2026-11-13",
-          "reachPerDay": 2000
+          "reachPerDay": 1744.5
         }
       ]
     },
-    "1168632068891187": {
-      "adId": "1168632068891187",
+    "1122510660364379": {
+      "adId": "1122510660364379",
       "startedRunningRaw": "Started running on Nov 12, 2026",
       "startedRunningOn": "2026-11-12",
-      "text": "« Oh, c'est gentil, tu as amené ta mère. »\n« Je suis Hélène. Je suis sa femme. »...\n0:00 / 13:16\nWWW.NURIA-SHOP.COM\nLe sérum qu'elles utilisent toutes...\nLearn more",
+      "text": "« Chérie, je vais à la salle, je rentre plus tard. »\n« D'accord, chéri. Dis bonjour à Julie. »...\n0:00 / 5:53\nWWW.NURIA-SHOP.COM\nLe sérum qu'elles utilisent toutes...\nLearn more",
       "media": [
         {
           "type": "video",
-          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPGCLLsXbpidNuYt6rjWgcCfZsohO0w9kTnuCfTNyFffZ7G47fTQR4PHW6-htx9kyf5k9pLzYbNVxR4-Zm6X-xrnfelG5V613AkrBe1pA.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=icdAaDgmxd0Q7kNvwGaZl5Y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTc1ODQ1NjU1MTczNTE3LCJhc3NldF9hZ2VfZGF5cyI6MywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjc5NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQROXAX0tuCXNEytHurvxG6l7aWao8x6Vdw6HS8wMbMqbg&oe=6B002615",
-          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/904051263_1901393214633259_4162619858319542239_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WLGMRsfE-joQ7kNvwFQbr3f&_nc_oc=Ado1QEqEraycbSkGp5k6uz4yGcGBo-7mHpwoRCMOAHyN3kAouUapauzN7ppWRFT55eU&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQRGGWA9DGFuqdMhUITcH7QGBeDREm4iXb41g8pBJnRGEQ&oe=6B001E8D"
+          "url": "https://video-dfw6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQP-z3fBYl0LduM35dKffbnYyL7CFmrdzuAVzsGib7rtxXKW1Qpng4HIKCjUflT5mcDPuwTggES2Lj4Gq4hSMqJPDDWerw4d6iLnfuq96g.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-dfw6-1.xx.fbcdn.net&_nc_ohc=QjqpDyriK8gQ7kNvwGxEHra&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTgzODg2NDUxNzI0OTgyNSwiYXNzZXRfYWdlX2RheXMiOjQsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozNTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRXQXsZZo47untH3eXAZMD51h1AxymftKhjrOKs_dU_Bg&oe=6B011DCB",
+          "thumbnailUrl": "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.35426-6/902350566_1439642161480094_882242577098121057_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HQrn397egUYQ7kNvwFzUh-W&_nc_oc=AdoB3EzH6sQt74SWw2is4aUJwVZ4fwnvpP93CPgwhC2rZv1Yszf_wrNc42XY6bVfKQU&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQQlAeOrZJgHE1mmtV0RqU5or44aU09_1kfygNF6GMKqkQ&oe=6B0107DD"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
-      "firstSeenAt": "2026-11-12T16:33:52.036Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 8,
+      "firstSeenAt": "2026-11-15T23:44:49.286Z",
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 2,
       "notifiedAsWinner": false,
       "angles": [],
-      "hook": "« Oh, c'est gentil, tu as amené ta mère.",
-      "euReach": 9323,
+      "hook": "« Chérie, je vais à la salle, je rentre plus tard.",
+      "euReach": 24277,
       "euCountries": [
         "France"
       ],
-      "euTopSegment": "Female 65+ in France (3,828)",
+      "euTopSegment": "Female 65+ in France (8,661)",
       "euTopCountries": [
         {
           "country": "France",
-          "reach": 9383
+          "reach": 24124
         }
       ],
       "reachHistory": [
         {
+          "date": "2026-11-15",
+          "reachPerDay": 7142.666666666667
+        },
+        {
+          "date": "2026-11-16",
+          "reachPerDay": 6031
+        }
+      ]
+    },
+    "1647062477157368": {
+      "adId": "1647062477157368",
+      "startedRunningRaw": "Started running on Nov 9, 2026",
+      "startedRunningOn": "2026-11-09",
+      "text": "WWW.NURIA-SHOP.COM\n10% avec le code ECLAT\nGarantie 99 jours\nLearn more",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/902044882_2991554074511510_5475687597760940265_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LeyCv2xq1dcQ7kNvwEhkKfG&_nc_oc=AdqSVuFokK9TKSncRWrvCXqA7LgV3ZbdkXPZWUjxnBe28BFLSM_CgKtZBhNwVmOBz2U&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQRQD2qga_2jTYHs17k-0KdKvxgGxh3zPgkn7lD7xnDGKA&oe=6B0120F8"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-11-11T00:25:09.191Z",
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 11,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP.",
+      "euReach": 7475,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (2,334)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 7349
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-11-11",
+          "reachPerDay": 1201.5
+        },
+        {
           "date": "2026-11-12",
-          "reachPerDay": 1070
+          "reachPerDay": 2083
         },
         {
           "date": "2026-11-13",
-          "reachPerDay": 8846
+          "reachPerDay": 1837.25
+        }
+      ]
+    },
+    "1709544800741305": {
+      "adId": "1709544800741305",
+      "startedRunningRaw": "Started running on Nov 9, 2026",
+      "startedRunningOn": "2026-11-09",
+      "text": "WWW.NURIA-SHOP.COM\n20 % de réduction avec le code ECLAT20\nLearn more",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-dfw6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMjWwoCmyKaetzQQ6Kz7D-6y3nyuIWPOcG4hCBYOXkSHHj83oPvOm7dzU5ITg3gruHDcGPFG7QTHsfIu4EmdW8bhLVTqA0LjCBHq7RLRQ.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-dfw6-1.xx.fbcdn.net&_nc_ohc=oOanqp7nGyUQ7kNvwGNkU-L&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY0MzY4OTQ2NzIxMjQwOCwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxNDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQVI8HFUxQbZC-qUGg1A3dJ45CsmjcPQrXhNJRSu0zupw&oe=6B011CAB",
+          "thumbnailUrl": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/896489097_1671258104659952_5347788603298537072_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6cGrYDJVtTsQ7kNvwF3KhlA&_nc_oc=AdrwzvtrM5-gkdF8YZ_kkcXDdAwgXoIwtoF5IUwcpNa4slz06QFgnIXPrqw5ZYdwwz0&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQSJIPfwx_UHmSXHHdhF3vxFM7I4nf53SBTZzBY9qJSOHg&oe=6B0125C1"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-11-10T02:33:11.559Z",
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 12,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP.",
+      "euReach": 4158,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (1,297)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 4117
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-11-10",
+          "reachPerDay": 7
         },
         {
-          "date": "2026-11-14",
-          "reachPerDay": 4691.5
+          "date": "2026-11-11",
+          "reachPerDay": 1100
+        },
+        {
+          "date": "2026-11-12",
+          "reachPerDay": 1372.3333333333333
+        }
+      ]
+    },
+    "1790503648884916": {
+      "adId": "1790503648884916",
+      "startedRunningRaw": "Started running on Nov 9, 2026",
+      "startedRunningOn": "2026-11-09",
+      "text": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?\nDécouvrez Nuria— une formule liquide à action rapide, étayée par la science, conçue pour favoriser le drainage lymphatique naturel et la vitalité de tout votre corps.\n💧 Aide à éliminer les toxines et les déchets accumulés\n💧 Favorise une bonne circulation sanguine et renforce le système immunitaire\n💧 Réduit les gonflements, la rétention d'eau et l'inflammation\n💧 Contribue à une peau plus nette, moins gonflée et à une sensation de légèreté\n\n✅ À base d'ingrédients à base de plantes tels que la racine rouge, le gaillet gratteron et la bardane\n✅ Sans alcool, sans OGM\n🍯 Goût de miel\n\n🌿 Plantes naturelles | Testé par des laboratoires indépendants en France | Sans OGM\n\n💗 Quelques gouttes dans de l'eau suffisent, deux fois par jour… et laissez votre corps ressentir la différence\n👉 Cliquez sur « Acheter maintenant » et purifiez votre corps de l'intérieur ✨\nhttps://nuria-shop.com/products/drainage-lymphatique-nuria\n0:00 / 7:34\nWWW.NURIA-SHOP.COM\n🌿 Ne blâmez pas votre mode de vie — commencez par rééquilibrer votre système lymphatique\nSee details",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-dfw5-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQMp6EbJQdxQ5m9nBNkMGXv5DyARhkybXB8Bge_VQTKBvJZjMcTuDz9cmRquZQUPQhYCGnBnED9c1ypvSEWMgo2M7GhEarHfqt8eBcuUjA.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-dfw5-3.xx.fbcdn.net&_nc_ohc=zXue7UX_FMYQ7kNvwFfFk3e&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjA3OTY3NDU1MjY3NzUwMywiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0NTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRnxBJb0urjy5JkeoQaL2OtoSaIn0rW16YOAkBBwm8dcw&oe=6B011311",
+          "thumbnailUrl": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/901146408_1161658253180472_929465008551179068_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6QkyhjKSLawQ7kNvwEci1BX&_nc_oc=AdpDn57M5mHv8glRecfeH5ntsakpB8nB1FM8R_6k66jqIbmPXqX0MjwbL6dGcpHRKa4&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQRtbKgLVrM9VUCviPqUabMRYym59X2CmYcSZJ0CdbHiUA&oe=6B00FF18"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-11-11T00:25:09.191Z",
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 11,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
+      "euReach": 10622,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 35-44 in France (3,392)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 10673
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-11-11",
+          "reachPerDay": 564
+        },
+        {
+          "date": "2026-11-12",
+          "reachPerDay": 2863
+        },
+        {
+          "date": "2026-11-13",
+          "reachPerDay": 2668.25
         }
       ]
     },
@@ -435,17 +384,17 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQM-pjPhiJwrl4zqUVGEwZTQ8OJqdXjh7YfZMDzTQISbyLlRrQFCWScgrlSY3pxpdFdyaRaNPZsA8se_SDMzWoRfXwArrmw2csFJBANKwg.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=GyNJU_pKMM8Q7kNvwHJxX-d&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTEyMDI4MTcyNzQ4ODAwMCwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQejh00jyup4J8-Ss7GZxcz1JXLjSY20GdmXBute5_HSQ&oe=6B003244",
-          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/899197825_1168705749057210_4924281116240635140_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8SOhZU1jhg8Q7kNvwFyxRAz&_nc_oc=Ado77vEUit7FmzqAvbeXcgMpqGp7inlNUtyGiygSd0J8tYCSCeb1zwMdaYsgNgIpsok&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQSqdWD0CqMqEvDVs_ynx_yzdI1bjNYnFcaGiBMq9sRGHQ&oe=6B002FE4"
+          "url": "https://video-dfw5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQM-pjPhiJwrl4zqUVGEwZTQ8OJqdXjh7YfZMDzTQISbyLlRrQFCWScgrlSY3pxpdFdyaRaNPZsA8se_SDMzWoRfXwArrmw2csFJBANKwg.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-dfw5-2.xx.fbcdn.net&_nc_ohc=CIcU2qVES78Q7kNvwE4tKCw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTEyMDI4MTcyNzQ4ODAwMCwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSy4meVWCo4L3clA5PlTmd7AqjySuEGOqu8YcMQTXI4pw&oe=6B011344",
+          "thumbnailUrl": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/899197825_1168705749057210_4924281116240635140_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8SOhZU1jhg8Q7kNvwGj7g4H&_nc_oc=AdqwS8xDBphKZwcBUKJHZMgB0LDFngleu483rz6czqRCSqqcCBH7LQ0Zn4l2434WdFE&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQQB6BB0poDGBk3a47hvHhFXwvpkkPDXG6ackT4heOnamw&oe=6B0110E4"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-11-11T00:25:09.191Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 10,
-      "notifiedAsWinner": false,
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 11,
+      "notifiedAsWinner": true,
       "angles": [
         "Insider/celebrity-secret"
       ],
@@ -476,50 +425,144 @@
         }
       ]
     },
-    "1351815793575398": {
-      "adId": "1351815793575398",
-      "startedRunningRaw": "Started running on Nov 9, 2026",
-      "startedRunningOn": "2026-11-09",
-      "text": "WWW.NURIA-SHOP.COM\n20 % de réduction avec le code ECLAT20\nLearn more",
+    "1168632068891187": {
+      "adId": "1168632068891187",
+      "startedRunningRaw": "Started running on Nov 12, 2026",
+      "startedRunningOn": "2026-11-12",
+      "text": "« Oh, c'est gentil, tu as amené ta mère. »\n« Je suis Hélène. Je suis sa femme. »...\n0:00 / 13:16\nWWW.NURIA-SHOP.COM\nLe sérum qu'elles utilisent toutes...\nLearn more",
       "media": [
         {
           "type": "video",
-          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOvy_7fZc3Zl0riFUfWhLDJUsykcLm6PtqewbOtd22r9pAQMkv4epRWhwuxDsWomBwF6kZ9512w03FLDmAZKe66MmieJN1eIkF_gs0C9A.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=jxRtmywO48cQ7kNvwG_MfZh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTkxNjIyNDIwOTc0ODQ1MSwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxNDEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSpqjB2vbLoBe5T-oHjsJJs_psy9JUeLmacSskbjSQDOw&oe=6B001B1D",
-          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/900388956_28386903954322050_3968500349115061275_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_gkDAIGNsW0Q7kNvwHO6hYG&_nc_oc=AdrYRQQEMgw31hvTACr-HECBZ45gSCH7fXqKh3XvnsPvMnuOT1ebE5ubWh4scCMLvII&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQRw_AkpncJocgqbMqTsg37ZG-INeBqG3xXRMfzjPHOovw&oe=6B003240"
+          "url": "https://video-dfw5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPGCLLsXbpidNuYt6rjWgcCfZsohO0w9kTnuCfTNyFffZ7G47fTQR4PHW6-htx9kyf5k9pLzYbNVxR4-Zm6X-xrnfelG5V613AkrBe1pA.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-dfw5-2.xx.fbcdn.net&_nc_ohc=icdAaDgmxd0Q7kNvwFKYlBm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTc1ODQ1NjU1MTczNTE3LCJhc3NldF9hZ2VfZGF5cyI6NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjc5NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRQaWLQAlFvLUEBjm9Cc9M1h6XalYH-_jZd7O2ZkQcoaQ&oe=6B010715",
+          "thumbnailUrl": "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.35426-6/904051263_1901393214633259_4162619858319542239_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WLGMRsfE-joQ7kNvwGLqHgP&_nc_oc=AdoLYJQHWHRfFz2PALJh9JIZ9PX_4xgLS5Ls20qyn4lUtMCl8JWPqx_lhYstAlrgNYE&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQQcnsdCjUymy2UqFEOG7pTGSPlhNmj2PFXo9pTUmk7-GA&oe=6B00FF8D"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
-      "firstSeenAt": "2026-11-10T02:33:11.559Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 11,
+      "firstSeenAt": "2026-11-12T16:33:52.036Z",
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 9,
       "notifiedAsWinner": false,
       "angles": [],
-      "hook": "WWW.NURIA-SHOP.",
-      "euReach": 3198,
+      "hook": "« Oh, c'est gentil, tu as amené ta mère.",
+      "euReach": 9323,
       "euCountries": [
         "France"
       ],
-      "euTopSegment": "Female 55-64 in France (1,054)",
+      "euTopSegment": "Female 65+ in France (3,828)",
       "euTopCountries": [
         {
           "country": "France",
-          "reach": 3214
+          "reach": 9383
         }
       ],
       "reachHistory": [
         {
-          "date": "2026-11-10",
-          "reachPerDay": 9
+          "date": "2026-11-12",
+          "reachPerDay": 1070
         },
         {
+          "date": "2026-11-13",
+          "reachPerDay": 8846
+        },
+        {
+          "date": "2026-11-14",
+          "reachPerDay": 4691.5
+        }
+      ]
+    },
+    "2401696887235188": {
+      "adId": "2401696887235188",
+      "startedRunningRaw": "Started running on Nov 10, 2026",
+      "startedRunningOn": "2026-11-10",
+      "text": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?\nDécouvrez Nuria— une formule liquide à action rapide, étayée par la science, conçue pour favoriser le drainage lymphatique naturel et la vitalité de tout votre corps.\n💧 Aide à éliminer les toxines et les déchets accumulés\n💧 Favorise une bonne circulation sanguine et renforce le système immunitaire\n💧 Réduit les gonflements, la rétention d'eau et l'inflammation\n💧 Contribue à une peau plus nette, moins gonflée et à une sensation de légèreté\n\n✅ À base d'ingrédients à base de plantes tels que la racine rouge, le gaillet gratteron et la bardane\n✅ Sans alcool, sans OGM\n🍯 Goût de miel\n\n🌿 Plantes naturelles | Testé par des laboratoires indépendants en France | Sans OGM\n\n💗 Quelques gouttes dans de l'eau suffisent, deux fois par jour… et laissez votre corps ressentir la différence\n👉 Cliquez sur « Acheter maintenant » et purifiez votre corps de l'intérieur ✨\nhttps://nuria-shop.com/products/drainage-lymphatique-nuria\n0:00 / 6:23\nWWW.NURIA-SHOP.COM\n🌿 Ne blâmez pas votre mode de vie — commencez par rééquilibrer votre système lymphatique\nSee details",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-dfw6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQM8RRDXlofZB7_C91mvmFBbPrzw5s1wZT0-94Ao1R4bBfqHXID-8rAsaxXBCvPXSxWiZG_Gw2h0IdyED1Sh125W7TnsziyPbMAJiCnNJQ.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-dfw6-1.xx.fbcdn.net&_nc_ohc=UrlHpCVP7_AQ7kNvwFFgo9a&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTczMzMzNzcyODgwMDQwNywiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozODMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=UlEu637ahDupzdXB-CSBmbVEeHcze4_zUsROFzRDTb93O6ufU6VZsBaV1rqYfDYoQaE3PGpJTRJIuXxES7h4RIfufEryv3e03J-bzRrbotz1J1Z33wzDUKnsU14&oh=00_AQTphXP6eE9Q3N0oMsRlsFTHmeO5plmz9ykFgyaxieXo9w&oe=6B00FF5C",
+          "thumbnailUrl": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/894924184_1457371393032191_1092955662033668752_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R_6Qj_QpaKoQ7kNvwGIDjep&_nc_oc=AdrCnRWTv95vrHhvCwyb8sXfGA0Kvi9nSFlzebRBCHmod65PA3Y28Ws2ZDFaCKSWsGk&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQSQ3_kld3mT1_hcbYjIwiA9nFKr9LbPJ725JwIl5aDVEQ&oe=6B00FBA0"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-11-11T00:25:09.191Z",
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 11,
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
+      "euReach": 6135,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 35-44 in France (1,938)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 6000
+        }
+      ],
+      "reachHistory": [
+        {
           "date": "2026-11-11",
-          "reachPerDay": 979
+          "reachPerDay": 914
         },
         {
           "date": "2026-11-12",
-          "reachPerDay": 1071.3333333333333
+          "reachPerDay": 2122
+        },
+        {
+          "date": "2026-11-13",
+          "reachPerDay": 2000
+        }
+      ]
+    },
+    "996436593536003": {
+      "adId": "996436593536003",
+      "startedRunningRaw": "Started running on Nov 9, 2026",
+      "startedRunningOn": "2026-11-09",
+      "text": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?\nDécouvrez Nuria— une formule liquide à action rapide, étayée par la science, conçue pour favoriser le drainage lymphatique naturel et la vitalité de tout votre corps.\n💧 Aide à éliminer les toxines et les déchets accumulés\n💧 Favorise une bonne circulation sanguine et renforce le système immunitaire\n💧 Réduit les gonflements, la rétention d'eau et l'inflammation\n💧 Contribue à une peau plus nette, moins gonflée et à une sensation de légèreté\n\n✅ À base d'ingrédients à base de plantes tels que la racine rouge, le gaillet gratteron et la bardane\n✅ Sans alcool, sans OGM\n🍯 Goût de miel\n\n🌿 Plantes naturelles | Testé par des laboratoires indépendants aux États-Unis | Sans OGM\n\n💗 Quelques gouttes dans de l'eau suffisent, deux fois par jour… et laissez votre corps ressentir la différence\n👉 Cliquez sur « Acheter maintenant » et purifiez votre corps de l'intérieur ✨\nhttps://nuria-shop.com/products/drainage-lymphatique-nuria\n0:00 / 5:58\nWWW.NURIA-SHOP.COM\n🌿 Ne blâmez pas votre mode de vie — commencez par rééquilibrer votre système lymphatique\nSee details",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-dfw6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOQbLVydmyRqhASshQYt1elT6z-VGQWcukGqa7vYRHciIBEc6j_B21jCXrM8cyrIDlIUiRiA6KKocMXEZ8YbHE1PaBi3KPxf6nzRBYLCA.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-dfw6-1.xx.fbcdn.net&_nc_ohc=GoA8135uMg0Q7kNvwE1Agr3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjc2MTk0MDM1MDg2NjQzMCwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozNTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRBbUU8R3Nk0rsp2ItMvxsMrqqamisCzVU7vcKYuIOT5g&oe=6B0116C1",
+          "thumbnailUrl": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/901113931_29444506991828067_4654340116880418455_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_TUh67skeo8Q7kNvwHac9aB&_nc_oc=AdrXR_UEG0cJNJ05WFQeuBbM62730tPidRAYP5Qr5l4IrbRisJaN5mwFvLriCsf16Kk&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQTnLVuU3p6d3cq3fw1yjD2S6cg8XezBLaAuzreOydiclg&oe=6B00FE2C"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-11-11T00:25:09.191Z",
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 11,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
+      "euReach": 1187,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 35-44 in France (352)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 1222
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-11-11",
+          "reachPerDay": 70.5
+        },
+        {
+          "date": "2026-11-12",
+          "reachPerDay": 285.6666666666667
+        },
+        {
+          "date": "2026-11-13",
+          "reachPerDay": 305.5
         }
       ]
     },
@@ -531,17 +574,17 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMm5hPmSSOYbyyus6UlhE-tW5mQH8mUWFeBC9vW3SvIvNyM68kmUYrQFRbVJxTrzVhTkM6fY3X9iJ1xfnzrvbVgFwa9YImmZX2bU1SNmA.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=tA2AjeeFTV0Q7kNvwE-JEce&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE5MDQ5MDU3MDAwMTc3OSwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxMDEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQVWQtV5DiQBBiLO-9FRwszXsSKb-wh3TcYZNHwyJVvOg&oe=6AFFFDBC",
-          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/901477228_2660881374370071_2088219445460547435_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7R5Iztb0kgwQ7kNvwF3X2ZW&_nc_oc=AdqmT5ag5bHHu7siP-yQUBYdxCyxbK8te2YIK2Cwk6XrX-X-ho1Uf6p2Uruelxr1aqM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQTnRalNs2KQfVB5dZmAisnVh-rt1QWtz1EbbM1alb1jVw&oe=6B0029D8"
+          "url": "https://video-dfw5-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQMm5hPmSSOYbyyus6UlhE-tW5mQH8mUWFeBC9vW3SvIvNyM68kmUYrQFRbVJxTrzVhTkM6fY3X9iJ1xfnzrvbVgFwa9YImmZX2bU1SNmA.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-dfw5-3.xx.fbcdn.net&_nc_ohc=tA2AjeeFTV0Q7kNvwEDBGt6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE5MDQ5MDU3MDAwMTc3OSwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxMDEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSmF9xB6VJR6Ta-Ekw-K-DjkWJ4hsTLKtRCLhIpvugJNA&oe=6B0116FC",
+          "thumbnailUrl": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/901477228_2660881374370071_2088219445460547435_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7R5Iztb0kgwQ7kNvwHJjl5x&_nc_oc=Adr5D-eaMWyug8sEGily3EcF3KXf7In-hH7xHDsUifGHZOwtmHpeitB1tFE4TEFtqHU&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQSv6_amwXlDejJk3bfKf_kmp-R6S5Be7tVlKJg4yS8sQQ&oe=6B010AD8"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-11-11T00:25:09.191Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 10,
-      "notifiedAsWinner": false,
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 11,
+      "notifiedAsWinner": true,
       "angles": [],
       "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
       "euReach": 2523,
@@ -578,16 +621,16 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.35426-6/897354159_1933160161391169_5101963020072930546_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=96ztz8pE33sQ7kNvwFzpv8P&_nc_oc=AdrUpcaBV60RnIWLRxOYNH8kgqgxye6VOc_rpfkwNCHp3sXxiphvIfjT-27Url1vlLo&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQQIQHGr3pbHyuLdeAi8a979NYK0YZ80gAFmZRHn_bFKdQ&oe=6B001527"
+          "url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/897354159_1933160161391169_5101963020072930546_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=96ztz8pE33sQ7kNvwHm6--Q&_nc_oc=AdqrLTXs0cBRO7J_Js8Xu6c7cCd-Vjv8ilvlfDwDoNkAjTAozgldftQsYl1IuQzLqdE&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQR7RKdBrbbgpRQR9i0jKMMFe4S95nRwSqqJhaFLCAlZiA&oe=6B012E67"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-11-10T02:33:11.559Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 11,
-      "notifiedAsWinner": false,
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 12,
+      "notifiedAsWinner": true,
       "angles": [],
       "hook": "WWW.NURIA-SHOP.",
       "euReach": 869,
@@ -616,6 +659,100 @@
         }
       ]
     },
+    "1351815793575398": {
+      "adId": "1351815793575398",
+      "startedRunningRaw": "Started running on Nov 9, 2026",
+      "startedRunningOn": "2026-11-09",
+      "text": "WWW.NURIA-SHOP.COM\n20 % de réduction avec le code ECLAT20\nLearn more",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-dfw6-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOvy_7fZc3Zl0riFUfWhLDJUsykcLm6PtqewbOtd22r9pAQMkv4epRWhwuxDsWomBwF6kZ9512w03FLDmAZKe66MmieJN1eIkF_gs0C9A.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-dfw6-2.xx.fbcdn.net&_nc_ohc=NN6OUqQnV4oQ7kNvwG0RUMk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTkxNjIyNDIwOTc0ODQ1MSwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxNDEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSUlllQJjd1QhtkclBdzdghYd-rEdB3YhOFH5hkz4lBYg&oe=6B00FC1D",
+          "thumbnailUrl": "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.35426-6/900388956_28386903954322050_3968500349115061275_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EuVKYY9pa6UQ7kNvwHzjzAz&_nc_oc=AdrvOs8r0f7A4EViHmzwzwqKzGKlLMEJS0iER9NISj5D8cjC3yNNkwyiOjdRACo2efc&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQQoCWrmosDUkziuxOxGqb5l90eYbnjtxS6YUKWWkdri_w&oe=6B011340"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-11-10T02:33:11.559Z",
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 12,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP.",
+      "euReach": 3198,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (1,054)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 3214
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-11-10",
+          "reachPerDay": 9
+        },
+        {
+          "date": "2026-11-11",
+          "reachPerDay": 979
+        },
+        {
+          "date": "2026-11-12",
+          "reachPerDay": 1071.3333333333333
+        }
+      ]
+    },
+    "2177478436475925": {
+      "adId": "2177478436475925",
+      "startedRunningRaw": "Started running on Nov 9, 2026",
+      "startedRunningOn": "2026-11-09",
+      "text": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?\nDécouvrez Nuria— une formule liquide à action rapide, étayée par la science, conçue pour favoriser le drainage lymphatique naturel et la vitalité de tout votre corps.\n💧 Aide à éliminer les toxines et les déchets accumulés\n💧 Favorise une bonne circulation sanguine et renforce le système immunitaire\n💧 Réduit les gonflements, la rétention d'eau et l'inflammation\n💧 Contribue à une peau plus nette, moins gonflée et à une sensation de légèreté\n\n✅ À base d'ingrédients à base de plantes tels que la racine rouge, le gaillet gratteron et la bardane\n✅ Sans alcool, sans OGM\n🍯 Goût de miel\n\n🌿 Plantes naturelles | Testé par des laboratoires indépendants aux États-Unis | Sans OGM\n\n💗 Quelques gouttes dans de l'eau suffisent, deux fois par jour… et laissez votre corps ressentir la différence\n👉 Cliquez sur « Acheter maintenant » et purifiez votre corps de l'intérieur ✨\nhttps://nuria-shop.com/products/drainage-lymphatique-nuria\n0:00 / 7:19\nWWW.NURIA-SHOP.COM\n🌿 Ne blâmez pas votre mode de vie — commencez par rééquilibrer votre système lymphatique\nSee details",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-dfw5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOChEj3dWy6EfS7QjVJmeowY6RHhsFpjnFdkHxT3uyI6oOuIB5ZjvDeU3zTlZGpCyZhBfyyPPAb9F89O9qxg4qqKdZN7THsHsSWptAdtQ.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-dfw5-1.xx.fbcdn.net&_nc_ohc=rBDYnaqsZX0Q7kNvwGagQtV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTk2Mjg2NDM2ODQwNjQxNiwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0MzksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSuE0l4ETbIgB3C4Ba3dgkzHKK_B9AJHu7JSiooFTmXkQ&oe=6B011A24",
+          "thumbnailUrl": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/902045627_1815728269699437_934584392076659385_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n1NPHgVUsusQ7kNvwFzUw51&_nc_oc=AdooiuvqUnKdoVoLcRwbrjFgtPD82--_w6EpjjSDMrwO1IEkGTnKMg-zbzqx-WtpM3s&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQT9g6fjiS6VTJm-MADlv6DlVUcuyC6ieVPwMAC3OppEpg&oe=6B012DB8"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-11-11T00:25:09.191Z",
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 11,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
+      "euReach": 1483,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 45-54 in France (380)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 1511
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-11-11",
+          "reachPerDay": 131
+        },
+        {
+          "date": "2026-11-12",
+          "reachPerDay": 371
+        },
+        {
+          "date": "2026-11-13",
+          "reachPerDay": 377.75
+        }
+      ]
+    },
     "1657335332600877": {
       "adId": "1657335332600877",
       "startedRunningRaw": "Started running on Nov 9, 2026",
@@ -624,16 +761,16 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.35426-6/900998687_4481805635296593_3460370922513399122_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G9TZPU8PRiwQ7kNvwHwHUi7&_nc_oc=AdrBEi9qxUBykqoxusJrHUA26YwS6YTTW1blvwmxi9nFRepmXuNecyze_urrPy4fHgs&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQQopt8riDv1F55R9HQmwKNzFX5o8CgC3QdXMVp5f1GkeA&oe=6B0023E0"
+          "url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/900998687_4481805635296593_3460370922513399122_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G9TZPU8PRiwQ7kNvwHifx0A&_nc_oc=AdqJCYrSGV-qJhGXS3ZREiMDapLgbdqQ6v-tgGGQSIUDtRTbvprGE3Fqi0aoCDdzBDc&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQTxlJMyGlYEzqv-kArCVKn7WN3HcS6dmzPaUaPkYW9RyA&oe=6B0104E0"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-11-11T00:25:09.191Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 10,
-      "notifiedAsWinner": false,
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 11,
+      "notifiedAsWinner": true,
       "angles": [],
       "hook": "WWW.NURIA-SHOP.",
       "euReach": 1939,
@@ -662,53 +799,6 @@
         }
       ]
     },
-    "996436593536003": {
-      "adId": "996436593536003",
-      "startedRunningRaw": "Started running on Nov 9, 2026",
-      "startedRunningOn": "2026-11-09",
-      "text": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?\nDécouvrez Nuria— une formule liquide à action rapide, étayée par la science, conçue pour favoriser le drainage lymphatique naturel et la vitalité de tout votre corps.\n💧 Aide à éliminer les toxines et les déchets accumulés\n💧 Favorise une bonne circulation sanguine et renforce le système immunitaire\n💧 Réduit les gonflements, la rétention d'eau et l'inflammation\n💧 Contribue à une peau plus nette, moins gonflée et à une sensation de légèreté\n\n✅ À base d'ingrédients à base de plantes tels que la racine rouge, le gaillet gratteron et la bardane\n✅ Sans alcool, sans OGM\n🍯 Goût de miel\n\n🌿 Plantes naturelles | Testé par des laboratoires indépendants aux États-Unis | Sans OGM\n\n💗 Quelques gouttes dans de l'eau suffisent, deux fois par jour… et laissez votre corps ressentir la différence\n👉 Cliquez sur « Acheter maintenant » et purifiez votre corps de l'intérieur ✨\nhttps://nuria-shop.com/products/drainage-lymphatique-nuria\n0:00 / 5:58\nWWW.NURIA-SHOP.COM\n🌿 Ne blâmez pas votre mode de vie — commencez par rééquilibrer votre système lymphatique\nSee details",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOQbLVydmyRqhASshQYt1elT6z-VGQWcukGqa7vYRHciIBEc6j_B21jCXrM8cyrIDlIUiRiA6KKocMXEZ8YbHE1PaBi3KPxf6nzRBYLCA.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=GoA8135uMg0Q7kNvwFby7uz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjc2MTk0MDM1MDg2NjQzMCwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozNTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSdAT3zModmXxuqWfnZGiB5B-ZnOD4pFQrNfN0lZr3VCw&oe=6AFFFD81",
-          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/901113931_29444506991828067_4654340116880418455_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_TUh67skeo8Q7kNvwEaKEin&_nc_oc=AdqICFc4IXUr-Gwb_aOoDG_frx1R6TjSW5Gmj9yfkKVDNKOZ7tNQFsFBONbZVdEKDWU&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQRgn5dhozai7Uiu079dWX4ECuEU8uqXt_SHHCBEoKkadA&oe=6B001D2C"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-11-11T00:25:09.191Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 10,
-      "notifiedAsWinner": false,
-      "angles": [],
-      "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
-      "euReach": 1187,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 35-44 in France (352)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 1222
-        }
-      ],
-      "reachHistory": [
-        {
-          "date": "2026-11-11",
-          "reachPerDay": 70.5
-        },
-        {
-          "date": "2026-11-12",
-          "reachPerDay": 285.6666666666667
-        },
-        {
-          "date": "2026-11-13",
-          "reachPerDay": 305.5
-        }
-      ]
-    },
     "1650109693823659": {
       "adId": "1650109693823659",
       "startedRunningRaw": "Started running on Nov 9, 2026",
@@ -717,16 +807,16 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/893398966_1120477567364174_5680122146821355286_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kVer8X95sMAQ7kNvwEl-No4&_nc_oc=Adp9H_qEydYr3AgZngjj3_AqnJFfx8Q9zeQPKg1EG8h0GTSe_ffGXlx7Ad75P9rZAIk&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQRAfVCUH3pv5h4j2GdlRYO_jK636Nd4jzQezOfnXJNMpw&oe=6B002F74"
+          "url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/893398966_1120477567364174_5680122146821355286_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kVer8X95sMAQ7kNvwHOZ8_f&_nc_oc=AdpTptdnyHplWS3KHYhnp6Z0eHcLelUqiSOPPDPBODaj3S4-3A5_cZj_yfgUMcNzeBA&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQS_df-Znbir_KmtlLsfzgdtmwzHR28Z7Xn6PAdxr4wqvQ&oe=6B011074"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-11-11T00:25:09.191Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 10,
-      "notifiedAsWinner": false,
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 11,
+      "notifiedAsWinner": true,
       "angles": [
         "Testimonial/persoonlijk verhaal"
       ],
@@ -757,190 +847,6 @@
         }
       ]
     },
-    "2177478436475925": {
-      "adId": "2177478436475925",
-      "startedRunningRaw": "Started running on Nov 9, 2026",
-      "startedRunningOn": "2026-11-09",
-      "text": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?\nDécouvrez Nuria— une formule liquide à action rapide, étayée par la science, conçue pour favoriser le drainage lymphatique naturel et la vitalité de tout votre corps.\n💧 Aide à éliminer les toxines et les déchets accumulés\n💧 Favorise une bonne circulation sanguine et renforce le système immunitaire\n💧 Réduit les gonflements, la rétention d'eau et l'inflammation\n💧 Contribue à une peau plus nette, moins gonflée et à une sensation de légèreté\n\n✅ À base d'ingrédients à base de plantes tels que la racine rouge, le gaillet gratteron et la bardane\n✅ Sans alcool, sans OGM\n🍯 Goût de miel\n\n🌿 Plantes naturelles | Testé par des laboratoires indépendants aux États-Unis | Sans OGM\n\n💗 Quelques gouttes dans de l'eau suffisent, deux fois par jour… et laissez votre corps ressentir la différence\n👉 Cliquez sur « Acheter maintenant » et purifiez votre corps de l'intérieur ✨\nhttps://nuria-shop.com/products/drainage-lymphatique-nuria\n0:00 / 7:19\nWWW.NURIA-SHOP.COM\n🌿 Ne blâmez pas votre mode de vie — commencez par rééquilibrer votre système lymphatique\nSee details",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOChEj3dWy6EfS7QjVJmeowY6RHhsFpjnFdkHxT3uyI6oOuIB5ZjvDeU3zTlZGpCyZhBfyyPPAb9F89O9qxg4qqKdZN7THsHsSWptAdtQ.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=rBDYnaqsZX0Q7kNvwGZZxqw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTk2Mjg2NDM2ODQwNjQxNiwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0MzksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRWgmeEXZKg445uqRI7suISMEo9kNH-w6RK9XXP5fse0Q&oe=6B0000E4",
-          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/902045627_1815728269699437_934584392076659385_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R0qKN9wKh2gQ7kNvwEork_C&_nc_oc=AdrEPaVDjuDpFwbQMpUSmDkBAwCJmEJPmG6LNDcYW59aEiOdz6htGRTxLc0B14AFHQc&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQRfuIj25Oi5Iwwx-RXitssAT_hDC_JHd58PzjLG_IG-AQ&oe=6B001478"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-11-11T00:25:09.191Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 10,
-      "notifiedAsWinner": false,
-      "angles": [],
-      "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
-      "euReach": 1483,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 45-54 in France (380)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 1511
-        }
-      ],
-      "reachHistory": [
-        {
-          "date": "2026-11-11",
-          "reachPerDay": 131
-        },
-        {
-          "date": "2026-11-12",
-          "reachPerDay": 371
-        },
-        {
-          "date": "2026-11-13",
-          "reachPerDay": 377.75
-        }
-      ]
-    },
-    "2150672958874737": {
-      "adId": "2150672958874737",
-      "startedRunningRaw": "Started running on Nov 9, 2026",
-      "startedRunningOn": "2026-11-09",
-      "text": "WWW.NURIA-SHOP.COM\n10% Avec le code ETE10\nLearn more",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQM5R7WwchJYC1VAdgjkSBcK-a1iXnuvDVHkLkMF52ZWqHsxWdsGYxSa6uB_Gpnmx8o2BMUDYxUVh5s1p0omTh-Kt_BEyV-HhyzHw0Ykfg.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=QXBPCl0EwRsQ7kNvwHkRPcz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE1MzMxMDI0MzkwNDE2OCwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxMTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTMnKtIcuyEPehQrBh8Bdtj20Yp0A3sngC1nn69VMV9pA&oe=6B00291C",
-          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/902018734_1444423633837944_1449569604175831713_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=El6yCQAqoUcQ7kNvwGzbl_g&_nc_oc=AdpQPyqCnLrn1ymmQUDvXM1AptVbIijIeC-oRhDfkTxHMec04fcO2ETstHtAX-2lAvg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQQMOf6XU_iLp6FjDJre3ap7j5kfgGvG09kewH_yP5K20A&oe=6B001505"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-11-10T02:33:11.559Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 11,
-      "notifiedAsWinner": false,
-      "angles": [],
-      "hook": "WWW.NURIA-SHOP.",
-      "euReach": 346,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 55-64 in France (131)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 353
-        }
-      ],
-      "reachHistory": [
-        {
-          "date": "2026-11-10",
-          "reachPerDay": 6
-        },
-        {
-          "date": "2026-11-11",
-          "reachPerDay": 73
-        },
-        {
-          "date": "2026-11-12",
-          "reachPerDay": 117.66666666666667
-        }
-      ]
-    },
-    "29392793673684253": {
-      "adId": "29392793673684253",
-      "startedRunningRaw": "Started running on Nov 9, 2026",
-      "startedRunningOn": "2026-11-09",
-      "text": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?\nDécouvrez Nuria— une formule liquide à action rapide, étayée par la science, conçue pour favoriser le drainage lymphatique naturel et la vitalité de tout votre corps.\n💧 Aide à éliminer les toxines et les déchets accumulés\n💧 Favorise une bonne circulation sanguine et renforce le système immunitaire\n💧 Réduit les gonflements, la rétention d'eau et l'inflammation\n💧 Contribue à une peau plus nette, moins gonflée et à une sensation de légèreté\n\n✅ À base d'ingrédients à base de plantes tels que la racine rouge, le gaillet gratteron et la bardane\n✅ Sans alcool, sans OGM\n🍯 Goût de miel\n\n🌿 Plantes naturelles | Testé par des laboratoires indépendants en France | Sans OGM\n\n💗 Quelques gouttes dans de l'eau suffisent, deux fois par jour… et laissez votre corps ressentir la différence\n👉 Cliquez sur « Acheter maintenant » et purifiez votre corps de l'intérieur ✨\nhttps://nuria-shop.com/products/drainage-lymphatique-nuria\n0:00 / 3:59\nWWW.NURIA-SHOP.COM\n🌿 Ne blâmez pas votre mode de vie — commencez par rééquilibrer votre système lymphatique\nSee details",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-sea5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPvzRjAaeykI49PlBsW3lNTietl8xmwZGYTZrqvQAb5ksmdF848MBRr-Tko5KY9OILntEzVNirnBaQNCqZttg9tKmsjqWl-qLPboaOMaA.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-sea5-2.xx.fbcdn.net&_nc_ohc=IPZSeGO-tcIQ7kNvwGmwwRv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTMyODg3OTY2MjYzMDQ4OSwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyMzgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQT7wLbFlfQM2PxD2t15AmYDtk7ToaCLc1DI-p2Jc2G3ug&oe=6B001A6F",
-          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/896839310_2096948467783438_5061814189795380514_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Dd0VJTQMReEQ7kNvwEoaXwZ&_nc_oc=AdqvAEAgb8F_uyYFr2IwoLPQa2DlSvSXNo29_XGyInuHfXgMQwQeLjD4qNyRG-7LJhU&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQSoRdw6flMDlqAB7OBD5z8oV2RxKACofLp2CSlorLfckA&oe=6B0003CE"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-11-11T00:25:09.191Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 10,
-      "notifiedAsWinner": false,
-      "angles": [],
-      "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
-      "euReach": 689,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 35-44 in France (203)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 706
-        }
-      ],
-      "reachHistory": [
-        {
-          "date": "2026-11-11",
-          "reachPerDay": 82.5
-        },
-        {
-          "date": "2026-11-12",
-          "reachPerDay": 156.66666666666666
-        },
-        {
-          "date": "2026-11-13",
-          "reachPerDay": 176.5
-        }
-      ]
-    },
-    "3495023857361124": {
-      "adId": "3495023857361124",
-      "startedRunningRaw": "Started running on Nov 12, 2026",
-      "startedRunningOn": "2026-11-12",
-      "text": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?\nDécouvrez Nuria— une formule liquide à action rapide, étayée par la science, conçue pour favoriser le drainage lymphatique naturel et la vitalité de tout votre corps.\n💧 Aide à éliminer les toxines et les déchets accumulés\n💧 Favorise une bonne circulation sanguine et renforce le système immunitaire\n💧 Réduit les gonflements, la rétention d'eau et l'inflammation\n💧 Contribue à une peau plus nette, moins gonflée et à une sensation de légèreté\n\n✅ À base d'ingrédients à base de plantes tels que la racine rouge, le gaillet gratteron et la bardane\n✅ Sans alcool, sans OGM\n🍯 Goût de miel\n\n🌿 Plantes naturelles | Testé par des laboratoires indépendants aux États-Unis | Sans OGM\n\n💗 Quelques gouttes dans de l'eau suffisent, deux fois par jour… et laissez votre corps ressentir la différence\n👉 Cliquez sur « Acheter maintenant » et purifiez votre corps de l'intérieur ✨\nhttps://nuria-shop.com/products/drainage-lymphatique-nuria\n0:00 / 10:58\nWWW.NURIA-SHOP.COM\n🌿 Ne blâmez pas votre mode de vie — commencez par rééquilibrer votre système lymphatique\nSee details",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMh-GU1YCcqKWkZak_dyyz4Eu9uMdSxIibmYZoF6J-q_H7GIza0T4wWmBiI9vaZZOaxE1OA8vY93FCLhEw5pkpOJvb3thTRqGM6r5nLPA.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=G5YmujhuHRwQ7kNvwG82i2H&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTg0MjkzMDU0MzY5MDUwNCwiYXNzZXRfYWdlX2RheXMiOjMsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo2NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQS0RBgNLTQV4v2900bpFBAY2Y6a8qGYGM4hopy1Vqsphw&oe=6B002100",
-          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/902371031_1685633989584895_9220499566225513200_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6E_zr6wf_aIQ7kNvwHR2vN4&_nc_oc=AdqScMAfOhD_p0zLXG7hiiuEeQtl8vmu7fu037W1Nhs8_za2MxwydX4mpj66LAzeBjQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQTa3exsudkHnwThFI-ukdINQ6jUFbKpfOYMaCEgo7Ag1Q&oe=6B00182E"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-11-14T00:39:55.582Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 5,
-      "notifiedAsWinner": false,
-      "angles": [],
-      "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
-      "euReach": 2782,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 45-54 in France (910)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 2814
-        }
-      ],
-      "reachHistory": [
-        {
-          "date": "2026-11-14",
-          "reachPerDay": 923
-        },
-        {
-          "date": "2026-11-15",
-          "reachPerDay": 938
-        }
-      ]
-    },
     "1838059197199488": {
       "adId": "1838059197199488",
       "startedRunningRaw": "Started running on Nov 9, 2026",
@@ -949,16 +855,16 @@
       "media": [
         {
           "type": "image",
-          "url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/897749627_2181580219421143_172450955928462060_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hZclEyKjRUcQ7kNvwGp5W4M&_nc_oc=Ado1hQEz5RapcMLwRcTYRBpLZ5tzHxgoIN5AoNzdZQL5Fo0QesQuu8RFhaAKGyXhzbw&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQRolRBV7gP8i3Ow6dn3zJVrJsp_2aIjdwWm92RK6dVK1g&oe=6B0007A6"
+          "url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/897749627_2181580219421143_172450955928462060_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=se0w2XA7WS0Q7kNvwEZciyl&_nc_oc=Adqg1i5J-keCgayt9kJEIE95Y6blHWbOiAdoQjEeY090pHsugpV4sFJPgJuR73Bo3yY&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQRcr5WG6g2AojbgNBZium6gK_wMadI2gqW3D3QKoX1_5g&oe=6B0120E6"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-11-11T00:25:09.191Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 10,
-      "notifiedAsWinner": false,
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 11,
+      "notifiedAsWinner": true,
       "angles": [],
       "hook": "WWW.NURIA-SHOP.",
       "euReach": 657,
@@ -987,6 +893,147 @@
         }
       ]
     },
+    "29392793673684253": {
+      "adId": "29392793673684253",
+      "startedRunningRaw": "Started running on Nov 9, 2026",
+      "startedRunningOn": "2026-11-09",
+      "text": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?\nDécouvrez Nuria— une formule liquide à action rapide, étayée par la science, conçue pour favoriser le drainage lymphatique naturel et la vitalité de tout votre corps.\n💧 Aide à éliminer les toxines et les déchets accumulés\n💧 Favorise une bonne circulation sanguine et renforce le système immunitaire\n💧 Réduit les gonflements, la rétention d'eau et l'inflammation\n💧 Contribue à une peau plus nette, moins gonflée et à une sensation de légèreté\n\n✅ À base d'ingrédients à base de plantes tels que la racine rouge, le gaillet gratteron et la bardane\n✅ Sans alcool, sans OGM\n🍯 Goût de miel\n\n🌿 Plantes naturelles | Testé par des laboratoires indépendants en France | Sans OGM\n\n💗 Quelques gouttes dans de l'eau suffisent, deux fois par jour… et laissez votre corps ressentir la différence\n👉 Cliquez sur « Acheter maintenant » et purifiez votre corps de l'intérieur ✨\nhttps://nuria-shop.com/products/drainage-lymphatique-nuria\n0:00 / 3:59\nWWW.NURIA-SHOP.COM\n🌿 Ne blâmez pas votre mode de vie — commencez par rééquilibrer votre système lymphatique\nSee details",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-dfw5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPvzRjAaeykI49PlBsW3lNTietl8xmwZGYTZrqvQAb5ksmdF848MBRr-Tko5KY9OILntEzVNirnBaQNCqZttg9tKmsjqWl-qLPboaOMaA.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-dfw5-1.xx.fbcdn.net&_nc_ohc=IPZSeGO-tcIQ7kNvwHM75-9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTMyODg3OTY2MjYzMDQ4OSwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyMzgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQShtN2jLHbbT8N6c3NfbtSM3rvxE-llPAf0MqY6MxVZUA&oe=6B00FB6F",
+          "thumbnailUrl": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/896839310_2096948467783438_5061814189795380514_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Dd0VJTQMReEQ7kNvwEN_9jl&_nc_oc=AdrOQXNSUIUh2nrLFZvHERKybN_MMtHd8Qmy_QR2dmNaZ4spyvOSoWIPihDo_F49QgM&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQTtC8lXmL424ukhqGrWEasNKHrQq0rz0AKHow7KT81MaA&oe=6B011D0E"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-11-11T00:25:09.191Z",
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 11,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
+      "euReach": 689,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 35-44 in France (203)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 706
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-11-11",
+          "reachPerDay": 82.5
+        },
+        {
+          "date": "2026-11-12",
+          "reachPerDay": 156.66666666666666
+        },
+        {
+          "date": "2026-11-13",
+          "reachPerDay": 176.5
+        }
+      ]
+    },
+    "2150672958874737": {
+      "adId": "2150672958874737",
+      "startedRunningRaw": "Started running on Nov 9, 2026",
+      "startedRunningOn": "2026-11-09",
+      "text": "WWW.NURIA-SHOP.COM\n10% Avec le code ETE10\nLearn more",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-dfw5-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQM5R7WwchJYC1VAdgjkSBcK-a1iXnuvDVHkLkMF52ZWqHsxWdsGYxSa6uB_Gpnmx8o2BMUDYxUVh5s1p0omTh-Kt_BEyV-HhyzHw0Ykfg.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-dfw5-3.xx.fbcdn.net&_nc_ohc=QXBPCl0EwRsQ7kNvwGGDjdN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE1MzMxMDI0MzkwNDE2OCwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxMTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQS7XL4SRU0WYkm5tUCA0JVARXrNHQzJxPxAUReQJyYE7Q&oe=6B010A1C",
+          "thumbnailUrl": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/902018734_1444423633837944_1449569604175831713_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=El6yCQAqoUcQ7kNvwFXECWt&_nc_oc=Adp13ooxQ6UVkGVzdtlNJYEefJ-1VWx5QN3f36zcP7xbPRfmRrMgeT9nMXx2ia4TqRw&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQReSqEh069NlxcshIJWQGjg8m4-_r0G9_ob9sKPCVYPaw&oe=6B012E45"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-11-10T02:33:11.559Z",
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 12,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP.",
+      "euReach": 346,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (131)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 353
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-11-10",
+          "reachPerDay": 6
+        },
+        {
+          "date": "2026-11-11",
+          "reachPerDay": 73
+        },
+        {
+          "date": "2026-11-12",
+          "reachPerDay": 117.66666666666667
+        }
+      ]
+    },
+    "3495023857361124": {
+      "adId": "3495023857361124",
+      "startedRunningRaw": "Started running on Nov 12, 2026",
+      "startedRunningOn": "2026-11-12",
+      "text": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?\nDécouvrez Nuria— une formule liquide à action rapide, étayée par la science, conçue pour favoriser le drainage lymphatique naturel et la vitalité de tout votre corps.\n💧 Aide à éliminer les toxines et les déchets accumulés\n💧 Favorise une bonne circulation sanguine et renforce le système immunitaire\n💧 Réduit les gonflements, la rétention d'eau et l'inflammation\n💧 Contribue à une peau plus nette, moins gonflée et à une sensation de légèreté\n\n✅ À base d'ingrédients à base de plantes tels que la racine rouge, le gaillet gratteron et la bardane\n✅ Sans alcool, sans OGM\n🍯 Goût de miel\n\n🌿 Plantes naturelles | Testé par des laboratoires indépendants aux États-Unis | Sans OGM\n\n💗 Quelques gouttes dans de l'eau suffisent, deux fois par jour… et laissez votre corps ressentir la différence\n👉 Cliquez sur « Acheter maintenant » et purifiez votre corps de l'intérieur ✨\nhttps://nuria-shop.com/products/drainage-lymphatique-nuria\n0:00 / 10:58\nWWW.NURIA-SHOP.COM\n🌿 Ne blâmez pas votre mode de vie — commencez par rééquilibrer votre système lymphatique\nSee details",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-dfw5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMh-GU1YCcqKWkZak_dyyz4Eu9uMdSxIibmYZoF6J-q_H7GIza0T4wWmBiI9vaZZOaxE1OA8vY93FCLhEw5pkpOJvb3thTRqGM6r5nLPA.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-dfw5-1.xx.fbcdn.net&_nc_ohc=G5YmujhuHRwQ7kNvwEYS-qM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTg0MjkzMDU0MzY5MDUwNCwiYXNzZXRfYWdlX2RheXMiOjMsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo2NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTfrTARCwzsnKzm1dwx40f0-OZZrefsMcj7T1l1K9wTzA&oe=6B010200",
+          "thumbnailUrl": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/902371031_1685633989584895_9220499566225513200_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6E_zr6wf_aIQ7kNvwGifsCx&_nc_oc=AdpKetkTq-I1hMDxFgwaGgSVzauh513l-U-9DxyRLsRPFuq01tWhew0QWU7tYTQM6Fw&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQR55opy5zoc6U1ij6mIyM_3IAxK5dlfIRj1PlrQXV9SWg&oe=6B01316E"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-11-14T00:39:55.582Z",
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 6,
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
+      "euReach": 2846,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 45-54 in France (931)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 2868
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-11-14",
+          "reachPerDay": 923
+        },
+        {
+          "date": "2026-11-15",
+          "reachPerDay": 938
+        },
+        {
+          "date": "2026-11-16",
+          "reachPerDay": 717
+        }
+      ]
+    },
     "1115557457907776": {
       "adId": "1115557457907776",
       "startedRunningRaw": "Started running on Nov 9, 2026",
@@ -995,18 +1042,19 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMoTwsolfst5uaVFDJDttRO3CEOZKGcODtE0vkKAA5-8MRv908vw6LwVNL2x_gmWKMCjO7eFlrnimK33Rw9IdQ5juko3HXNPcER7GAJRA.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=PMaXmnBuYfIQ7kNvwEAN5qK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExNTg5OTc3MTA1OTcwOSwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozNjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=UuSvX8N4VSzmSORU7WcWLyIvMKf7VYhTNBbzpHW9UU41Bcy05eQ_CSTpAQ7XSLyCROOVrqbRzUDzNu9X5R7IKhsEDdXvsM669OLBfqahCiBGVFQqyQehyTngbRQ&oh=00_AQRdclOg8ysbLpMJJXRaVhOUB-5NLyBttYK0YQqlNN2k2w&oe=6B00270B",
-          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/898779417_1797227061330728_582974160344709472_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H-LlEFDZ6LcQ7kNvwHS9ZOL&_nc_oc=AdqurmMTx8fVLU47auDi8jm9NvpW1zXX52nUbO6qdNdWqeY9NnxuN51J2ImtFeYtiFw&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQQNFL_FZ_ZE479kos1xJpFNOllEFFCz0swYaXQKQ1ioIg&oe=6B002104"
+          "url": "https://video-dfw6-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMoTwsolfst5uaVFDJDttRO3CEOZKGcODtE0vkKAA5-8MRv908vw6LwVNL2x_gmWKMCjO7eFlrnimK33Rw9IdQ5juko3HXNPcER7GAJRA.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-dfw6-2.xx.fbcdn.net&_nc_ohc=HqS2Yj7t5BUQ7kNvwHLKSV-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExNTg5OTc3MTA1OTcwOSwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozNjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=Uq8AsJSMMHbsJhoY6uPrXg-AZfNc0NaQtrWKIdy9n-ahaH7sUfZaY1jCTGKcekGwZ_UFuk58J66xQKOWxshTB5jhAzGzs6VuRrQ4ekh_gFbBQSnSvRqkSsOq6ps&oh=00_AQSeZm-7jF6_MHQqmxVeB594iEgMdw5WotyYXnHcwiLacg&oe=6B01080B",
+          "thumbnailUrl": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/898779417_1797227061330728_582974160344709472_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H-LlEFDZ6LcQ7kNvwGDWK9c&_nc_oc=Ado9g5ZxsknVJ2Tkarvs2c2RhB7K105HIqMTkx9vNte0asSA4BlGSFx6g3Sj4lwhdXs&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQQNfdcaJ-h3fRE2cTLOIbVeV8rc9ULeJNRiShGUbXS1Vw&oe=6B010204"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-11-10T02:33:11.559Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 11,
-      "notifiedAsWinner": false,
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 12,
+      "notifiedAsWinner": true,
       "angles": [
+        "Insider/celebrity-secret",
         "Testimonial/persoonlijk verhaal"
       ],
       "hook": "Samedi, au match de foot de mon fils, mon ex-mari s'est arrêté au milieu d'une phrase en me voyant.",
@@ -1036,145 +1084,6 @@
         }
       ]
     },
-    "1886147229217722": {
-      "adId": "1886147229217722",
-      "startedRunningRaw": "Started running on Nov 9, 2026",
-      "startedRunningOn": "2026-11-09",
-      "text": "Elle vendait des pommes de terre quand il s'est approché et lui a dit une chose qu'elle n'oubliera jamais...\n0:00 / 5:54\nWWW.NURIA-SHOP.COM\nLe sérum qu'elles utilisent toutes...\nLearn more",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOsT5yBN0m0olC1sVydac9LQ8ixjsWdQ31pYS6S7-Zo2tT1V3VuYhQWljhSxYZHxMGb54b5VS1qhzUtJLcCTC_DnmYkA-J-I8Dt4VKZng.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=2BXcr1LDryYQ7kNvwF0Tikn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY1MzYzOTMyOTgyMTAxNywiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozNTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ-wm2w3a0F4EkmuSN5iLuhVK3unCHzk4D3uBIbMD4YIQ&oe=6B0016E7",
-          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/900838485_1813085723069683_47062967619270135_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_u-WK1QqMSEQ7kNvwH7asuB&_nc_oc=AdosAs2IRYWvQGwsMoj9-lfKVtlob5GCNFJ2B1AFLq_LfaU_nDHmD25vgakAfS8SaP4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQThjnsJbR2QRYz9V78jpjTzn8Z1V5jGjN7IjDroGzl2oA&oe=6B0007AC"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-11-10T02:33:11.559Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 11,
-      "notifiedAsWinner": false,
-      "angles": [],
-      "hook": "Elle vendait des pommes de terre quand il s'est approché et lui a dit une chose qu'elle n'oubliera jamais.",
-      "euReach": 603,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 55-64 in France (208)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 610
-        }
-      ],
-      "reachHistory": [
-        {
-          "date": "2026-11-10",
-          "reachPerDay": 5
-        },
-        {
-          "date": "2026-11-11",
-          "reachPerDay": 125.5
-        },
-        {
-          "date": "2026-11-12",
-          "reachPerDay": 203.33333333333334
-        }
-      ]
-    },
-    "2602779283561714": {
-      "adId": "2602779283561714",
-      "startedRunningRaw": "Started running on Nov 9, 2026",
-      "startedRunningOn": "2026-11-09",
-      "text": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?\nDécouvrez Nuria— une formule liquide à action rapide, étayée par la science, conçue pour favoriser le drainage lymphatique naturel et la vitalité de tout votre corps.\n💧 Aide à éliminer les toxines et les déchets accumulés\n💧 Favorise une bonne circulation sanguine et renforce le système immunitaire\n💧 Réduit les gonflements, la rétention d'eau et l'inflammation\n💧 Contribue à une peau plus nette, moins gonflée et à une sensation de légèreté\n\n✅ 4 plantes : gaillet, trèfle rouge, frêne épineux et stillingia\n✅ Sans alcool, sans OGM\n🍯 Goût de miel\n\n🌿 Plantes naturelles | Sans OGM\n\n💗 Une pipette par jour dans de l'eau… et laissez votre corps ressentir la différence\n👉 Cliquez sur « En savoir plus » et purifiez votre corps de l'intérieur ✨\nhttps://nuria-shop.com/products/drainage-lymphatique-nuria\nWWW.NURIA-SHOP.COM\n🌿 Ne blâmez pas votre mode de vie — commencez par rééquilibrer votre système lymphatique\nDécouvrez des rituels pensés pour sublimer votre éclat naturel, au quotidien.\nSee details",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/899925640_2738562083207972_4361762725525461197_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dTRGgxacoFEQ7kNvwHhm-M0&_nc_oc=AdqeOPPe_RjOsaSZmldeCn52ezTRWeRDnigiyM3Dqh62AHINjVhy7afq1I1uMpuaTAc&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQSl3HHkPrwo87PkkBJib1w-3YlbzsKNhxTkQ6Y_rf2Nsg&oe=6B002354"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-11-11T00:25:09.191Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 10,
-      "notifiedAsWinner": false,
-      "angles": [],
-      "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
-      "euReach": 628,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 35-44 in France (180)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 641
-        }
-      ],
-      "reachHistory": [
-        {
-          "date": "2026-11-11",
-          "reachPerDay": 26
-        },
-        {
-          "date": "2026-11-12",
-          "reachPerDay": 135
-        },
-        {
-          "date": "2026-11-13",
-          "reachPerDay": 160.25
-        }
-      ]
-    },
-    "1582930186935215": {
-      "adId": "1582930186935215",
-      "startedRunningRaw": "Started running on Nov 9, 2026",
-      "startedRunningOn": "2026-11-09",
-      "text": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?\nDécouvrez Nuria— une formule liquide à action rapide, étayée par la science, conçue pour favoriser le drainage lymphatique naturel et la vitalité de tout votre corps.\n💧 Aide à éliminer les toxines et les déchets accumulés\n💧 Favorise une bonne circulation sanguine et renforce le système immunitaire\n💧 Réduit les gonflements, la rétention d'eau et l'inflammation\n💧 Contribue à une peau plus nette, moins gonflée et à une sensation de légèreté\n\n✅ À base d'ingrédients à base de plantes tels que la racine rouge, le gaillet gratteron et la bardane\n✅ Sans alcool, sans OGM\n🍯 Goût de miel\n\n🌿 Plantes naturelles | Testé par des laboratoires indépendants en France | Sans OGM\n\n💗 Quelques gouttes dans de l'eau suffisent, deux fois par jour… et laissez votre corps ressentir la différence\n👉 Cliquez sur « Acheter maintenant » et purifiez votre corps de l'intérieur ✨\nhttps://nuria-shop.com/products/drainage-lymphatique-nuria\nWWW.NURIA-SHOP.COM\n🌿 Ne blâmez pas votre mode de vie — commencez par rééquilibrer votre système lymphatique\nDécouvrez des rituels pensés pour sublimer votre éclat naturel, au quotidien.\nSee details",
-      "media": [
-        {
-          "type": "image",
-          "url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/899614203_1782966799597964_3812367915067114691_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZB0G2aZBwnAQ7kNvwGPjlNm&_nc_oc=AdpndDPSn9pYoPwMHmrhi-lNqW2xktrWbdv04c4bz_eGsg2PHvWC9UmRfwtbGK3Q1aY&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQTEzcssTVlZNpe_VyzDG1ERexZBgsyYaXzVqxRAl61jSQ&oe=6B000DC0"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-11-10T02:33:11.559Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 11,
-      "notifiedAsWinner": false,
-      "angles": [],
-      "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
-      "euReach": 146,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 35-44 in France (47)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 146
-        }
-      ],
-      "reachHistory": [
-        {
-          "date": "2026-11-10",
-          "reachPerDay": 4
-        },
-        {
-          "date": "2026-11-11",
-          "reachPerDay": 17
-        },
-        {
-          "date": "2026-11-12",
-          "reachPerDay": 48.666666666666664
-        }
-      ]
-    },
     "1362379479182678": {
       "adId": "1362379479182678",
       "startedRunningRaw": "Started running on Nov 10, 2026",
@@ -1183,16 +1092,16 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-sea5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNXeRwTWLjK4TW468OQW-QLkzQ_olhidpRlH8L4qAZWqeodm8C6xIcNG9nzmS7uTGLqWCmeBjltXYopk-3egLqHckoCuiEqzLK66X1bvA.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-sea5-2.xx.fbcdn.net&_nc_ohc=IJFBImzSPn8Q7kNvwF5fB5n&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc0NTQ3Njk2MDYyNDEyNSwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0MzcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTgQVzi1EOJoVDgPOSyR85HicZbe5Cr9e3epsdjnQrGdA&oe=6B001194",
-          "thumbnailUrl": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.35426-6/897433800_1111487431692985_2127731365674415652_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0lMO10dKw9sQ7kNvwEkjk_N&_nc_oc=AdoN6pJ5Q3ArBrQKgBngJlA8yxirsUDW1z3eULDIoPd6mwPW_Li1A6icKGRAfGn20fk&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQQQff2uZCWvAojQ-0UmRBHO3TXz2VwmWcUYdGW-HyVQ6w&oe=6B0010BB"
+          "url": "https://video-dfw6-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNXeRwTWLjK4TW468OQW-QLkzQ_olhidpRlH8L4qAZWqeodm8C6xIcNG9nzmS7uTGLqWCmeBjltXYopk-3egLqHckoCuiEqzLK66X1bvA.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-dfw6-2.xx.fbcdn.net&_nc_ohc=Z3xEa2480poQ7kNvwHPk-q2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc0NTQ3Njk2MDYyNDEyNSwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0MzcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRRcaV7jnL3IOAMwrH4gJHJoHHEcUd9KMRynca3meA1RQ&oe=6B012AD4",
+          "thumbnailUrl": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/897433800_1111487431692985_2127731365674415652_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7i1f2ArmqvYQ7kNvwGqi0rn&_nc_oc=AdrhRo2nJU20gGVTC7aJL0Lfa6WPdXorM7OUik8IHvs-wCAz7eT9WJt0BwyDgfOyyj4&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQSQCPx2nDsE5akYxs4LtQQL7k22269fqNBJB6JVlYYXtQ&oe=6B0129FB"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-11-11T00:25:09.191Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 10,
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 11,
       "notifiedAsWinner": false,
       "angles": [],
       "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
@@ -1222,6 +1131,138 @@
         }
       ]
     },
+    "1886147229217722": {
+      "adId": "1886147229217722",
+      "startedRunningRaw": "Started running on Nov 9, 2026",
+      "startedRunningOn": "2026-11-09",
+      "text": "Elle vendait des pommes de terre quand il s'est approché et lui a dit une chose qu'elle n'oubliera jamais...\n0:00 / 5:54\nWWW.NURIA-SHOP.COM\nLe sérum qu'elles utilisent toutes...\nLearn more",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-dfw5-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQOsT5yBN0m0olC1sVydac9LQ8ixjsWdQ31pYS6S7-Zo2tT1V3VuYhQWljhSxYZHxMGb54b5VS1qhzUtJLcCTC_DnmYkA-J-I8Dt4VKZng.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-dfw5-3.xx.fbcdn.net&_nc_ohc=2BXcr1LDryYQ7kNvwFYVzXJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY1MzYzOTMyOTgyMTAxNywiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozNTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQR0V_cvYaKWWbC80CG0XJ4Q2alAtoxC2JsnStv5fPf7FQ&oe=6B013027",
+          "thumbnailUrl": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/900838485_1813085723069683_47062967619270135_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_u-WK1QqMSEQ7kNvwFgablp&_nc_oc=AdoFNgOh6U480yh5IcI16riWwd-lA6kWHWle1B1Oa0I0cgNTlDVv5Sx2c_xflyXV7pg&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQSYo6Gsrv34CRoX-seMIO0uFTYlCaL4vrseXRmt7zyunw&oe=6B0120EC"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-11-10T02:33:11.559Z",
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 12,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "Elle vendait des pommes de terre quand il s'est approché et lui a dit une chose qu'elle n'oubliera jamais.",
+      "euReach": 603,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (208)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 610
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-11-10",
+          "reachPerDay": 5
+        },
+        {
+          "date": "2026-11-11",
+          "reachPerDay": 125.5
+        },
+        {
+          "date": "2026-11-12",
+          "reachPerDay": 203.33333333333334
+        }
+      ]
+    },
+    "1140796888805846": {
+      "adId": "1140796888805846",
+      "startedRunningRaw": "Started running on Nov 14, 2026",
+      "startedRunningOn": "2026-11-14",
+      "text": "WWW.NURIA-SHOP.COM\nLe sérum qu'elles utilisent toutes...\nLearn more",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-dfw5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNvWIVUcRWKjpulyKCv5w2JMGABHtxV6eD4po0HhBgN1c3-z23xwfF2M0ah1H5DInrH65QSZ3P7NqrH6kPU9ibWRhlx7nbgwm_1nbJmhg.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-dfw5-1.xx.fbcdn.net&_nc_ohc=lldmdu7MPr8Q7kNvwHgZhgz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjkyNjE4MzU1NzM0NDQ0NTYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ7Mk0g2NT14lCwQ05emr1E31wNSOSQ4Et590H33DdJnw&oe=6B012035",
+          "thumbnailUrl": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/910420861_1773575457276836_1652910167190792863_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Y2dXCpSDmLAQ7kNvwGImiEk&_nc_oc=Adrd9yjHwkDHzFufZ1wt_cvj8XH6RFr-4WapU-UjC1MzDLXe-fwO4hKBIwV-Lxl6Mg4&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQRrpQqh3Gf4F2JlyfPl2Xd8kPkCu0jX55DiBfNWwusI2g&oe=6B0103F3"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-11-16T17:53:53.663Z",
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 1,
+      "notifiedAsWinner": false,
+      "angles": [],
+      "hook": "WWW.NURIA-SHOP.",
+      "euReach": 3543,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (1,355)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 3565
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-11-16",
+          "reachPerDay": 1782.5
+        }
+      ]
+    },
+    "2602779283561714": {
+      "adId": "2602779283561714",
+      "startedRunningRaw": "Started running on Nov 9, 2026",
+      "startedRunningOn": "2026-11-09",
+      "text": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?\nDécouvrez Nuria— une formule liquide à action rapide, étayée par la science, conçue pour favoriser le drainage lymphatique naturel et la vitalité de tout votre corps.\n💧 Aide à éliminer les toxines et les déchets accumulés\n💧 Favorise une bonne circulation sanguine et renforce le système immunitaire\n💧 Réduit les gonflements, la rétention d'eau et l'inflammation\n💧 Contribue à une peau plus nette, moins gonflée et à une sensation de légèreté\n\n✅ 4 plantes : gaillet, trèfle rouge, frêne épineux et stillingia\n✅ Sans alcool, sans OGM\n🍯 Goût de miel\n\n🌿 Plantes naturelles | Sans OGM\n\n💗 Une pipette par jour dans de l'eau… et laissez votre corps ressentir la différence\n👉 Cliquez sur « En savoir plus » et purifiez votre corps de l'intérieur ✨\nhttps://nuria-shop.com/products/drainage-lymphatique-nuria\nWWW.NURIA-SHOP.COM\n🌿 Ne blâmez pas votre mode de vie — commencez par rééquilibrer votre système lymphatique\nDécouvrez des rituels pensés pour sublimer votre éclat naturel, au quotidien.\nSee details",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/899925640_2738562083207972_4361762725525461197_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dTRGgxacoFEQ7kNvwHOSoBl&_nc_oc=Adre7wBfuSMXtItKsEYdZB9wWrgJtURwgJkYnf0boEj303UuFHQAAhRi4ho6NzeNTZ4&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQSKVLpDUYBo50L_EBWWeONwupPTBlfDKyc_uPw_9U9FGw&oe=6B010454"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-11-11T00:25:09.191Z",
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 11,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
+      "euReach": 628,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 35-44 in France (180)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 641
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-11-11",
+          "reachPerDay": 26
+        },
+        {
+          "date": "2026-11-12",
+          "reachPerDay": 135
+        },
+        {
+          "date": "2026-11-13",
+          "reachPerDay": 160.25
+        }
+      ]
+    },
     "1472690988118106": {
       "adId": "1472690988118106",
       "startedRunningRaw": "Started running on Nov 9, 2026",
@@ -1230,17 +1271,17 @@
       "media": [
         {
           "type": "video",
-          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPHtbuVhcpoqfhdmoDOEUjoSdx_VjxhD4MU3noDv1_T8if6t5JcYYDlbQAouPQwX8naJt6pR0MG5QQXRL77K-7bbhwdKInLsSptxl9-6g.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=akIZoXx8lQgQ7kNvwG42V3y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY4MjE2ODMyMzYwNTU4NywiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0MDQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRhqZ2OPZ5Mf1VOElBI51DzGgQRIglkdS5eRPyhHHCZpw&oe=6B00016A",
-          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/898650222_1467808088893942_1352861705447143846_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mvvIzDby908Q7kNvwEIf93Z&_nc_oc=AdrwmjfGn18ljbuLuqmlvK1JWTtdAYOkfhdhv8zZDVPlnN1u6NFSowHDP6L8To20U3I&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQRq5a2RVnOeWdMnm8o8Msq61kFHgLJwDHylrb2KhxywUA&oe=6B00287B"
+          "url": "https://video-dfw5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPHtbuVhcpoqfhdmoDOEUjoSdx_VjxhD4MU3noDv1_T8if6t5JcYYDlbQAouPQwX8naJt6pR0MG5QQXRL77K-7bbhwdKInLsSptxl9-6g.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-dfw5-2.xx.fbcdn.net&_nc_ohc=akIZoXx8lQgQ7kNvwHacY8D&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY4MjE2ODMyMzYwNTU4NywiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0MDQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRKvkXal0KuyQF0qOWF59wtdxHk6FLiABLooX_O-Sfkeg&oe=6B011AAA",
+          "thumbnailUrl": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/898650222_1467808088893942_1352861705447143846_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9h_5n7t0wU0Q7kNvwEE40-a&_nc_oc=AdrqcHQczZdv3QXrrbgCxuWMaZfR_pD5AZAQXbxKOSUpeYJGnLxuxg_xCSU0-8FRFIQ&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQRHPDd9hY-4MWqdafZfZnjkdNhG7kmkMSZNHvq6x4eDBg&oe=6B01097B"
         }
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
       "active": true,
       "firstSeenAt": "2026-11-11T00:25:09.191Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 10,
-      "notifiedAsWinner": false,
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 11,
+      "notifiedAsWinner": true,
       "angles": [],
       "hook": "« Vous n'avez pas 65 ans.",
       "euReach": 434,
@@ -1269,6 +1310,99 @@
         }
       ]
     },
+    "1582930186935215": {
+      "adId": "1582930186935215",
+      "startedRunningRaw": "Started running on Nov 9, 2026",
+      "startedRunningOn": "2026-11-09",
+      "text": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?\nDécouvrez Nuria— une formule liquide à action rapide, étayée par la science, conçue pour favoriser le drainage lymphatique naturel et la vitalité de tout votre corps.\n💧 Aide à éliminer les toxines et les déchets accumulés\n💧 Favorise une bonne circulation sanguine et renforce le système immunitaire\n💧 Réduit les gonflements, la rétention d'eau et l'inflammation\n💧 Contribue à une peau plus nette, moins gonflée et à une sensation de légèreté\n\n✅ À base d'ingrédients à base de plantes tels que la racine rouge, le gaillet gratteron et la bardane\n✅ Sans alcool, sans OGM\n🍯 Goût de miel\n\n🌿 Plantes naturelles | Testé par des laboratoires indépendants en France | Sans OGM\n\n💗 Quelques gouttes dans de l'eau suffisent, deux fois par jour… et laissez votre corps ressentir la différence\n👉 Cliquez sur « Acheter maintenant » et purifiez votre corps de l'intérieur ✨\nhttps://nuria-shop.com/products/drainage-lymphatique-nuria\nWWW.NURIA-SHOP.COM\n🌿 Ne blâmez pas votre mode de vie — commencez par rééquilibrer votre système lymphatique\nDécouvrez des rituels pensés pour sublimer votre éclat naturel, au quotidien.\nSee details",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/899614203_1782966799597964_3812367915067114691_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XGz0ShPwS5kQ7kNvwGP99VH&_nc_oc=AdoupZiRLDUFPBya3Oo51-AfC3Ye6OKmHlgNHzITTVUobeWtKEKTAa0xI4Wz8Y0meKU&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQSJc7lWlyp-mIbfPXfVSpv-Zn60iukN94E151xYZNnW8g&oe=6B012700"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-11-10T02:33:11.559Z",
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 12,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "Vous vous sentez constamment gonflée, enflammée, avec une rétention d'eau, fatiguée ou en manque d'énergie ?",
+      "euReach": 146,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 35-44 in France (47)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 146
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-11-10",
+          "reachPerDay": 4
+        },
+        {
+          "date": "2026-11-11",
+          "reachPerDay": 17
+        },
+        {
+          "date": "2026-11-12",
+          "reachPerDay": 48.666666666666664
+        }
+      ]
+    },
+    "1103047149228304": {
+      "adId": "1103047149228304",
+      "startedRunningRaw": "Started running on Nov 9, 2026",
+      "startedRunningOn": "2026-11-09",
+      "text": "« Bonjour. Je voudrais retirer 14 000 euros. En espèces. »\n« Bien sûr. Votre pièce d'identité, s'il vous plaît ? »...\n0:00 / 5:56\nWWW.NURIA-SHOP.COM\nLe sérum qu'elles utilisent toutes...\nLearn more",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video-dfw6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMPxdWx88tQpnFeNDqptYNRNhX6VBMR09bzflkh6QAHcoACb9XCjCbl64E7svPAijmZY-wIK_jxYSRUoBMeqGVX2muN3FPGsrANDPLE9Q.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-dfw6-1.xx.fbcdn.net&_nc_ohc=hpLsD4eznrwQ7kNvwE-X6h_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTY1NzI0NjUyOTIzNTM2LCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjM1NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTjA_IhqE7QHTspr1o8bX74LWzsfSdmxuWpBDmkwUW1-w&oe=6B011819",
+          "thumbnailUrl": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/897569389_2104945386792687_197299110497121673_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eci-kt2rfG4Q7kNvwHQrUj7&_nc_oc=Ado2X519hcegs41nspzJ7Aibb-VZ7__Pq3xcvzlmhycITzULoLjQxuVgN_5SX5TzPhE&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=qKtG4CZpq9M5WGbDwNzr2w&_nc_ss=7f289&oh=00_AQQ_7wlRE435sgj7jC_OWjzKoStflWWiMxBZuaCNqEzPoQ&oe=6B00FB22"
+        }
+      ],
+      "pageName": "Nuria",
+      "adLibraryUrl": null,
+      "active": true,
+      "firstSeenAt": "2026-11-10T02:33:11.559Z",
+      "lastSeenAt": "2026-11-16T17:53:53.663Z",
+      "seenCount": 5,
+      "notifiedAsWinner": true,
+      "angles": [],
+      "hook": "« Bonjour. Je voudrais retirer 14 000 euros.",
+      "euReach": 67,
+      "euCountries": [
+        "France"
+      ],
+      "euTopSegment": "Female 55-64 in France (24)",
+      "euTopCountries": [
+        {
+          "country": "France",
+          "reach": 67
+        }
+      ],
+      "reachHistory": [
+        {
+          "date": "2026-11-10",
+          "reachPerDay": 1
+        },
+        {
+          "date": "2026-11-11",
+          "reachPerDay": 18.5
+        },
+        {
+          "date": "2026-11-12",
+          "reachPerDay": 22.333333333333332
+        }
+      ]
+    },
     "1112600454715878": {
       "adId": "1112600454715878",
       "startedRunningRaw": "Started running on Nov 9, 2026",
@@ -1282,7 +1416,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-11-11T00:25:09.191Z",
       "lastSeenAt": "2026-11-15T23:44:49.286Z",
       "seenCount": 10,
@@ -1315,45 +1449,6 @@
         }
       ]
     },
-    "1122510660364379": {
-      "adId": "1122510660364379",
-      "startedRunningRaw": "Started running on Nov 12, 2026",
-      "startedRunningOn": "2026-11-12",
-      "text": "« Chérie, je vais à la salle, je rentre plus tard. »\n« D'accord, chéri. Dis bonjour à Julie. »...\n0:00 / 5:53\nWWW.NURIA-SHOP.COM\nLe sérum qu'elles utilisent toutes...\nLearn more",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQP-z3fBYl0LduM35dKffbnYyL7CFmrdzuAVzsGib7rtxXKW1Qpng4HIKCjUflT5mcDPuwTggES2Lj4Gq4hSMqJPDDWerw4d6iLnfuq96g.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=ZuwERhhn_N0Q7kNvwFCDuwR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTgzODg2NDUxNzI0OTgyNSwiYXNzZXRfYWdlX2RheXMiOjMsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozNTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRGjcpwlOCK372rljD75SIvyQi_U3YvexGwiTBTXusdIg&oe=6B00048B",
-          "thumbnailUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/902350566_1439642161480094_882242577098121057_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HQrn397egUYQ7kNvwHFBRb8&_nc_oc=AdrSjBgB8pUFO1PxRQtEVPwG08975yCieacUCLVciSKjpj8yu-evwrkWFYe_PsyK5AU&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=d7fCrewGNeWnYbTT1KhR3Q&_nc_ss=7f289&oh=00_AQTpXAg-M8UTL5eCkNBx--CO_Wyx29p9sZQfqFhMgK7wOQ&oe=6B0026DD"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": true,
-      "firstSeenAt": "2026-11-15T23:44:49.286Z",
-      "lastSeenAt": "2026-11-15T23:44:49.286Z",
-      "seenCount": 1,
-      "notifiedAsWinner": false,
-      "angles": [],
-      "hook": "« Chérie, je vais à la salle, je rentre plus tard.",
-      "euReach": 21364,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 65+ in France (7,605)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 21428
-        }
-      ],
-      "reachHistory": [
-        {
-          "date": "2026-11-15",
-          "reachPerDay": 7142.666666666667
-        }
-      ]
-    },
     "1832979631226438": {
       "adId": "1832979631226438",
       "startedRunningRaw": "Started running on Nov 12, 2026",
@@ -1368,7 +1463,7 @@
       ],
       "pageName": "Nuria",
       "adLibraryUrl": null,
-      "active": true,
+      "active": false,
       "firstSeenAt": "2026-11-15T23:44:49.286Z",
       "lastSeenAt": "2026-11-15T23:44:49.286Z",
       "seenCount": 1,
@@ -1563,53 +1658,6 @@
         {
           "date": "2026-11-13",
           "reachPerDay": 242
-        }
-      ]
-    },
-    "1103047149228304": {
-      "adId": "1103047149228304",
-      "startedRunningRaw": "Started running on Nov 9, 2026",
-      "startedRunningOn": "2026-11-09",
-      "text": "« Bonjour. Je voudrais retirer 14 000 euros. En espèces. »\n« Bien sûr. Votre pièce d'identité, s'il vous plaît ? »...\n0:00 / 5:56\nWWW.NURIA-SHOP.COM\nLe sérum qu'elles utilisent toutes...\nLearn more",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMPxdWx88tQpnFeNDqptYNRNhX6VBMR09bzflkh6QAHcoACb9XCjCbl64E7svPAijmZY-wIK_jxYSRUoBMeqGVX2muN3FPGsrANDPLE9Q.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=Mf4z74JyvUQQ7kNvwFt3yOt&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTY1NzI0NjUyOTIzNTM2LCJhc3NldF9hZ2VfZGF5cyI6MywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjM1NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=_yqZQAoDUfEszxnYivEmcg&_nc_ss=7f289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTR1yKOh-_LVU2WLrrF6wJn5QDtC3Zmb4jANUPY-xw8fg&oe=6AFCEB59",
-          "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/897569389_2104945386792687_197299110497121673_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jag_fvSCeTgQ7kNvwGnsvgy&_nc_oc=AdrG7Y8dikV2t-jWLhmhT8sUD5aBlIAOh8_vaOamotqhsG0pKwDNOEZs1zEF3h6ro1k&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=_yqZQAoDUfEszxnYivEmcg&_nc_ss=7f289&oh=00_AQRYrQxbzmhGVd57lSfQLpHBB8M7U6oOd02a7OMSMfveeQ&oe=6AFD06A2"
-        }
-      ],
-      "pageName": "Nuria",
-      "adLibraryUrl": null,
-      "active": false,
-      "firstSeenAt": "2026-11-10T02:33:11.559Z",
-      "lastSeenAt": "2026-11-13T15:55:08.891Z",
-      "seenCount": 4,
-      "notifiedAsWinner": false,
-      "angles": [],
-      "hook": "« Bonjour. Je voudrais retirer 14 000 euros.",
-      "euReach": 67,
-      "euCountries": [
-        "France"
-      ],
-      "euTopSegment": "Female 55-64 in France (24)",
-      "euTopCountries": [
-        {
-          "country": "France",
-          "reach": 67
-        }
-      ],
-      "reachHistory": [
-        {
-          "date": "2026-11-10",
-          "reachPerDay": 1
-        },
-        {
-          "date": "2026-11-11",
-          "reachPerDay": 18.5
-        },
-        {
-          "date": "2026-11-12",
-          "reachPerDay": 22.333333333333332
         }
       ]
     },
